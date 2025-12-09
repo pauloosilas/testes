@@ -1,0 +1,6221 @@
+// Banco de questões
+const questions = {  
+
+ "CrimesContraPessoa":[
+  {
+    "question": "Quanto à temática dos crimes contra a pessoa, é correto afirmar que",
+    "options": [
+      "todo homicídio contra a mulher passou a ser denominado feminicídio, em virtude de alteração do Código Penal promovida pela Lei nº 13.104, de 9 de março de 2015.",
+      "o homicídio será qualificado, quando praticado contra algum parente de até o quarto grau do policial militar, em razão de seu parentesco com a mencionada autoridade de polícia ostensiva.",
+      "a pena do feminicídio é aumentada, se o crime for praticado contra pessoa menor de 18 (dezoito) anos, maior de 65 (sessenta e cinco) anos ou com deficiência.",
+      "não tipifica o crime de tráfico de pessoas a conduta de acolher alguém, mediante fraude, com a finalidade de remover-lhe órgãos, tecidos ou partes do corpo.",
+      "a conduta de alojar alguém, mediante abuso, com a finalidade de adoção ilegal, configura o crime de tráfico de pessoas."
+    ],
+    "correct": 4,
+    "explanation": "A) ERRADA: Para ser feminicídio (Art. 121, §2º, VI do CP), o homicídio contra a mulher deve ser cometido por **razões da condição de sexo feminino** (Art. 121, §2º-A do CP: violência doméstica/familiar ou menosprezo/discriminação à condição de mulher). B) ERRADA: A qualificadora (Art. 121, §2º, VII do CP) aplica-se contra o cônjuge, companheiro ou parente consanguíneo até o **terceiro grau** do agente de segurança pública, e não até o quarto grau. C) ERRADA: A causa de aumento de pena no feminicídio (Art. 121, §7º, III do CP) aplica-se se o crime for praticado contra pessoa **menor de 14 anos** (e não 18), **maior de 60 (sessenta) anos** (e não 65) ou com deficiência/doenças degenerativas. D) ERRADA: Acolher alguém mediante fraude, com a finalidade de remover-lhe órgãos, tecidos ou partes do corpo, configura expressamente o crime de **Tráfico de Pessoas** (Art. 149-A, I do CP). E) **CORRETA:** O Art. 149-A, IV do CP define o crime de Tráfico de Pessoas, em seu núcleo de 'alojar' ou 'acolher' pessoa, mediante violência, coação, fraude ou **abuso**, com a finalidade de **adoção ilegal**."
+  },
+  {
+    "question": "Quanto aos crimes contra a vida, assinale a alternativa correta.",
+    "options": [
+      "Suponha que “A” seja instigado a suicidar-se e decida pular da janela do prédio em que reside. Ao dar cabo do plano suicida, “A” não morre e apenas sofre lesão corporal de natureza leve. Pode-se afirmar que o instigador deverá responder pelo crime de tentativa de instigação ao suicídio, previsto no art. 122 do Código Penal.",
+      "Considera-se qualificado o homicídio praticado contra pessoa menor de 14 anos ou maior de 60 anos.",
+      "O Código Penal permite o aborto praticado pela própria gestante quando existir risco de morte e não houver outro meio de se salvar.",
+      "O feminicídio é espécie de homicídio qualificado e resta configurado quando a morte da mulher se dá em razão da condição do sexo feminino. Se o crime for presenciado por descendente da vítima, incidirá ainda causa de aumento de pena.",
+      "O aborto provocado pela gestante, figura prevista no art. 124 do Código Penal, cuja pena é de detenção de 1 (um) a 3 (três) anos, admite coautoria."
+    ],
+    "correct": 3,
+    "explanation": "A) ERRADA: O crime de Instigação ao Suicídio (Art. 122 do CP) é classificado como crime formal ou de consumação antecipada, bastando o resultado lesão grave/gravíssima ou morte. Como a vítima sofreu apenas lesão leve, o instigador era impunível pela redação antiga e, pela redação atual, se considera o crime consumado com a lesão grave ou gravíssima. Não houve sequer lesão grave. B) ERRADA: Ser vítima **menor de 14 anos** é, a princípio, uma qualificadora (Art. 121, §2º, IX do CP). Contudo, ser vítima **maior de 60 anos** é sempre uma **majorante** (causa de aumento de pena de 1/3) no homicídio doloso, não uma qualificadora (Art. 121, §4º do CP). C) ERRADA: O aborto necessário (risco de morte) é permitido (não punível) pelo Art. 128, I do CP, mas somente se for praticado **por médico** e não pela própria gestante. D) **CORRETA:** O feminicídio (Art. 121, §2º, VI do CP) é uma espécie de homicídio qualificado, que exige que a morte da mulher se dê por **razões da condição de sexo feminino**. Se o crime for praticado na presença física ou virtual de descendente ou ascendente da vítima, incidirá causa de **aumento de pena de 1/3 até a metade** (Art. 121, §7º, III do CP). E) ERRADA: O crime de **autoaborto** (Art. 124 do CP) é de mão própria (ou de conduta vinculada), o que torna **incabível a coautoria**, embora se admita a participação (o terceiro que auxilia)."
+  },
+  {
+    "question": "Diz o parágrafo 5º do artigo 121 do Código Penal Brasileiro, que: “na hipótese de homicídio culposo, o juiz poderá deixar de aplicar a pena, se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária”. Trata-se de",
+    "options": [
+      "graça.",
+      "perdão judicial.",
+      "anistia.",
+      "indulto."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 121, §5º do CP descreve o instituto do **perdão judicial**, que é a faculdade concedida ao Juiz para deixar de aplicar a pena quando o agente já foi suficientemente castigado pelas consequências do próprio crime. Essa concessão é uma das causas extintivas da punibilidade (Art. 107, IX do CP)."
+  },
+  {
+    "question": "Se da lesão corporal dolosa resulta morte e as circunstâncias evidenciam que o agente não quis o resultado morte, nem assumiu o risco de produzi-lo, configura(m)-se",
+    "options": [
+      "lesão culposa e homicídio culposo, cujas penas serão aplicadas cumulativamente.",
+      "lesão corporal seguida de morte.",
+      "homicídio culposo qualificado pela lesão.",
+      "homicídio doloso (dolo eventual).",
+      "homicídio doloso (dolo indireto)."
+    ],
+    "correct": 1,
+    "explanation": "O crime em questão é um delito **pretedoloso** (ou crime qualificado pelo resultado). Há **dolo na conduta antecedente** (lesão corporal) e **culpa no resultado consequente** (morte), sendo que este resultado agravador está fora da intenção ou da previsibilidade (nem quis o resultado morte, nem assumiu o risco). A figura penal correspondente é a **lesão corporal seguida de morte** (Art. 129, §3º do CP)."
+  },
+  {
+    "question": "O indivíduo “B”, com intenção de matar a pessoa “D”, efetua dez disparos de arma de fogo em direção a um veículo que se encontra estacionado na via pública por imaginar que dentro desse veículo encontrava-se a pessoa “D”, contudo, não havia nenhuma pessoa no interior do veículo. Com relação à conduta praticada por “B”, é correto afirmar que",
+    "options": [
+      "o indivíduo “B” poderá ser punido pelo crime de homicídio tentado, por analogia ao crime de homicídio em vista de sua intenção.",
+      "o indivíduo “B” não poderá ser punido pelo crime de homicídio.",
+      "o indivíduo “B” poderá ser punido pelo crime de homicídio consumado, em virtude da interpretação extensiva do crime de homicídio.",
+      "o indivíduo “B” poderá ser punido pelo crime de homicídio consumado, por analogia ao crime de homicídio em vista de sua intenção.",
+      "o indivíduo “B” poderá ser punido pelo crime de homicídio tentado, em virtude da interpretação extensiva do crime de homicídio em vista de sua intenção."
+    ],
+    "correct": 1,
+    "explanation": "A conduta praticada por 'B' configura **crime impossível** (ou tentativa inidônea), conforme o Art. 17 do CP: 'Não se pune a tentativa quando, por ineficácia absoluta do meio ou por **absoluta impropriedade do objeto**, é impossível consumar-se o crime.' Como o veículo estava vazio, não havia o objeto material (pessoa) sobre o qual o crime de homicídio pudesse recair, tornando a consumação impossível. A conduta do agente é, portanto, **impunível**."
+  },
+  {
+    "question": "O indivíduo “B” descobre que a companhia aérea “X” é a que esteve envolvida no maior número de acidentes aéreos nos últimos anos. O indivíduo “B” então compra, regularmente, uma passagem aérea desta companhia e presenteia seu pai com esta passagem, pois tem interesse que ele morra para receber sua herança. O pai recebe a passagem e durante o respectivo vôo ocorre um acidente aéreo que ocasiona sua morte. Diante dessas circunstâncias, é correto afirmar que",
+    "options": [
+      "o indivíduo “B” será responsabilizado pelo crime de homicídio culposo se for demonstrado que o piloto do avião em que seu pai se encontrava agiu com culpa no acidente que o vitimou",
+      "o indivíduo “B” será responsabilizado pelo crime de homicídio doloso se for demonstrado que o piloto do avião em que seu pai se encontrava agiu com culpa no acidente que o vitimou.",
+      "o indivíduo “B” será responsabilizado pelo crime de homicídio culposo, tendo em vista que sem a sua ação o resultado não teria ocorrido",
+      "o indivíduo “B” não praticou e não poderá ser responsabilizado pelo crime de homicídio.",
+      "o indivíduo “B” será responsabilizado pelo crime de homicídio doloso, tendo em vista que sem a sua ação o resultado não teria ocorrido."
+    ],
+    "correct": 3,
+    "explanation": "A conduta de 'B' de comprar a passagem, embora movida por dolo (intenção de matar), **não estabelece o nexo de causalidade** exigido pelo Art. 13 do CP ('O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa'). O acidente aéreo (fator superveniente) foi a causa efetiva da morte, e não a compra da passagem. A conduta de 'B' (comprar a passagem e 'torcer' pelo acidente) é um ato meramente preparatório, inidôneo e sem ingerência direta sobre a execução do crime, configurando, no máximo, **atos preparatórios impuníveis**. Portanto, 'B' não praticou crime de homicídio."
+  },
+  {
+    "question": "É um resultado que caracteriza o crime de lesão corporal de natureza grave, cuja pena é de reclusão de um a cinco anos:",
+    "options": [
+      "incapacidade para as ocupações habituais, por mais de dez dias.",
+      "incapacidade para as ocupações habituais, por mais de vinte dias.",
+      "debilidade temporária de membro, sentido ou função",
+      "incapacidade para as ocupações habituais, por mais de quinze dias.",
+      "aceleração de parto."
+    ],
+    "correct": 4,
+    "explanation": "Lesão corporal de natureza grave (Art. 129, §1º do CP) é caracterizada por: I - Incapacidade para as ocupações habituais, por **mais de trinta dias**; II - Perigo de vida; III - Debilidade **permanente** de membro, sentido ou função; IV - **Aceleração de parto**. Dentre as opções, apenas a 'aceleração de parto' se enquadra na definição legal de lesão corporal de natureza grave (Art. 129, §1º, IV do CP)."
+  },
+  {
+    "question": "O indivíduo B, com a finalidade de comemorar a vitória de seu time de futebol, passou a disparar “fogos de artifício” de sua residência, que se situa ao lado de um edifício residencial. Ao ser alertado por um de seus amigos sobre o risco de que as explosões poderiam atingir as residências do edifício e que havia algumas janelas abertas, B respondeu que não havia problema porque naquele prédio só moravam torcedores do time rival. Um dos dispositivos disparados explodiu dentro de uma das residências desse edifício e feriu uma criança de 5 anos de idade que ali se encontrava. Com relação à conduta do indivíduo B, é correto afirmar que",
+    "options": [
+      "o indivíduo B poderá ser responsabilizado pelo crime de lesão corporal culposa, em virtude de ter agido com negligência.",
+      "o indivíduo B poderá ser responsabilizado pelo crime de lesão corporal culposa, em virtude de ter agido com imperícia.",
+      "o indivíduo B poderá ser responsabilizado pelo crime de lesão corporal dolosa.",
+      "o indivíduo B poderá ser responsabilizado pelo crime de lesão corporal culposa, em virtude de ter agido com imprudência.",
+      "o indivíduo B não poderá ser responsabilizado pelo crime de lesão corporal, tendo em vista que o pai da criança lesionada percebeu que as explosões estavam ocorrendo próximo às janelas e não as fechou."
+    ],
+    "correct": 2,
+    "explanation": "O indivíduo 'B' foi alertado sobre o risco e, ao responder que não havia problema por se tratarem de torcedores rivais, demonstrou que, embora não quisesse diretamente o resultado (ferir a criança), **assumiu o risco de produzi-lo**. Esta conduta configura o **dolo eventual**, que é equiparado ao dolo direto no Art. 18, I do CP. Portanto, 'B' deve responder pelo crime de **lesão corporal dolosa** (Art. 129 do CP)."
+  },
+  {
+    "question": "Assinale a alternativa que traz as duas hipóteses de aborto legal, praticado por médico, expressamente previstas no art. 128 do CP.",
+    "options": [
+      "Se o feto sofre de doença incurável, sendo praticado com o consentimento da gestante; se há má-formação fetal que inviabilize a vida extrauterina.",
+      "Se há má-formação fetal que inviabilize a vida extrauterina; se não há outro meio de salvar a vida da gestante.",
+      "Se não há outro meio de salvar a vida da gestante; se praticado com o consentimento dela, tendo sido a gravidez resultada de estupro.",
+      "Se o feto sofre de doença incurável, sendo praticado com o consentimento da gestante; se praticado com o consentimento da gestante, tendo sido a gravidez resultada de estupro.",
+      "Se a gestante é menor de idade, sendo o procedimento autorizado pelos responsáveis; se praticado com o consentimento da gestante, tendo sido a gravidez resultada de estupro."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 128 do Código Penal estabelece duas hipóteses de aborto legal (não punível), desde que praticado por médico: I - **Aborto necessário**: 'se não há outro meio de salvar a vida da gestante' (necessidade). II - **Aborto humanitário ou sentimental**: 'se a gravidez resulta de estupro e o aborto é precedido de consentimento da gestante' (ou representante legal, se incapaz). A alternativa C traz as duas hipóteses expressas na lei. O aborto de feto anencefálico, embora permitido por decisão do STF (ADPF 54), não está expressamente previsto no texto do Código Penal."
+  },
+  {
+    "question": "Medusa, sob a influência do estado puerperal, veio a matar o seu próprio filho recém-nascido, logo após o parto. Segundo o que estabelece o Código Penal em relação a essa conduta, é correto afirmar que Medusa",
+    "options": [
+      "cometeu o crime de infanticídio, mas ficará livre da pena em razão de ter agido sob a influência do estado puerperal.",
+      "cometeu o crime de homicídio, mas ficará livre da pena por ter agido sob a influência do estado puerperal.",
+      "cometeu o crime de homicídio.",
+      "cometeu o crime de homicídio, mas terá sua pena reduzida por ter agido sob a influência do estado puerperal.",
+      "cometeu o crime de infanticídio."
+    ],
+    "correct": 4,
+    "explanation": "A conduta de 'matar, **sob a influência do estado puerperal**, o próprio filho, **durante o parto ou logo após**' é a definição exata do crime de **infanticídio** (Art. 123 do CP). Este crime tem pena de detenção, de dois a seis anos, e não há isenção ou redução de pena com base apenas no estado puerperal (a influência do estado puerperal é uma elementar do crime privilegiado, já com pena reduzida, se comparado ao homicídio simples)."
+  },
+  {
+    "question": "“X” recebe recomendação médica para ficar de repouso, caso contrário, poderia sofrer um aborto. Ocorre que “X” precisa trabalhar e não consegue fazer o repouso desejado e, por essa razão, acaba expelindo o feto, que não sobrevive. Em tese, “X”",
+    "options": [
+      "não praticou crime algum.",
+      "praticou o crime de aborto doloso.",
+      "praticou o crime de aborto culposo.",
+      "praticou o crime de lesão corporal qualificada pela aceleração do parto.",
+      "praticou o crime de desobediência."
+    ],
+    "correct": 0,
+    "explanation": "O aborto (autoaborto, Art. 124 do CP) só é punível se praticado com **dolo** (intenção de abortar). No caso, 'X' não teve a intenção de provocar o aborto. Embora soubesse do risco, ela não o assumiu como um resultado indiferente (dolo eventual), mas sim acreditou que conseguiria evitar o resultado, agindo com **culpa consciente** (previsão, mas sem aceitação do risco). O Código Penal **não pune o aborto culposo** (ausência de previsão legal). Portanto, 'X' não praticou crime algum de aborto."
+  },
+  {
+    "question": "Considere que João e José se agrediram mutuamente e que as lesões recíprocas não são graves. Nesta hipótese, o art. 129, § 5.º do CP prescreve que ambos podem:",
+    "options": [
+      "ser beneficiados com a exclusão da ilicitude",
+      "ser beneficiados com o perdão judicial.",
+      "ter as penas de reclusão substituídas por prisão simples.",
+      "ser beneficiados com a exclusão da culpabilidade.",
+      "ter as penas de detenção substituídas por multa."
+    ],
+    "correct": 4,
+    "explanation": "O Art. 129, §5º do CP trata da lesão corporal recíproca (mútuas). Prescreve que, na lesão corporal de natureza leve, o juiz pode: I - Conceder o perdão judicial (se as lesões forem leves e a provocação for injusta do ofendido); II - **Substituir a pena de detenção pela de multa** (se as lesões são recíprocas e não são graves). A alternativa E reflete exatamente a segunda faculdade concedida ao Juiz (Art. 129, §5º, II do CP)."
+  },
+  {
+    "question": "A questão refere-se às normas do Código Penal. É correto afirmar que o aborto praticado por médico",
+    "options": [
+      "não é punível, ainda que haja outro meio de salvar a vida da gestante.",
+      "não é punível, se não houver outro meio de salvar a vida da gestante.",
+      "não é punível em hipótese alguma.",
+      "é punível, se a gravidez resulta de estupro e o aborto é precedido de consentimento da gestante ou, quando incapaz, de seu representante legal.",
+      "não é punível, se a gravidez resulta de estupro e o aborto não é precedido de consentimento da gestante ou, quando incapaz, de seu representante legal."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 128 do CP estabelece as hipóteses em que o aborto praticado por médico **não é punível**. A primeira hipótese é o **Aborto Necessário** (Art. 128, I): 'se não há outro meio de salvar a vida da gestante'. A alternativa B é a exata previsão legal. As demais alternativas estão incorretas, pois a permissão para aborto resultante de estupro exige o consentimento (Art. 128, II)."
+  },
+  {
+    "question": "Em relação aos crimes contra a vida, é correto afirmar que",
+    "options": [
+      "a genitora que mata o neonato, sob o estado puerperal e logo após o parto, responderá por homicídio duplamente qualificado pelo recurso que dificultou a defesa da vítima e por meio insidioso.",
+      "para configuração do homicídio privilegiado, previsto no art. 121, § 1º, do Código Penal, basta que o agente cometa o crime sob o domínio de violenta emoção.",
+      "nas lesões culposas verificadas entre os mesmos agentes, é possível aplicar a compensação de culpas.",
+      "o feminicídio, previsto no art. 121, § 2º , inciso VI, do Código Penal, exige que o crime seja praticado contra a mulher por razões da condição de sexo feminino envolvendo violência doméstica ou familiar ou menosprezo ou discriminação à condição de mulher.",
+      "o agente que pratica autolesão responderá pelo crime de lesões corporais com atenuação da pena de 1/3 a 2/3, a depender da natureza da lesão."
+    ],
+    "correct": 3,
+    "explanation": "A) ERRADA: A genitora que mata o filho nessas condições comete o crime de **infanticídio** (Art. 123 do CP), e não homicídio qualificado. B) ERRADA: Para o homicídio privilegiado com violenta emoção (Art. 121, §1º do CP) é necessário: o **domínio** da violenta emoção e que seja **logo após injusta provocação da vítima**. Não basta apenas o domínio. C) ERRADA: No Direito Penal brasileiro **não se admite compensação de culpas**. Cada agente responderá pela lesão corporal culposa que causou. D) **CORRETA:** O feminicídio é a qualificadora do homicídio que exige que o crime seja cometido 'por **razões da condição de sexo feminino**' (Art. 121, §2º, VI). O Art. 121, §2º-A define que há razões da condição de sexo feminino quando o crime envolve **violência doméstica e familiar** ou **menosprezo ou discriminação à condição de mulher**. E) ERRADA: A **autolesão** (lesionar a si mesmo) é um fato **atípico**, não constituindo crime, pois não lesa bem jurídico alheio."
+  },
+  {
+    "question": "Assinale a alternativa correta no que diz respeito aos crimes contra a vida previstos no Código Penal",
+    "options": [
+      "No crime de homicídio, a prática deste mediante paga ou promessa de recompensa, ou por outro motivo torpe são circunstâncias que, apesar de não qualificar o crime, caracterizam-se como causas de aumento de pena",
+      "No crime de induzimento, instigação ou auxílio a suicídio, a prática da conduta criminosa por motivo egoístico é circunstância que qualifica o crime.",
+      "Não se pune o aborto praticado por médico se não há outro meio de salvar a vida da gestante.",
+      "O crime de aborto provocado pela gestante ou com seu consentimento equipara-se e possui a mesma pena que o aborto provocado por terceiro.",
+      "No crime de homicídio simples, se o agente comete o crime impelido por motivo de relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz deve conceder o perdão judicial."
+    ],
+    "correct": 2,
+    "explanation": "A) ERRADA: Matar mediante paga ou motivo torpe é circunstância que **qualifica o crime** (Art. 121, §2º, I do CP), e não causa de aumento de pena. B) ERRADA: A prática da conduta por motivo egoístico é causa de **aumento de pena** (pena duplicada, Art. 122, §3º, I do CP) e **não qualificadora**. C) **CORRETA:** Esta é a exata previsão do **Aborto Necessário** (Art. 128, I do CP). D) ERRADA: O autoaborto (Art. 124) tem pena de detenção de 1 a 3 anos. O aborto provocado por terceiro tem pena de reclusão de 1 a 4 anos (se consentido, Art. 126) ou reclusão de 3 a 10 anos (se sem consentimento, Art. 125). As penas são diferentes. E) ERRADA: A conduta descrita configura **homicídio privilegiado** (Art. 121, §1º do CP), que é uma **causa de diminuição de pena** (redução de 1/6 a 1/3), e não perdão judicial (que é outra figura jurídica, concedida apenas no homicídio culposo, Art. 121, §5º)."
+  },
+  {
+    "question": "A respeito da retratação nos crimes contra a honra, pode-se afirmar que fica isento de pena o querelado que, antes da sentença, retrata-se cabalmente",
+    "options": [
+      "da calúnia ou difamação.",
+      "da calúnia, injúria ou difamação.",
+      "da injúria ou difamação.",
+      "da calúnia ou injúria."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 143 do Código Penal estabelece que a retratação é uma causa de extinção da punibilidade (isenção de pena), mas restrita aos crimes de **calúnia ou difamação**. A retratação não é admitida no crime de injúria."
+  }  
+  ,{
+    "question": "Mário, ao chegar em casa, deparou-se com uma tragédia. Seu filho, André, um jovem de 20 anos, manuseava, sem o cuidado devido, uma arma de fogo pertencente a seu pai, quando esta acidentalmente disparou e o projétil veio a atingir uma funcionária da casa. Sabendo que o disparo fora acidental, mas temendo pelas consequências do lamentável episódio para a vida de seu filho, optou Mário por não procurar as autoridades policiais. Ao contrário, ao anoitecer, transportou o corpo para um terreno baldio existente no seu bairro e ali o deixou. Ocorre que a funcionária em questão, na verdade, estava apenas ferida e acabou sendo encontrada e levada para o hospital. Sobre as condutas de Mário e André, é correto afirmar que:",
+    "options": [
+      "Mário deve ser punido pelo crime de ocultação de cadáver e André pelo de lesão corporal culposa.",
+      "Mário deve ser punido pelo crime de ocultação de cadáver e André pelo de homicídio na forma tentada.",
+      "Mário deve ser punido pelo crime de ocultação de cadáver, na forma tentada, e André pelo de lesão corporal, também na forma tentada.",
+      "Mário deve ser punido pelo crime de ocultação de cadáver, e André deve ser punido pelo de homicídio, também na forma tentada.",
+      "Mário não deve ser punido pela prática de crime e André deve ser punido pela prática do crime de lesão corporal culposa."
+    ],
+    "correct": 4,
+    "explanation": "No caso em tela, temos crime impossível no que se refere à ocultação de cadáver (por parte de Mário), uma vez que não havia cadáver (a vítima estava viva, embora ferida). Crime impossível (Art. 17 do CP) é quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime. De forma que não há qualquer imputação de crime a Mário. Com relação a André, como o disparo foi acidental e não houve o resultado morte, este responderá por **lesão corporal culposa**, nos termos do art. 129, §6º do CP."
+  },
+  {
+    "question": "Cacau, de 20 anos, moça pacata residente em uma pequena fazenda no interior do Mato Grosso, mantém um relacionamento amoroso secreto com Noel, filho de um dos empregados de seu pai. Em razão da relação, fica grávida, mas mantém a situação em segredo pelo temor que tinha de seu pai. Após o nascimento de um bebê do sexo masculino, Cacau, sem que ninguém soubesse, em estado puerperal, para ocultar sua desonra, leva a criança para local diverso do parto e a deixa embaixo de uma árvore no meio da fazenda vizinha, sem prestar assistência devida, para que alguém encontrasse e acreditasse que aquele recém-nascido fora deixado por desconhecido. Apesar de a fazenda vizinha ser habitada, ninguém encontra a criança nas 06 horas seguintes, vindo o bebê a falecer. A perícia confirmou que, apesar do estado puerperal, Cacau era imputável no momento dos fatos. Considerando a situação narrada, é correto afirmar que Cacau deverá ser responsabilizada pelo crime de",
+    "options": [
+      "abandono de incapaz qualificado.",
+      "homicídio doloso.",
+      "infanticídio.",
+      "exposição ou abandono de recém-nascido qualificado."
+    ],
+    "correct": 3,
+    "explanation": "No caso em tela restou configurado o delito de **exposição ou abandono de recém-nascido**, na sua forma qualificada, eis que ocorreu a morte da criança. O tipo penal é o Art. 134, §2º do CP: Exposição ou abandono de recém-nascido Art. 134 - Expor ou abandonar recém-nascido, para ocultar desonra própria: Pena - detenção, de seis meses a dois anos. (...) § 2º - Se resulta a morte: Pena - detenção, de dois a seis anos. Não há que se falar em infanticídio (Art. 123), pois para que o infanticídio fique caracterizado é necessário que a mãe, **dolosamente** e sob a influência do estado puerperal, tire a vida do próprio filho. No caso, a morte foi um resultado **não querido** pelo agente (culposo – preterdolo), mas que decorreu de sua conduta dolosa anterior (abandono de recém-nascido para ocultar desonra)."
+  },
+  {
+    "question": "Jean, valendo-se de sua conta no Twitter, publicou declaração de natureza discriminatória em relação aos homossexuais, de forma genérica. Tal ação configura:",
+    "options": [
+      "conduta atípica;",
+      "crime de injúria;",
+      "crime de injúria racial;",
+      "crime de preconceito de raça, cor, etnia ou religião;",
+      "crime de manifestação de ódio."
+    ],
+    "correct": 0,
+    "explanation": "A conduta de Jean não se amolda a nenhum tipo penal específico. Os delitos de injúria e injúria racial pressupõem a ofensa direta a uma pessoa (ou a um número determinado de pessoas), o que não ocorreu, pois a ofensa foi genérica. Os crimes de preconceito de raça, cor, etnia e religião (Lei nº 7.716/89) pressupõem a prática de algum ato de discriminação, no sentido de privar a vítima de algum direito (acesso a determinado estabelecimento, emprego, etc.). Não há, ainda, o delito de 'manifestação de ódio' no Direito brasileiro. Diante da descrição, a conduta é considerada **atípica**."
+  },
+  {
+    "question": "Ana Maria, aluna de uma Universidade Federal, afirma que José, professor concursado da instituição, trai a esposa todo dia com uma gerente bancária. A respeito do fato acima, é correto afirmar que Ana Maria praticou o crime de",
+    "options": [
+      "calúnia, pois atribuiu a José o crime de adultério, sendo cabível, entretanto, a oposição de exceção da verdade com o fim de demonstrar a veracidade da afirmação.",
+      "difamação, pois atribuiu a José fato desabonador que não constitui crime, sendo cabível, entretanto, a oposição de exceção da verdade com o fim de demonstrar a veracidade da afirmação, uma vez que José é funcionário público.",
+      "calúnia, pois atribuiu a José o crime de adultério, não sendo cabível, na hipótese, a oposição de exceção da verdade.",
+      "difamação, pois atribuiu a José fato desabonador que não constitui crime, não sendo cabível, na hipótese, a oposição de exceção da verdade."
+    ],
+    "correct": 3,
+    "explanation": "Como Ana Maria atribuiu a José fato desabonador (traição) que **não constitui crime** (adultério foi descriminalizado), deverá responder pelo delito de **difamação**, nos termos do art. 139 do CP, pois foi atingida a reputação. Não é cabível, na hipótese, a oposição da chamada **exceção da verdade**, que só é cabível na difamação quando o ofendido é funcionário público **e** a ofensa é relativa ao **exercício de suas funções**, nos termos do art. 139, § único do CP. Embora José seja funcionário público, a ofensa não tem relação com o exercício do cargo."
+  },
+  {
+    "question": "Um domingo, ao chegar em casa vindo do jogo de futebol a que fora assistir, Tício encontra sua esposa Calpúrnia traindo-o com seu melhor amigo, Mévio. No mesmo instante, Tício saca sua arma e dispara um tiro na cabeça de Calpúrnia e outro na cabeça de Mévio. Embora pudesse fazer outros disparos, Tício guarda a arma. Ato contínuo, apercebendo-se da besteira que fizera, coloca os amantes em seu carro e parte em disparada para um hospital. O trabalho dos médicos é extremamente bem-sucedido, retirando a bala da cabeça dos amantes sem que ambos tivessem qualquer espécie de seqüela. Aliás, não fosse a imediata atuação de Tício, Calpúrnia e Mévio teriam morrido. Com efeito, quinze dias depois, ambos já retornaram às suas atividades profissionais habituais. A partir do texto, assinale a alternativa que indique o crime praticado por Tício.",
+    "options": [
+      "lesão corporal leve",
+      "lesão corporal grave",
+      "tentativa de homicídio",
+      "Tício não praticou crime",
+      "exercício arbitrário das próprias razões"
+    ],
+    "correct": 1,
+    "explanation": "No caso em tela houve **desistência voluntária** (agente desiste de prosseguir na execução, pois poderia ter efetuado mais disparos) e **arrependimento eficaz** (agente impede que o resultado 'morte' se produza, levando as vítimas ao hospital). Nesses casos, aplica-se o art. 15 do CP: Art. 15 - O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, **só responde pelos atos já praticados**. Assim, Tício responderá apenas pelas lesões corporais causadas. Como as vítimas teriam morrido se não fosse a atuação de Tício (perigo de vida), as lesões são classificadas como **lesão corporal grave**, em razão do fato de resultar em perigo de vida, nos termos do art. 129, §1º, II do CP."
+  },
+  {
+    "question": "Jorge pretendia matar sua irmã, Ana, para passar a ser o único beneficiário de herança que ambos receberiam. No dia do crime, Jorge fica à espreita enquanto Ana sai da garagem em seu carro. Ocorre que, naquele dia não era Ana que estava ao volante, como ocorria diariamente, mas sim seu namorado. Ana se encontrava no banco do carona. Jorge sabia que sua irmã sempre dirigia seu próprio carro e, assim, tinha certeza de que estaria mirando a arma na direção de Ana, ainda que não conseguisse enxergar o interior do veículo devido aos vidros escuros. Jorge atira no veículo, mas o projétil atinge o namorado de Ana, que vem a falecer. É correto afirmar que Jorge praticou:",
+    "options": [
+      "o crime de tentativa de homicídio doloso qualificado contra Ana e de homicídio culposo contra o namorado de Ana.",
+      "apenas um crime de homicídio doloso qualificado, mas não incidirá na hipótese a circunstância agravante em razão de ser Ana sua irmã, uma vez que foi o namorado desta última quem veio a falecer.",
+      "o crime de tentativa de homicídio doloso qualificado contra Ana e de homicídio qualificado contra o namorado de Ana.",
+      "apenas um crime de homicídio doloso qualificado, e a pena a ser aplicada ainda será agravada pelo fato de Ana ser sua irmã.",
+      "apenas o crime de homicídio culposo contra o namorado de Ana."
+    ],
+    "correct": 3,
+    "explanation": "No caso em tela nós tivemos o que se chama de **error in persona** (erro sobre a pessoa - Art. 20, §3º do CP). Neste caso, considera-se como se o crime tivesse sido praticado contra a pessoa pretendida (no caso, Ana). O §3º do Art. 20 é claro: 'Não se consideram, neste caso, as condições ou qualidades da vítima, senão as da pessoa contra quem o agente queria praticar o crime.' Assim, Jorge responderá por **apenas um crime de homicídio doloso consumado**, qualificado pelo motivo torpe (ambição mesquinha – herança), e a pena ainda será **agravada** em razão de ter sido praticado contra irmão (vítima visada). Portanto, considera-se a qualidade de Ana (irmã), e não a do namorado (vítima atingida)."
+  },
+  {
+    "question": "Jaime, objetivando proteger sua residência, instala uma cerca elétrica no muro. Certo dia, Cláudio, com o intuito de furtar a casa de Jaime, resolve pular o referido muro, acreditando que conseguiria escapar da cerca elétrica ali instalada e bem visível para qualquer pessoa. Cláudio, entretanto, não obtém sucesso e acaba levando um choque, inerente à atuação do mecanismo de proteção. Ocorre que, por sofrer de doença cardiovascular, o referido ladrão falece quase instantaneamente. Após a análise pericial, ficou constatado que a descarga elétrica não era suficiente para matar uma pessoa em condições normais de saúde, mas suficiente para provocar o óbito de Cláudio, em virtude de sua cardiopatia. Nessa hipótese é correto afirmar que:",
+    "options": [
+      "Jaime deve responder por homicídio culposo, na modalidade culpa consciente.",
+      "Jaime deve responder por homicídio doloso, na modalidade dolo eventual.",
+      "Pode ser aplicado à hipótese o instituto do resultado diverso do pretendido.",
+      "Pode ser aplicado à hipótese o instituto da legítima defesa preordenada."
+    ],
+    "correct": 3,
+    "explanation": "No caso em tela, Jaime se valeu do que se chama de **legítima defesa preordenada** (ou *ofendículas*), utilizando-se de um instrumento destinado a proteger um bem jurídico (o patrimônio), o que é admitido pela Doutrina como uma modalidade válida de legítima defesa. A regra é que, na legítima defesa preordenada, o 'excesso' é punível, seja ele culposo ou doloso. No caso, a questão deixa claro que **não houve excesso** por parte de Jaime, já que a corrente elétrica **não seria capaz de matar** uma pessoa em condições normais. A morte de Cláudio decorreu de sua condição particular (cardiopatia), o que afasta a responsabilidade de Jaime pelo resultado morte. Portanto, a conduta está amparada pelo instituto da legítima defesa preordenada."
+  },
+  {
+    "question": "Paula, com intenção de matar Maria, desfere contra ela quinze facadas, todas na região do tórax. Cerca de duas horas após a ação de Paula, Maria vem a falecer. Todavia, a causa mortis determinada pelo auto de exame cadavérico foi envenenamento. Posteriormente, soube-se que Maria nutria intenções suicidas e que, na manhã dos fatos, havia ingerido veneno. Com base na situação descrita, assinale a afirmativa correta.",
+    "options": [
+      "Paula responderá por homicídio doloso consumado.",
+      "Paula responderá por tentativa de homicídio.",
+      "O veneno, em relação às facadas, configura concausa relativamente independente superveniente que por si só gerou o resultado.",
+      "O veneno, em relação às facadas, configura concausa absolutamente independente concomitante."
+    ],
+    "correct": 1,
+    "explanation": "No presente caso, a causa da morte (envenenamento) era **preexistente** à conduta de Paula e, além disso, foi uma **causa absolutamente independente** que, por si só, produziu o resultado morte. O Código Penal, pela teoria da causalidade adequada, exige que o resultado seja imputável a quem lhe deu causa. Como a causa mortis foi o veneno, Paula não deu causa ao resultado 'morte'. Desta forma, Paula responderá apenas pelos atos praticados (facadas), ou seja, por **tentativa de homicídio**."
+  },
+  {
+    "question": "Sofia decide matar sua mãe. Para tanto, pede ajuda a Lara, amiga de longa data, com quem debate a melhor maneira de executar o crime, o melhor horário, local etc. Após longas discussões de como poderia executar seu intento da forma mais eficiente possível, a fim de não deixar nenhuma pista, Sofia pede emprestado a Lara um facão. A amiga prontamente atende ao pedido. Sofia despede-se agradecendo a ajuda e diz que, se tudo correr conforme o planejado, executará o homicídio naquele mesmo dia e assim o faz. No entanto, apesar dos cuidados, tudo é descoberto pela polícia. A respeito do caso narrado e de acordo com a teoria restritiva da autoria, assinale a afirmativa correta.",
+    "options": [
+      "Sofia é a autora do delito e deve responder por homicídio com a agravante de o crime ter sido praticado contra ascendente. Lara, por sua vez, é apenas partícipe do crime e deve responder por homicídio, sem a presença da circunstância agravante.",
+      "Sofia e Lara devem ser consideradas coautoras do crime de homicídio, incidindo, para ambas, a circunstância agravante de ter sido, o crime, praticado contra ascendente.",
+      "Sofia e Lara devem ser consideradas coautoras do crime de homicídio. Todavia, a agravante de ter sido, o crime, praticado contra ascendente somente incide em relação à Sofia.",
+      "Sofia é a autora do delito e deve responder por homicídio com a agravante de ter sido, o crime, praticado contra ascendente. Lara, por sua vez, é apenas partícipe do crime, mas a agravante também lhe será aplicada."
+    ],
+    "correct": 0,
+    "explanation": "Para a teoria restritiva da autoria, autor é quem pratica a conduta descrita no núcleo do tipo (o verbo 'matar'). Partícipe é todo aquele que, de alguma forma, colabora para o intento criminoso sem, contudo, praticar a conduta nuclear (Lara emprestou o facão). No caso em tela, **Sofia é autora** do delito (Art. 121, caput), com a agravante de o crime ter sido praticado contra ascendente (Art. 61, II, 'e' do CP). **Lara** será mera **partícipe**. A agravante de ter sido o crime praticado contra ascendente é uma circunstância **de caráter pessoal** (não elementar do tipo), e conforme o Art. 30 do CP, 'Não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime'. Portanto, a agravante **não se comunica** a Lara."
+  },
+  {
+    "question": "João, com intenção de matar, efetua vários disparos de arma de fogo contra Antônio, seu desafeto. Ferido, Antônio é internado em um hospital, no qual vem a falecer, não em razão dos ferimentos, mas queimado em um incêndio que destrói a enfermaria em que se encontrava. Assinale a alternativa que indica o crime pelo qual João será responsabilizado.",
+    "options": [
+      "Homicídio consumado.",
+      "Homicídio tentado.",
+      "Lesão corporal.",
+      "Lesão corporal seguida de morte."
+    ],
+    "correct": 1,
+    "explanation": "A causa da morte, neste caso, foi o incêndio. Temos, assim, uma **causa relativamente independente superveniente** (pois se não fosse a conduta de João, Antônio não estaria no hospital), mas que produziu **por si só** o resultado (Art. 13, §1º do CP: 'A superveniência de causa relativamente independente exclui a imputação quando, por si só, produziu o resultado; os fatos anteriores, entretanto, imputam-se a quem os praticou.'). Como o incêndio (causa superveniente) produziu a morte por si só, João **não responde pelo resultado** 'morte', mas apenas por sua conduta anterior, de forma que responderá por **homicídio na forma tentada**."
+  },
+  {
+    "question": "José dispara cinco tiros de revólver contra Joaquim, jovem de 26 (vinte e seis) anos que acabara de estuprar sua filha. Contudo, em decorrência de um problema na mira da arma, José erra seu alvo, vindo a atingir Rubem, senhor de 80 (oitenta) anos, ceifando-lhe a vida. A esse respeito, é correto afirmar que José responderá",
+    "options": [
+      "pelo homicídio de Rubem, agravado por ser a vítima maior de 60 (sessenta) anos.",
+      "por tentativa de homicídio privilegiado de Joaquim e homicídio culposo de Rubem, agravado por ser a vítima maior de 60 (sessenta) anos.",
+      "apenas por tentativa de homicídio privilegiado, uma vez que ocorreu erro quanto à pessoa.",
+      "apenas por homicídio privilegiado consumado, uma vez que ocorreu erro na execução."
+    ],
+    "correct": 3,
+    "explanation": "No caso em questão houve o que se chama de **erro na execução** (*aberratio ictus* - Art. 73 do CP), pois o agente errou no uso dos meios de execução, atingindo pessoa diversa da pretendida. Nesses casos, o agente **responde como se tivesse praticado o crime contra aquela** (vítima pretendida), atendendo-se às condições da vítima visada (Joaquim). José agiu impelido por relevante valor moral (vingar o estupro da filha), o que caracteriza o **homicídio privilegiado** (Art. 121, §1º do CP). Como o resultado 'morte' foi atingido, ele responderá por **homicídio privilegiado consumado**. A condição de Rubem (idoso) não é considerada, pois o Art. 20, §3º do CP, que se aplica ao Art. 73, diz que 'Não se consideram, neste caso, as condições ou qualidades da vítima [atingida], senão as da pessoa contra quem o agente queria praticar o crime [visada]'."
+  },
+  {
+    "question": "Carlos Cristiano trabalha como salva-vidas no clube municipal de Tartarugalzinho. O clube abre diariamente às 8hs, e a piscina do clube funciona de terça a domingo, de 9 às 17 horas, com um intervalo de uma hora para o almoço do salva-vidas, sempre entre 12 e 13 horas. Carlos Cristiano é o único salva-vidas do clube e sabe a responsabilidade de seu trabalho, pois várias crianças utilizam a piscina diariamente e muitas dependem da sua atenção para não morrerem afogadas. Normalmente, Carlos Cristiano trabalha com atenção e dedicação, mas naquele dia 2 de janeiro estava particularmente cansado, pois dormira muito tarde após as comemorações do reveillon. Assim, ao invés de voltar do almoço na hora, decidiu tirar um cochilo. Acordou às 15 horas, com os gritos dos sócios do clube que tentavam reanimar uma criança que entrara na piscina e fora parar na parte funda. Infelizmente, não foi possível reanimar a criança. Embora houvesse outras pessoas na piscina, ninguém percebera que a criança estava se afogando. Assinale a alternativa que indique o crime praticado por Carlos Cristiano",
+    "options": [
+      "Homicídio culposo.",
+      "Nenhum crime.",
+      "Omissão de socorro.",
+      "Homicídio doloso, na modalidade de ação comissiva por omissão.",
+      "Homicídio doloso, na modalidade de ação omissiva."
+    ],
+    "correct": 3,
+    "explanation": "Carlos Cristiano, no caso em tela, deverá ser responsabilizado pelo delito de **homicídio DOLOSO**, na modalidade de **omissão imprópria** ou, em outros termos, **comissiva por omissão**. Isto porque, embora não tenha dado causa física ao evento morte, Carlos Cristiano era um **garante** (Art. 13, §2º do CP), pois assumiu a responsabilidade de impedir o resultado (alínea 'b') e tinha por lei/contrato obrigação de cuidado, proteção ou vigilância (alínea 'a'). Omissão imprópria é equiparada à ação. A doutrina majoritária entende que, ao se omitir, sendo garante, e sabendo do risco de morte (aceitando o risco), ele agiu com **dolo eventual**. A omissão dolosa do garante que resulta em morte é punida como homicídio doloso por omissão imprópria."
+  }
+  ,{
+    "question": "Maria da Silva, esposa do Promotor de Justiça Substituto José da Silva, mantém um caso extraconjugal com o serventuário do Tribunal de Justiça Manoel de Souza. Passado algum tempo, Maria decide separar-se de José da Silva, contando a ele o motivo da separação. Inconformado com a decisão de sua esposa, José da Silva decide matá-la, razão pela qual dispara três vezes contra sua cabeça. Todavia, logo depois dos disparos, José da Silva coloca Maria da Silva em seu carro e conduz o veículo até o hospital municipal. No trajeto, José da Silva imprime ao veículo velocidade bem acima da permitida e 'fura' uma barreira policial, tudo para chegar rapidamente ao hospital. Graças ao pouco tempo decorrido entre os disparos e a chegada ao hospital, os médicos puderam salvar a vida de Maria da Silva. Maria sofreu perigo de vida, atestado por médicos e pelos peritos do Instituto Médico Legal, mas recuperou-se perfeitamente vinte e nove dias após os fatos. Qual crime praticou José da Silva?",
+    "options": [
+      "Tentativa de homicídio.",
+      "Nenhum crime, pois agiu em legítima defesa.",
+      "Lesão corporal grave.",
+      "Lesão corporal leve.",
+      "Lesão corporal seguida de morte."
+    ],
+    "correct": 2,
+    "explanation": "No caso, tivemos o que se chama de **ARREPENDIMENTO EFICAZ** (Art. 15 do CP), ou seja, o agente, após praticar todos os atos executórios que pretendia (disparar três vezes), se arrepende e impede a ocorrência do resultado 'morte', levando a vítima ao hospital. O Art. 15 do CP determina que o agente 'só responde pelos atos já praticados'. Neste caso, o agente responde apenas por lesões corporais. Embora a vítima tenha ficado afastada das atividades habituais por menos de 30 dias (exatos 29 dias), restou caracterizada a **lesão corporal grave**, pois a questão deixa claro que houve **perigo de vida**, o que se enquadra no Art. 129, §1º, II do CP. Lesão corporal de natureza grave Art. 129 (...) § 1º Se resulta: II - perigo de vida."
+  },
+  {
+    "question": "Roberto estava na fila de um banco, quando, por descuido, esbarrou em Renato que estava a sua frente, fazendo com que caísse no chão a pasta que estava na mão de Renato. Não obstante o pedido de desculpas, Renato ficou enfurecido, saiu do banco, foi até seu veículo, pegou uma pistola e aguardou na esquina a saída de Roberto do banco. Assim que a vítima cruzou a esquina, Renato sacou a arma e desferiu cinco disparos pelas costas de Roberto, levando-o a imediato óbito. Renato cometeu crime de:",
+    "options": [
+      "homicídio simples;",
+      "homicídio qualificado pelo motivo torpe;",
+      "homicídio duplamente qualificado pelo motivo torpe e com recurso que dificultou ou tornou impossível a defesa do ofendido",
+      "homicídio duplamente qualificado pelo motivo fútil e com recurso que dificultou ou tornou impossível a defesa do ofendido",
+      "homicídio triplamente qualificado pelo motivo torpe, emprego de arma de fogo e com recurso que dificultou ou tornou impossível a defesa do ofendido"
+    ],
+    "correct": 3,
+    "explanation": "Temos aqui um homicídio **QUALIFICADO** (Art. 121, §2º do CP). A qualificadora incide: 1. Pelo **motivo fútil** (Art. 121, §2º, II), visto que a motivação (esbarrão acidental) é desproporcional à reação criminosa. 2. Pelo **recurso que dificultou ou tornou impossível a defesa do ofendido** (Art. 121, §2º, IV), pois os disparos foram feitos de surpresa, pelas costas. A terminologia 'duplamente qualificado' é tecnicamente imprecisa (uma vez que as qualificadoras apenas alteram os limites da pena-base), mas é o termo utilizado em questões de múltipla escolha para indicar que há duas qualificadoras. O erro da alternativa C é classificar o motivo como 'torpe', que é motivo abjeto/desprezível (ex: paga/recompensa)."
+  },
+  {
+    "question": "Paulo, querendo matar Lucia, vem a jogá-la da janela do apartamento do casal. A vítima na queda não vem a falecer, apesar de sofrer lesões graves, tendo caído na área do apartamento térreo do prédio. Naquele local, vem a ser atacada por um cão raivoso que lhe causa diversas outras lesões que foram à causa de sua morte. De acordo com o caso apresentado e as lições acerca da teoria do crime, assinale a afirmativa correta.",
+    "options": [
+      "Paulo deverá responder por homicídio consumado, porque realizado o resultado por ele desejado desde o início.",
+      "Paulo deverá responder por lesão corporal grave, em razão da quebra do nexo causal entre a sua conduta e o resultado morte.",
+      "Paulo deverá responder por homicídio culposo, porque previsível que a queda por ele operada poderia causar a morte da vítima.",
+      "Paulo deverá responder por tentativa de homicídio por força do surgimento de causa superveniente relativamente independente que, por si só, causou o resultado.",
+      "Paulo deverá responde por tentativa de homicídio, por força do surgimento de causa superveniente absolutamente independente."
+    ],
+    "correct": 3,
+    "explanation": "Paulo deverá responder por **homicídio TENTADO** (tentativa de homicídio). A morte decorreu de uma **concausa SUPERVENIENTE RELATIVAMENTE INDEPENDENTE** (o ataque do cão raivoso), que **por si só, produziu o resultado** morte, nos termos do Art. 13, §1º do CP. Neste caso, o resultado 'morte' não pode ser imputado a Paulo, pois a causa que o produziu (o ataque do cão) foi autônoma, apesar de ter ocorrido após a conduta de Paulo (relativamente independente). O Art. 13, §1º do CP determina que os fatos anteriores (a conduta de Paulo) imputam-se a quem os praticou (tentativa de homicídio)."
+  },
+  {
+    "question": "Determinado agente, insatisfeito com as diversas brigas que tinha com seu vizinho, resolve matá-lo. Ao ver seu desafeto passando pela rua, pega sua arma, que estava em situação regular e contava com apenas uma bala, e atira, vindo a atingi-lo na barriga. Lembrando-se que o vizinho era pai de duas crianças, arrepende-se de seu ato e leva a vítima ao hospital. O médico, diante do pronto atendimento e rápida cirurgia, salva a vida da vítima. Diante da situação acima, o membro do Ministério Público deve",
+    "options": [
+      "denunciar o agente pelo crime de lesão corporal, pois o arrependimento posterior no caso impede que o agente responda pelo resultado pretendido inicialmente.",
+      "denunciar o agente pelo crime de lesão corporal, pois houve arrependimento eficaz.",
+      "denunciar o agente pelo crime de lesão corporal, pois houve desistência voluntária.",
+      "denunciar o agente pelo crime de tentativa de homicídio, tendo em vista que o resultado pretendido inicialmente não foi obtido.",
+      "requerer o arquivamento, diante da atipicidade da conduta."
+    ],
+    "correct": 1,
+    "explanation": "Neste caso ocorreu o que se chama de **arrependimento eficaz** (Art. 15 do CP). Isso porque o agente, logo após **terminar a execução** do delito (utilizou a única bala que tinha, exaurindo os meios), se arrepende do que fez e **EVITA o resultado** 'morte' (procedendo ao salvamento da vítima). Neste caso, o agente responde apenas pelas lesões causadas ('só responde pelos atos já praticados'). Não se trata de desistência voluntária, pois a desistência voluntária pressupõe a **possibilidade de prosseguir na execução**, o que não ocorreu, pois a arma ficou sem munição após o disparo."
+  },
+  {
+    "question": "José e Maria estavam enamorados, mas posteriormente vieram a descobrir que eram irmãos consanguíneos, separados na maternidade. Extremamente infelizes com a notícia recebida, que impedia por completo qualquer possibilidade de relacionamento, resolveram dar cabo à própria vida. Para tanto, combinaram e executaram o seguinte: no apartamento de Maria, com todas as portas e janelas trancadas, José abriu o registro do gás de cozinha. Ambos inspiraram o ar envenenado e desmaiaram, sendo certo que somente não vieram a falecer porque os vizinhos, assustados com o cheiro forte que vinha do apartamento de Maria, decidiram arrombar a porta e resgatá-los. Ocorre que, não obstante o socorro ter chegado a tempo, José e Maria sofreram lesões corporais de natureza grave. Com base na situação descrita, assinale a afirmativa correta.",
+    "options": [
+      "José responde por tentativa de homicídio e Maria por instigação ou auxílio ao suicídio.",
+      "José responde por lesão corporal grave e Maria não responde por nada, pois sua conduta é atípica.",
+      "José e Maria respondem por instigação ou auxílio ao suicídio, em concurso de agentes.",
+      "José e Maria respondem por tentativa de homicídio."
+    ],
+    "correct": 0,
+    "explanation": "Neste caso, o Código Penal faz uma distinção em crimes contra a vida entre o autor do ato executório (que busca a morte) e o partícipe (que induz, instiga ou auxilia o ato de outrem): 1. **José** praticou os atos executórios (abriu o gás) com o dolo de matar a si mesmo e a Maria. Como a morte não se consumou por circunstâncias alheias à sua vontade (o socorro dos vizinhos), ele responde por **tentativa de homicídio** (Art. 121 c/c Art. 14, II do CP) contra Maria e não responde pela tentativa de suicídio (a autolesão não é crime). 2. **Maria** não praticou os atos executórios que levaram ao resultado, mas instigou José a se suicidar (pacto de morte, onde ambos combinaram). Da tentativa de suicídio de José resultou lesão corporal grave, de forma que Maria responde pelo crime do Art. 122, §1º do CP (**instigação ou auxílio ao suicídio** em sua forma qualificada - lesão corporal grave ou gravíssima)."
+  },
+  {
+    "question": "Maria, jovem de 22 anos, após sucessivas desilusões, deseja dar cabo à própria vida. Com o fim de desabafar, Maria resolve compartilhar sua situação com um amigo, Manoel, sem saber que o desejo dele, há muito, é vê-la morta. Manoel, então, ao perceber que poderia influenciar Maria, resolve instigá-la a matar-se. Tão logo se despede do amigo, a moça, influenciada pelas palavras deste, pula a janela de seu apartamento, mas sua queda é amortecida por uma lona que abrigava uma barraca de feira. Em consequência, Maria sofre apenas escoriações pelo corpo e não chega a sofrer nenhuma fratura. Considerando apenas os dados descritos, assinale a afirmativa correta.",
+    "options": [
+      "Manoel deve responder pelo delito de induzimento, instigação ou auxílio ao suicídio em sua forma consumada.",
+      "Manoel deve responder pelo delito de induzimento, instigação ou auxílio ao suicídio em sua forma tentada.",
+      "Manoel não possui responsabilidade jurídico-penal, pois Maria não morreu e nem sofreu lesão corporal de natureza grave.",
+      "Manoel, caso tivesse se arrependido daquilo que falou para Maria e esta, em virtude da queda, viesse a óbito, seria responsabilizado pelo delito de homicídio."
+    ],
+    "correct": 2,
+    "explanation": "O delito de **Induzimento, Instigação ou Auxílio ao Suicídio** (Art. 122 do CP) é um crime material que exige a ocorrência de um resultado para sua punição. Ele somente é punível se: 1. A morte da vítima efetivamente ocorre (caput) ou; 2. Ocorre **lesão corporal de natureza grave ou gravíssima** (Art. 122, §1º). No caso, Maria não morreu e sofreu apenas 'escoriações pelo corpo', o que configura lesão corporal leve (ou lesão levíssima/vias de fato). Como o resultado exigido pelo tipo penal (morte ou lesão grave/gravíssima) não foi alcançado, a conduta de Manoel é **atípica**, ou seja, ele não possui responsabilidade jurídico-penal pelo fato."
+  },
+  {
+    "question": "Analise detidamente as seguintes situações: Casuística 1: Amarildo, ao chegar a sua casa, constata que sua filha foi estuprada por Terêncio. Imbuído de relevante valor moral, contrata Ronaldo, pistoleiro profissional, para tirar a vida do estuprador. O serviço é regularmente executado. Casuística 2: Lucas concorre para um infanticídio auxiliando Julieta, parturiente, a matar o nascituro – o que efetivamente acontece. Lucas sabia, desde o início, que Julieta estava sob a influência do estado puerperal. Levando em consideração a legislação vigente e a doutrina sobre o concurso de pessoas (concursus delinquentium), é correto afirmar que",
+    "options": [
+      "no exemplo 1, Amarildo responderá pelo homicídio privilegiado e Ronaldo pelo crime de homicídio qualificado por motivo torpe. No exemplo 2, Lucas e Julieta responderão pelo crime de infanticídio.",
+      "no exemplo 1, Amarildo responderá pelo homicídio privilegiado e Ronaldo pelo crime de homicídio simples (ou seja, sem privilégio pelo fato de não estar imbuído de relevante valor moral). No exemplo 2, Lucas, que não está influenciado pelo estado puerperal, responderá por homicídio, e Julieta pelo crime de infanticídio.",
+      "no exemplo 1, Amarildo responderá pelo homicídio privilegiado e Ronaldo pelo crime de homicídio simples (ou seja, sem privilégio pelo fato de não estar imbuído de relevante valor moral). No exemplo 2, tanto Lucas quanto Julieta responderão pelo crime de homicídio (ele na modalidade simples, ela na modalidade privilegiada em razão da influência do estado puerperal).",
+      "no exemplo 1, Amarildo responderá pelo homicídio privilegiado e Ronaldo pelo crime de homicídio qualificado pelo motivo fútil. No exemplo 2, Lucas, que não está influenciado pelo estado puerperal, responderá por homicídio e Julieta pelo crime de infanticídio."
+    ],
+    "correct": 0,
+    "explanation": "1. **Casuística 1 (Homicídio Privilegiado e Qualificado):** Amarildo agiu por relevante valor moral (vingar a filha), o que caracteriza o **homicídio privilegiado** (Art. 121, §1º). Esta circunstância de caráter pessoal (privilégio) **não se comunica** ao pistoleiro. Ronaldo agiu mediante paga, o que qualifica o homicídio por **motivo torpe** (Art. 121, §2º, I). 2. **Casuística 2 (Infanticídio em Concurso):** Infanticídio é crime próprio (somente pode ser praticado pela mãe contra o próprio filho, sob a influência do estado puerperal). Contudo, a doutrina e jurisprudência admitem o concurso de agentes. Lucas (comparsa) sabia da condição especial de Julieta (mãe sob estado puerperal), o que, de acordo com o Art. 30 do CP ('Não se comunicam as circunstâncias e as condições de caráter pessoal, **salvo quando elementares do crime**'), faz com que ele também responda por **infanticídio**, pois a condição de 'mãe sob influência do estado puerperal' é elementar do crime. Assim, **Lucas e Julieta responderão pelo crime de infanticídio**."
+  },
+  {
+    "question": "De acordo com o artigo 129 do Código Penal brasileiro, lesão corporal é a ofensa à integridade corporal ou a saúde de alguém. Ela pode ser classificada em leve, grave ou gravíssima, a depender dos comemorativos. Analise as assertivas abaixo. I. Lesões corporais que causem incapacidade para as ocupações habituais por mais de 30 dias serão consideradas graves. II. Lesões corporais com perda ou inutilização de membro, sentido ou função serão consideradas graves. III. Lesões corporais que causem extrema dor serão consideradas gravíssimas. IV. Lesões corporais que causem qualquer alteração psíquica serão consideradas leves. Está correto o que se afirma em",
+    "options": [
+      "I, II, III e IV.",
+      "I, apenas.",
+      "IV, apenas.",
+      "III, apenas.",
+      "I e III, apenas."
+    ],
+    "correct": 1,
+    "explanation": "Análise das assertivas sobre Lesão Corporal (Art. 129 do CP): I. **CORRETA:** É uma das hipóteses de lesão corporal **grave** (Art. 129, §1º, I: 'Incapacidade para as ocupações habituais, por mais de trinta dias'). II. **ERRADA:** Perda ou inutilização de membro, sentido ou função constitui lesão corporal **gravíssima** (Art. 129, §2º, III). III. **ERRADA:** A ocorrência de dor extrema não qualifica o crime de lesão corporal, embora possa ser considerada uma circunstância judicial ou agravante, dependendo da forma como foi causada (tortura, por exemplo). IV. **ERRADA:** A natureza da alteração psíquica é que irá determinar a espécie de lesão corporal; se for a 'enfermidade incurável' ou 'perturbação permanente de saúde', será **gravíssima** (Art. 129, §2º, I e II), se for 'debilidade permanente', será **grave** (Art. 129, §1º, III)."
+  },
+  {
+    "question": "No que concerne aos crimes contra a honra, considere as afirmativas abaixo: I. Não é admissível a exceção da verdade para o delito de injúria. II. A retratação somente é admissível nos casos de calúnia e difamação. III. O juiz pode deixar de aplicar a pena na difamação no caso de retorsão imediata, que consista em outra difamação. Está correto o que se afirma em",
+    "options": [
+      "I, II e III.",
+      "I e III, apenas.",
+      "II e III, apenas.",
+      "I, apenas.",
+      "I e II, apenas."
+    ],
+    "correct": 4,
+    "explanation": "Análise das afirmativas sobre Crimes Contra a Honra: I. **CORRETA:** A exceção da verdade (prova da verdade da imputação) só é admitida para os delitos de **calúnia** e, em determinados casos, para o delito de **difamação**, nunca para a **injúria** (Art. 138, §3º e Art. 139, §único do CP). II. **CORRETA:** A **retratação** (o réu se retrata cabalmente) gera isenção de pena e é admitida apenas nos crimes de **calúnia e difamação** (Art. 143 do CP). Não se aplica à injúria, pois esta atinge a honra subjetiva. III. **ERRADA:** A **retorsão imediata** (o ofendido revidar imediatamente com outra ofensa) é causa de exclusão de punibilidade (o juiz pode deixar de aplicar a pena) apenas no crime de **injúria** (Art. 140, §1º, II do CP), e não na difamação."
+  },
+  {
+    "question": "Micaela, de 19 anos de idade, após manter um relacionamento ocasional com Rodrigo, de 40 anos de idade, acaba engravidando. Após esconder a gestação durante meses de sua família e ser desprezada por Rodrigo, que disse que não assumiria qualquer responsabilidade pela criança, Micaela entra em trabalho de parto durante a 40ª semana de gestação em sua residência e sem pedir qualquer auxílio aos familiares que ali estavam, acaba parindo no banheiro do imóvel. A criança do sexo masculino nasce com vida e Micaela, agindo ainda sob efeito do estado puerperal, corta o cordão umbilical e coloca o recém-nascido dentro de um saco plástico, jogando-o no lixo da rua. O bebê entra em óbito cerca de duas horas depois. Neste caso, à luz do Código Penal, Micaela cometeu crime de",
+    "options": [
+      "homicídio culposo.",
+      "homicídio doloso.",
+      "aborto.",
+      "lesão corporal seguida de morte.",
+      "infanticídio."
+    ],
+    "correct": 4,
+    "explanation": "O crime de **infanticídio** (Art. 123 do CP) é caracterizado pela mãe, **sob a influência do estado puerperal**, matar o próprio filho, **durante o parto ou logo após**. A questão estabelece claramente que a mãe agiu 'sob efeito do estado puerperal' e causou a morte 'logo após' o parto (duas horas depois). Embora a conduta de colocar a criança no saco de lixo possa indicar um dolo eventual (assumir o risco de matar), o Código Penal privilegia a condição especial da mãe naquele momento (estado puerperal). A doutrina e a jurisprudência majoritárias consideram que, havendo a condição de estado puerperal e a morte do recém-nascido, a tipificação correta é o infanticídio (crime que absorve o abandono), mesmo que a conduta de abandono implique dolo eventual de matar. O crime é considerado doloso contra a vida, com forma privilegiada (infanticídio)."
+  },
+  {
+    "question": "Tício tentou suicidar-se e cortou os pulsos. Em seguida arrependeu-se e chamou uma ambulância. Celsus, que sabia das intenções suicidas de Tício, impediu dolosamente que o socorro chegasse e Tício morreu por hemorragia. Nesse caso, Celsus responderá por",
+    "options": [
+      "auxílio a suicídio.",
+      "homicídio doloso.",
+      "instigação a suicídio.",
+      "induzimento a suicídio.",
+      "homicídio culposo."
+    ],
+    "correct": 1,
+    "explanation": "Esta é uma pegadinha complexa. A chave está no **arrependimento** de Tício: Tício se arrependeu e **não queria mais morrer**. Celsus, ao impedir o socorro **sabendo** que Tício não queria mais morrer, manifestou o **dolo de matar** Tício, e não o dolo de auxiliar Tício em seu desejo de morte (desejo que não mais existia). Ao impedir o socorro de uma pessoa ferida que se arrependeu, Celsus causou o resultado morte e deve responder por **homicídio doloso** (Art. 121 do CP), pois quis ou assumiu o risco do resultado morte (por omissão imprópria ou por ação)."
+  },
+  {
+    "question": "Maria e seu namorado João praticaram manobras abortivas que geraram a expulsão do feto. Todavia, em razão da chegada de terceiros ao local e dos cuidados médicos dispensados, o neonato sobreviveu. Nesse caso, Maria e João responderão por",
+    "options": [
+      "tentativa de aborto.",
+      "crime de aceleração de parto.",
+      "tentativa de homicídio.",
+      "infanticídio.",
+      "tentativa de infanticídio."
+    ],
+    "correct": 0,
+    "explanation": "A tipificação correta é determinada pelo **dolo** dos agentes: Maria e João praticaram manobras abortivas com a finalidade (dolo) de provocar o **aborto** (interrupção da gravidez com a morte do feto). O feto foi expulso (início da execução), mas sobreviveu (não consumação por circunstâncias alheias à vontade), o que configura **tentativa de aborto** (Art. 125 ou Art. 126 c/c Art. 14, II do CP). Não se trata de infanticídio ou homicídio, pois a morte não chegou a ocorrer. A aceleração de parto (Art. 129, §1º, IV) só ocorreria se o dolo dos agentes fosse apenas lesionar, e a aceleração fosse um resultado qualificador, o que não é o caso aqui, onde o dolo era o aborto."
+  },
+  {
+    "question": "Antonio e sua mulher Antonia resolveram, sob juramento, morrer na mesma ocasião. Antonio, com o propósito de livrar-se da esposa, finge que morreu. Antonia, fiel ao juramento assumido, suicida-se. Nesse caso, Antonio responderá por",
+    "options": [
+      "auxílio ao suicídio culposo.",
+      "homicídio doloso.",
+      "homicídio culposo.",
+      "induzimento ao suicídio.",
+      "tentativa de homicídio."
+    ],
+    "correct": 3,
+    "explanation": "Neste caso, a Banca adotou a tese majoritária de que Antonia tirou a própria vida por livre e espontânea vontade (suicídio consumado), e que Antonio, com o pacto de morte (juramento), a **induziu ou instigou** a se suicidar. O fato de Antonio ter simulado a própria morte reforça o seu papel de instigador. Tendo Antonio sobrevivido e o suicídio de Antonia sido consumado, ele responderá pelo crime do Art. 122 do CP: **Induzimento, instigação ou auxílio ao suicídio** (em sua forma consumada - morte)."
+  },
+  {
+    "question": "Segundo o entendimento jurisprudencial hoje preponderante, a lesão corporal respectivamente simples e qualificada ocorrida no Brasil (Cód. Penal, Art. 129 e seus parágrafos) é um crime de ação penal",
+    "options": [
+      "pública incondicionada e de ação penal privada.",
+      "pública condicionada à representação e de ação penal privada.",
+      "pública condicionada à representação e incondicionada.",
+      "privada e de ação penal pública condicionada à representação.",
+      "pública e exclusivamente condicionada à representação."
+    ],
+    "correct": 2,
+    "explanation": "A natureza da ação penal da Lesão Corporal é: 1. **Lesão Corporal Simples (Art. 129, caput):** É considerada crime de **ação penal pública condicionada à representação** (da vítima), por força do Art. 88 da Lei nº 9.099/95 (Lei dos Juizados Especiais). 2. **Lesão Corporal Qualificada (Art. 129, §1º, §2º, etc.):** Permanece como delito de **ação penal pública incondicionada**, pois o Código Penal é silente quanto a estes delitos (não fazendo remissão à representação) e o Art. 88 da Lei nº 9.099/95 só se aplica à lesão corporal de natureza leve. "
+  }
+  ,{
+    "question": "Em relação aos crimes contra a vida, é correto afirmar que",
+    "options": [
+      "o homicídio simples, em determinada situação, pode ser classificado como crime hediondo.",
+      "a pena pode ser aumentada de um terço no homicídio culposo, se o crime é praticado contra pessoa menor de quatorze anos ou maior de sessenta anos.",
+      "compatível o homicídio privilegiado com a qualificadora do motivo fútil.",
+      "cabível a suspensão condicional do processo no homicídio culposo, se o crime resulta de inobservância de regra técnica de profissão, arte ou ofício.",
+      "incompatível o homicídio privilegiado com a qualificadora do emprego de asfixia."
+    ],
+    "correct": 0,
+    "explanation": "A) **CORRETA:** O homicídio simples (Art. 121, caput) é considerado crime hediondo (equiparação legal) na hipótese de ser praticado em **atividade típica de grupo de extermínio**, ainda que cometido por um só agente, nos termos do art. 1º, I da Lei 8.072/90. B) **ERRADA:** Esta causa de aumento de pena (Art. 121, §4º, parte final) só se aplica no **homicídio doloso**, não no culposo. C) **ERRADA:** O privilégio (motivo de relevante valor) é de natureza subjetiva e é **incompatível** com qualificadoras de natureza subjetiva (motivo torpe ou fútil). D) **ERRADA:** Se o homicídio culposo resulta de inobservância de regra técnica (Art. 121, §4º, 1ª parte), a pena é aumentada de 1/3. A pena mínima, que é de 1 ano, se torna 1 ano e 4 meses. Como a suspensão condicional do processo (Art. 89 da Lei 9.099/95) só é cabível nos crimes cuja pena mínima seja **igual ou inferior a 01 ano**, não é cabível nesta hipótese majorada. E) **ERRADA:** É possível a combinação de homicídio privilegiado com qualificadora de natureza **objetiva** (que se refere aos meios ou modos de execução), como o **emprego de asfixia** (Art. 121, §2º, III). Portanto, são compatíveis."
+  },
+  {
+    "question": "O autor de homicídio praticado com a intenção de livrar um doente, que padece de moléstia incurável, dos sofrimentos que o atormentam (eutanásia), perante a legislação brasileira,",
+    "options": [
+      "não cometeu infração penal.",
+      "responderá por crime de homicídio privilegiado.",
+      "responderá por homicídio qualificado pelo motivo torpe.",
+      "responderá por homicídio simples.",
+      "responderá por homicídio qualificado pelo motivo fútil."
+    ],
+    "correct": 1,
+    "explanation": "A eutanásia, no direito penal brasileiro, é considerada homicídio. No entanto, quando o agente comete o crime impelido por **motivo de relevante valor moral** (aliviar o sofrimento da vítima, em face de doença incurável), ele faz jus à causa especial de diminuição de pena prevista no Art. 121, §1º do CP. O crime, neste caso, é classificado como **homicídio privilegiado**. Art. 121. Matar alguém: (...) § 1º Se o agente comete o crime impelido por motivo de relevante valor social ou moral, ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima, o juiz pode reduzir a pena de um sexto a um terço."
+  },
+  {
+    "question": "No homicídio privilegiado, o agente comete o crime sob",
+    "options": [
+      "o domínio de violenta emoção, logo em seguida a injusta provocação da vítima.",
+      "a influência de violenta emoção, provocada por ato injusto da vítima.",
+      "o domínio de violenta emoção, logo em seguida a injusta agressão da vítima.",
+      "a influência de violenta emoção, logo em seguida a injusta agressão da vítima.",
+      "o domínio de violenta emoção, ainda que tardia em relação à injusta agressão da vítima."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 121, §1º do Código Penal traz as hipóteses do chamado homicídio privilegiado. Uma delas é quando o agente comete o crime 'sob o **domínio** de violenta emoção, **logo em seguida** a injusta **provocação** da vítima'. É fundamental a diferença entre: 1. **Domínio** (e não apenas influência) da violenta emoção; 2. O lapso temporal ser **logo em seguida**; 3. O fato da vítima ser uma **provocação** (e não uma agressão, que poderia configurar legítima defesa)."
+  },
+  {
+    "question": "Dentre as hipóteses de formas qualificadas dos crimes de injúria, calúnia e difamação, NÃO se incluem os crimes cometidos",
+    "options": [
+      "mediante promessa de recompensa.",
+      "contra Governador de Estado.",
+      "contra chefe de governo estrangeiro.",
+      "na presença de várias pessoas.",
+      "contra funcionário público, em razão de suas funções."
+    ],
+    "correct": 1,
+    "explanation": "Os Art. 141, I a IV do CP estabelecem as causas de aumento de pena (forma qualificada) para os crimes contra a honra (calúnia, difamação e injúria). As hipóteses previstas são: I - contra o Presidente da República, ou contra **chefe de governo estrangeiro**; II - contra **funcionário público, em razão de suas funções**; III - **na presença de várias pessoas**, ou por meio que facilite a divulgação; IV - contra pessoa maior de 60 anos ou portadora de deficiência (exceto injúria). A alternativa A ('mediante promessa de recompensa') é causa de aumento na calúnia e difamação, por interpretação da Súmula 711 do STF (embora não esteja expressamente no Art. 141). A alternativa B ('contra Governador de Estado') **NÃO** está expressamente prevista como causa de aumento de pena, sendo, portanto, a única que não contempla uma causa majorante do Art. 141 do CP."
+  },
+  {
+    "question": "Poderá ser concedido perdão judicial para o autor do crime de injúria no caso de",
+    "options": [
+      "não ter resultado lesão corporal da injúria real.",
+      "ter sido a ofensa irrogada em juízo, na discussão da causa, pela parte ou por seu procurador.",
+      "ter sido a opinião desfavorável emitida em crítica literária, artística ou científica.",
+      "ter sido o conceito desfavorável emitido por funcionário público, em apreciação ou informação prestada no cumprimento de dever do ofício.",
+      "ter o ofendido, de forma reprovável, provocado diretamente a ofensa."
+    ],
+    "correct": 4,
+    "explanation": "O **perdão judicial** é uma das hipóteses de exclusão de punibilidade (o juiz deixa de aplicar a pena) no crime de injúria (Art. 140, §1º do CP). As hipóteses são: I - Se o ofendido, de forma reprovável, **provocou diretamente a ofensa** (PROVOCAÇÃO); II - No caso de **retorsão imediata**, que consista em outra injúria. As alternativas B, C e D são hipóteses de exclusão de crime (atípicas), previstas no Art. 142 do CP (Imunidades Judiciárias e exclusão do crime)."
+  },
+  {
+    "question": "Admite-se a exceção da verdade no crime de",
+    "options": [
+      "calúnia, se do crime imputado, embora de ação pública, o acusado for absolvido por sentença irrecorrível.",
+      "injúria, se a ofensa consistir na utilização de elementos referentes a raça, cor, etnia, religião ou origem.",
+      "difamação, se o ofendido é funcionário público e a ofensa é relativa ao exercício de suas funções.",
+      "calúnia, se o crime foi cometido contra o Presidente da República, chefe de governo estrangeiro ou funcionário público no exercício de suas funções.",
+      "calúnia, se constituindo o fato imputado crime de ação privada, o ofendido não foi condenado por sentença recorrível."
+    ],
+    "correct": 2,
+    "explanation": "A **exceção da verdade** (*exceptio veritatis*), que é a prova da veracidade do fato imputado, é a regra na calúnia e a exceção na difamação. 1. **Calúnia (Art. 138, §3º):** A exceção da verdade é admitida, **salvo** nas três hipóteses (exceções à exceção) previstas nos incisos I, II e III. O item A é uma hipótese em que a exceção **não é admitida** (inciso III). O item D e E também contêm erros. 2. **Difamação (Art. 139, §único):** A exceção da verdade **somente se admite** se o ofendido é **funcionário público** e a ofensa é **relativa ao exercício de suas funções**. A alternativa C é a exata previsão legal."
+  },
+  {
+    "question": "A respeito dos crimes contra a honra, é correto afirmar que",
+    "options": [
+      "é punível a calúnia contra os mortos.",
+      "constitui difamação punível a ofensa irrogada pela parte em juízo, na defesa da causa.",
+      "é isento de pena o querelado que, antes da sentença, se retratar cabalmente da injúria.",
+      "a injúria só pode ser cometida por gesto e palavras, nunca pela prática de vias de fato.",
+      "admite-se a exceção da verdade no crime de injúria, se a vítima for funcionário público e a ofensa for relacionada à função."
+    ],
+    "correct": 0,
+    "explanation": "A) **CORRETA:** O Art. 138, §2º do CP estabelece que 'É punível a calúnia contra os mortos'. A ação penal deve ser proposta pelo cônjuge, ascendente, descendente ou irmão do falecido. B) **ERRADA:** Ofensas irrogadas em juízo, na discussão da causa, pela parte ou por seu procurador, são abrangidas pela imunidade judiciária e **não constituem crime** (Art. 142, I do CP). C) **ERRADA:** A retratação (Art. 143 do CP) é causa de isenção de pena apenas nos crimes de **calúnia e difamação**, não na injúria. D) **ERRADA:** A injúria pode ser cometida por vias de fato ou violência (além de gestos e palavras), caracterizando a **Injúria Real** (Art. 140, §2º do CP). E) **ERRADA:** No crime de injúria **NUNCA** se admite exceção da verdade."
+  },
+  {
+    "question": "No tocante à exceção da verdade, INCORRETO afirmar que",
+    "options": [
+      "inaplicável no crime de calúnia se o fato imputado constitui delito de ação pública e o ofendido foi absolvido por sentença irrecorrível.",
+      "inaplicável no crime de calúnia se praticado contra chefe de governo estrangeiro.",
+      "inaplicável no crime de calúnia se o fato imputado constitui delito de ação privada e não houve a propositura de queixa.",
+      "inaplicável no crime de difamação se a ofensa a funcionário público não é relativa ao exercício de suas funções.",
+      "aplicável, em qualquer circunstância, no crime de injúria."
+    ],
+    "correct": 4,
+    "explanation": "A exceção da verdade é a prova da veracidade do que foi dito. A questão pede a alternativa **INCORRETA**. A) CORRETA: O Art. 138, §3º, III do CP diz que a prova da verdade é **inadmissível** (inaplicável) se o ofendido foi absolvido por sentença irrecorrível. B) CORRETA: O Art. 138, §3º, II do CP remete ao Art. 141, I, sendo a prova da verdade **inadmissível** se o fato é imputado, entre outros, a chefe de governo estrangeiro. C) CORRETA: A prova da verdade é inadmissível se, constituindo o fato imputado crime de ação privada, **o ofendido não foi condenado por sentença irrecorrível** (Art. 138, §3º, I). Embora o item C não utilize a expressão 'não foi condenado', o seu sentido é equivalente às regras de inadmissibilidade. D) CORRETA: No crime de difamação, a exceção da verdade só se admite se o ofendido é funcionário público e a ofensa **é relativa ao exercício de suas funções** (Art. 139, §único). Se não é relativa à função, é **inaplicável**. E) **INCORRETA:** A exceção da verdade **NUNCA** é admitida no crime de injúria, em nenhuma circunstância. Portanto, afirmar que é aplicável em qualquer circunstância é falso."
+  },
+  {
+    "question": "Nos crimes contra a honra",
+    "options": [
+      "é admissível a exceção da verdade na injúria, se a vítima é funcionária pública e a ofensa é relativa ao exercício de suas funções.",
+      "é admissível a retratação apenas nos casos de calúnia e difamação.",
+      "a pena é aumentada de um terço, se cometidos contra pessoa maior de sessenta anos ou portadora de deficiência, exceto no caso de difamação.",
+      "é admissível o perdão judicial no crime de difamação, se houver retorsão imediata.",
+      "a injúria real consiste no emprego de elementos preconceituosos ou discriminatórios relativos à raça, cor, etnia, religião, origem e condição de idoso ou deficiente."
+    ],
+    "correct": 1,
+    "explanation": "A) **ERRADA:** Na injúria **não** se admite exceção da verdade (Art. 139, §único do CP *a contrario sensu*). B) **CORRETA:** O Art. 143 do CP prevê que o querelado fica isento de pena se, antes da sentença, se retratar cabalmente da **calúnia ou da difamação**. A retratação não se aplica à injúria. C) **ERRADA:** O aumento de pena contra pessoa maior de 60 anos ou deficiente (Art. 141, IV do CP) tem como exceção o crime de **injúria**, e não o de difamação. D) **ERRADA:** A **retorsão imediata** é causa de perdão judicial no crime de **injúria** (Art. 140, §1º, II do CP), não no crime de difamação. E) **ERRADA:** Esta definição refere-se à **injúria qualificada** (injúria preconceituosa, Art. 140, §3º do CP). A **injúria real** (Art. 140, §2º do CP) consiste em violência ou vias de fato que, por sua natureza ou pelo meio empregado, se considerem aviltantes."
+  },
+  {
+    "question": "Serena havia acabado de dar à luz o seu filho, mas, em razão de seu estado emocional, caracterizando o estado puerperal, veio a tirar dolosamente a vida da criança. Considerando o disposto no Código Penal, é correto afirmar que essa conduta de Serena",
+    "options": [
+      "caracteriza o crime de infanticídio.",
+      "não é considerada crime.",
+      "é considerada crime de homicídio qualificado.",
+      "caracteriza o crime de homicídio, com agravante de a vítima ser um recém-nascido.",
+      "é considerada crime, mas Serena ficará isenta de pena por ter sido influenciada pelo estado puerperal."
+    ],
+    "correct": 0,
+    "explanation": "A conduta de Serena, por ser a mãe, matar o próprio filho, **sob a influência do estado puerperal**, e logo após o parto, enquadra-se perfeitamente no tipo penal do **Infanticídio** (Art. 123 do CP). Este é um crime doloso contra a vida, mas de natureza privilegiada, com pena de detenção de dois a seis anos, devido à condição especial da mãe."
+  },
+  {
+    "question": "Hércules havia cometido um crime de roubo e ficou sabendo que Medusa foi testemunha ocular desse delito. Assim, resolve tirar a vida de Medusa, crime este que veio a executar, pessoalmente, mediante disparo de arma de fogo. Nessa situação hipotética, considerando apenas essas informações, segundo o Código Penal, é correto afirmar que Hércules cometeu o crime de",
+    "options": [
+      "homicídio simples.",
+      "homicídio simples, com atenuante, por ter agido sob o domínio de violenta emoção.",
+      "feminicídio em razão de a vítima ser mulher.",
+      "homicídio qualificado, por ter agido para assegurar a impunidade de outro crime.",
+      "homicídio qualificado, em razão de a vítima ser mulher."
+    ],
+    "correct": 3,
+    "explanation": "Hércules cometeu o homicídio com a finalidade de eliminar a testemunha ocular do roubo, ou seja, para **assegurar a impunidade de outro crime** (o roubo). Isso é uma qualificadora do homicídio, prevista no Art. 121, §2º, V do CP (conexão teleológica ou consequencial). O crime é, portanto, **homicídio qualificado**."
+  },
+  {
+    "question": "Segundo o Código Penal, quando o crime de homicídio é culposo,",
+    "options": [
+      "a pena prevista é maior do que a do homicídio doloso.",
+      "não será admitido agravante de aumento de pena.",
+      "o agente ficará, necessariamente, sujeito à pena de reclusão.",
+      "o agente poderá ficar isento de pena se agir para compensar os familiares da vítima.",
+      "o juiz poderá deixar de aplicar a pena em hipótese determinada."
+    ],
+    "correct": 4,
+    "explanation": "A) ERRADA: A pena do homicídio culposo (detenção de 1 a 3 anos) é muito menor que a do doloso (reclusão de 6 a 20 anos). B) ERRADA: Há causas de aumento de pena no homicídio culposo (majorantes), como a inobservância de regra técnica ou a fuga para evitar o flagrante (Art. 121, §4º). C) ERRADA: A pena do homicídio culposo é de **detenção**, e não reclusão. D) ERRADA: Não há isenção de pena por compensação familiar. E) **CORRETA:** O Art. 121, §5º do CP prevê o **perdão judicial** no homicídio culposo: 'Na hipótese de homicídio culposo, o juiz poderá deixar de aplicar a pena, se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária.' (Ex: o agente mata o próprio filho por culpa)."
+  },
+  {
+    "question": "Tendo em conta os artigos 138 a 145 do Código Penal, que tratam dos crimes contra a honra, assinale a alternativa correta.",
+    "options": [
+      "Nos crimes de calunia e difamação, procede-se mediante queixa. Já no crime de injúria, em qualquer de suas modalidades, procede-se mediante representação do ofendido.",
+      "No crime de calúnia, praticado em detrimento de chefe de governo estrangeiro, admite-se exceção da verdade.",
+      "No crime de difamação, praticado em detrimento de funcionário público, admite-se a exceção da verdade, desde que a ofensa seja relativa ao exercício de suas funções.",
+      "A retratação da ofensa, que isenta o querelado de pena, desde que feita antes da sentença, aplica-se aos crimes de calúnia, difamação e injúria.",
+      "Não constituem injúria ou difamação punível a ofensa irrogada em juízo, na discussão da causa, pela parte ou por seu procurador, estendendo a exclusão do crime a quem der publicidade à ofensa."
+    ],
+    "correct": 2,
+    "explanation": "A) ERRADA: Injúria, como regra, é de ação penal privada (mediante queixa), assim como calúnia e difamação, mas possui exceções. B) ERRADA: O Art. 138, §3º, II do CP proíbe a exceção da verdade quando a calúnia é praticada contra chefe de governo estrangeiro (remete ao Art. 141, I). C) **CORRETA:** É a exata previsão do Art. 139, §único do CP, sendo a única hipótese de admissibilidade de exceção da verdade na difamação. D) ERRADA: A retratação (Art. 143 do CP) só se aplica à **calúnia e difamação**, não à injúria. E) ERRADA: A exclusão do crime (imunidade judiciária, Art. 142) se aplica à ofensa irrogada em juízo, mas não se estende a quem der publicidade à ofensa (Art. 142, §único do CP)."
+  },
+  {
+    "question": "Tendo em conta os crimes contra a liberdade individual, previstos nos artigos 146 a 149 do Código Penal, bem como os de extorsão (158 do CP) e extorsão mediante sequestro (159 do CP), é correto afirmar que",
+    "options": [
+      "Mévio e Caio, demitidos, ao manterem preso, por 10 dias, em uma casa abandonada, por vingança, o filho do dono da empresa em que trabalhavam, praticam o crime de extorsão mediante sequestro, previsto no artigo 159 do CP.",
+      "Mévio, ao manter Tícia, sua vizinha, presa em casa, amarrada à cama, por uma semana, condicionando sua soltura à entrega da senha do cofre, onde ele sabia existir dólares e joias, pratica o crime de cárcere privado, previsto no artigo 148 do CP.",
+      "Tício, ao submeter seus empregados a trabalho forçado e a condições degradantes, com restrição à locomoção, pratica o crime de constrangimento ilegal, previsto no artigo 146 do CP.",
+      "Tício, ao ficar parado em frente ao trabalho de Mévia, sua ex-mulher, fazendo gestos com as mãos que simbolizam disparos de arma de fogo, causando-lhe temor, pratica o crime de ameaça.",
+      "Caio, médico, ao realizar transfusão de sangue em Tício, menor, sem o consentimento dos pais, ainda que para salvá-lo de risco iminente de morte, pratica o crime de constrangimento ilegal, previsto no artigo 146 do CP."
+    ],
+    "correct": 3,
+    "explanation": "A) ERRADA: Se o sequestro é por vingança e não visa à obtenção de resgate/vantagem, o crime é **sequestro ou cárcere privado** (Art. 148 do CP), e não extorsão mediante sequestro. B) ERRADA: O cárcere privado com o fim de obter a senha do cofre configura **extorsão mediante restrição da liberdade da vítima** (Art. 158, §3º do CP), e não apenas cárcere privado. C) ERRADA: Submeter alguém a trabalho forçado e a condições degradantes com restrição à locomoção configura **redução à condição análoga à de escravo** (Art. 149 do CP), e não constrangimento ilegal. D) **CORRETA:** O crime de **ameaça** (Art. 147 do CP) é caracterizado por 'ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave'. O gesto de simular disparos de arma de fogo se enquadra em 'gesto... ou qualquer outro meio simbólico'. E) ERRADA: O Art. 146, §3º, I do CP prevê que não constitui constrangimento ilegal a intervenção médica ou cirúrgica, **sem consentimento do paciente ou de seu responsável, se justificada por iminente perigo de vida**. Portanto, a conduta do médico é lícita."
+  }
+  , {
+    "question": "No dia 01/03/2014, Vitor, 60 anos, desferiu um golpe de faca no peito de sua namorada Clara, 65 anos, que foi a causa eficiente de sua morte, pois descobrira que a vítima mantinha uma relação extraconjugal com o vizinho. Foi instaurado inquérito policial para apurar o evento, entrando em vigor, no curso das investigações, a Lei nº 13.104/2015, passando a prever a qualificadora do feminicídio. As investigações somente foram concluídas em 25/01/2021. Considerando apenas as informações expostas, a autoridade policial deverá indiciar Vitor pela prática do crime de homicídio:",
+    "options": [
+      "com causa de aumento de pena, sem a qualificadora pela condição de mulher da vítima;",
+      "sem qualquer causa de aumento de pena e sem a qualificadora pela condição de mulher da vítima;",
+      "com a qualificadora pela condição de mulher da vítima, bem como causa de aumento de pena;",
+      "com a qualificadora pela condição de mulher da vítima, sem qualquer causa de aumento de pena;",
+      "com a qualificadora pela condição de mulher da vítima, além de causa de diminuição de pena pelo relevante valor moral"
+    ],
+    "correct": 0,
+    "explanation": "Nesse caso, como a lei penal não pode retroagir para prejudicar o réu (novatio legis in pejus), não será aplicada a qualificadora relativa ao feminicídio (Lei nº 13.104/2015), pois o fato ocorreu em 2014. Todavia, como a vítima tinha mais de 60 anos (65 anos), será aplicada a majorante prevista no art. 121, §4º do CP: Art. 121 (...) § 4º No homicídio culposo, a pena é aumentada de 1/3 (um terço), se o crime resulta de inobservância de regra técnica de profissão, arte ou ofício, ou se o agente deixa de prestar imediato socorro à vítima, não procura diminuir as conseqüências do seu ato, ou foge para evitar prisão em flagrante. Sendo doloso o homicídio, a pena é aumentada de 1/3 (um terço) se o crime é praticado contra pessoa menor de 14 (quatorze) ou maior de 60 (sessenta) anos. (Redação dada pela Lei nº 10.741, de 2003)"
+  },
+  {
+    "question": "Enquanto realizava compras em uma famosa loja de grife da cidade, Roberto iniciou discussão com a vendedora Joana, vindo a afirmar, na presença de quinze clientes, que o mau atendimento só poderia ter sido causado por uma 'negrinha que deveria estar comendo banana'. Joana ficou envergonhada com toda a situação, optando por ir para casa e não contar a ninguém sobre o ocorrido. Contudo, a proprietária do estabelecimento compareceu em sede policial e narrou os fatos. Considerando apenas as informações expostas, é correto afirmar que o delegado:",
+    "options": [
+      "deverá instaurar inquérito policial, pois o crime em tese praticado foi de injúria racial sem causa de aumento, que é de ação penal pública incondicionada;",
+      "não poderá instaurar inquérito policial, pois o crime em tese praticado foi de injúria racial majorada, que exige representação da vítima;",
+      "deverá instaurar inquérito policial, pois foi praticado crime de racismo, que é de ação penal pública incondicionada;",
+      "não poderá instaurar inquérito policial, pois foi praticado crime de injúria racial simples, que é de ação penal privada;",
+      "deverá instaurar inquérito policial, pois o crime praticado foi de injúria racial majorada, que é de ação penal pública incondicionada."
+    ],
+    "correct": 1,
+    "explanation": "Nesse caso, o agente ofendeu a vítima, usando para tanto elementos de raça ou cor, motivo pelo qual está caracterizado o crime de injúria racial (ou injúria preconceituosa), previsto no art. 140, §3º do CP: Art. 140 (...) § 3º Se a injúria consiste na utilização de elementos referentes a raça, cor, etnia, religião, origem ou a condição de pessoa idosa ou portadora de deficiência: (Redação dada pela Lei nº 10.741, de 2003) Pena - reclusão de um a três anos e multa. (Incluído pela Lei nº 9.459, de 1997). Tal delito é de ação penal pública **condicionada à representação** (art. 145, § único do CP), motivo pelo qual não poderia o delegado instaurar o inquérito policial sem a representação da vítima (art. 5º, §4º do CPP). Frise-se que há, ainda, a majorante por ter sido praticado o crime na presença de várias pessoas (quinze clientes), gerando aumento de pena de um terço (Art. 141, III do CP)."
+  },
+  {
+    "question": "Saulo se desentendeu, na fila do caixa de um supermercado, com outra consumidora, Viviane, que estava no 8º mês de gestação, e lhe desferiu um fortíssimo soco no rosto. Em razão do golpe, Viviane perdeu o equilíbrio e caiu com a barriga no chão. Ao ser levada ao hospital, foi constatado que Viviane apresentava lesão leve na face, mas que havia perdido o bebê em decorrência da queda. Considerando o estado gravídico evidente de Viviane, a conduta praticada por Saulo configura o crime de:",
+    "options": [
+      "lesão corporal seguida de morte;",
+      "lesão corporal qualificada pelo aborto;",
+      "aborto na modalidade dolo eventual, apenas;",
+      "aborto culposo, ficando a lesão corporal absorvida;",
+      "lesão corporal leve em concurso formal com aborto na forma culposa."
+    ],
+    "correct": 1,
+    "explanation": "Nesse caso, o agente deverá ser responsabilizado pelo crime de **lesão corporal dolosa qualificada pela ocorrência do aborto** (crime preterdoloso), na forma do art. 129, §2º, V do CP: Art. 129. Ofender a integridade corporal ou a saúde de outrem: § 2º Se resulta: (...) V - aborto: Pena - reclusão, de dois a oito anos. O agente tinha o dolo de lesionar (soco no rosto) e a queda provocou o aborto (resultado mais grave decorrente de culpa)."
+  },
+  {
+    "question": "Insatisfeito com o comportamento de seu empregador Juca, Carlos escreve uma carta para a família daquele, afirmando que Juca seria um estelionatário e torturador. Lacra a carta e a entrega no correio, adotando todas as medidas para que chegasse aos destinatários. No dia seguinte, porém, Carlos se arrepende de seu comportamento e passa a adotar conduta para evitar que a carta fosse lida por qualquer pessoa e o crime consumado. Carlos vai até a casa de Juca, tenta retirar a carta da caixa do correio, mas vê o exato momento em que Juca e sua esposa pegam o envelope e leem todo o escrito. Ofendido, Juca procura seu advogado e narra o ocorrido. Considerando a situação apresentada, o advogado de Juca deverá esclarecer que a conduta de Carlos configura crime de:",
+    "options": [
+      "injúria, consumado;",
+      "tentativa de injúria, pois houve arrependimento eficaz, devendo Carlos responder apenas pelos atos já praticados;",
+      "tentativa de calúnia, pois houve desistência voluntária, devendo Carlos responder apenas pelos atos já praticados;",
+      "tentativa de calúnia, pois houve arrependimento eficaz, devendo Carlos responder apenas pelos atos já praticados;",
+      "calúnia, consumado."
+    ],
+    "correct": 0,
+    "explanation": "Neste caso, Carlos praticou o crime de **injúria** (Art. 140 do CP), em sua forma consumada. Não há que se falar em calúnia, pois o agente não atribuiu à vítima a prática de **FATO criminoso determinado** (Ex.: furtou o carro na semana passada), apenas se referiu à pessoa como um criminoso ('estelionatário e torturador'), o que configura a injúria. O crime se consumou no momento em que a ofensa (a carta) chegou ao conhecimento da vítima (Juca e sua esposa), e a tentativa de Carlos em impedir o resultado, após a consumação, não configura desistência voluntária ou arrependimento eficaz."
+  },
+  {
+    "question": "Lucas é empregador dos trabalhadores Manuel, Francisco e Pedro em sua fazenda na zona rural. Analise as três situações apresentadas: I. Lucas retém a carteira de identidade de Manuel, único documento deste, impedindo que deixe o local de trabalho. II. Lucas autoriza que Francisco gaste apenas 15 minutos todo dia para horário de almoço, de modo que Francisco somente pode comprar uma refeição na pequena cantina de Lucas que funciona dentro da fazenda. Em razão dos altos preços dos produtos, Francisco contrai dívida alta e é impedido de deixar a fazenda antes do pagamento dos valores devidos. III. Lucas instala diversas câmeras e outros mecanismos de vigilância ostensiva na fazenda com o fim de reter Pedro em seu local de trabalho. Considerando as situações apresentadas, o comportamento de Lucas em relação a Manuel, Francisco e Pedro configura, respectivamente, o(s) crime(s) de:",
+    "options": [
+      "redução à condição análoga à de escravo, nas três situações;",
+      "redução à condição análoga à de escravo, exercício arbitrário das próprias razões e redução à condição análoga à de escravo;",
+      "apropriação indébita, redução à condição análoga à de escravo e redução à condição análoga à de escravo;",
+      "cárcere privado, exercício arbitrário das próprias razões e redução à condição análoga à de escravo;",
+      "redução à condição análoga à de escravo, redução à condição análoga à de escravo e constrangimento ilegal."
+    ],
+    "correct": 0,
+    "explanation": "Nos três casos temos o crime de **redução à condição análoga à de escravo**, previsto no art. 149 do CP, sendo as situações descritas como formas de cerceamento da liberdade e da dignidade do trabalhador. Vejamos: Art. 149. Reduzir alguém a condição análoga à de escravo, quer submetendo-o a trabalhos forçados ou a jornada exaustiva, quer sujeitando-o a condições degradantes de trabalho, quer restringindo, por qualquer meio, sua locomoção em razão de dívida contraída com o empregador ou preposto: (...) § 1º Nas mesmas penas incorre quem: (...) II – mantém vigilância ostensiva no local de trabalho ou se apodera de documentos ou objetos pessoais do trabalhador, com o fim de retê-lo no local de trabalho. No primeiro caso (I), temos o previsto no art. 149, §1º, II do CP (apoderar-se de documentos). No segundo caso (II), temos a conduta prevista no art. 149, caput, do CP (restrição de locomoção em razão de dívida, o chamado 'servidão por dívida'). No terceiro caso (III), por fim, temos a situação descrita no art. 149, §1º, II do CP (mantém vigilância ostensiva)."
+  },
+  {
+    "question": "João, servidor público estadual ocupante do cargo efetivo de engenheiro civil, foi o responsável por determinada obra com escavação de um poço. João agiu culposamente, nas modalidades de imperícia e negligência, pois, na condição de engenheiro civil, realizou obra sem observar seu dever objetivo de cuidado e as regras técnicas da profissão, provocando como resultado a morte de um pedreiro que trabalhava no local. Em termos de responsabilidade criminal, em tese, João:",
+    "options": [
+      "não deve ser processado por homicídio, pois não agiu com dolo ou culpa criminal, restringindo-se sua responsabilidade à esfera cível;",
+      "não deve ser processado por homicídio, pois agiu como funcionário público no exercício da função, restando apenas a responsabilidade cível que recairá sobre o poder público;",
+      "deve ser processado por homicídio doloso, eis que agiu com dolo direto e eventual, na medida em que assumiu o risco de provocar a morte do pedreiro;",
+      "deve ser processado por homicídio culposo, com causa de diminuição de pena, eis que não agiu com intenção de provocar o resultado morte do pedreiro;",
+      "deve ser processado por homicídio culposo, com causa de aumento de pena, eis que o crime resultou de inobservância de regra técnica de profissão."
+    ],
+    "correct": 4,
+    "explanation": "Neste caso, João deve responder pelo crime de **homicídio culposo**, previsto no art. 121, §3º do CP, pois deu causa ao resultado morte por culpa (negligência e imperícia). Neste caso, o agente terá, ainda, sua pena **aumentada de um terço**, na forma do art. 121, §4º, primeira parte, do CP, pois o crime resulta de **inobservância de regra técnica de profissão**."
+  },
+  {
+    "question": "Senador da República, em página pessoal da internet ('blog'), na qual comenta assuntos do cotidiano, imputou a delegado de polícia o fato de ter arquivado investigações sob sua condução para atender a interesses políticos de seus aliados. Tal postura do Parlamentar constitui:",
+    "options": [
+      "exercício arbitrário ou abuso de poder;",
+      "exercício arbitrário das próprias razões;",
+      "difamação;",
+      "calúnia;",
+      "conduta atípica."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa CORRETA é a D. O Senador, neste caso, praticou o crime de **calúnia**, previsto no art. 138 do CP, pois imputou ao delegado, falsamente, **fato definido como crime** (arquivamento de inquérito por interesse político pode configurar prevaricação ou corrupção passiva). Não há que se falar, aqui, em imunidade por expressões, palavras e votos (imunidade material dos parlamentares), pois não há, a princípio, relação com o exercício das funções do Senador."
+  },
+  {
+    "question": "Roberta, enquanto conversava com Robson, afirmou categoricamente que presenciou quando Caio explorava jogo do bicho, no dia 03/03/2017. No dia seguinte, Roberta contou para João que Caio era um 'furtador'. Caio toma conhecimento dos fatos, procura você na condição de advogado (a) e nega tudo o que foi dito por Roberta, ressaltando que ela só queria atingir sua honra. Nesse caso, deverá ser proposta queixa-crime, imputando a Roberta a prática de",
+    "options": [
+      "1 crime de difamação e 1 crime de calúnia.",
+      "1 crime de difamação e 1 crime de injúria.",
+      "2 crimes de calúnia.",
+      "1 crime de calúnia e 1 crime de injúria."
+    ],
+    "correct": 1,
+    "explanation": "No presente caso, Roberta praticou: 1. **Difamação** (Art. 139 do CP): ao afirmar que presenciou Caio explorando **jogo do bicho** (contravenção penal), pois imputou a Caio **fato ofensivo à sua reputação**, mas que **não** é definido como crime. 2. **Injúria** (Art. 140 do CP): ao contar para João que Caio era um **furtador**, pois não houve imputação de um fato específico e determinado, mas a atribuição de uma **qualidade negativa** (desonrosa) a Caio, atingindo sua dignidade e decoro (injúria)."
+  },
+  {
+    "question": "Paloma, sob o efeito do estado puerperal, logo após o parto, durante a madrugada, vai até o berçário onde acredita encontrar-se seu filho recém-nascido e o sufoca até a morte, retornando ao local de origem sem ser notada. No dia seguinte, foi descoberta a morte da criança e, pelo circuito interno do hospital, é verificado que Paloma foi a autora do crime. Todavia, constatou-se que a criança morta não era o seu filho, que se encontrava no berçário ao lado, tendo ela se equivocado quanto à vítima desejada. Diante desse quadro, Paloma deverá responder pelo crime de",
+    "options": [
+      "homicídio culposo.",
+      "homicídio doloso simples.",
+      "infanticídio.",
+      "homicídio doloso qualificado."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O crime de **infanticídio** (Art. 123 do CP) é caracterizado pela mãe, sob a influência do estado puerperal, matar o próprio filho, durante o parto ou logo após. O fato de Paloma ter acabado por matar o filho de outra pessoa (erro na execução, ou *aberratio ictus*, ou neste caso, *erro sobre a pessoa* ou *erro na escolha do objeto*), não altera o título do crime, pois o Código Penal estabelece que o agente responde **como se tivesse atingido a pessoa visada** (Art. 20, §3º do CP, por analogia ou pelo princípio de que o erro não o beneficia/prejudica). Portanto, Paloma responde por infanticídio, prevalecendo a condição especial (estado puerperal) sobre o erro."
+  },
+  {
+    "question": "No que toca ao delito de aborto e seus permissivos legais, é correto afirmar que:",
+    "options": [
+      "não é admissível na legislação pátria, diante do direito à vida consagrado na Constituição da República.",
+      "é amplamente admissível na legislação pátria, diante da supremacia da disposição da mulher sobre seu corpo.",
+      "é excepcionalmente admissível na legislação pátria, no caso de aborto terapêutico ou aborto humanitário (ou piedoso).",
+      "é excepcionalmente admissível na legislação pátria, no caso de aborto eugênico ou aborto humanitário (ou piedoso).",
+      "é amplamente admissível na legislação pátria, em razão de questões de política de saúde pública, mesmo sem o consentimento da gestante."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O aborto só é permitido na legislação brasileira em hipóteses excepcionais (não puníveis, não excludentes de ilicitude, conforme melhor doutrina), que são: 1. **Aborto terapêutico** (ou necessário - Art. 128, I do CP): quando não há outro meio de salvar a vida da gestante. 2. **Aborto humanitário** (ou sentimental/piedoso - Art. 128, II do CP): quando a gravidez resulta de estupro e há o consentimento da gestante ou de seu representante legal. Contudo, o STF passou a admitir, também, o aborto de fetos anencéfalos (fetos sem cérebro ou com má formação cerebral), no julgamento da ADPF 54, o qual é uma exceção **jurisprudencial** (não legal)."
+  }
+],
+
+"Decreto_11615":[
+  {
+    "question": "De acordo com o Art. 4º, compete à Polícia Federal diversas atribuições no controle de armas. Assinale a alternativa INCORRETA sobre essas competências.",
+    "options": [
+      "Concessão de porte de arma de fogo pessoal e de suas renovações.",
+      "Concessão e emissão da guia de tráfego.",
+      "Definição e classificação legal, técnica e geral dos produtos controlados (armas e munições).",
+      "Recolher e gerenciar o procedimento de entrega voluntária de armas de fogo."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 4º lista as competências da Polícia Federal. A 'Definição e classificação legal, técnica e geral dos produtos controlados' é de competência do Comando do Exército, por intermédio do Ministério da Defesa, conforme o Art. 5º."
+  },
+  {
+    "question": "Segundo o Art. 5º, a quem compete apresentar proposta ao Presidente da República para a classificação legal, técnica e geral dos produtos controlados?",
+    "options": [
+      "À Polícia Federal.",
+      "Ao Ministério da Justiça e Segurança Pública.",
+      "Ao Comando do Exército, por intermédio do Ministério da Defesa.",
+      "Ao Congresso Nacional."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o Art. 5º, essa competência é do Comando do Exército, por intermédio do Ministério da Defesa."
+  },
+  {
+    "question": "Conforme o Art. 11, são consideradas armas de fogo de uso permitido aquelas cuja munição comum, na saída do cano de prova, tenha energia de até:",
+    "options": [
+      "Quatrocentos e sete joules (300 libras-pé).",
+      "Mil joules (730 libras-pé).",
+      "Mil seiscentos e vinte joules (1200 libras-pé).",
+      "Cinquenta joules."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 11, I, estabelece o limite de energia de até 407 joules (300 libras-pé) para a munição comum de armas de fogo de uso permitido."
+  },
+  {
+    "question": "Sobre as armas de uso restrito definidas no Art. 12, assinale a alternativa INCORRETA.",
+    "options": [
+      "Armas de fogo automáticas são consideradas de uso restrito, independentemente do calibre.",
+      "Armas de pressão por gás comprimido com calibre superior a 6.35mm são restritas (exceto marcadores de paintball).",
+      "Armas de fogo não portáteis são consideradas de uso restrito.",
+      "Armas de fogo de porte (pistolas) com energia de até 300 libras-pé são consideradas de uso restrito."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 11, I, define armas de porte com energia de até 407 joules (300 libras-pé) como de uso permitido, e não restrito. O Art. 12 lista as armas de uso restrito."
+  },
+  {
+    "question": "De acordo com o Art. 13, a comercialização de armas de fogo de uso restrito é vedada, RESSALVADAS as aquisições por:",
+    "options": [
+      "Qualquer cidadão com mais de 30 anos e ficha limpa.",
+      "Colecionadores iniciantes (Nível 1) para acervo histórico.",
+      "Instituições públicas de segurança/defesa, atiradores de nível 3 e caçadores excepcionais.",
+      "Empresas de segurança privada para uso ostensivo de vigilantes em bancos."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 13 lista como exceções (I, II e III) as aquisições por órgãos de segurança/defesa, atiradores desportivos de Nível 3 e caçadores excepcionais."
+  },
+  {
+    "question": "O Art. 14 define as armas e munições de uso proibido. Assinale a alternativa que apresenta um item que NÃO é considerado de uso proibido.",
+    "options": [
+      "Armas de fogo dissimuladas, com aparência de objetos inofensivos.",
+      "Munições incendiárias ou químicas.",
+      "Brinquedos e réplicas que possam se confundir com armas de fogo (sem exceções).",
+      "Armas de pressão e simulacros destinados à instrução ou adestramento de usuário autorizado."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 14, IV, considera proibidos brinquedos e réplicas, 'ressalvados os destinados ao adestramento ou à instrução, quando autorizados'."
+  },
+  {
+    "question": "Para a aquisição de arma de fogo de uso permitido, o Art. 15 exige que o interessado cumpra vários requisitos. Assinale a alternativa INCORRETA.",
+    "options": [
+      "Ter, no mínimo, vinte e cinco anos de idade.",
+      "Comprovar a efetiva necessidade da posse ou do porte de arma de fogo.",
+      "A autorização para aquisição de arma de fogo é transferível para parentes de primeiro grau.",
+      "Apresentar documento comprobatório de ocupação lícita e de residência certa."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 15 lista os requisitos para aquisição (I a IV). A autorização de aquisição é pessoal e não é transferível automaticamente para parentes de primeiro grau."
+  },
+  {
+    "question": "Sobre a comprovação da efetiva necessidade para aquisição de arma (Art. 15, § 3º), é correto afirmar que: define posse mediante comprovação de efetiva necessidade]. Baseado no texto geral do decreto:",
+    "options": [
+      "A efetiva necessidade é presumida para qualquer cidadão sem antecedentes criminais.",
+      "Basta declarar que reside em área urbana violenta.",
+      "Não é presumida e deverá demonstrar fatos e circunstâncias concretas, como riscos à vida ou integridade física.",
+      "É dispensada para servidores públicos de qualquer categoria."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 15, § 3º, estabelece que a efetiva necessidade 'não é presumida' e deve ser 'demonstrada por fatos e circunstâncias concretas', como os riscos à vida ou integridade física."
+  },
+  {
+    "question": "O Certificado de Registro de Arma de Fogo (CRAF), conforme o Art. 23, autoriza o proprietário a manter a arma de fogo:",
+    "options": [
+      "Em qualquer lugar do território nacional, desde que desmuniciada.",
+      "Exclusivamente no interior de sua residência ou dependências, ou em seu local de trabalho (se titular/responsável legal).",
+      "Dentro do veículo particular, desde que escondida no porta-luvas.",
+      "Em casas de veraneio ou propriedades de terceiros com autorização verbal."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 23, § 1º, estabelece que o CRAF autoriza a posse 'exclusivamente no interior de sua residência ou dependência dessa ou, ainda, em seu local de trabalho'."
+  },
+  {
+    "question": "Sobre as regras para o porte de trânsito (Art. 33/34 no contexto geral, especificamente Guia de Tráfego no Art. 73 § 3º e definições Art. 2 item XXXIV), assinale a alternativa INCORRETA.",
+    "options": [
+      "Permite transitar com armas de fogo registradas no acervo, municiadas e prontas para uso imediato.",
+      "Destina-se a colecionadores, atiradores, caçadores e representantes estrangeiros em competição.",
+      "Exige que a arma esteja desmuniciada.",
+      "Tem validade em trajeto preestabelecido e por período predeterminado."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 2º, XXXIV, define o Porte de Trânsito como a autorização para transitar com armas de fogo **desmuniciadas**, sendo vedado o trânsito com arma pronta para uso imediato."
+  },
+  {
+    "question": "Conforme o Art. 34, a prática de tiro desportivo com arma de fogo é permitida, via de regra, aos maiores de:",
+    "options": [
+      "Dezesseis anos.",
+      "Dezoito anos.",
+      "Vinte e um anos.",
+      "Vinte e cinco anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 34, caput, determina que a prática de tiro desportivo é permitida aos maiores de dezoito anos."
+  },
+  {
+    "question": "Excepcionalmente, segundo o Art. 34, § 1º, pode ser concedido o CR para prática de tiro desportivo a menores de 18 anos. Qual a idade mínima para essa exceção?",
+    "options": [
+      "Doze anos.",
+      "Quatorze anos.",
+      "Dezesseis anos.",
+      "Não há idade mínima, depende de decisão judicial."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 34, § 1º, estabelece que a concessão do CR para menores de dezoito anos é permitida desde que tenham 'no mínimo, quatorze anos de idade'."
+  },
+  {
+    "question": "O Art. 38-C (incluído pelo Decreto 11.615/2023) estabelece limites para o atirador desportivo de alto rendimento. Assinale a alternativa correta sobre a quantidade de armas permitidas.",
+    "options": [
+      "Até sessenta armas de qualquer tipo.",
+      "Até dezesseis armas, das quais oito podem ser de uso restrito.",
+      "Até quatro armas de uso permitido apenas.",
+      "Ilimitada, desde que comprovada a capacidade financeira."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 38-C, I, alínea 'b' (Nível 3 - Alto Rendimento), limita a aquisição a 'até dezesseis armas de fogo, das quais até oito de uso restrito'."
+  },
+  {
+    "question": "Sobre a atividade de caça excepcional (Art. 39), assinale a alternativa INCORRETA.",
+    "options": [
+      "Tem como finalidade o manejo de fauna exógena invasora.",
+      "Exige CR apostilado para a atividade de caça excepcional.",
+      "Permite o uso de qualquer arma do acervo de coleção para o abate do animal.",
+      "Limita-se a até seis armas de fogo, sendo duas de uso restrito (autorizadas pelo Exército)."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 42 veda o uso de armas de acervo de coleção para tiro (salvo em eventos autorizados), e o Art. 39 limita as armas para caça àquelas apostiladas para a atividade."
+  },
+  {
+    "question": "A respeito da caça de subsistência (Art. 40), assinale a alternativa INCORRETA.",
+    "options": [
+      "É destinada ao provimento de recursos alimentares indispensáveis à sobrevivência.",
+      "É concedida pela Polícia Federal aos maiores de 25 anos residentes em áreas rurais.",
+      "Autoriza a caça de animais de espécies protegidas e ameaçadas de extinção livremente.",
+      "É voltada a povos indígenas e comunidades tradicionais, entre outros dependentes."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 40, § 3º, proíbe expressamente a caça de 'animais de espécies protegidas e ameaçadas de extinção', ressalvada autorização do órgão ambiental competente."
+  },
+  {
+    "question": "De acordo com o Art. 42 e definições de coleção, assinale a alternativa INCORRETA sobre as armas de acervo de coleção.",
+    "options": [
+      "É vedada a realização de tiro com armas de coleção, exceto em eventos específicos autorizados.",
+      "É vedada a compra de munição para armas de coleção (regra geral).",
+      "As armas de coleção podem ser utilizadas livremente para defesa pessoal do colecionador.",
+      "A coleção visa contribuir para a preservação do patrimônio histórico nacional ou estrangeiro."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 42, caput, veda a utilização das armas de coleção para tiro, salvo em eventos específicos, o que inviabiliza seu uso para defesa pessoal diária."
+  },
+  {
+    "question": "Segundo o Art. 48, o porte de arma de fogo possui características específicas. Assinale a opção que as descreve corretamente.",
+    "options": [
+      "É pessoal, intransferível e revogável a qualquer tempo.",
+      "É vinculado à empresa, transferível entre funcionários e vitalício.",
+      "É familiar, abrangendo o cônjuge, e válido por 20 anos.",
+      "É universal, permitindo o porte de qualquer arma registrada no Brasil."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 48, caput, define o porte como 'pessoal, intransferível e revogável a qualquer tempo'."
+  },
+  {
+    "question": "O Art. 50 estabelece obrigações imediatas ao titular do porte de arma de fogo em caso de eventos específicos. Assinale a alternativa INCORRETA.",
+    "options": [
+      "Comunicar a mudança de domicílio ao órgão expedidor.",
+      "Comunicar o extravio, furto ou roubo à unidade policial mais próxima e à Polícia Federal.",
+      "Solicitar autorização prévia para viajar para outro estado com a arma.",
+      "A inobservância da comunicação implica suspensão do porte."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 50 não estabelece a obrigação de solicitar autorização prévia para viajar entre estados com a arma. A obrigação é de comunicação em caso de extravio, furto, roubo ou mudança de domicílio."
+  },
+  {
+    "question": "Conforme o Art. 57, a quem compete conceder porte de arma de fogo funcional aos integrantes das guardas municipais?",
+    "options": [
+      "Ao Prefeito Municipal.",
+      "Ao Comando do Exército.",
+      "À Polícia Federal.",
+      "Ao Governador do Estado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 57, caput, atribui à Polícia Federal a competência para conceder o porte de arma de fogo funcional aos integrantes das Guardas Municipais."
+  },
+  {
+    "question": "O Art. 62 prevê a suspensão cautelar do CRAF e do porte. Qual é o motivo citado para essa medida administrativa?",
+    "options": [
+      "Atraso no pagamento de taxas anuais.",
+      "Sinais exteriores da perda da aptidão psicológica para manuseio de arma de fogo.",
+      "Não comparecimento às reuniões do clube de tiro.",
+      "Viagem ao exterior por período superior a 30 dias."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 62 estabelece que a suspensão cautelar pode ocorrer 'em caso de indícios, sinais exteriores ou notícia de perda da aptidão psicológica para o manuseio de arma de fogo'."
+  },
+  {
+    "question": "Sobre o destino das armas apreendidas (Art. 66), assinale a alternativa INCORRETA.",
+    "options": [
+      "As armas devem passar por perícia antes da destinação final.",
+      "Munições apreendidas podem ser doadas aos órgãos de segurança pública ou Forças Armadas.",
+      "As armas apreendidas são automaticamente leiloadas para colecionadores particulares.",
+      "Munições consideradas inservíveis devem ser encaminhadas ao Comando do Exército para destruição."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 66, § 1º, estabelece que a destinação prioritária é aos órgãos de segurança pública ou Forças Armadas. O leilão não é o destino automático ou prioritário."
+  },
+  {
+    "question": "De acordo com o Art. 75, qual é o valor da multa aplicada a empresas de transporte que permitam o transporte de arma/munição sem autorização ou normas de segurança?",
+    "options": [
+      "R$ 10.000,00.",
+      "R$ 50.000,00.",
+      "R$ 100.000,00.",
+      "R$ 1.000.000,00."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 75 prevê a aplicação de multa de 'cem mil reais' a empresas de transporte que cometam a infração."
+  },
+  {
+    "question": "O Art. 79-A (incluído pelo Decreto 11.615/2023) traz uma proibição específica relacionada ao período eleitoral. Qual é essa proibição?",
+    "options": [
+      "Proibida a venda de armas nos 30 dias anteriores à eleição.",
+      "Proibido o transporte de armas e munições por CACs no dia das eleições, nas 24h anteriores e 24h posteriores.",
+      "Proibido o porte de arma por policiais em serviço no dia da eleição.",
+      "Proibido o funcionamento de lojas de armas na semana da eleição."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 79-A, incluído pelo Decreto 11.615/2023, suspende o porte de trânsito e a guia de tráfego 'vinte e quatro horas antes e vinte e quatro horas depois das eleições'."
+  },
+  {
+    "question": "Sobre o serviço eletrônico único para comunicação de ocorrências (Art. 8º), a Polícia Federal deve disponibilizar canal para reportar, EXCETO:",
+    "options": [
+      "Disparo de arma de fogo ou porte ostensivo.",
+      "Indivíduo embriagado portando arma de fogo.",
+      "Violência doméstica envolvendo porte de arma.",
+      "Atraso na entrega de armas compradas online."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 8º lista os fatos que devem ser reportados: disparo em local público, porte ostensivo, embriaguez e violência doméstica (I a IV). Atraso na entrega não é um item de comunicação obrigatória."
+  },
+  {
+    "question": "No que tange aos clubes e entidades de tiro desportivo (Art. 38, § 2º - redação dada pelo Dec. 11.615/2023), é exigência para armazenagem de armas e munições:",
+    "options": [
+      "Guarda em armários de madeira com cadeado simples.",
+      "Guarda em cofre em sala com paredes, pisos e teto de alvenaria e controle de acesso.",
+      "Armazenamento livre, desde que dentro da propriedade do clube.",
+      "Guarda sob responsabilidade de vigia noturno terceirizado, sem necessidade de cofre."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 38, § 2º, exige a guarda em 'cofre ou em sala-forte em cofre', em local com paredes, pisos e teto de alvenaria ou concreto, e controle de acesso."
+  }
+],
+
+"Decreto_11615_3":[
+  {
+    "question": "De acordo com o caput do Art. 3º do Decreto nº 11.615/2023, as armas de fogo das seguintes instituições serão cadastradas no Sistema de Gerenciamento Militar de Armas (Sigma), EXCETO:",
+    "options": [
+      "Forças Armadas.",
+      "Polícias Militares dos Estados e do Distrito Federal.",
+      "Guardas Municipais.",
+      "Gabinete de Segurança Institucional da Presidência da República."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º, caput, lista as Forças Armadas, as Polícias Militares e Corpos de Bombeiros Militares, e o GSI/PR como instituições cujas armas de fogo serão cadastradas no Sigma. As Guardas Municipais têm suas armas cadastradas no Sinarm (Art. 4º, IV)."
+  },
+  {
+    "question": "Conforme o § 2º do Art. 3º, sobre a transferência de arma de fogo particular cadastrada no Sigma, assinale a alternativa INCORRETA.",
+    "options": [
+      "Será autorizada pelo órgão da Força Armada, da Força Auxiliar ou do GSI que houver realizado o seu registro.",
+      "Deve observar o quantitativo estabelecido no Decreto ou em norma complementar.",
+      "Aplica-se exclusivamente às armas institucionais, sendo vedada a transferência de armas particulares.",
+      "A atualização dos dados cadastrais deve ser providenciada pela instituição que autorizar a transferência."
+    ],
+    "correct": 2,
+    "explanation": "O § 2º do Art. 3º trata da transferência de 'arma de fogo particular' cadastrada no Sigma. A alternativa 2 está incorreta, pois a arma particular é passível de transferência, desde que obedecidas as regras."
+  },
+  {
+    "question": "Sobre a interoperabilidade e integração de sistemas prevista no § 3º do Art. 3º, assinale a alternativa INCORRETA.",
+    "options": [
+      "A aplicação das regras do Sigma ocorrerá sem prejuízo da integração com o Sinarm.",
+      "O objetivo é permitir o compartilhamento de informações entre ambas as plataformas.",
+      "O Sigma e o Sinarm devem operar de forma totalmente isolada para garantir o sigilo militar.",
+      "A interoperabilidade visa o gerenciamento eficiente de armas de fogo."
+    ],
+    "correct": 2,
+    "explanation": "O § 3º do Art. 3º estabelece que a aplicação das regras do Sigma ocorrerá 'sem prejuízo da integração com o Sinarm', e a interoperabilidade é um objetivo expresso no texto."
+  },
+  {
+    "question": "De acordo com o § 4º do Art. 3º, sobre o tratamento dos dados registrados no Sinarm e no Sigma, assinale a alternativa INCORRETA.",
+    "options": [
+      "Serão fornecidos aos órgãos de investigação quando necessários em procedimentos investigativos.",
+      "Serão disponibilizados publicamente na internet para consulta irrestrita de qualquer cidadão.",
+      "Serão compartilhados de forma direta e por meio eletrônico com o Sinesp.",
+      "O compartilhamento de dados deve assegurar o sigilo das informações."
+    ],
+    "correct": 1,
+    "explanation": "O § 4º do Art. 3º lista as finalidades para o tratamento e compartilhamento dos dados (I, II, III, IV), mas não inclui a disponibilização pública irrestrita na internet, devendo ser observadas as normas de sigilo e proteção de dados."
+  },
+  {
+    "question": "Considerando as disposições do Art. 3º sobre o cadastro de armas, assinale a alternativa INCORRETA quanto às competências e obrigações.",
+    "options": [
+      "As armas dos Corpos de Bombeiros Militares devem ser cadastradas no Sigma.",
+      "A Força Armada deve atualizar o Sigma quando autorizar a transferência de arma particular registrada.",
+      "A Polícia Federal é a única responsável exclusiva por autorizar transferências dentro do Sigma.",
+      "O GSI deve providenciar a atualização cadastral no Sigma ao autorizar transferência de arma sob sua responsabilidade."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa está incorreta porque a transferência de arma de fogo particular cadastrada no Sigma é autorizada pelo órgão que realizou o registro (Força Armada, Força Auxiliar ou GSI), conforme o § 2º do Art. 3º. A Polícia Federal não tem responsabilidade exclusiva sobre o Sigma."
+  },
+  {
+    "question": "Sobre a abrangência do Art. 3º no que tange ao registro de armas no Sigma, assinale a alternativa INCORRETA.",
+    "options": [
+      "Inclui as armas das Forças Armadas.",
+      "Inclui as armas das Polícias Militares.",
+      "Inclui as armas das empresas de segurança privada e transporte de valores.",
+      "Inclui as armas do Gabinete de Segurança Institucional da Presidência da República."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º, caput, lista Forças Armadas, Polícias Militares, Corpos de Bombeiros Militares e GSI/PR. As armas de fogo de empresas de segurança privada e transporte de valores são cadastradas no Sinarm (Art. 4º, V)."
+  },
+  {
+    "question": "Nos termos do Art. 3º, § 4º, inciso II, os dados do Sigma e do Sinarm devem ser compartilhados de forma direta e eletrônica com qual sistema?",
+    "options": [
+      "SisFPC (Sistema de Fiscalização de Produtos Controlados).",
+      "Sinesp (Sistema Nacional de Informações de Segurança Pública, Prisionais, de Rastreabilidade de Armas e Munições, de Material Genético, de Digitais e de Drogas).",
+      "InfoSeg (Rede de Integração Nacional de Informações de Segurança Pública).",
+      "Serpro (Serviço Federal de Processamento de Dados)."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 3º, § 4º, II, estabelece o compartilhamento de dados com o Sinesp, que inclui a Rastreabilidade de Armas e Munições."
+  },
+  {
+    "question": "Segundo o Art. 3º, § 5º, qual é a obrigação da Força Armada, Força Auxiliar ou GSI ao autorizar a transferência de arma de fogo particular cadastrada no Sigma?",
+    "options": [
+      "Cobrar taxa de transferência do proprietário.",
+      "Providenciar a atualização dos dados cadastrais do Sigma.",
+      "Enviar a arma fisicamente para a Polícia Federal.",
+      "Emitir um novo porte de arma automático."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 3º, § 5º, obriga a instituição responsável pela autorização da transferência a 'providenciar a atualização dos dados cadastrais do Sigma'."
+  },
+  {
+    "question": "O Art. 3º determina que as armas de fogo dos Corpos de Bombeiros Militares dos Estados devem ser cadastradas em qual sistema?",
+    "options": [
+      "Sinarm.",
+      "Sinesp.",
+      "Sigma.",
+      "SisGSI."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º, caput, estabelece que as armas de fogo dos Corpos de Bombeiros Militares dos Estados e do Distrito Federal devem ser cadastradas no Sigma."
+  },
+  {
+    "question": "Conforme o § 2º do Art. 3º, a transferência de arma de fogo particular cadastrada no Sigma está condicionada:",
+    "options": [
+      "À aprovação do Congresso Nacional.",
+      "Ao pagamento de imposto de importação.",
+      "À observância do quantitativo estabelecido no Decreto ou norma complementar.",
+      "À inexistência de registro anterior da arma."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º, § 2º, estabelece que a transferência está condicionada à 'observância do quantitativo estabelecido neste Decreto ou em norma complementar'."
+  }
+],
+
+
+  "Decreto_11615_1e2":[
+  {
+    "question": "De acordo com o Art. 1º, o Decreto nº 11.615 regulamenta a Lei nº 10.826/2003. Assinale a alternativa INCORRETA sobre os objetivos expressos neste artigo.",
+    "options": [
+      "Estabelecer regras e procedimentos relativos à aquisição, ao registro, à posse e ao porte de armas de fogo.",
+      "Disciplinar as atividades de caça excepcional, de caça de subsistência e de tiro desportivo.",
+      "Dispor sobre a estruturação do Sistema Nacional de Armas (Sinarm).",
+      "Estabelecer as normas para a organização interna e hierárquica das Forças Armadas."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º lista os objetivos do Decreto, que são relacionados ao controle de armas e ao Sinarm, não abrangendo a organização interna e hierárquica das Forças Armadas (I, II, III e IV)."
+  },
+  {
+    "question": "Sobre as definições de armas de pressão e marcadores no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Airsoft é o desporto em que se utilizam marcadores de esferas de pressão leve.",
+      "Paintball é o desporto em que se utilizam marcadores de cápsulas de tinta.",
+      "Marcadores são dispositivos destinados exclusivamente à prática esportiva.",
+      "O airsoft tem como finalidade principal o treinamento tático militar com munição letal."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, I, define airsoft como tendo finalidade 'exclusivamente esportiva ou recreativa', e não treinamento militar com munição letal."
+  },
+  {
+    "question": "Conforme as definições do Art. 2º sobre os tipos de armas de fogo quanto ao porte e dimensões, assinale a alternativa INCORRETA.",
+    "options": [
+      "Arma de fogo de porte é aquela que pode ser disparada com apenas uma das mãos, como pistola e revólver.",
+      "Arma de fogo portátil é aquela que pode ser transportada por uma pessoa, mas exige ambas as mãos para disparo eficiente.",
+      "Arma de fogo não portátil é aquela que precisa ser transportada por veículo ou fixada em estrutura permanente.",
+      "Arma de fogo curta é aquela cujas dimensões exigem o uso de veículo para transporte e operação."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, VI, define arma curta como de 'uso pessoal, de porte e de emprego manual', enquanto a descrição da alternativa se refere à arma de fogo não portátil (Art. 2º, V)."
+  },
+  {
+    "question": "Considerando as definições de funcionamento das armas de fogo no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Arma de fogo automática é aquela cujos disparos ocorrem continuamente enquanto o gatilho estiver acionado.",
+      "Arma de fogo semiautomática realiza automaticamente as operações de funcionamento, exceto o disparo, que depende de novo acionamento do gatilho.",
+      "Arma de fogo de repetição exige a força física do atirador para as operações prévias ao disparo seguinte.",
+      "Arma de fogo de repetição é aquela que dispara rajadas contínuas sem a necessidade de acionar o gatilho novamente."
+    ],
+    "correct": 3,
+    "explanation": "Disparos contínuos definem a arma automática (Art. 2º, X). A arma de repetição exige a ação manual do atirador para o disparo seguinte (Art. 2º, XI)."
+  },
+  {
+    "question": "Sobre as definições de arma de fogo obsoleta e histórica no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Arma de fogo obsoleta não se presta mais ao uso efetivo em caráter permanente.",
+      "Arma de fogo histórica pode ser aquela utilizada em guerra, combate ou batalha.",
+      "Arma de fogo obsoleta pode ser caracterizada como relíquia ou peça de coleção inerte.",
+      "Arma de fogo histórica é qualquer arma fabricada há menos de cinco anos que esteja em bom estado."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, XIV, lista características que envolvem a participação em eventos ou períodos históricos, ou raridade. O objetivo é a preservação histórica, contrariando a ideia de ser uma arma nova."
+  },
+  {
+    "question": "Em relação aos conceitos de caçadores previstos no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Caçador excepcional é a pessoa física registrada para manejo de fauna exógena invasora.",
+      "Caçador de subsistência visa o provimento de recursos alimentares indispensáveis à sobrevivência.",
+      "Caçador de subsistência deve respeitar as espécies protegidas constantes em lista oficial.",
+      "Caçador excepcional é aquele autorizado a caçar animais silvestres para fins puramente recreativos e comerciais."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, XVIII, define o caçador excepcional como aquele registrado para 'manejo de fauna exógena invasora', não para fins puramente recreativos e comerciais."
+  },
+  {
+    "question": "Sobre os documentos e certificados definidos no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "O Certificado de Registro (CR) autoriza pessoas físicas ou jurídicas a atividades com produtos controlados.",
+      "O Certificado de Registro de Arma de Fogo (CRAF) comprova o cadastro da arma e autoriza sua posse.",
+      "A Guia de Tráfego confere autorização para o tráfego de armas desmuniciadas.",
+      "O CRAF é o documento que autoriza automaticamente o porte de arma municiada em qualquer local público."
+    ],
+    "correct": 3,
+    "explanation": "O CRAF autoriza apenas a posse da arma (Art. 2º, XXIV), que se restringe à residência ou local de trabalho (Art. 2º, XXXV). O porte para circulação é uma autorização distinta e excepcional (Art. 2º, XXXII)."
+  },
+  {
+    "question": "No que tange às definições de colecionador e atirador desportivo no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Colecionador é registrado pelo Comando do Exército para manter armas de variados tipos visando preservar patrimônio histórico.",
+      "Atirador desportivo pratica habitualmente o tiro como desporto de rendimento ou formação.",
+      "O atirador desportivo deve ser filiado a entidade de tiro desportivo e federação ou confederação.",
+      "O colecionador tem permissão expressa para utilizar suas armas de coleção para defesa pessoal diária nas ruas."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, XV, estabelece que é vedada a realização de tiro com armas de coleção, exceto em eventos específicos, sendo a finalidade do colecionador a preservação do patrimônio histórico (Art. 2º, XXV), e não a defesa pessoal."
+  },
+  {
+    "question": "Sobre as definições técnicas de armas e munições no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Arma de fogo raiada possui cano com sulcos helicoidais para giroestabilização do projétil.",
+      "Insumos para munição incluem estojo, espoleta, pólvora e projétil.",
+      "Arma de fogo desmuniciada é aquela sem munição no tambor ou na câmara de explosão.",
+      "Arma de fogo longa é aquela que pode ser disparada com apenas uma mão e conduzida em coldre."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, VII, define arma longa como aquela que 'não [é] conduzida em um coldre' e exige 'ambas as mãos com apoio no ombro' para o disparo eficiente."
+  },
+  {
+    "question": "Acerca das definições de porte e posse no Art. 2º, assinale a alternativa INCORRETA.",
+    "options": [
+      "Posse de arma de fogo é a autorização para manter a arma no interior de residência ou local de trabalho (se proprietário).",
+      "Porte de arma de fogo para defesa pessoal permite a circulação com a arma de maneira velada.",
+      "Porte de trânsito é concedido para transitar com armas desmuniciadas em trajeto preestabelecido.",
+      "A posse de arma de fogo dá direito ao proprietário de transitar livremente com a arma municiada em todo território nacional."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, XXXV, limita a posse ao interior da residência, domicílio ou local de trabalho. O trânsito exige autorização de porte (Art. 2º, XXXII ou XXXIV)."
+  },
+  {
+    "question": "De acordo com o Art. 2º, inciso V, o que caracteriza uma 'arma de fogo não portátil'?",
+    "options": [
+      "Aquela que pode ser transportada por apenas uma pessoa em um coldre.",
+      "Aquela que, devido à dimensão e peso, precisa ser transportada por mais de uma pessoa ou veículo, ou fixada em estrutura.",
+      "Aquela de dimensão reduzida que pode ser disparada com apenas uma mão.",
+      "Aquela destinada exclusivamente a competições de tiro ao alvo."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 2º, V, descreve a arma de fogo não portátil como aquela que exige transporte por mais de uma pessoa, ou veículo, ou fixação em estrutura permanente."
+  },
+  {
+    "question": "Segundo o Art. 2º, inciso XXXV, a 'posse de arma de fogo' autoriza o proprietário a manter a arma:",
+    "options": [
+      "Em qualquer lugar público, desde que oculta.",
+      "Exclusivamente no interior de sua residência ou domicílio, ou em seu local de trabalho (se for o responsável legal).",
+      "No porta-luvas do carro, para defesa no trânsito.",
+      "Na casa de amigos e parentes, livremente."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 2º, XXXV, define a posse como a autorização para manter a arma 'exclusivamente no interior de sua residência ou de seu domicílio, ou dependência desses, ou, ainda, de seu local de trabalho'."
+  },
+  {
+    "question": "Conforme o Art. 2º, inciso XVI, quem é o profissional registrado pela Polícia Federal habilitado para o reparo ou manutenção de arma de fogo?",
+    "options": [
+      "Armeiro.",
+      "Atirador Desportivo.",
+      "Caçador Excepcional.",
+      "Instrutor de Armamento."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 2º, XVI, define armeiro como o 'profissional registrado pela Polícia Federal, habilitado para o reparo ou a manutenção de arma de fogo'."
+  },
+  {
+    "question": "O Art. 2º, inciso XXXI, define 'paintball' como:",
+    "options": [
+      "Desporto que utiliza armas de fogo reais com munição de festim.",
+      "Desporto em que se utilizam marcadores de esferas de pressão leve.",
+      "Desporto em que se utilizam marcadores de cápsulas de tinta com finalidade esportiva.",
+      "Atividade de caça de pequenos animais com armas de pressão."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º, XXXI, define paintball como desporto que utiliza 'marcadores de cápsulas de tinta com finalidade exclusivamente esportiva'."
+  },
+  {
+    "question": "Segundo o Art. 2º, inciso XXIX, são considerados 'insumos para carregar ou recarregar munição':",
+    "options": [
+      "Apenas o projétil e o alvo.",
+      "Estojo, espoleta, pólvora (ou carga propulsora), projétil e bucha.",
+      "A arma de fogo e o carregador.",
+      "O coldre e a bandoleira."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 2º, XXIX, lista os insumos como 'o estojo, a espoleta, a pólvora ou outro tipo de carga propulsora, o projétil e a bucha'."
+  }
+],
+
+"PrincipiosConstitucional":[
+
+{
+    "question": "Dispõe o artigo 1º do Código Penal: Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal. Tal dispositivo legal consagra o princípio da",
+    "options": [
+      "ampla defesa.",
+      "legalidade.",
+      "presunção de inocência.",
+      "dignidade.",
+      "isonomia."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa CORRETA é a B. O Artigo 1º do Código Penal descreve o princípio legal e constitucional da **legalidade**, que se desdobra em dois subprincípios: **anterioridade** (exigência de que a lei seja prévia ao fato) e **reserva legal** (exigência de que a lei seja em sentido estrito, emanada do Poder Legislativo, não servindo MP ou Decreto). As demais alternativas estão incorretas pois descrevem princípios diferentes: ampla defesa (ligada ao processo), presunção de inocência (ligada ao status do indivíduo até o trânsito em julgado), dignidade e isonomia (princípios constitucionais não diretamente ligados à redação do Art. 1º do CP). "
+  },
+  {
+    "question": "O princípio constitucional da legalidade em matéria penal encontra efetiva realização na exigência, para a configuração do crime, de",
+    "options": [
+      "culpabilidade.",
+      "tipicidade.",
+      "punibilidade.",
+      "ilicitude.",
+      "imputabilidade."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa CORRETA é a B. O princípio da legalidade (nullum crimen sine lege) exige que haja uma lei definindo a conduta como crime. A **tipicidade** é justamente a perfeita adequação da conduta praticada a um tipo penal (previsão legal incriminadora). A culpabilidade, ilicitude e imputabilidade são elementos subsequentes na Teoria do Crime. A punibilidade é a consequência, não a exigência para a **configuração** do crime."
+  },
+  {
+    "question": "A ideia de insignificância penal centra-se no conceito",
+    "options": [
+      "formal de crime.",
+      "material de crime.",
+      "analítico de crime.",
+      "subsidiário de crime.",
+      "aparente de crime."
+    ],
+    "correct": 1,
+    "explanation": "O princípio da insignificância afasta a configuração da **tipicidade material**. O conceito **formal de crime** refere-se à subsunção da conduta ao tipo penal. Já o **conceito material de crime** exige a efetiva lesão ou perigo de lesão relevante ao bem jurídico tutelado. O princípio da insignificância reconhece que, embora a conduta seja *formalmente* típica, ela não possui *materialidade* suficiente para ofender minimamente o bem jurídico, afastando assim o crime sob a ótica material."
+  },
+  {
+    "question": "Conforme reza a Constituição da República, a competência para o julgamento dos crimes dolosos contra a vida é do(a).",
+    "options": [
+      "juizado especial federal.",
+      "júri.",
+      "Juiz criminal de primeira instância.",
+      "justiça militar.",
+      "Ministério Público."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa CORRETA é a B. A competência para o processo e julgamento dos crimes dolosos contra a vida (homicídio, infanticídio, aborto e instigação/auxílio ao suicídio) pertence ao **Tribunal do Júri**, por expressa previsão constitucional contida no art. 5º, XXXVIII, d, da CRFB/88. "
+  },
+  {
+    "question": "O princípio válido, tratando-se de sucessão de leis penais no tempo, na hipótese de que a norma posterior incrimina fato não previsto na anterior, é o da",
+    "options": [
+      "Abolitio criminis.",
+      "Ultravatividade.",
+      "Irretroatividade.",
+      "Retroatividade.",
+      "Lei vigente na época no momento da prática de fato punível: Tempus regit actum."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. Se a norma posterior incrimina um fato que ainda não era incriminado, temos a chamada **novatio legis incriminadora**. Neste caso, aplica-se a regra geral da **irretroatividade da lei penal mais gravosa**. A lei nova não retroage para atingir fatos praticados antes de sua vigência, conforme o princípio da anterioridade."
+  },
+  {
+    "question": "O Artigo 5º, Inciso XL da Constituição da República prevê que 'a lei penal não retroagirá, salvo para beneficiar o réu'. Tal dispositivo constitucional refere-se ao princípio da:",
+    "options": [
+      "individualização da pena.",
+      "legalidade estrita",
+      "retroatividade benéfica da lei penal.",
+      "irretroatividade total da lei penal.",
+      "aplicação imediata da lei processual penal."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O dispositivo consagra a regra da irretroatividade da lei penal mais gravosa e, de forma expressa, a exceção da **retroatividade da lei penal mais benéfica** (também chamado de *lex mitior*)."
+  },
+  {
+    "question": "O postulado da fragmentariedade em matéria penal relativiza",
+    "options": [
+      "a proporcionalidade entre o fato praticado e a consequência jurídica.",
+      "a dignidade humana como limite material à atividade punitiva do Estado.",
+      "o concurso entre causas de aumento e diminuição de penas.",
+      "a função de proteção dos bens jurídicos atribuída à lei penal.",
+      "o caráter estritamente pessoal que decorre da norma penal."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa CORRETA é a D. O princípio da **fragmentariedade** estabelece que o Direito Penal só deve atuar na proteção dos bens jurídicos mais relevantes e contra as formas de ataque mais graves (caráter **fragmentário** do Direito Penal). Isso significa que, embora muitos bens sejam dignos de proteção, o Direito Penal seleciona apenas uma 'fração' deles, relativizando a função de proteção de bens jurídicos atribuída à lei penal em comparação com outros ramos do Direito."
+  },
+  {
+    "question": "Assinale a alternativa correta.",
+    "options": [
+      "O princípio da humanidade das penas está consagrado na Constituição Federal.",
+      "O princípio da aplicação da lei mais benéfica não é utilizado pelo direito penal.",
+      "O princípio da intervenção mínima não se confunde com o princípio da ultima ratio.",
+      "Por força do princípio da insignificância não são punidos os crimes de menor potencial ofensivo.",
+      "A existência de crimes funcionais ofende o princípio da igualdade."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa CORRETA é a A. O **princípio da humanidade das penas** (ou limitação das penas) está consagrado no Art. 5º, XLVII da CRFB/88, que proíbe, entre outras, penas de morte (exceto em caso de guerra), de caráter perpétuo, cruéis, de trabalhos forçados e de banimento. As demais estão incorretas: B - Errada (a lei mais benéfica sempre retroage). C - Errada (intervenção mínima é **sinônimo** de *ultima ratio*). D - Errada (insignificância é a ausência de tipicidade material; crimes de menor potencial ofensivo, via de regra, têm relevância penal, embora apenados de forma mais leve). E - Errada (Crimes funcionais tratam pessoas em situações diferentes de forma diferente, o que é compatível com o princípio da isonomia)."
+  },
+  {
+    "question": "Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal. O primeiro artigo do Código Penal refere-se a qual dos princípios regentes do Direito Penal?",
+    "options": [
+      "Fragmentariedade.",
+      "Adequação social.",
+      "Consunção.",
+      "Legalidade.",
+      "Especialidade."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa CORRETA é a D. O art. 1º do CP, retratado no enunciado da questão, estabelece o **princípio da legalidade** (*nullum crimen, nulla poena sine praevia lege*), em suas duas ramificações principais: **reserva legal** (sem LEI que o defina) e **anterioridade** (sem lei ANTERIOR...)."
+  },
+  {
+    "question": "O princípio constitucional da legalidade em matéria penal",
+    "options": [
+      "não vigora na fase de execução penal.",
+      "impede que se afaste o caráter criminoso do fato em razão de causa supralegal de exclusão da ilicitude.",
+      "não atinge as medidas de segurança.",
+      "obsta que se reconheça a atipicidade de conduta em função de sua adequação social.",
+      "exige a taxatividade da lei incriminadora, admitindo, em certas situações, o emprego da analogia."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa CORRETA é a E. O princípio da legalidade, devido à sua função garantidora, exige a **taxatividade** (clareza e precisão) da lei penal incriminadora. No entanto, ele **não impede** o uso da **analogia in bonam partem** (para beneficiar o réu), que é justamente a 'certas situações' em que é admitido o emprego da analogia. As demais estão incorretas: A - Errada (vigora em todas as fases, inclusive execução). B - Errada (causas supralegais, por beneficiarem o réu, são admitidas). C - Errada (atinge as medidas de segurança, que também são sanções penais). D - Errada (A adequação social é um benefício que pode afastar a tipicidade, e a legalidade não obsta benefícios ao réu)."
+  },
+  {
+    "question": "César, na vigência da Lei no 01, foi condenado à pena de dois meses de detenção, pela prática de determinado delito. A sentença transitou em julgado. Antes do trânsito em julgado, entrou em vigor a Lei no 02, que aumentou a pena desse crime para três meses de detenção. Após o trânsito em julgado, entraram em vigor duas outras leis: a Lei no 03, que reduziu a pena dessa infração penal para um mês de detenção, e a Lei no 04, que aboliu o referido delito. Nesse caso,",
+    "options": [
+      "aplica-se a Lei no 02, por ter entrado em vigor antes do trânsito em julgado da sentença.",
+      "aplica-se a Lei no 03, por ter mantido a incriminação, com redução da pena imposta.",
+      "aplica-se a Lei no 04, que deixou de incriminar fato que anteriormente era considerado ilícito penal.",
+      "aplica-se a pena resultante da média aritmética entre as penas de todas as leis referentes à mesma infração penal.",
+      "não se aplica nenhuma das leis novas, que entraram em vigor após o trânsito em julgado da sentença."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O Código Penal, em seu Art. 2º, estabelece a regra da **retroatividade da lei penal mais benéfica**, que se aplica inclusive a fatos julgados por sentença condenatória transitada em julgado (Parágrafo único). Dentre as leis posteriores benéficas (Lei nº 03 e Lei nº 04), a Lei nº 04 provoca o fenômeno da **abolitio criminis** (Art. 2º, caput), ou seja, o fato deixa de ser considerado crime. A *abolitio criminis* é o efeito mais benéfico e determina a cessação da execução e dos efeitos penais da sentença condenatória, mesmo após o trânsito em julgado."
+  }
+,{
+    "question": "Julia, primária e de bons antecedentes, verificando a facilidade de acesso a determinados bens de uma banca de jornal, subtrai duas revistas de moda, totalizando o valor inicial do prejuízo em R$15,00 (quinze reais). Após ser presa em flagrante, é denunciada pela prática do crime de furto simples, vindo, porém, a ser absolvida sumariamente em razão do princípio da insignificância.\nDe acordo com a situação narrada, o magistrado, ao reconhecer o princípio da insignificância, optou por absolver Julia em razão da:",
+    "options": [
+      "atipicidade da conduta",
+      "causa legal de exclusão da ilicitude",
+      "causa de exclusão da culpabilidade",
+      "causa supralegal de exclusão da ilicitude",
+      "extinção da punibilidade"
+    ],
+    "correct": 0,
+    "explanation": "Como foi aplicado o princípio da insignificância, houve absolvição por atipicidade da conduta, já que o princípio da insignificância afasta a tipicidade material da conduta, por ausência de ofensa significativa ao bem jurídico protegido pela norma."
+  },
+  {
+    "question": "Henrique, não aceitando o fim do relacionamento, decide matar Paola, sua ex-namorada. Para tanto, aguardou na rua a saída da vítima do trabalho e, após, desferiu-lhe diversas facadas na barriga, sendo estas lesões a causa eficiente de sua morte. Foi identificado por câmeras de segurança, porém, e denunciado pela prática de homicídio consumado. Em relação ao crime de lesão corporal, é correto afirmar que Henrique não foi denunciado com base no princípio da:",
+    "options": [
+      "especialidade",
+      "subsidiariedade expressa",
+      "alternatividade",
+      "subsidiariedade tácita",
+      "consunção"
+    ],
+    "correct": 4,
+    "explanation": "No caso em tela, o dolo de Henrique era de MATAR. Em assim sendo, Henrique deverá responder por homicídio consumado. Todas as condutas que são consideradas como 'meio' para alcançar esta finalidade ficam ABSORVIDAS pelo crime de homicídio, pelo princípio da consunção."
+  },
+  {
+    "question": "Carlos, primário e de bons antecedentes, subtraiu, para si, uma mini barra de chocolate avaliada em R$ 2,50 (dois reais e cinquenta centavos). Denunciado pela prática do crime de furto, o defensor público em atuação, em sede de defesa prévia, requereu a absolvição sumária de Carlos com base no princípio da insignificância. De acordo com a jurisprudência dos Tribunais Superiores, o princípio da insignificância:",
+    "options": [
+      "funciona como causa supralegal de exclusão de ilicitude",
+      "afasta a tipicidade do fato",
+      "funciona como causa supralegal de exclusão da culpabilidade",
+      "não pode ser adotado, por não ser previsto em nosso ordenamento jurídico",
+      "funciona como causa legal de exclusão da culpabilidade"
+    ],
+    "correct": 1,
+    "explanation": "O princípio da insignificância atua excluindo a tipicidade material da conduta, por ausência de lesão significativa ao bem jurídico tutelado pela norma penal. Assim, o princípio da insignificância afasta a tipicidade (material) da conduta."
+  },
+  {
+    "question": "Pedro Paulo, primário e de bons antecedentes, foi denunciado pelo crime de descaminho (Art. 334, caput, do Código Penal), pelo transporte de mercadorias procedentes do Paraguai e desacompanhadas de documentação comprobatória de sua importação regular, no valor de R$ 3.500,00, conforme atestam o Auto de Infração e o Termo de Apreensão e Guarda Fiscal, bem como o Laudo de Exame Merceológico, elaborado pelo Instituo Nacional de Criminalística.\nEm defesa de Pedro Paulo, segundo entendimento dos Tribunais Superiores, é possível alegar a aplicação do",
+    "options": [
+      "princípio da proporcionalidade.",
+      "princípio da culpabilidade.",
+      "princípio da adequação social.",
+      "princípio da insignificância ou da bagatela."
+    ],
+    "correct": 3,
+    "explanation": "Tratando-se de crime de descaminho, e sendo o valor de apenas R$ 3.500,00, deve ser aplicado o princípio da insignificância, nos termos do entendimento pacífico do STF e do STJ. O valor limite para aplicação da insignificância em descaminho é habitualmente fixado com base no limite de isenção tributária federal."
+  },
+  {
+    "question": "O Presidente da República, diante da nova onda de protestos, decide, por meio de medida provisória, criar um novo tipo penal para coibir os atos de vandalismo. A medida provisória foi convertida em lei, sem impugnações.\nCom base nos dados fornecidos, assinale a opção correta.",
+    "options": [
+      "Não há ofensa ao princípio da reserva legal na criação de tipos penais por meio de medida provisória, quando convertida em lei.",
+      "Não há ofensa ao princípio da reserva legal na criação de tipos penais por meio de medida provisória, pois houve avaliação prévia do Congresso Nacional.",
+      "Há ofensa ao princípio da reserva legal, pois não é possível a criação de tipos penais por meio de medida provisória.",
+      "Há ofensa ao princípio da reserva legal, pois não cabe ao Presidente da República a iniciativa de lei em matéria penal."
+    ],
+    "correct": 2,
+    "explanation": "Há, aqui, ofensa ao subprincípio da reserva legal (um dos subprincípios do princípio da LEGALIDADE), pois em matéria penal somente LEI EM SENTIDO ESTRITO (Diploma legal emanado do Poder Legislativo) pode criar tipos penais, não podendo haver a criação de tipo penal por meio de decretos, medidas provisórias, etc."
+  },
+  {
+    "question": "Relativamente ao princípio da presunção de inocência, analise as afirmativas a seguir:\nI. O indiciado em inquérito policial ou acusado em processo criminal deve ser tratado como inocente, salvo quando preso em flagrante por crime hediondo, caso em que será vedada a concessão de liberdade provisória.\nII. Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e a nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do estado.\nIII. Milita em favor do indivíduo o benefício da dúvida no momento da prolação da sentença criminal: in dubio pro réu.\nIV. A presunção de inocência é incompatível com as prisões cautelares antes de transitada em julgado a sentença penal condenatória.\nAssinale:",
+    "options": [
+      "se apenas as afirmativas I e II estiverem corretas.",
+      "se apenas as afirmativas II e III estiverem corretas.",
+      "se apenas as afirmativas III e IV estiverem corretas.",
+      "se apenas as afirmativas I, III e IV estiverem corretas.",
+      "se todas as afirmativas estiverem corretas."
+    ],
+    "correct": 1,
+    "explanation": "I - ERRADA: A afirmativa está errada pois, a existência de prisões processuais de natureza cautelar não ofende o princípio da presunção de inocência, pois o acusado não passa a ser considerado culpado, eis que não se cuida de prisão-pena (derivada de condenação), mas de prisão-não pena, que é modalidade de prisão que visa a um fim não punitivo, mas cautelar, de forma a assegurar a aplicação da lei penal, a instrução do processo, etc.\nII - CORRETA: O uso indiscriminado de algemas pode levar à violação do princípio da presunção de inocência. O Supremo Tribunal Federal editou a Súmula Vinculante nº 11, que está integralmente reproduzida na afirmativa.\nIII - CORRETA: Um dos desdobramentos práticos do princípio da presunção de inocência é o benefício da dúvida que labora em favor do réu (in dubio pro réu), pois cabe à acusação provar a autoria criminosa, pois somente prova cabal dessa autoria é que pode ilidir a presunção de não-culpabilidade do réu.\nIV - ERRADA: Conforme passado durante a aula, a existência de prisões de natureza cautelar não ofende, de maneira nenhuma, o princípio da presunção de inocência, por não se basearem em uma suposta culpa do acusado, mas na necessidade de mantê-lo custodiado em razão da possibilidade de restar frustrada a instrução processual, a aplicação da lei penal, etc."
+  },
+  {
+    "question": "Relativamente aos princípios de direito penal, assinale a afirmativa incorreta.",
+    "options": [
+      "Não há crime sem lei anterior que o defina.",
+      "Não há pena sem prévia cominação legal.",
+      "Crimes hediondos não estão sujeitos ao princípio da anterioridade da lei penal.",
+      "Ninguém pode ser punido por fato que a lei posterior deixa de considerar crime.",
+      "A lei posterior que de qualquer modo favorece o agente aplica-se aos casos anteriores."
+    ],
+    "correct": 2,
+    "explanation": "A afirmativa incorreta é a C. O princípio da anterioridade da lei penal, que se desdobra em nullum crimen sine lege, nulla poena sine lege, exige que a descrição do crime e a previsão da pena sejam anteriores ao fato. Este princípio deve ser respeitado por **todos** os crimes, inclusive os hediondos. A lei mais rigorosa, mesmo para crimes hediondos, não pode retroagir. A CF/88 e o CP estabelecem a irretroatividade da lei penal, salvo para beneficiar o réu."
+  }  
+,{
+    "question": "8. (FGV -2008 -INSPETOR -INSPETOR DE POLÍCIA) Em matéria de princípios constitucionais de Direito Penal, é correto afirmar que:",
+    "options": [
+      "a lei penal não retroagirá mesmo que seja para beneficiar o réu.",
+      "a prática de racismo não é considerada crime, salvo se a vítima for detentora de função pública.",
+      "os presos têm assegurado o respeito à sua integridade física, mas não à integridade moral.",
+      "a Constituição não autoriza a criação de penas de trabalhos forçados.",
+      "as penas privativas de liberdade poderão ser impostas aos sucessores do condenado."
+    ],
+    "correct": 3,
+    "explanation": "a) ERRADA: A lei penal que for mais favorável ao réu deverá retroagir (ser aplicada a fatos cometidos anteriormente à sua vigência), nos termos do art. 5°, XL da Constituição: XL - a lei penal não retroagirá, salvo para beneficiar o réu; b) ERRADA: O crime de racismo é crime, previsto no art. 5°, XLII da Constituição, e pode ser cometido contra qualquer pessoa: XLII - a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei; c) ERRADA: Os presos têm direito tanto à integridade física quanto à integridade moral, conforme art. XLIX: XLIX - é assegurado aos presos o respeito à integridade física e moral; d) CORRETA: A pena de trabalhos forçados é vedada expressamente pela Constituição, sendo cláusula pétrea. e) ERRADA: Pelo princípio da intranscendência da pena, a pena não pode ultrapassar a pessoa do condenado, embora se possa estender a obrigação de reparar o dano aos sucessores até o limite do patrimônio transferido (art. 5°, XLV)."
+  },
+  {
+    "question": "9. (FGV -2008 -INSPETOR -INSPETOR DE POLÍCIA) Assinale a alternativa correta. ",
+    "options": [
+      "Expirado o prazo de validade da lei temporária, não se poderá impor prisão em flagrante, mas ainda será possível processamento.",
+      "Todos aqueles que praticaram o crime durante a vigência da lei temporária poderão ser processados, mesmo após seu fim.",
+      "Cessada a vigência da lei temporária, consideram-se prescritos os crimes praticados durante sua vigência.",
+      "A ultra atividade permite processar crimes praticados até três anos após o fim da vigência.",
+      "Com o fim da vigência, ocorre abolitio criminis."
+    ],
+    "correct": 1,
+    "explanation": "As leis intermitentes (temporárias e excepcionais) produzem efeitos após a revogação. A lei excepcional é ultra ativa: aplica-se aos fatos praticados DURANTE sua vigência, mesmo depois de revogada. Caso contrário, tais crimes ficariam impunes. Não há abolitio criminis nestes casos."
+  },
+  {
+    "question": "10. (FGV -2008 -TCM -PROCURADOR) A respeito do tema da retroatividade da lei penal, assinale a afirmativa correta.",
+    "options": [
+      "A lei penal posterior benéfica não se aplica a fatos praticados sob lei temporária.",
+      "A lei penal benéfica retroage, exceto nos casos com trânsito em julgado.",
+      "A lei penal mais gravosa pode retroagir para crimes hediondos.",
+      "A lei intermediária prevalece quando há mudança mais gravosa.",
+      "A lei nova prejudicial pode retroagir se prevista na própria lei."
+    ],
+    "correct": 0,
+    "explanation": "A lei penal incriminadora e a mais gravosa devem ser anteriores ao crime (princípio da anterioridade). A lei mais benéfica retroage, EXCETO quando se trata de lei temporária ou excepcional, pois estas continuam a produzir efeitos mesmo após revogação. Art. 3º do Código Penal."
+  },
+  {
+    "question": "11. (FCC – 2018 – MP PE – TÉCNICO) Não há crime sem lesão efetiva ou ameaça concreta ao bem jurídico tutelado. Tal enunciado refere-se ao princípio da:",
+    "options": [
+      "proporcionalidade",
+      "intervenção mínima",
+      "ofensividade",
+      "bagatela imprópria",
+      "alteridade"
+    ],
+    "correct": 2,
+    "explanation": "O princípio da ofensividade exige que o fato, além de típico, ofenda ou exponha a risco grave o bem jurídico protegido. Sem ofensividade, não há crime."
+  },
+  {
+    "question": "12. (FCC – 2018 – DPE RS – DEFENSOR PÚBLICO) O afastamento da tipicidade, quando verificada lesão penalmente irrelevante decorrente de conduta formalmente incriminada, dá-se por: A) adequação social. B) intervenção mínima. C) humanidade das sanções. D) insignificância. E) crime impossível.",
+    "options": [
+      "princípio da adequação social",
+      "princípio da intervenção mínima",
+      "princípio da humanidade das sanções",
+      "princípio da insignificância",
+      "crime impossível"
+    ],
+    "correct": 3,
+    "explanation": "O princípio da insignificância exclui a tipicidade material, pois apesar de haver tipicidade formal, não há ofensa relevante ao bem jurídico."
+  },
+  {
+    "question": "13. (FCC – 2017 – DPE RS – ANALISTA PROCESSUAL) O que nos parece é que as duas dimensões do bem jurídico penal apresentam áreas de interpenetração... Nesse tópico, o tema central radica na ideia constitucional de:",
+    "options": [
+      "individualização",
+      "dignidade humana",
+      "irretroatividade",
+      "proporcionalidade",
+      "publicidade"
+    ],
+    "correct": 3,
+    "explanation": "O enunciado trata do princípio da proporcionalidade, relacionando a importância do bem jurídico à necessidade de tutela penal."
+  },
+  {
+    "question": "14. (FCC – 2017 – DPE PR – DEFENSOR PÚBLICO) O princípio da intervenção mínima encontra reflexo:",
+    "options": [
+      "fragmentariedade e imputação objetiva",
+      "subsidiariedade e imputação objetiva",
+      "subsidiariedade e fragmentariedade",
+      "fragmentariedade e funcionalismo sistêmico",
+      "imputação objetiva e funcionalismo sistêmico"
+    ],
+    "correct": 2,
+    "explanation": "A intervenção mínima (ultima ratio) se relaciona diretamente à fragmentariedade (proteção apenas de bens mais relevantes) e à subsidiariedade (só atua quando outros ramos não bastam)."
+  },
+  {
+    "question": "15. (FCC – 2015 – TJ SC – JUIZ SUBSTITUTO) A afirmação de que o Direito Penal é um sistema descontínuo de seleção de ilícitos se amolda:",
+    "options": [
+      "reserva legal",
+      "fragmentariedade",
+      "culpabilidade",
+      "humanidade",
+      "insignificância"
+    ],
+    "correct": 1,
+    "explanation": "O princípio da fragmentariedade indica que o Direito Penal só tutela bens jurídicos especialmente relevantes, atuando de forma subsidiária."
+  },
+  {
+    "question": "16. (FCC – 2015 – TCM GO – PROCURADOR) Pedro subtraiu bem da Administração valendo-se da condição de funcionário público. Responderá por peculato e não por furto em razão do princípio da:",
+    "options": [
+      "subsidiariedade",
+      "consunção",
+      "especialidade",
+      "progressão criminosa",
+      "alternatividade"
+    ],
+    "correct": 2,
+    "explanation": "Aplica-se o tipo especial (peculato-furto, art. 312, §1º CP). Pelo princípio da especialidade, a norma especial prevalece sobre a geral."
+  },
+  {
+    "question": "17. (FCC – 2015 – DPE MA – DEFENSOR PÚBLICO) A proibição de penas cruéis e de tortura, e a obrigação do Estado de evitar degradação dos presos decorrem do princípio da:",
+    "options": [
+      "proporcionalidade",
+      "intervenção mínima",
+      "fragmentariedade",
+      "humanidade",
+      "adequação social"
+    ],
+    "correct": 3,
+    "explanation": "O princípio da humanidade fundamenta a proibição de penas cruéis e de tratamento degradante em todo o sistema penal."
+  },
+  {
+    "question": "18. (FCC – 2014 – TRF3 – ANALISTA JUDICIÁRIO) Dentre as ideias estruturantes importantes ao Direito Penal, NÃO tem disposição literal na Constituição o princípio da:",
+    "options": [
+      "legalidade",
+      "proporcionalidade",
+      "individualização",
+      "pessoalidade",
+      "dignidade humana"
+    ],
+    "correct": 1,
+    "explanation": "O princípio da proporcionalidade não consta expressamente na Constituição, embora seja implícito. Os demais possuem previsão literal."
+  },
+  {
+    "question": "19. (FCC – 2014 – DPE PB – DEFENSOR PÚBLICO) A terrível humilhação por que passam familiares de presos nas revistas vexatórias viola qual princípio além da dignidade humana?",
+    "options": [
+      "individualização",
+      "fragmentariedade",
+      "pessoalidade",
+      "presunção de inocência",
+      "legalidade"
+    ],
+    "correct": 2,
+    "explanation": "O texto trata do princípio da pessoalidade ou intranscendência da pena: a pena não ultrapassa a pessoa do condenado, embora familiares sofram reflexos indevidos."
+  }
+]
+,
+
+
+
+
+"DireitosHumanosCAmericana":[
+  {
+    "question": "A Convenção Americana sobre Direitos Humanos (CADH) foi celebrada em San José, capital da Costa Rica, em 1969, e internalizada pelo Brasil pelo Decreto nº 678/1992. A entrada em vigor do tratado ocorreu em 18 de julho de 1978. A respeito da referida convenção, assinale a alternativa INCORRETA.",
+    "options": [
+      "A CADH é baseada nos Pactos de Direitos Humanos de 1966 e na Convenção Europeia dos Direitos do Homem de 1950.",
+      "De acordo com a CADH, ninguém deve ser detido por dívidas. Esse princípio não limita os mandados de autoridade judiciária competente expedidos em virtude de inadimplemento de obrigação alimentar e do depositário infiel.",
+      "Segundo a CADH, toda pessoa acusada de delito tem direito a que se presuma sua inocência enquanto não se comprove legalmente sua culpa.",
+      "A personalidade civil da pessoa começa no nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+      "Uma característica importante da CADH é não se restringir a um rol de direitos dos indivíduos, trazendo também os deveres das pessoas com a família, a comunidade e toda a humanidade."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa INCORRETA é a B. O Artigo 7º, item 7, da CADH estabelece que ninguém deve ser detido por dívidas, mas faz uma **única ressalva** para os mandados expedidos em virtude de inadimplemento de **obrigação alimentar**. A CADH **não prevê** a prisão civil do depositário infiel como exceção. A possibilidade de prisão do depositário infiel era prevista na Constituição Federal brasileira (Art. 5º, LXVII). No entanto, o Supremo Tribunal Federal (STF) decidiu que, devido ao status supralegal da CADH, esta vedação internacional paralisou a eficácia da norma constitucional referente ao depositário infiel, tornando ilícita essa prisão. Como o texto da CADH não excepciona o depositário infiel, a afirmação de que o princípio não limita essa hipótese, conforme o tratado, está incorreta. A) CORRETA. É possível afirmar que a CADH é baseada nos Pactos de Direitos Humanos de 1966 (PIDCP e PIDESC) e na Convenção Europeia dos Direitos do Homem de 1950. O preâmbulo da CADH também faz referência à Declaração Universal dos Direitos do Homem (DUDH) e à Declaração Americana dos Direitos e Deveres do Homem. C) CORRETA. O Artigo 8º, item 2, da CADH prevê expressamente que Toda pessoa acusada de delito tem direito a que se presuma sua inocência enquanto não se comprove legalmente sua culpa. D) CORRETA (sob a perspectiva da interpretação combinada com o Direito Interno). Embora este trecho seja a redação exata do Art. 2º do Código Civil Brasileiro, ele está intimamente ligado ao Art. 4º da CADH, que determina que o direito à vida deve ser protegido pela lei e, em geral, desde o momento da concepção. A CADH adota a teoria concepcionista para a proteção da vida. E) CORRETA. O Capítulo V da CADH, intitulado Deveres das Pessoas (Art. 32), estabelece que Toda pessoa tem deveres para com a família, a comunidade e a humanidade."
+  },
+  {
+    "question": "Assinale a alternativa correta acerca da Convenção Americana sobre os Direitos Humanos (Pacto de São José da Costa Rica), promulgado pelo Decreto n° 678/1992.",
+    "options": [
+      "Ninguém pode ser condenado por ações ou omissões que, no momento em que forem cometidas, não sejam delituosas, de acordo com o direito aplicável. Pode ser imposta pena mais grave que a aplicável no momento da perpetração do delito, ou mais leve se a lei dispuser depois da perpetração.",
+      "Nos países que não houverem abolido a pena de morte, esta só poderá ser imposta pelos delitos mais graves, em cumprimento de sentença final de tribunal competente e em conformidade com lei que estabeleça tal pena, promulgada depois de haver o delito sido cometido, desde que este seja grave.",
+      "Os juízes da Corte Interamericana de Direitos Humanos serão eleitos, em votação secreta e pelo voto da maioria absoluta dos Estados-Partes na Convenção, na Assembleia-Geral da Organização, de uma lista de candidatos propostos pelos mesmos Estados.",
+      "Toda pessoa tem direito à liberdade de consciência e de religião. Assim, a liberdade de manifestar a própria religião e as próprias crenças não está sujeita às limitações prescritas pela lei.",
+      "A Comissão Interamericana de Direitos Humanos compor-se-á de oito membros, que deverão ser pessoas de alta autoridade moral e de reconhecido saber em matéria de direitos humanos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O Artigo 53, item 1, da CADH estabelece que Os juízes da Corte serão eleitos, em votação secreta e pelo voto da maioria absoluta dos Estados-Partes na Convenção, na Assembléia-Geral da Organização, de uma lista de candidatos propostos pelos mesmos Estados. As demais estão incorretas: A - Errada (Art. 9º: Tampouco se pode impor pena **mais grave** que a aplicável no momento da perpetração do delito). B - Errada (Art. 4º, item 2: a pena de morte deve estar em conformidade com lei que estabeleça tal pena, **promulgada antes** de haver o delito sido cometido - Princípio da Anterioridade). D - Errada (Art. 12º, item 3: a liberdade de manifestar a religião está sujeita às **limitações** prescritas pela lei, necessárias para proteger a segurança, a ordem, a saúde ou a moral públicas ou os direitos ou liberdades das demais pessoas). E - Errada (Art. 34: a Comissão compor-se-á de **sete** membros, e não oito. Art. 52, item 1: A Corte compor-se-á de **sete** juízes, não a Comissão)."
+  },
+  {
+    "question": "Acerca da Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica), de 22 de novembro de 1969, assinale a alternativa correta.",
+    "options": [
+      "É uma recomendação em forma de resolução proclamada pela Assembleia Geral das Nações Unidas.",
+      "Não foi incorporada ao ordenamento jurídico brasileiro.",
+      "Conforma um instrumento normativo do sistema internacional de proteção dos direitos humanos de caráter global.",
+      "Estabelece que os Estados signatários devem respeitar direitos e liberdades individuais, sem, contudo, elencar um rol de direitos civis e políticos.",
+      "Foi promulgada no Brasil por meio de decreto e veda a prisão por dívida, salvo em caso de inadimplemento de obrigação alimentar."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa CORRETA é a E. A CADH foi promulgada no Brasil pelo Decreto nº 678/92, e seu Art. 7º, item 7, veda a prisão por dívida, excetuando apenas o inadimplemento de obrigação alimentar. As demais estão incorretas: A - Errada (É um pacto, logo os signatários devem cumprir obrigatoriamente, não se bastando como uma recomendação). B - Errada (Foi incorporada ao ordenamento jurídico nacional em 1992, através do Decreto 678/92). C - Errada (Conforma um instrumento normativo do **sistema americano** de proteção, que é **regional**, e não de caráter global). D - Errada (Ela elenca sim um rol de direitos civis e políticos)."
+  },
+
+	{
+    "question": "O princípio da legalidade, conforme previsto no texto da Convenção Americana de Direitos Humanos, refere que",
+    "options": [
+      "ninguém pode ser condenado por ações ou omissões que, no momento em que forem cometidas, não sejam delituosas, de acordo com o direito aplicável.",
+      "é dever de todos conduzir-se de acordo com a legislação vigente de seu país e abstendo-se de praticar toda conduta não autorizada em lei.",
+      "nenhuma declaração, tratado ou princípio internacional de direitos humanos pode se sobrepor à lei vigente no país onde se dá a violação.",
+      "os direitos humanos se baseiam na lei natural e histórica segundo a qual todos os homens são dotados de dignidade e liberdade.",
+      "apenas por meio de lei legitimamente aprovada será admitida a supressão ou limitação aos direitos humanos essenciais de natureza civil, política ou social."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 9. Princípio da legalidade e da retroatividade: Ninguém pode ser condenado por ações ou omissões que, no momento em que forem cometidas, não sejam delituosas, de acordo com o direito aplicável. Tampouco se pode impor pena mais grave que a aplicável no momento da perpetração do delito. Se depois da perpetração do delito a lei dispuser a imposição de pena mais leve, o delinquente será por isso beneficiado."
+  },
+  {
+    "question": "De acordo com a Convenção Americana de Direitos Humanos (\"Pacto de San José da Costa Rica\"), é CORRETO afirmar que:",
+    "options": [
+      "Em alguns casos é permitida a pena de morte ser aplicada a delitos políticos e a delitos comuns, desde que conexos com delitos políticos.",
+      "Toda pessoa tem direito a que se respeite sua integridade física, psíquica e moral.",
+      "As torturas e as penas cruéis, podem ser liberadas por autoridades judiciárias.",
+      "Os processados não precisam ficar separados dos condenados, mas devem ser submetidos a tratamento adequado à sua condição de pessoas não condenadas."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a B, conforme o Artigo 5, item 1: 'Toda pessoa tem o direito de que se respeite sua integridade física, psíquica e moral'. A opção A está errada (Art. 4, item 4), a C está errada (Art. 5, item 2), e a D está errada (Art. 5, item 4)."
+  },
+  {
+    "question": "De acordo com a Convenção Americana dos Direitos Humanos,",
+    "options": [
+      "é possível a expulsão coletiva de estrangeiros.",
+      "a proteção legal do direito à vida inicia-se, em geral, a partir do momento do nascimento.",
+      "é reconhecida a existência de deveres da pessoa para com a família, a comunidade e a humanidade.",
+      "nos países onde a pena de morte tenha sido abolida, essa forma de punição só poderá ser restabelecida para os crimes mais graves.",
+      "é inadmissível a limitação dos direitos estabelecidos na convenção."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa correta é a C, conforme o Artigo 32, item 1: 'Toda pessoa tem deveres para com a família, a comunidade e a humanidade'. As demais opções estão incorretas conforme: A - Errada (Art. 22, item 9), B - Errada (Art. 4, item 1), D - Errada (Art. 4, item 3), E - Errada (Art. 32, item 2)."
+  },
+  {
+    "question": "O controle de convencionalidade consiste no exame da compatibilidade entre a norma nacional e as normas internacionais, sobretudo as convenções internacionais.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "O chamado controle de convencionalidade funda-se na ideia de que as leis ordinárias podem ser controladas não apenas em relação à sua compatibilidade com a constituição, mas também com tratados e convenções internacionais."
+  },
+  {
+    "question": "Conforme se pode extrair da Convenção Americana sobre os Direitos Humanos, o dever de garantir os direitos humanos previstos em normas internacionais alcança até mesmo a atuação legislativa, uma vez que os Estados-Partes devem adotar as medidas legislativas ou de outra natureza que forem necessárias para tornar efetivos os direitos e liberdades reconhecidos na referida Convenção.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Artigo 2. Dever de adotar disposições de direito interno: Se o exercício dos direitos e liberdades mencionados no artigo 1 ainda não estiver garantido por disposições legislativas ou de outra natureza, os Estados Partes comprometem-se a adotar, de acordo com as suas normas constitucionais e com as disposições desta Convenção, as medidas legislativas ou de outra natureza que forem necessárias para tornar efetivos tais direitos e liberdades."
+  },
+  {
+    "question": "A Convenção Americana de Direitos Humanos, também chamado de Pacto de San José da Costa Rica, foi assinado em 22 de novembro de 1969 e ratificado pelo Brasil em setembro de 1992. Ela busca consolidar entre os países americanos um regime de liberdade pessoal e justiça pessoal, fundado no respeito aos direitos humanos essenciais, independentemente do país onde a pessoa resida ou tenha nascido. Assim, quanto ao seu âmbito de proteção, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F).\n( ) Não existe nenhuma relação entre o Pacto de San Jose da Costa Rica e a Declaração Universal dos Direitos Humanos.\n( ) Sobre os deveres das pessoas, determina que toda pessoa tem deveres para com a família, a comunidade e a humanidade.\n( ) Toda pessoa tem direito a um recurso simples e rápido ou a qualquer outro recurso efetivo, perante os juízes ou tribunais competentes, que a proteja contra atos que violem seus direitos fundamentais reconhecidos pela constituição, pela lei ou pela presente Convenção, mesmo quando tal violação seja cometida por pessoas que estejam atuando no exercício de suas funções oficiais.\n( ) Algumas disposições do Pacto de San José da Costa Rica podem excluir outros direitos e garantias que são inerentes ao ser humano ou que decorrem da forma democrática representativa de governo.",
+    "options": [
+      "V, V, V, V",
+      "V, V, F, F",
+      "V, F, F, V",
+      "F, F, V, V",
+      "F, V, V, F"
+    ],
+    "correct": 4,
+    "explanation": "A sequência correta é F, V, V, F. O Item I é Falso (há relação entre o Pacto e a DUDH). O Item II é Verdadeiro (Art. 32, item 1). O Item III é Verdadeiro (Art. 25, item 1). O Item IV é Falso (Art. 29, alínea c - proíbe a exclusão de outros direitos e garantias inerentes ao ser humano)."
+  },
+  {
+    "question": "Conforme a Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica) e a posição do STF sobre as teorias natalista e da personalidade condicional, o direito à vida deve ser respeitado desde o momento da(o)",
+    "options": [
+      "concepção.",
+      "fecundação do óvulo.",
+      "formação do embrião.",
+      "nascimento.",
+      "nascimento com vida."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 4. Direito à vida, item 1: 'Toda pessoa tem o direito de que se respeite sua vida. Esse direito deve ser protegido pela lei e, em geral, desde o momento da concepção. Ninguém pode ser privado da vida arbitrariamente'."
+  },
+  {
+    "question": "Considere as seguintes disposições de tratados internacionais de direitos humanos:\nArt. 7.5 da Convenção Interamericana de Direitos Humanos: “Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais e tem direito a ser julgada dentro de um prazo razoável ou a ser posta em liberdade, sem prejuízo de que prossiga o processo. Sua liberdade pode ser condicionada a garantias que assegurem o seu comparecimento em juízo”.\nArt. 9.3 do Pacto dos Direitos Civis e Políticos: “Qualquer pessoa presa ou encarcerada em virtude de infração penal deverá ser conduzida, sem demora, à presença do juiz ou de outra autoridade habilitada por lei a exercer funções judiciais e terá o direito de ser julgada em prazo razoável ou de ser posta em liberdade. A prisão preventiva de pessoas que aguardam julgamento não deverá constituir a regra geral, mas a soltura poderá estar condicionada a garantias que assegurem o comparecimento da pessoa em questão à audiência, a todos os atos do processo e, se necessário for, para a execução da sentença”.\nAs disposições descritas se referem à:",
+    "options": [
+      "audiência preliminar.",
+      "audiência de conciliação.",
+      "audiência de instrução e julgamento.",
+      "audiência admonitória.",
+      "audiência de custódia."
+    ],
+    "correct": 4,
+    "explanation": "O procedimento de conduzir o preso em flagrante 'sem demora, à presença de um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais' e o direito a ser julgado em 'prazo razoável ou a ser posta em liberdade' referem-se diretamente ao que é conhecido como **Audiência de Custódia** no Brasil, que visa garantir a legalidade e a necessidade da prisão."
+  },
+  {
+    "question": "De acordo com o que dispõe a Convenção Americana de Direitos Humanos − Pacto de San José da Costa Rica (OEA, 1969),",
+    "options": [
+      "toda pessoa tem o direito de que se respeite sua vida. Esse direito deve ser protegido pela lei e, em geral, desde o momento de seu nascimento.",
+      "não haverá penas de morte, salvo em caso de guerra declarada, em nenhum Estado signatário da referida convenção.",
+      "ninguém deve ser detido por dívidas. Este princípio não limita os mandados de autoridade judiciária competente expedidos em virtude de inadimplemento de obrigação alimentar e ao depositário infiel.",
+      "os processados devem ficar separados dos condenados, salvo em circunstâncias excepcionais, e devem ser submetidos a tratamento adequado à sua condição de pessoas não condenadas.",
+      "toda pessoa tem direito à liberdade de consciência e de religião. Esse direito implica a liberdade de conservar sua religião ou suas crenças, ou de mudar de religião ou de crenças, bem como a liberdade de professar e divulgar sua religião ou suas crenças, individual ou coletivamente, exclusivamente em ambiente privado."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a D, conforme o Artigo 5, item 4: 'Os processados devem ficar separados dos condenados, salvo em circunstâncias excepcionais, e ser submetidos a tratamento adequado à sua condição de pessoas não condenadas'. As demais opções estão incorretas conforme: A - Errada (Art. 4, item 1 – 'desde o momento da concepção'), B - Errada (Art. 4, item 2 – admite a pena de morte para delitos mais graves em países que não a aboliram), C - Errada (Art. 7, item 7 – a exceção é apenas para obrigação alimentar), E - Errada (Art. 12, item 1 – a liberdade de professar e divulgar é 'tanto em público como em privado')."
+  },
+  {
+    "question": "A Convenção Americana sobre Direitos Humanos estabelece que “são competentes para conhecer dos assuntos relacionados com o cumprimento dos compromissos assumidos pelos Estados partes nesta Convenção”:",
+    "options": [
+      "a Organização dos Estados Americanos e o Protetorado Regional de Direitos Humanos.",
+      "todas as cortes supremas dos Estados partes quando acionadas pela Procuradoria Americana de Direitos Humanos.",
+      "o Tribunal Penal Internacional e o Comitê Americano de Direitos Humanos.",
+      "o Alto Comissariado Latino-Americano e a Corte Federal de Direitos Humanos.",
+      "a Comissão Interamericana de Direitos Humanos e a Corte Interamericana de Direitos Humanos."
+    ],
+    "correct": 4,
+    "explanation": "Artigo 33 - Órgãos Competentes: 'São competentes para conhecer dos assuntos relacionados com o cumprimento dos compromissos assumidos pelos Estados Partes nesta Convenção: a. a Comissão Interamericana de Direitos Humanos, doravante denominada a Comissão; e b. a Corte Interamericana de Direitos Humanos, doravante denominada a Corte'."
+  },
+  {
+    "question": "Segundo o Pacto de São José da Costa Rica, durante o processo, toda pessoa tem direito, em plena igualdade, às garantias mínimas estabelecidas. A previsão de suspensão de garantias e das obrigações contraídas em virtude dessa Convenção em caso de guerra, de perigo público, ou de outra emergência que ameace a independência ou segurança do Estado-parte, não autoriza a suspensão de determinados direitos, tal como o direito ao nome e os direitos políticos, além do princípio da legalidade e da retroatividade.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "O Artigo 27, item 2 da CADH (Suspensão de garantias) lista os direitos que não podem ser suspensos em caso de emergência, incluindo o Art. 9 (Princípio da legalidade e da retroatividade), Art. 18 (Direito ao nome) e Art. 23 (Direitos políticos). Portanto, a afirmação está correta."
+  },
+  {
+    "question": "Sobre os Direitos Humanos e a sua proteção, assinale a alternativa correta.",
+    "options": [
+      "O status migratório de uma pessoa é transmitido aos filhos, não bastando o nascimento da pessoa no território para a aquisição da nacionalidade, mesmo que a pessoa não tenha direito a outra nacionalidade que não a do Estado onde nasceu.",
+      "Em caso de emergência que ameace a independência ou segurança do Estado-Parte, este poderá adotar disposições que suspendam obrigações contraídas em virtude da Convenção Interamericana sobre Direitos Humanos.",
+      "É permitida a expulsão coletiva de estrangeiros somente em casos extremos e excepcionais, tais como o de uma imigração em massa que gere, inadvertidamente, uma profunda crise migratória.",
+      "Em obediência à garantia da independência e ao princípio da aderência ao território, o poder judiciário brasileiro não está internacionalmente obrigado a exercer um “controle de convencionalidade” entre as normas internas e a Convenção Americana."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a B, conforme o Artigo 27, item 1: 'Em caso de guerra, de perigo público, ou de outra emergência que ameace a independência ou segurança do Estado Parte, este poderá adotar disposições que, na medida e pelo tempo estritamente limitados às exigências da situação, suspendam as obrigações contraídas em virtude desta Convenção...'. As demais estão erradas: A - Errada (O status migratório não se transmite, e o Art. 20, item 2 da CADH proíbe privar alguém da nacionalidade que tenha direito, sendo relevante o nascimento no território para evitar apatridia). C - Errada (Art. 22, item 9: 'É proibida a expulsão coletiva de estrangeiros'). D - Errada (O Poder Judiciário tem o dever de exercer o controle de convencionalidade, conforme entendimento da Corte IDH)."
+  },
+  {
+    "question": "Sobre a prisão civil, analise as seguintes afirmativas e a relação proposta entre elas.\nI. Desde a adesão do Brasil, sem qualquer reserva, ao Pacto Internacional dos Direitos Civis e Políticos e à Convenção Americana sobre Direitos Humanos, não há mais base legal para prisão civil do depositário infiel.\nUMA VEZ QUE\nII. O artigo 5°, LXVII, da Constituição Federal de 1988, no que diz respeito à prisão civil por dívida do depositário infiel, foi revogado pela ratificação do Pacto de São José da Costa Rica.",
+    "options": [
+      "a afirmativa I é verdadeira, e a II é falsa.",
+      "as afirmativas I e II são verdadeiras, mas a II não é a justificativa da I.",
+      "as afirmativas I e II são verdadeiras, e a II é a justificativa da I.",
+      "a afirmativa I é falsa, e a II é verdadeira."
+    ],
+    "correct": 0,
+    "explanation": "A afirmativa I é verdadeira, pois a Súmula Vinculante 25 do STF e a decisão no RE 466.343 estabeleceram a ilicitude da prisão do depositário infiel. A afirmativa II é falsa, pois o STF entendeu que o artigo 5°, LXVII da CF/88 não foi **revogado**, mas sim teve sua eficácia **paralisada** (ou 'paralisia de eficácia') pela natureza supralegal dos tratados de direitos humanos ratificados."
+  },
+  {
+    "question": "Com relação às garantias penais e processuais penais no âmbito do Sistema Interamericano de Direitos Humanos, é correto afirmar:",
+    "options": [
+      "O direito de recorrer de sentença criminal a juiz ou tribunal superior tem como exceção os casos de competência originária da Suprema Corte de um Estado, pela impossibilidade prática inerente.",
+      "Toda prisão, salvo aquela decorrente de ordem judicial prévia, enseja o direito da pessoa a ela submetida a ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada por lei a exercer funções judiciais.",
+      "De acordo com o texto da Convenção Americana de Direitos Humanos, toda pessoa acusada de um delito tem direito a que se presuma sua inocência até o trânsito em julgado da sentença penal condenatória.",
+      "O direito à proteção judicial previsto na Convenção Americana de Direitos Humanos engloba a proteção contra violação de direitos previstos na Constituição e na lei, além da própria Convenção.",
+      "O Estado ocupa a posição de garantidor dos direitos humanos de todas as pessoas privadas de liberdade, salvo daquelas em prisão administrativa decorrente de serviço militar."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a D, conforme o Artigo 25, item 1: 'Toda pessoa tem direito a um recurso simples e rápido ou a qualquer outro recurso efetivo, perante os juízes ou tribunais competentes, que a proteja contra atos que violem seus direitos fundamentais reconhecidos pela constituição, pela lei ou pela presente Convenção...'. As demais estão incorretas: A - Errada (O Art. 8, item 2, alínea h não prevê exceção). B - Errada (O Art. 7, item 5 não prevê exceção – 'Toda pessoa detida ou retida...'). C - Errada (O Art. 8, item 2 estabelece que a presunção de inocência dura 'enquanto não se comprove legalmente sua culpa', não exigindo o trânsito em julgado)."
+  },
+  {
+    "question": "Em março de 2018, o Brasil sofreu uma condenação na Corte Interamericana de Direitos Humanos porque o Estado brasileiro atuou de forma lenta e inadequada na demarcação da terra do povo indígena Xukuru, em Pernambuco.\nA responsabilidade do Brasil em realizar as reparações determinadas pela Corte, com base na Convenção Americana de Direitos Humanos, recai sobre:",
+    "options": [
+      "o Governo do Estado de Pernambuco, uma vez que é nesse estado que está situado o povo Xukuru;",
+      "o Congresso Nacional brasileiro, por ser responsabilidade dele a demarcação de terras indígenas;",
+      "o Governo Federal do Brasil – União – pois, como Estado Parte, cabe a ele assumir a responsabilidade pela Convenção;",
+      "a Justiça Federal brasileira, que deverá homologar a decisão da Corte e, depois, dar sequência à sua execução;",
+      "a sociedade civil organizada do Brasil, que contará com um aporte de recursos vindos diretamente da Organização dos Estados Americanos."
+    ],
+    "correct": 2,
+    "explanation": "O Artigo 68, item 1, da Convenção estabelece que 'Os Estados Partes na Convenção comprometem-se a cumprir a decisão da Corte em todo caso em que forem partes'. O Brasil, como **Estado Parte**, é o responsável internacional pelo cumprimento das decisões da Corte, cabendo ao seu **Governo Federal (União)**, como representante internacional, assumir essa responsabilidade, inclusive no caso de ser um Estado Federal (Art. 28, item 1)."
+  },
+
+
+  {
+    "question": "Considerando a Convenção Americana sobre Direitos Humanos, é correto afirmar que:",
+    "options": [
+      "não trata de delitos ou de direitos políticos.",
+      "permite a escravidão",
+      "estabelece que o direito à reunião não se submete à qualquer restrição.",
+      "a pena de morte não pode ser restabelecida nos Estados em que tenha sido abolida.",
+      "o Brasil não é signatário desta Convenção."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa CORRETA é a D. O Artigo 4º, item 3, da CADH estabelece que Não se pode restabelecer a pena de morte nos Estados que a hajam abolido. Além disso, o item 4 do mesmo artigo proíbe que Em nenhum caso pode a pena de morte ser aplicada por delitos políticos, nem por delitos comuns conexos com delitos políticos."
+  },
+  {
+    "question": "Sobre as garantias penais e processuais previstas na Convenção Americana sobre Direitos Humanos, é correto afirmar que:",
+    "options": [
+      "a duração razoável do processo, no que concerne à pessoa privada de sua liberdade, não encontra referência explícita na Convenção, ao contrário da necessária e imediata apresentação da pessoa a um juiz, expressamente mencionada.",
+      "a Comissão Interamericana de Direitos Humanos (CIDH), analisando o art. 13 do Pacto de São José da Costa Rica, entendeu que a incriminação do desacato não é compatível com o texto da Convenção.",
+      "determina a Convenção que todo processo penal deve ser público, sendo vedada qualquer espécie de sigilo, a fim de que a sociedade possa fiscalizar a correta aplicação das garantias processuais.",
+      "o Pacto de São José da Costa Rica estabelece a presunção de inocência enquanto não provada legalmente a culpa da pessoa, repudiando expressamente a execução da pena após sentença condenatória em segunda instância.",
+      "a teoria concepcionista, que, em linhas gerais estabelece a proteção à vida desde o momento da concepção, encontra respaldo no art. 4. da Convenção e determina de forma inquestionável o momento em que surge a vida intrauterina e, consequentemente, a interpretação sobre a abrangência do abortamento criminoso."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa CORRETA é a B. A questão pede o posicionamento da CIDH sobre o delito de desacato. A **CIDH** (Comissão Interamericana de Direitos Humanos) entende que as leis de desacato atentam contra a liberdade de expressão e o direito à informação, pois funcionários públicos estão sujeitos a um maior controle por parte da sociedade, e, portanto, a incriminação do desacato não é compatível com o Art. 13 da Convenção. As demais alternativas estão incorretas: A) Errada. O Art. 7º, item 5, prevê expressamente o direito a ser julgada dentro de um prazo razoável ou a ser posta em liberdade. B) Correta. C) Errada. O Art. 8º, item 5, permite o sigilo quando for necessário para preservar os interesses da justiça. D) Errada. Não há essa previsão na CADH. O Art. 8º, item 2, trata apenas da presunção de inocência. E) Errada. O Art. 4º, item 1, não menciona a criminalização do aborto, apenas estabelece a proteção à vida desde a concepção (teoria concepcionista)."
+  },
+  {
+    "question": "Para a proteção dos direitos humanos, o instrumento de maior importância no sistema interamericano é a Convenção Americana de Direitos Humanos assinada em 1969, também denominada de Pacto de San José da Costa Rica. No âmbito dos direitos protegidos na Convenção Americana de Direitos Humanos, é correto afirmar:",
+    "options": [
+      "No que se refere ao direito de liberdade pessoal, a Convenção Americana de Direitos Humanos autoriza a prisão civil por dívida, seja qual for a natureza do inadimplemento.",
+      "Toda pessoa tem direito à liberdade de pensamento e de expressão. Esse direito não compreende a liberdade de buscar, receber e difundir informações e ideias de natureza política.",
+      "Ninguém deve ser submetido a torturas, nem a penas ou tratos cruéis, desumanos ou degradantes. Toda pessoa privada da liberdade deve ser tratada com o respeito devido à dignidade inerente ao ser humano.",
+      "A lei não deve proibir propaganda a favor da guerra, bem como apologia ao ódio nacional, racial ou religioso, para que não haja a limitação do direito de liberdade de expressão.",
+      "Toda pessoa tem o direito de que se respeite sua vida. Esse direito deve ser protegido pela lei e, em geral, desde o momento da concepção. Ninguém pode ser privado da vida arbitrariamente, razão pela qual os Estados-Partes não deverão, em hipótese alguma, admitir a pena de morte, por violar os direitos previstos na Convenção."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa CORRETA é a C. O Artigo 5º, item 2, da CADH estabelece que Ninguém deve ser submetido a torturas, nem a penas ou tratos cruéis, desumanos ou degradantes. Toda pessoa privada da liberdade deve ser tratada com o respeito devido à dignidade inerente ao ser humano. A - Errada. O Art. 7º, item 7, veda a prisão por dívidas, exceto por inadimplemento de obrigação alimentar. B - Errada. O Art. 13º, item 1, diz que a liberdade de pensamento e expressão **compreende** a liberdade de buscar, receber e difundir informações e ideias de **toda natureza**. D - Errada. O Art. 13º, item 5, determina que A lei **deve proibir** toda propaganda a favor da guerra, bem como toda apologia ao ódio nacional, racial ou religioso que constitua incitação à discriminação, à hostilidade, ao crime ou à violência. E - Errada. O Art. 4º, item 2, admite a pena de morte nos países que não a aboliram, desde que aplicada em conformidade com lei promulgada **antes** do delito (Princípio da Anterioridade)."
+  },
+  {
+    "question": "A Convenção Americana de Direitos Humanos (Pacto de San Jose da Costa Rica) reproduz a maior parte das declarações de direitos constantes do Pacto Internacional de Direitos Civis e Políticos de 1966. Contudo, existem novidades importantes, entre as quais se destaca o direito",
+    "options": [
+      "à propriedade privada cujo uso e gozo podem estar subordinados ao interesse social.",
+      "de toda criança adquirir uma nacionalidade.",
+      "das minorias étnicas, religiosas ou linguísticas a ter sua própria vida cultural, de professar e praticar sua religião e usar sua língua.",
+      "à realização de greve, de acordo com condições preestabelecidas.",
+      "das mulheres à licença-maternidade."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa CORRETA é a A. O Artigo 21, item 1, da CADH estabelece que Toda pessoa tem direito ao uso e gozo dos seus bens. A lei pode subordinar esse uso e gozo ao **interesse social**. Este é um direito autônomo e de destaque na CADH. B, C, D e E estão erradas, pois os direitos referidos são encontrados em outros instrumentos internacionais: B e C - Encontram-se no Pacto Internacional dos Direitos Civis e Políticos. D e E - Encontram-se no Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais."
+  },
+  {
+    "question": "Segundo o Pacto de San José da Costa Rica, o acusado que não se defende ele próprio nem nomeia defensor dentro do prazo estabelecido pela lei, segundo a legislação interna, possui direito irrenunciável de ser assistido por Defensor Público ou, impossibilitado, por defensor custeado pelo Estado.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está CORRETO. O Artigo 8º, item 2, alínea 'e', da CADH, que trata das Garantias Judiciais, prevê o direito irrenunciável de ser assistido por um defensor proporcionado pelo Estado, remunerado ou não, segundo a legislação interna, se o acusado não se defender ele próprio nem nomear defensor dentro do prazo estabelecido pela lei."
+  },
+  {
+    "question": "Acerca da Convenção Americana sobre Direitos Humanos, conhecida como Pacto de São José da Costa Rica, assinale a opção correta.",
+    "options": [
+      "O preso não será constrangido a executar trabalho forçado ou obrigatório, ainda que o serviço exigido ocorra em casos de perigo ou de calamidade que ameacem a existência e o bem-estar da comunidade.",
+      "Há previsão, no Pacto de São José da Costa Rica, de que nenhuma pessoa poderá ser detida ou presa por dívida de qualquer natureza.",
+      "A autoridade policial está obrigada a comparecer em juízo para justificar os motivos pelos quais efetuou prisão em flagrante, para que o magistrado possa aferir a legalidade do ato constritivo.",
+      "A audiência de custódia prevê que a pessoa detida seja conduzida à presença do juiz, que, na ocasião, aferirá a legalidade do ato de constrição, para o fim de mantê-lo ou não.",
+      "O devedor de obrigação alimentar e o depositário infiel poderão ser presos pelas dívidas contraídas e não quitadas."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa CORRETA é a D. Embora a Convenção não use o termo 'Audiência de Custódia', seu Artigo 7º, item 6, prevê que Toda pessoa privada da liberdade tem direito a recorrer a um juiz ou tribunal competente, a fim de que este decida, sem demora, sobre a legalidade de sua prisão ou detenção e ordene sua soltura se a prisão ou a detenção forem ilegais. Isso se traduz no Brasil como o instituto da Audiência de Custódia. As demais estão incorretas: A - Errada. O Art. 6º, item 3, alínea 'c', excepciona os serviços exigidos em casos de perigo ou de calamidade (não constituem trabalho forçado). B - Errada. O Art. 7º, item 7, excetua o inadimplemento de obrigação alimentar. C - Errada. Não há previsão de obrigação da autoridade policial justificar o flagrante em juízo, mas sim de conduzir o detido à presença do juiz. E - Errada. A prisão do depositário infiel é vedada pela CADH, prevalecendo sobre a Constituição Federal."
+  },
+  {
+    "question": "Com relação ao sistema interamericano de proteção dos direitos humanos, julgue o seguinte item. Sem prejuízo do direito de os Estados-partes da Convenção Americana sobre Direitos Humanos submeterem-se voluntariamente à Corte Interamericana de Direitos Humanos, nos termos da cláusula facultativa de jurisdição obrigatória constante do Pacto de San José da Costa Rica, o referido tribunal internacional tem a faculdade, inerente às suas atribuições, de determinar o alcance de sua própria competência — compétence de la compétence.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está CORRETO. Este é o princípio da **Compétence de la Compétence** (ou competência da competência), uma faculdade inerente aos tribunais internacionais. Por mais que os Estados-partes tenham a discricionariedade de aceitar ou não a competência de jurisdição da Corte Interamericana de Direitos Humanos (Art. 62), será esta que determinará o alcance de sua própria competência. "
+  },
+  {
+    "question": "A Corte Interamericana de Direitos Humanos é uma instituição judicial autônoma cujo objetivo é aplicar e interpretar a Convenção Americana, exercendo, dentre outras, a função contenciosa, na qual se encontra a resolução de casos contenciosos e o mecanismo de supervisão de sentenças. Para que um caso possa ser submetido à decisão da Corte, é necessário que ele seja apresentado",
+    "options": [
+      "por um dos Estados-Parte ou pela Comissão Interamericana de Direitos Humanos.",
+      "pelo próprio interessado ou por uma entidade internacional de direitos humanos devidamente reconhecida como tal pela Corte.",
+      "por um Estado-Nação, integrante ou não do Sistema Internacional de Proteção aos Direitos Humanos.",
+      "pela Comissão Interamericana de Direitos Humanos ou por entidade de direitos humanos sediada no país onde o caso ocorreu.",
+      "por um dos Estados-Parte, pela Comissão Interamericana de Direitos Humanos, ou pelo interessado ou seus sucessores."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa CORRETA é a A. O Artigo 61, item 1, da CADH é expresso ao limitar a legitimidade ativa para submeter um caso à decisão da Corte: Somente os **Estados Partes** e a **Comissão** têm direito de submeter caso à decisão da Corte. O interessado (vítima) só pode apresentar a petição inicial perante a Comissão (CIDH)."
+  },
+  {
+    "question": "A Convenção Americana de Direitos Humanos dispõe que os Estados partes comprometem-se a adotar as providências, tanto no âmbito interno, como mediante cooperação internacional, especialmente econômica e técnica, a fim de conseguir progressivamente a plena efetividade dos direitos que decorrem das normas econômicas, sociais e sobre educação, ciência e cultura.",
+    "options": [
+      "Correto",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está CORRETO. O Artigo 26 da CADH (Desenvolvimento progressivo, do Capítulo III - Direitos Econômicos, Sociais e Culturais) estabelece precisamente este compromisso dos Estados Partes de adotar providências no âmbito interno e mediante cooperação internacional, especialmente econômica e técnica, a fim de conseguir **progressivamente** a plena efetividade dos direitos sociais e econômicos."
+  },
+  {
+    "question": "A Corte Interamericana de Direitos Humanos é uma instituição judicial autônoma cujo objetivo é aplicar e interpretar a Convenção Americana, exercendo, dentre outras, a função contenciosa, na qual se encontra a resolução de casos contenciosos e o mecanismo de supervisão de sentenças. Para que um caso possa ser submetido à decisão da Corte, é necessário que ele seja apresentado",
+    "options": [
+      "por um dos Estados-Parte ou pela Comissão Interamericana de Direitos Humanos.",
+      "pelo próprio interessado ou por uma entidade internacional de direitos humanos devidamente reconhecida como tal pela Corte.",
+      "por um Estado-Nação, integrante ou não do Sistema Internacional de Proteção aos Direitos Humanos.",
+      "pela Comissão Interamericana de Direitos Humanos ou por entidade de direitos humanos sediada no país onde o caso ocorreu.",
+      "por um dos Estados-Parte, pela Comissão Interamericana de Direitos Humanos, ou pelo interessado ou seus sucessores."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa CORRETA é a A. Conforme o Artigo 61, item 1, da CADH, a legitimidade ativa para levar um caso ao julgamento da Corte Interamericana de Direitos Humanos é restrita a **Estados Partes** e à **Comissão Interamericana de Direitos Humanos (CIDH)**. O indivíduo não pode submeter o caso diretamente à Corte."
+  }
+
+
+
+],
+
+"DireitosSociais":[
+{
+    "question": "Questão 76. (CONSULPLAN / TRT 13ª Região – 2013) Descreve o Art. 7º da CF/88 que “são direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição”. Sobre tais direitos, assinale a alternativa correta.",
+    "options": [
+      "É direito do trabalhador urbano e rural o seguro-desemprego, em caso de desemprego voluntário.",
+      "É direito do trabalhador urbano e rural proteção do salário na forma da lei, constituindo contravenção penal sua retenção dolosa.",
+      "É direito do trabalhador urbano e rural o salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei.",
+      "É direito do trabalhador urbano e rural a licença à gestante, sem prejuízo do emprego e do salário, com a duração de noventa dias.",
+      "Nem a todos os trabalhadores urbanos e rurais é garantido o direito de aposentadoria."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está correta. O Art. 7º, **XII**, da CF/88, estabelece o salário-família pago em razão do dependente do trabalhador de **baixa renda**, nos termos da lei. As demais estão incorretas: A) Seguro-desemprego é em caso de desemprego **involuntário** (Art. 7º, II). B) A retenção dolosa do salário constitui **crime**, não contravenção penal (Art. 7º, X). D) A licença à gestante é de **cento e vinte dias** (Art. 7º, XVIII)."
+  },
+  {
+    "question": "Questão 77. (UPENET / IAUPE-UPE – 2019) São direitos sociais dos trabalhadores urbanos e rurais, EXCETO",
+    "options": [
+      "salário mínimo regionalizado, capaz de atender a suas necessidades vitais básicas e às de sua família, como moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhes preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim.",
+      "piso salarial proporcional à extensão e à complexidade do trabalho.",
+      "irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+      "garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável.",
+      "remuneração do trabalho noturno superior à do diurno."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** é a **EXCETO** (incorreta). O Art. 7º, **IV**, da CF/88, prevê o salário mínimo **nacionalmente unificado**, não regionalizado."
+  },
+  {
+    "question": "Questão 78. (UERR / SETRABES – 2018) É assegurada a eleção de um representante dos empregados com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores, nas empresas que possuam:",
+    "options": [
+      "mais de duzentos empregados.",
+      "mais de cinquenta empregados.",
+      "mais de cem empregados.",
+      "ao menos dez mulheres e cem homens, empregados.",
+      "empregados laborando no exterior."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está correta. Conforme o Art. 11 da CF/88, a eleição do representante dos empregados é assegurada nas empresas com **mais de duzentos empregados**."
+  },
+  {
+    "question": "Questão 79. (NC-UFPR / UFPR – 2017) Assinale a alternativa que indica apenas direitos sociais na Constituição Federal.",
+    "options": [
+      "Educação, lazer e previdência social.",
+      "Trabalho, propriedade e inviolabilidade de domicílio.",
+      "Educação, moradia e acesso à jurisdição.",
+      "Trabalho, liberdade de expressão e lazer.",
+      "Acesso à jurisdição, propriedade e saúde."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está correta. **Educação, Lazer e Previdência Social** são todos Direitos Sociais listados no Art. 6º da CF/88. As demais alternativas misturam direitos sociais com Direitos Individuais (Art. 5º), como propriedade, inviolabilidade de domicílio, acesso à jurisdição e liberdade de expressão."
+  },
+  {
+    "question": "Questão 80. (UFG / TJ-GO - 2017) Nos termos do artigo 6º da Constituição da República Federativa do Brasil de 1988, são direitos sociais:",
+    "options": [
+      "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, o meio ambiente, a previdência social, a proteção a maternidade e à infância e a assistência aos desamparados.",
+      "a educação, a saúde, o meio ambiente, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados.",
+      "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer e o meio ambiente e os direitos humanos.",
+      "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social e os direitos humanos.",
+      "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está correta. Reproduz integralmente a lista completa dos Direitos Sociais expressos no Art. 6º da CF/88, incluindo as adições por emenda constitucional (como transporte, alimentação e moradia)."
+  },
+  {
+    "question": "Questão 81. (UFG / TJ-GO - 2017) O artigo 7º da Constituição da República Federativa do Brasil de 1988 prescreve a melhoria dos direitos sociais dos trabalhadores. Dessa forma, de acordo com o mencionado artigo, são direitos dos trabalhadores urbanos e rurais:",
+    "options": [
+      "participação nos lucros ou resultados, vinculada à remuneração e, excepcionalmente, participação na gestão da empresa.",
+      "piso salarial proporcional à extensão e à complexidade do trabalho, além, da remuneração do trabalho diurno superior à do noturno.",
+      "duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, proibida a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho.",
+      "jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva.",
+      "assistência gratuita em creches e pré-escolas aos filhos e dependentes desde seu nascimento até os 6 (seis) anos de idade."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está correta. É o direito previsto no Art. 7º, **XIV**, da CF/88, que estabelece a jornada de seis horas para turnos ininterruptos de revezamento, ressalvada a negociação coletiva. As demais estão incorretas."
+  },
+  {
+    "question": "Questão 82. (COMPERVE-UFRN / Câmara de Natal – 2016) Os direitos sociais fundamentais, também apelidados pelos juristas como direitos de segunda dimensão ou de segunda geração, têm, em sua ontologia, a intenção de reduzir desigualdades para fins de concretização da igualdade material, substancial ou isonômica. Uma das ideias que os permeia é a de tratar igualmente os iguais e desigualmente os desiguais na proporção de suas desigualdades. O constituinte brasileiro, visualizando a importância desses direitos, tratou de expressamente tutelá-los. Nesse sentido, a Constituição Federal prevê direitos dos trabalhadores urbanos e rurais, tais como",
+    "options": [
+      "a ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de sete anos.",
+      "o reconhecimento das convenções e acordos coletivos de trabalho e a proteção em face da automação, na forma da lei.",
+      "o gozo de férias anuais remuneradas com, pelo menos, dois terços a mais que o salário normal.",
+      "a remuneração do serviço extraordinário superior, no mínimo, em quarenta por cento relativamente à do normal."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está correta. O Art. 7º prevê o **reconhecimento das convenções e acordos coletivos de trabalho** (**XXVI**) e a **proteção em face da automação, na forma da lei** (**XXVII**). As demais estão incorretas: A) Prazo prescricional de 5 anos até 2 anos após extinção (XXIX). C) Férias remuneradas com pelo menos **um terço** a mais (XVII). D) Serviço extraordinário superior em, no mínimo, **cinquenta por cento** (XVI)."
+  },
+  {
+    "question": "Questão 83. (COMPERVE-UFRN / Câmara de Natal – 2016) A liberdade do indivíduo, direito fundamental tradicionalmente caracterizado como de primeira dimensão ou geração, possui desdobramentos e se expressa em variadas espécies no âmbito do atual Estado Constitucional Democrático, sendo possível falar em liberdade de ir e vir, liberdade religiosa, liberdade profissional, dentre outras. No que diz respeito especificamente à liberdade de associação sindical, de acordo com as diretrizes constitucionais, é possível observar que no Brasil é livre a associação sindical, cabendo aos sindicatos a defesa dos",
+    "options": [
+      "direitos individuais da categoria em questões judiciais, excluídas as questões administrativas e de ordem internacional.",
+      "interesses individuais da categoria, excluídos os coletivos, inclusive em questões judiciais ou administrativas.",
+      "direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas.",
+      "interesses coletivos da categoria em questões judiciais, excluídos os interesses individuais e as questões administrativas e incluídas as questões internacionais."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está correta. O Art. 8º, **III**, da CF/88, dispõe que 'ao sindicato cabe a defesa dos **direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas**'."
+  },
+  {
+    "question": "Questão 84. (UPENET / PM-PE – 2016) Acerca dos direitos sociais previstos na Constituição Federal de 1988, analise as seguintes afirmativas:\nI. O direito à irredutibilidade do salário do trabalhador não é absoluto, podendo ocorrer a redução salarial, desde que ela seja aprovada em convenção ou acordo coletivo.\nII. A assistência aos desamparados não integra os direitos sociais previstos na CF/88.\nIII. É assegurado o direito a piso salarial proporcional à extensão e complexidade do trabalho.\nIV. É obrigatória a autorização estatal para a fundação de sindicato.\nEstão CORRETAS somente",
+    "options": [
+      "I e IV.",
+      "II e IV.",
+      "I, II e III.",
+      "III e IV.",
+      "I e III."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está correta. Apenas as afirmativas **I** (Art. 7º, VI) e **III** (Art. 7º, V) estão de acordo com a CF/88. A II está incorreta (assistência aos desamparados é direito social – Art. 6º) e a IV está incorreta (não se exige autorização estatal para fundar sindicato – Art. 8º, I)."
+  },
+  {
+    "question": "Questão 85. (UPENET / PM-PE – 2016) Considerando os Direitos Sociais expressamente assegurados na Constituição Federal de 1988, analise as afirmativas abaixo:\nI. A remuneração do serviço extraordinário deve ser superior em, no mínimo, cem por cento da remuneração normal.\nII. É assegurada a igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.\nIII. É assegurado o direito de repouso semanal remunerado, preferencialmente aos sábados e domingos.\nIV. Constitui-se como um dos direitos sociais previstos na CF/88 a proteção à maternidade e à infância.\nEstão CORRETAS",
+    "options": [
+      "I e II, somente.",
+      "I e III, somente.",
+      "II e IV, somente.",
+      "III e IV, somente.",
+      "I, II, III e IV."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está correta. Apenas as afirmativas **II** (Art. 7º, XXXIV) e **IV** (Art. 6º) estão de acordo com a CF/88. A I está incorreta (o adicional é de **50%**, Art. 7º, XVI). A III está incorreta (a preferência é **aos domingos**, Art. 7º, XV)."
+  },
+  {
+    "question": "Questão 86. (UPENET / PM-PE – 2016) Ainda sobre os direitos sociais, assinale a alternativa CORRETA.",
+    "options": [
+      "A filiação ao sindicato é obrigatória, conforme a respectiva categoria profissional.",
+      "Não é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho.",
+      "A aposentadoria não extingue o direito à filiação das organizações sindicais.",
+      "O sindicato não pode defender interesse coletivo da categoria em questões administrativas.",
+      "O sindicato não pode defender interesse individual da categoria em questões judiciais."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está correta. O Art. 8º, **VII**, da CF/88, garante que 'o aposentado filiado tem direito a votar e ser votado nas organizações sindicais', ou seja, a filiação é mantida. As demais estão incorretas: A) A filiação é livre (Art. 8º, V). B) A participação em negociações coletivas é **obrigatória** (Art. 8º, VI). D) e E) O sindicato defende interesses coletivos ou individuais em questões judiciais ou **administrativas** (Art. 8º, III)."
+  },
+  {
+    "question": "Questão 87. (UFMT / TJ-MT – 2016) Considerando o disposto na Constituição da República Federativa do Brasil de 1988, em relação aos direitos dos trabalhadores urbanos e rurais, marque V para os itens verdadeiros e F para os falsos.\n( ) Piso salarial proporcional à extensão e à complexidade do trabalho.\n( ) Remuneração do trabalho noturno igual à do diurno.\n( ) Proteção em face da automação.\n( ) Permissão de distinção entre trabalho manual, técnico e intelectual.\nAssinale a sequência correta.",
+    "options": [
+      "F, V, F, V",
+      "V, F, F, V",
+      "F, V, V, F",
+      "V, F, V, F"
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está correta. A sequência é **V, F, V, F**:\n* (V) Art. 7º, **V** (Piso salarial proporcional).\n* (F) Art. 7º, **IX** (Remuneração do trabalho noturno é **superior** à do diurno).\n* (V) Art. 7º, **XXVII** (Proteção em face da automação).\n* (F) Art. 7º, **XXXII** (**Vedada** a distinção entre trabalho manual, técnico e intelectual)."
+  },
+  {
+    "question": "Questão 88. (UFMT / UFMT – 2014) Para o cidadão, o Projeto Esporte e Lazer da Cidade (PELC), de acordo com a Constituição Federal brasileira de 1988, é:",
+    "options": [
+      "Dever Social.",
+      "Direito Social.",
+      "Direito Político.",
+      "Dever Político."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está correta. O **Lazer** está listado no Art. 6º da CF/88 como um **Direito Social**."
+  },
+  {
+    "question": "Questão 89. (UFPR / Progepe – 2014) Sobre os direitos e garantias fundamentais na Constituição Federal, considere as seguintes afirmativas:\n1. Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade.\n2. As normas definidoras dos direitos e garantias fundamentais não têm aplicação imediata, sendo necessária a edição de leis regulamentadoras.\n3. São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.\nAssinale a alternativa correta.",
+    "options": [
+      "Somente a afirmativa 1 é verdadeira.",
+      "Somente as afirmativas 1 e 2 são verdadeiras.",
+      "Somente as afirmativas 1 e 3 são verdadeiras.",
+      "Somente as afirmativas 2 e 3 são verdadeiras.",
+      "As afirmativas 1, 2 e 3 são verdadeiras."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está correta. Apenas a afirmativa **1** é verdadeira, pois reproduz o Art. 5º, *caput*, da CF/88. A afirmativa **2** está incorreta, pois as normas definidoras dos direitos e garantias fundamentais **têm aplicação imediata** (Art. 5º, § 1º). A afirmativa **3** está incorreta por omissão, pois o Art. 6º da CF/88, em sua redação atual (incluindo EC 90/2015), lista também o **transporte** como direito social."
+  }
+,{
+    "question": "Questão 38. (FUNRIO / UFRB – 2015) É livre a associação profissional ou sindical, nos termos da Constituição Federal, sendo correto afirmar que\nI) a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical;\nII) é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município;\nIII) ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas;\nIV) a assembleia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei;\nV) ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato.",
+    "options": [
+      "todas as opções estão corretas.",
+      "somente as opções I, II e III estão corretas.",
+      "somente as opções III, IV e V estão corretas.",
+      "somente as opções II, III e IV estão corretas.",
+      "somente as opções I, III e V estão corretas."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**, pois todas as afirmações reproduzem fielmente os dispositivos do Art. 8º da CF/88:\n* **I:** Art. 8º, I (Liberdade e não intervenção).\n* **II:** Art. 8º, II (Unicidade sindical e base mínima municipal).\n* **III:** Art. 8º, III (Substituição processual).\n* **IV:** Art. 8º, IV (Contribuição confederativa).\n* **V:** Art. 8º, V (Liberdade de filiação)."
+  },
+  {
+    "question": "Questão 39. (FUNRIO / IFBA – 2014) Considerando o que prevê a Constituição Federal, um dos direitos dos trabalhadores urbanos e rurais está indicado na seguinte alternativa:",
+    "options": [
+      "o aviso prévio, com antecedência de no mínimo de trinta dias, proporcional ao tempo de serviço, nos termos da lei.",
+      "a assistência gratuita aos filhos e dependentes, desde o nascimento até os sete anos de idade, em creches e pré-escolas.",
+      "a jornada de sete horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva.",
+      "a irredutibilidade do salário, salvo o disposto em contrato de trabalho.",
+      "o repouso semanal remunerado, aos domingos."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. O Art. 7º, **XXI**, da CF/88, prevê o 'aviso prévio proporcional ao tempo de serviço, sendo **no mínimo de trinta dias**, nos termos da lei'."
+  },
+  {
+    "question": "Questão 40. (FEPESE / MPE-SC – 2014) Assinale a alternativa correta.",
+    "options": [
+      "São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados.",
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, participação nos lucros, ou resultados, vinculada à remuneração percebida na empresa e repouso semanal remunerado aos domingos.",
+      "Todas as gestantes têm direito à licença remunerada, sem prejuízo do emprego e do salário, com a duração de cento e oitenta dias.",
+      "É proibido o trabalho noturno, perigoso ou insalubre, a menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz, a partir dos 12 anos.",
+      "É livre a associação profissional ou sindical, observando-se que a lei poderá exigir autorização do Estado para a fundação de sindicato, vedadas ao Poder Público, porém, a interferência e a intervenção na organização sindical."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. É a lista completa dos direitos sociais conforme o Art. 6º da CF/88, incluindo as emendas constitucionais que adicionaram Moradia, Alimentação e Transporte (o transporte não está listado na opção, mas a opção está correta em relação ao que lista)."
+  },
+  {
+    "question": "Questão 41. (FEPESE / TCE-SC – 2014) Analise as afirmativas abaixo acerca dos direitos e das garantias fundamentais dos trabalhadores urbanos e rurais.\n1. É vedada a distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos.\n2. É assegurado o pagamento de seguro-desemprego, em caso de despedida por justa causa.\n3. É assegurado o direito a ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de dois anos para os trabalhadores urbanos e rurais, até o limite de cinco anos após a extinção do contrato de trabalho.\n4. O repouso semanal remunerado deverá ocorrer preferencialmente aos sábados e domingos.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "É correta apenas a afirmativa 1.",
+      "São corretas apenas as afirmativas 1 e 3.",
+      "São corretas apenas as afirmativas 1 e 4.",
+      "São corretas apenas as afirmativas 2 e 4.",
+      "São corretas as afirmativas 1, 2, 3 e 4."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**, pois apenas a afirmativa 1 está de acordo com a CF/88:\n* **1. Correta:** Art. 7º, **XXXII** (É vedada a distinção entre trabalho manual, técnico e intelectual).\n* **2. Incorreta:** Seguro-desemprego é em caso de desemprego **involuntário** (Art. 7º, II).\n* **3. Incorreta:** O prazo prescricional é de **cinco anos**, até o limite de **dois anos** após a extinção do contrato (Art. 7º, XXIX).\n* **4. Incorreta:** Repouso semanal remunerado é **preferencialmente aos domingos** (Art. 7º, XV)."
+  },
+  {
+    "question": "Questão 42. (FUNDATEC / Prefeitura de Vacaria – 2014) De acordo com Art. 6º da Constituição Federal de 1988, são direitos sociais, EXCETO:",
+    "options": [
+      "Educação.",
+      "Saúde.",
+      "Alimentação.",
+      "Inviolabilidade da vida privada.",
+      "Moradia."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** é a **EXCETO** (incorreta). A **Inviolabilidade da vida privada** é um **Direito Individual** (Art. 5º, X). As demais são Direitos Sociais (Art. 6º)."
+  },
+  {
+    "question": "Questão 43. (FUNCAB / SEDS-TO – 2014) Entre os direitos dos trabalhadores urbanos e rurais garantidos expressamente no artigo 7° da Constituição Federal de 1988 estão:",
+    "options": [
+      "o fundo de garantia do tempo de serviço e a licença-paternidade.",
+      "o décimo terceiro salário e a igualdade na remuneração dos trabalhos noturno e diurno.",
+      "o seguro-desemprego, em caso de desemprego voluntário, e o aviso-prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias.",
+      "a garantia do salário mínimo, exceto para os que recebem remuneração variável, e a aposentadoria."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. Ambos são direitos previstos no Art. 7º da CF/88: **Fundo de Garantia do Tempo de Serviço** (III) e **Licença-Paternidade** (XIX)."
+  },
+  {
+    "question": "Questão 44. (FUNCAB / PC-ES – 2013 - Adaptada) São direitos sociais preceituados na Constituição de 1988:",
+    "options": [
+      "a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "o direito de herança, a intimidade, a privacidade, a informação dos órgãos públicos.",
+      "a livre locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer, ou dele sair com seus bens."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. O Art. 6º da CF/88 lista todos esses direitos (Educação, Saúde, Alimentação, Trabalho, Moradia, Transporte, Lazer, Segurança, Previdência Social, Proteção à Maternidade e à Infância, e Assistência aos Desamparados)."
+  },
+  {
+    "question": "Questão 45. (FUNCAB / ANS – 2013) Acerca dos direitos sociais, é correto afirmar que:",
+    "options": [
+      "a localização dos direitos sociais no título constitucional destinado aos direitos e garantias fundamentais não acarreta, por consequência, a subordinação à regra da autoaplicabilidade das normas definidoras dos direitos e garantias fundamentais.",
+      "não cabe o ajuizamento do Mandado de Injunção, quando houver a omissão do Poder Público na regulamentação de alguma norma que preveja um direito social e, consequentemente, inviabilize seu exercício.",
+      "a Constituição Federal proclama serem direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "os róis dos direitos sociais enumerados taxativamente no capítulo II do título II do texto constitucional esgotam os direitos constitucionais dos trabalhadores.",
+      "o direito de greve dos servidores públicos civis entra em vigor imediatamente, não dependendo seu exercício de lei ordinária específica."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É a lista completa e expressa dos Direitos Sociais contidos no Art. 6º da CF/88 (após as emendas constitucionais)."
+  },
+  {
+    "question": "Questão 46. (FUMARC/ PC-MG – 2013) A Constituição Federal de 1988 traz previsão expressa no sentido de que são direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados. Logo depois, relaciona como direitos dos trabalhadores urbanos e rurais, EXCETO:",
+    "options": [
+      "Piso salarial proporcional à extensão e à complexidade do trabalho.",
+      "Repouso semanal remunerado, preferencialmente aos sábados e domingos.",
+      "Décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria.",
+      "Licença paternidade, nos termos fixados em lei."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** é a **EXCETO** (incorreta). O Art. 7º, **XV**, da CF/88, prevê o 'repouso semanal remunerado, **preferencialmente aos domingos**', não citando 'sábados e domingos' como preferência."
+  },
+  {
+    "question": "Questão 47. (FADESP / MPE-PA – 2012) São direitos dos trabalhadores urbanos e rurais:",
+    "options": [
+      "a relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, sem previsão de indenização compensatória.",
+      "a duração do trabalho normal não superior a oito horas diárias e quarenta semanas.",
+      "a proteção em face da automação, na forma da lei.",
+      "o repouso semanal remunerado, exclusivamente aos domingos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 7º, **XXVII**, da CF/88: 'proteção em face da **automação**, na forma da lei'."
+  },
+  {
+    "question": "Questão 48. (FUNDATEC / CEEERS – 2010) Assinale a alternativa que não está de acordo com os Direitos Sociais.",
+    "options": [
+      "Seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré-escolas.",
+      "Proibição de trabalho noturno, perigoso ou insalubre a menores de dezesseis anos, e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz.",
+      "Licença à gestante, sem prejuízo do emprego e do salário.",
+      "Salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** é a que **NÃO** está de acordo. O Art. 7º, **XXXIII**, da CF/88, proíbe trabalho noturno, perigoso ou insalubre a menores de **dezoito anos** (e não dezesseis) e qualquer trabalho a menores de **dezesseis anos**, salvo na condição de aprendiz, a partir de **quatorze anos**."
+  },
+  {
+    "question": "Questão 49. (FEPESE / Prefeitura Balneário Camboriú – 2010) Com base nas disposições constitucionais, constitui direito dos trabalhadores urbanos e rurais:",
+    "options": [
+      "Irredutibilidade do salário, sem ressalva.",
+      "Seguro contra os acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa.",
+      "Relação de emprego protegida contra a despedida, com ou sem justa causa, mediante previsão de indenização compensatória.",
+      "Licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e oitenta dias.",
+      "Proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o direito previsto no Art. 7º, **XXVIII**, da CF/88."
+  },
+  {
+    "question": "Questão 50. (FADESP / Pref. Castanhal-PA – 2012) A respeito de associação profissional ou sindical, assinale a resposta correta.",
+    "options": [
+      "É vedada a criação de mais de duas organizações sindicais, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um distrito Municipal.",
+      "É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município.",
+      "É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Estado.",
+      "É vedada a criação de mais de duas organizações sindicais, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o princípio da unicidade sindical (Art. 8º, **II**), que veda mais de uma organização sindical na mesma base territorial, que não pode ser inferior à área de um **Município**."
+  },
+  {
+    "question": "Questão 51. (FUNDATEC / Câmara de Porto Alegre – 2012) Considerando as regras da Constituição da República Federativa do Brasil sobre os Direitos Sociais, analise as seguintes afirmativas:\nI. É vedada a redução de salário, salvo o disposto em convenção ou acordo coletivo.\nII. A duração do trabalho normal não deverá ser superior a oito horas diárias e quarenta horas semanais.\nIII. As férias serão remuneradas com pelo menos um terço a mais que o salário normal.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas III.",
+      "Apenas I e III.",
+      "Apenas II e III."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**:\n* **I. Correta:** Art. 7º, **VI** (Irredutibilidade salarial com ressalva).\n* **II. Incorreta:** A jornada normal é de quarenta e **quatro** semanais (Art. 7º, XIII).\n* **III. Correta:** Art. 7º, **XVII** (Gozo de férias anuais remuneradas com, pelo menos, um terço a mais)."
+  },
+  {
+    "question": "Questão 52. (FUNDATEC / Advogado Pref. Sapucaia do Sul – 2012) – As chamadas ‘ações afirmativas’ ou ‘discriminações positivas’ são colocadas no Direito Constitucional como relacionadas ao princípio da:",
+    "options": [
+      "legalidade.",
+      "igualdade ou isonomia.",
+      "proporcionalidade.",
+      "liberdade de expressão e de pensamento.",
+      "liberdade de iniciativa econômica."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. As ações afirmativas visam concretizar a **igualdade material** (isonomia), tratando desigualmente os desiguais para compensar desvantagens históricas ou sociais."
+  },
+  {
+    "question": "Questão 53. (FUNDATEC / PROCERGS – 2012) Com a Constituição da República de 1988, o serviço extraordinário passou a ser remunerado com adicional de, no mínimo,",
+    "options": [
+      "30% (trinta por cento).",
+      "35% (trinta e cinco por cento).",
+      "40% (quarenta por cento).",
+      "45% (quarenta e cinco por cento).",
+      "50% (cinquenta por cento)."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. O Art. 7º, **XVI**, da CF/88, prevê a 'remuneração do serviço extraordinário superior, no mínimo, em **cinquenta por cento** à do normal'."
+  },
+  {
+    "question": "Questão 54. (FUNIVERSA / Seplag DF – 2010) É considerado direito social previsto na Constituição Federal de 1988:",
+    "options": [
+      "a liberdade de associação e de religião.",
+      "a proteção do meio ambiente.",
+      "a proteção da saúde e da educação.",
+      "a proteção da paz mundial.",
+      "o mandado de segurança."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. A **saúde** e a **educação** estão expressamente listadas no Art. 6º da CF/88 como Direitos Sociais."
+  },
+  {
+    "question": "Questão 55. (FUNIVERSA / PC-GO – 2010 - Adaptada) Caracterizam-se os direitos e as garantias fundamentais como uma árdua conquista dos cidadãos no decorrer dos tempos, mas que, nem pelo fato de sua previsão, têm garantida sua efetividade no âmbito social, sendo este o maior problema vigente no que diz respeito à matéria posta. Acerca desse tema, assinale a alternativa correta.",
+    "options": [
+      "Constam, exaustivamente, como direitos sociais expressos do texto constitucional vigente a educação, a saúde, o trabalho, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados.",
+      "O salário-família é concedido aos dependentes de todos os trabalhadores, públicos ou privados, desde que estes tenham vínculo formal de emprego.",
+      "É pleno o exercício do direito de greve dos servidores públicos.",
+      "É proibido o trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. É a redação do Art. 7º, **XXXIII**, da CF/88. A proibição para NPI é para menores de 18 anos, e a proibição de qualquer trabalho é para menores de 16, com a exceção do aprendiz a partir de 14 anos."
+  },
+  {
+    "question": "Questão 56. (Instituto AOCP / UFPB – 2019) Considerando os direitos sociais expressamente previstos na Constituição Federal vigente, assinale a alternativa correta.",
+    "options": [
+      "O aposentado filiado não tem direito a votar e ser votado nas organizações sindicais.",
+      "São proibidos o trabalho noturno, perigoso ou insalubre a menores de dezesseis anos e qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz.",
+      "É direito do trabalhador a proteção do salário na forma da lei, constituindo crime sua retenção dolosa.",
+      "É direito do trabalhador o repouso semanal remunerado, sem qualquer preferência quanto ao dia da sua concessão.",
+      "É livre a associação profissional ou sindical, cabendo ao sindicato a defesa dos direitos e interesses coletivos ou individuais da categoria, exclusivamente em questões administrativas."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 7º, **X**, da CF/88."
+  },
+  {
+    "question": "Questão 57. (Instituto AOCP / PC-ES – 2019) Em relação aos Sindicatos, observada a legislação nacional a respeito da matéria, é correto afirmar que",
+    "options": [
+      "é possível a criação de mais de um sindicato da mesma categoria em uma mesma base territorial.",
+      "os sindicatos não devem participar das negociações coletivas de trabalho da categoria que representam.",
+      "não há vedação à sindicalização dos militares.",
+      "é vedada, ao servidor público civil, a associação sindical.",
+      "segundo a Constituição da República Federativa do Brasil, é livre a associação profissional ou sindical, observados os termos constitucionais."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. É a disposição do Art. 8º, **caput**, da CF/88."
+  },
+  {
+    "question": "Questão 58. (Instituto AOCP / PC-ES – 2019) A Constituição Federal determina que é livre a associação profissional ou sindical, observado o seguinte:",
+    "options": [
+      "a lei poderá exigir autorização do Estado para a fundação de sindicato, sendo admitidas, ao Poder Público, a interferência e a intervenção na organização sindical nos casos previstos em lei.",
+      "é facultativa a participação dos sindicatos nas negociações coletivas de trabalho.",
+      "o aposentado filiado tem direito a votar e ser votado nas organizações sindicais.",
+      "é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até dois anos após o final do mandato, salvo se cometer falta grave nos termos da lei.",
+      "a assembleia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, caso em que será dispensada a contribuição prevista em lei."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 8º, **VII**, da CF/88."
+  },
+  {
+    "question": "Questão 59. (Instituto AOCP / IPM-SP – 2018) Em concordância com a Constituição Federal, além de outros que visem à melhoria de sua condição social, é direito do trabalhador urbano e rural",
+    "options": [
+      "jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, ainda que haja negociação coletiva em sentido diverso.",
+      "ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de dois anos para os trabalhadores urbanos e rurais, até o limite de cinco anos após a extinção do contrato de trabalho.",
+      "igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.",
+      "assistência gratuita aos filhos e dependentes desde o nascimento até 6 (seis) anos de idade em creches e pré-escolas.",
+      "seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer somente com dolo."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 7º, **XXXIV**, da CF/88."
+  },
+  {
+    "question": "Questão 60. (Instituto AOCP / TRT 1ª Região – 2018) Tício, Analista Judiciário – Área Administrativa no TRT, trabalha no setor de recursos humanos do tribunal e conhece as previsões constitucionais acerca dos direitos sociais. Sobre esse assunto, assinale a alternativa correta.",
+    "options": [
+      "É permitido no texto constitucional, ainda que excepcionalmente, o trabalho para menores de dezesseis anos.",
+      "Em que pese ser proibida a diferença de critério de admissão por motivo de sexo, cor ou estado civil, é possível, na forma da lei, a diferença de critério de admissão por idade.",
+      "A Constituição Federal, apesar de prever a licença-maternidade como direito social, não garante, de forma expressa, o mesmo direito aos trabalhadores do sexo masculino.",
+      "É garantido o direito ao aviso prévio proporcional ao tempo de serviço, sendo de, no mínimo, oito dias, se o pagamento for efetuado por semana ou tempo inferior.",
+      "A Constituição Federal garante o direito à indenização por acidente de trabalho, a ser paga pelo empregador que incorrer em dolo ou culpa, salvo se este arcar com o seguro contra acidentes de trabalho."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. O Art. 7º, **XXXIII**, proíbe qualquer trabalho a menores de dezesseis anos, **salvo na condição de aprendiz, a partir de quatorze anos**."
+  },
+  {
+    "question": "Questão 61. (AOCP / CODEM-PA – 2017) Considerados essenciais para a efetivação dos direitos mínimos de existência, os direitos sociais são elevados a nível constitucional, de forma a auxiliar na garantia da efetivação da dignidade da pessoa humana. Considerando os direitos sociais expressos na Constituição Federal de 1988, assinale a alternativa correta sobre o direito dos trabalhadores urbanos e rurais.",
+    "options": [
+      "Os trabalhadores têm direito à remuneração superior quando do serviço extraordinário, bem como a possibilidade de participação nos lucros, ou resultados da empregadora, sendo esta desvinculada da remuneração.",
+      "O piso salarial deve ser proporcional à extensão e à complexidade do trabalho. Além disso, a remuneração do trabalho diurno deve ser superior à do noturno.",
+      "Os trabalhadores têm direito ao repouso semanal remunerado, dando-se preferência aos sábados e domingos, bem como a proteção contra a despedida por justa causa, à qual implicará indenização compensatória.",
+      "Os trabalhadores têm direito ao seguro contra acidentes de trabalho, cujo recolhimento fica a cargo do empregado, mas não afasta a responsabilização por dolo ou culpa, a qual recai sobre o empregador.",
+      "É proibido o trabalho noturno, perigoso ou insalubre a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos, desde que sejam realizados atos que reduzam os riscos inerentes à atividade desenvolvida, por meio de normas de saúde, higiene e segurança."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. Combina o Art. 7º, **XVI** (remuneração superior do serviço extraordinário), com o Art. 7º, **XI** (participação nos lucros desvinculada da remuneração)."
+  },
+  {
+    "question": "Questão 62. (AOCP / Agepen-CE – 2017) É/são direito(s) dos trabalhadores urbanos e rurais, previsto(s) expressamente na Constituição Federal:",
+    "options": [
+      "salário mínimo, fixado em lei complementar, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes semestrais que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim.",
+      "proteção em face da automação, na forma da lei.",
+      "salário mínimo, fixado em norma infralegal, regionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes anuais que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim.",
+      "licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e oitenta dias."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o direito previsto no Art. 7º, **XXVII**, da CF/88: 'proteção em face da **automação**, na forma da lei'."
+  },
+  {
+    "question": "Questão 63. (AOCP / Prefeitura de Juazeiro – 2016) De acordo com a Constituição Federal de 1988, são exemplos de direitos sociais:",
+    "options": [
+      "a educação, o trabalho, a greve.",
+      "o transporte, a segurança e o ir e vir.",
+      "a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "a moradia, a família, a alimentação.",
+      "a educação, a segurança, a reunião."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. Todos são direitos sociais listados no Art. 6º da CF/88."
+  },
+  {
+    "question": "Questão 64. (AOCP / EBSERH – 2016) São direitos dos trabalhadores urbanos e rurais, previstos expressamente na Constituição Federal, EXCETO",
+    "options": [
+      "fundo de garantia do tempo de serviço.",
+      "remuneração do trabalho noturno superior à do diurno.",
+      "aposentadoria.",
+      "remuneração do serviço extraordinário superior, no mínimo, em vinte por cento à do normal.",
+      "proteção em face da automação, na forma da lei."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** é a **EXCETO** (incorreta). A remuneração do serviço extraordinário é superior, no mínimo, em **cinquenta por cento** à do normal (Art. 7º, **XVI**)."
+  },
+  {
+    "question": "Questão 65. (AOCP / IF-BA – 2016) Assinale a alternativa que apresenta um Direito Social garantido pela Constituição Federal.",
+    "options": [
+      "Proteção em face da automação, na forma da lei.",
+      "Licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e oitenta dias.",
+      "Gozo de férias anuais remuneradas com, pelo menos, dois terços a mais do que o salário normal.",
+      "Participação nos lucros, ou resultados, vinculada à remuneração e participação na gestão da empresa.",
+      "Seguro-desemprego, em caso de desemprego voluntário."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. É o direito previsto no Art. 7º, **XXVII**, da CF/88."
+  },
+  {
+    "question": "Questão 66. (AOCP / IF-BA – 2016) É Direito Social previsto na Constituição Federal",
+    "options": [
+      "a remuneração do serviço extraordinário em valor equivalente à remuneração do serviço em horário normal.",
+      "a licença-paternidade sem prejuízo do emprego e do salário, com a duração de cento e vinte dias.",
+      "o seguro contra acidentes de trabalho, a cargo do empregado, o qual excluirá a indenização a que este está obrigado, quando incorrer em dolo ou culpa.",
+      "o repouso semanal não remunerado, preferencialmente aos sábados.",
+      "a redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança"
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. É o direito previsto no Art. 7º, **XXII**, da CF/88."
+  },
+  {
+    "question": "Questão 67. (AOCP / Pref. Vitória da Conquista/BA – 2013) De acordo com o que descreve a Constituição Federal, é proibido qualquer trabalho",
+    "options": [
+      "a menores de dezoito anos.",
+      "a menores de dezoito anos, salvo na condição de aprendiz, a partir dos dezesseis anos.",
+      "a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos.",
+      "a menores de quatorze anos, salvo na condição de aprendiz, a partir de doze anos.",
+      "a menores de quinze anos, salvo na condição de aprendiz, a partir dos dez anos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É a regra geral do Art. 7º, **XXXIII**, da CF/88: 'proibição de qualquer trabalho a menores de **dezesseis anos**, salvo na condição de aprendiz, a partir de **quatorze anos**'."
+  },
+  {
+    "question": "Questão 68. (AOCP / BRDE – 2012) Constituem-se direitos sociais previstos pela atual Constituição Federal:",
+    "options": [
+      "educação e proteção quanto à demissão arbitrária.",
+      "proteção à maternidade e irredutibilidade salarial.",
+      "remuneração não inferior ao salário mínimo e saúde.",
+      "trabalho e respeito à integridade física e moral.",
+      "previdência social e moradia."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. A **Previdência Social** e a **Moradia** são expressamente listadas no Art. 6º da CF/88."
+  },
+  {
+    "question": "Questão 69. (AOCP / TCE-PA – 2012) Analise as assertivas e assinale a alternativa que aponta as corretas. De acordo com a Constituição Federal, a soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante:\nI. Plebiscito.\nII. Referendo.\nIII. Iniciativa Popular.\nIV. Audiência Pública.",
+    "options": [
+      "Apenas I, II e III.",
+      "Apenas II e III.",
+      "Apenas I e II.",
+      "Apenas II, III e IV.",
+      "I, II, III e IV."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. O Art. 14 da CF/88 lista o **plebiscito**, o **referendo** e a **iniciativa popular** como instrumentos de exercício da soberania popular. Audiência Pública não é um desses instrumentos."
+  },
+  {
+    "question": "Questão 70. (CONSULPLAN / Câmara Municipal de Belo Horizonte – 2018) De acordo com a Constituição Federal de 1988 no Título II, Capítulo II, são direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, EXCETO:",
+    "options": [
+      "Fundo de garantia do tempo de serviço.",
+      "Seguro-desemprego, em caso de desemprego involuntário.",
+      "Relação de emprego protegida contra despedida arbitrária, exceto sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos.",
+      "Salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** é a **EXCETO** (incorreta). A proteção do emprego é justamente contra a despedida arbitrária **ou sem justa causa** (Art. 7º, **I**)."
+  },
+  {
+    "question": "Questão 71. (CONSULPLAN / TRE-RJ – 2017) Considere que Clécio, empregado de uma fábrica de automóveis, candidatou-se ao cargo de representante sindical de sua categoria profissional, vindo a ser eleito ao final do pleito.” No que se refere às garantias sociais constitucionais, é correto afirmar que Clécio",
+    "options": [
+      "pode ser dispensado até a divulgação oficial de sua eleição, adquirindo a estabilidade no emprego a partir daquela data, até um ano após o retorno ao trabalho.",
+      "pode gozar da estabilidade sindical, instituto que se assemelha com a estabilidade dos servidores públicos, já que se adquire após três anos de efetivo exercício do cargo ou emprego.",
+      "tem direito de não ser dispensado do emprego, desde o registro da candidatura até um ano após encerrado o mandato de representante sindical, a não ser que cometa falta grave.",
+      "tem direito à estabilidade sindical porque trabalha em fábrica de automóveis, já que o direito restringe-se ao trabalho urbano e não abrange, por exemplo, a atividade junto a um sindicato de colônia de pescadores."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É a regra da estabilidade provisória do dirigente sindical, conforme o Art. 8º, **VIII**, da CF/88: 'vedada a dispensa do empregado sindicalizado a partir do **registro da candidatura** a cargo de direção ou representação sindical e, se eleito, ainda que suplente, **até um ano após o final do mandato**, salvo se cometer **falta grave** nos termos da lei'."
+  },
+  {
+    "question": "Questão 72. (CONSULPLAN / Prefeitura de Cascavel – 2016) No que tange aos direitos sociais na Constituição Federal de 1988, são considerados direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, EXCETO:",
+    "options": [
+      "Não redução do salário em hipótese alguma.",
+      "Remuneração superior do trabalho noturno em relação ao diurno.",
+      "Proteção do salário na forma da lei, sendo considerado crime sua retenção dolosa.",
+      "Duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais.",
+      "Aviso prévio proporcional ao tempo de serviço, sendo, no mínimo, de trinta dias de acordo com a lei."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** é a **EXCETO** (incorreta). O Art. 7º, **VI**, da CF/88, permite a redução do salário: 'irredutibilidade do salário, **salvo o disposto em convenção ou acordo coletivo**'."
+  },
+  {
+    "question": "Questão 73. (CONSULPLAN / CODERN – 2014) Segundo José Afonso da Silva, os direitos sociais “disciplinam situações subjetivas pessoais ou grupais de caráter concreto”. Sobre tais direitos, assinale a alternativa INCORRETA.",
+    "options": [
+      "Estão consagrados como fundamentos da República Federativa do Brasil.",
+      "Os direitos sociais são considerados direitos humanos de terceira geração.",
+      "São exemplos de direitos sociais, a educação, a previdência social, a proteção à maternidade e à infância e a assistência aos desamparados.",
+      "Têm aplicação imediata e podem ser implementados, no caso de omissão legislativa, pelas técnicas de controle, quais sejam: o mandado de injunção ou a ação direta de inconstitucionalidade por omissão.",
+      "Apresentam-se como prestações positivas a serem implementadas pelo Estado (Social de Direito) e tendem a concretizar a perspectiva de uma isonomia substancial e social na busca de melhores e adequadas condições de vida."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** é a **INCORRETA** de acordo com a classificação doutrinária majoritária. Os Direitos Sociais são tradicionalmente classificados como Direitos Fundamentais de **Segunda Geração** (direitos de igualdade/crédito), enquanto os de Terceira Geração são os direitos de fraternidade/solidariedade (como meio ambiente e paz)."
+  },
+  {
+    "question": "Questão 74. (CONSULPLAN / TRT 13ª Região – 2013) Luzia, empregada doméstica, procura na Constituição Federal seus direitos. Assinale a alternativa que apresenta direito a que Luzia faz jus, conforme a CF/88.",
+    "options": [
+      "Luzia será obrigada a aposentar-se aos 70 anos.",
+      "Luzia terá todos os direitos derivados de convenções de trabalho.",
+      "Luzia terá direito a 14º salário.",
+      "Luzia, desejando rescindir seu contrato de trabalho, terá que cumprir sempre 30 dias de aviso prévio.",
+      "A cada ano trabalhado, Luzia terá direito a férias remuneradas."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. O direito a férias anuais remuneradas (Art. 7º, **XVII**, combinado com seu parágrafo único) é um dos direitos dos trabalhadores urbanos e rurais estendido aos empregados domésticos."
+  },
+  {
+    "question": "Questão 75. (CONSULPLAN / TRT 13ª Região – 2013) Anderson, empregado de uma empresa particular de alimentos que possui 600 empregados, resolve criar um sindicato para representar esses trabalhadores. Diante do exposto, é correto afirmar que",
+    "options": [
+      "para que Anderson funde o sindicato será necessário que haja lei autorizando sua constituição.",
+      "o sindicato formado por Anderson e demais companheiros poderá defender os interesses coletivos e individuais da categoria.",
+      "a negociação coletiva de trabalho entre empregador e os empregados da empresa de alimentos não necessitará da intervenção do sindicato constituído.",
+      "o empregado aposentado e filiado ao sindicato fundado por Anderson não pode ser votado para síndico nas eleições sindicais.",
+      "mesmo Anderson sendo síndico, poderá ser dispensado pela empresa a qualquer momento sem justa causa."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. O Art. 8º, **III**, da CF/88, estabelece que 'ao sindicato cabe a defesa dos direitos e interesses **coletivos ou individuais** da categoria, inclusive em questões judiciais ou administrativas'."
+  }
+  ,{
+    "question": "Questão 1. (IBFC / Prefeitura de Divinópolis – 2018) Apresenta-se como direito dos trabalhadores urbanos e rurais, constitucionalmente assegurado:",
+    "options": [
+      "ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho",
+      "participação nos lucros, ou resultados, desvinculada da remuneração, vedada a participação na gestão da empresa",
+      "relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei ordinária, que deve prever ressarcimento e reintegração, dentre outros direitos",
+      "seguro-desemprego, em caso de desemprego voluntário"
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. De acordo com o Art. 7º, **XXIX**, da CF/88, é direito dos trabalhadores a 'ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho'."
+  },
+  {
+    "question": "Questão 2. (IADES / CAU-RO – 2018) O Superior Tribunal de Justiça (STJ), ao analisar o tema 982 dos recursos repetitivos, entendeu que, quando comprovada a necessidade de assistência permanente de terceiro, é devido o acréscimo de 25%, previsto no artigo 45 da Lei nº 8.213/1991, a todas as modalidades de aposentadoria pagas pelo Instituto Nacional de Seguro Social (INSS) (STJ – 1ª Seção, REsp: 1.720.805-RJ e 1648305-RS, Rel. para acórdão: Min. Regina Helena Costa, julgados em 23/8/2018). A referida decisão aborda, de forma aplicada, a previdência social. A esse respeito, nos termos constitucionais, a previdência social é um",
+    "options": [
+      "direito social.",
+      "dos fundamentos da República Federativa do Brasil.",
+      "dos objetivos fundamentais da República Federativa do Brasil.",
+      "remédio constitucional.",
+      "direito de nacionalidade."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. A **Previdência Social** é expressamente listada no Art. 6º da CF/88 como um **Direito Social**."
+  },
+  {
+    "question": "Questão 3. (IADES / Correios – 2017) O artigo 7° da Constituição da República Federativa do Brasil prevê que são direitos dos trabalhadores urbanos e rurais a (o)",
+    "options": [
+      "distinção entre trabalho manual, técnico e intelectual.",
+      "irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+      "seguro-desemprego, em caso de demissão voluntária.",
+      "repouso semanal remunerado, obrigatoriamente aos sábados e aos domingos.",
+      "remuneração do trabalho noturno equivalente à do diurno."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o direito à **irredutibilidade do salário**, previsto no Art. 7º, **VI**, da CF/88, com a ressalva de convenção ou acordo coletivo."
+  },
+  {
+    "question": "Questão 4. (IADES / PM-DF – 2017) A Constituição Federal prevê, como direitos sociais,",
+    "options": [
+      "educação, transporte e lazer.",
+      "água, saúde e trabalho.",
+      "energia elétrica, segurança e previdência social.",
+      "assistência aos desamparados e proteção à maternidade e à juventude.",
+      "proteção à paternidade e à infância."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. O Art. 6º da CF/88 inclui expressamente a **educação** e o **lazer**. O **transporte** foi incluído como direito social pela Emenda Constitucional nº 90/2015. Outras opções contêm termos não expressamente previstos no Art. 6º ('água', 'energia elétrica', 'juventude')."
+  },
+  {
+    "question": "Questão 5. (IBFC / Polícia Científica-PR – 2017) Considerando as normas da Constituição Federal, assinale a alternativa correta sobre o prazo nela prevista para a licença gestante.",
+    "options": [
+      "150 dias para todas as trabalhadoras",
+      "180 dias para todas as trabalhadoras",
+      "120 dias para todas as trabalhadoras",
+      "120 dias apenas para trabalhadoras do setor privado",
+      "180 dias apenas para trabalhadoras do setor público"
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. O Art. 7º, **XVIII**, da CF/88, prevê a **licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias**."
+  },
+  {
+    "question": "Questão 6. (IBFC / Polícia Científica-PR – 2017) Considerando as normas da Constituição Federal, assinale a alternativa correta sobre a liberdade de associação profissional ou sindical.",
+    "options": [
+      "É obrigatória a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um estado ou território",
+      "É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município",
+      "Ao sindicato cabe a defesa dos direitos e interesses coletivos da categoria, exclusivamente em questões judiciais",
+      "Ao sindicato cabe a defesa dos direitos e interesses individuais da categoria, exclusivamente em questões administrativas",
+      "Todo trabalhador será obrigado a filiar-se a sindicato"
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. O Art. 8º, **II**, da CF/88, estabelece o **princípio da unicidade sindical**, vedando a criação de mais de uma organização sindical na mesma base territorial, que não poderá ser inferior à área de um Município."
+  },
+  {
+    "question": "Questão 7. (IBFC / EBSERH – 2017) Considere as disposições da Constituição Federal de 1988 sobre os Direitos e Garantias Fundamentais e Direitos Sociais e assinale a alternativa INCORRETA.",
+    "options": [
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos.",
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, piso salarial proporcional à extensão e à complexidade do trabalho.",
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, proteção do salário na forma da lei, constituindo crime sua retenção dolosa.",
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho.",
+      "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, vedada qualquer disposição em contrário."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** é a **INCORRETA**. O Art. 7º, **XIV**, da CF/88, prevê a jornada de seis horas para turnos ininterruptos de revezamento, mas faz a ressalva 'salvo negociação coletiva', ou seja, **não é vedada** 'qualquer disposição em contrário' (a negociação coletiva pode flexibilizar a jornada)."
+  },
+  {
+    "question": "Questão 8. (IBFC / EBSERH – 2017) A Constituição Federal estabelece que é livre a associação profissional ou sindical, observadas certas regras. Com base nisso, assinale a alternativa correta.",
+    "options": [
+      "A lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, garantida ao Poder Público a interferência na organização sindical.",
+      "É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Estado.",
+      "Ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais e vedada no âmbito administrativo.",
+      "A assembleia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva em equiparação de valores da contribuição prevista em lei;",
+      "É vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. É a previsão de estabilidade provisória do dirigente sindical, conforme o Art. 8º, **VIII**, da CF/88: 'é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei'."
+  },
+  {
+    "question": "Questão 9. (IBFC / TJ-PE – 2017) Assinale a alternativa que não indica Direitos Sociais dispostos no texto constitucional.",
+    "options": [
+      "Repouso semanal remunerado, preferencialmente aos domingos",
+      "Relação de emprego protegida contra despedida arbitrária ou sem justa causa",
+      "Irredutibilidade do salário, mesmo na existência de convenção ou acordo coletivo",
+      "Licença-paternidade",
+      "Participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** é a que **NÃO** indica um direito social disposto no texto constitucional da forma como está descrita. O direito social é a **irredutibilidade do salário**, mas o Art. 7º, **VI**, da CF/88, expressamente permite exceção: 'salvo o disposto em convenção ou acordo coletivo'."
+  },
+  {
+    "question": "Questão 10. (IESES / ALGÁS – 2017) Sobre os direitos sociais dispostos na Constituição Federal de 1988, podemos afirmar:",
+    "options": [
+      "É permitida a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei.",
+      "É facultativa a participação dos sindicatos nas negociações coletivas de trabalho.",
+      "Não é obrigatória e nem assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.",
+      "É livre a associação profissional ou sindical, observado que a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. É a combinação do Art. 8º, **caput** ('é livre a associação profissional ou sindical'), com seu **inciso I** ('a lei não poderá exigir autorização... ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical')."
+  },
+  {
+    "question": "Questão 11. (IESES / CRMV-SC – 2017) São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social, previstos na Constituição Federal:",
+    "options": [
+      "A jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, não podendo ser aceito quaisquer negociações para sua majoração.",
+      "Duração do trabalho normal não superior a oito horas diárias e quarenta semanais, facultada a compensação de horários e o aumento da jornada, mediante somente tratado em dissídio coletivo de trabalho.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até 7 (sete) anos de idade em creches e pré-escolas.",
+      "Relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos e o seguro-desemprego, em caso de desemprego involuntário."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. É a combinação do Art. 7º, **I** (proteção contra despedida arbitrária, nos termos de **lei complementar**) e Art. 7º, **II** (seguro-desemprego em caso de desemprego **involuntário**)."
+  },
+  {
+    "question": "Questão 12. (IESES / TJ-PA -2016) Quanto aos direitos dos trabalhadores urbanos e rurais é correto afirmar que a:",
+    "options": [
+      "Remuneração do trabalho diurno superior à do noturno.",
+      "Remuneração do serviço extraordinário superior, no mínimo, em cinquenta por cento à do normal.",
+      "Gozo de férias anuais remuneradas com, pelo menos, um quarto a mais do que o salário normal.",
+      "Jornada de oito horas para o trabalho realizado em turnos ininterruptos de revezamento."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. O Art. 7º, **XVI**, da CF/88, estabelece a 'remuneração do serviço extraordinário superior, no mínimo, em **cinquenta por cento** à do normal'. As demais estão incorretas (A: a noturna é superior; C: é com **um terço** a mais; D: a jornada para turnos ininterruptos de revezamento é de **seis horas**)."
+  },
+  {
+    "question": "Questão 13. (IBEG / Prefeitura Teixeira de Freitas/BA – 2016) Os direitos sociais são aqueles que têm por objetivo garantir aos indivíduos condições materiais tidas como imprescindíveis para o pleno gozo dos seus direitos, por isso tendem a exigir do Estado uma intervenção na ordem social que assegure os critérios de justiça distributiva. Assim, diferentemente dos direitos a liberdade, os direitos sociais se realizam por meio de atuação estatal com a finalidade de diminuir as desigualdades sociais, por isso tendem a possuir um custo excessivamente alto e a se realizar em longo prazo. São direitos sociais previstos expressamente como tais na Constituição Federal:",
+    "options": [
+      "A educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados.",
+      "A educação, a saúde, o trabalho, a liberdade, a segurança, a previdência social, a proteção à maternidade e à infância.",
+      "A educação, a saúde, o trabalho, a inviolabilidade do direito à vida e à liberdade e a proteção à maternidade e à infância.",
+      "A inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade privada.",
+      "A educação, a saúde, o trabalho, a moradia, o lazer, a inviolabilidade do direito à vida e à liberdade e a proteção à maternidade e à infância."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. É a transcrição literal e completa dos direitos sociais listados no Art. 6º da CF/88 (após a inclusão da moradia, alimentação e transporte)."
+  },
+  {
+    "question": "Questão 14. (IBFC / SAEB-BA – 2015) Assinale a alternativa INCORRETA com base nas regras da Constituição Federal brasileira de 1988 sobre os direitos sociais.",
+    "options": [
+      "A lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical.",
+      "É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Estado da federação.",
+      "Ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas.",
+      "Ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato e o aposentado filiado tem direito a votar e ser votado nas organizações sindicais.",
+      "É vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** é a **INCORRETA**. O Art. 8º, **II**, da CF/88, estabelece que a base territorial **não pode ser inferior à área de um Município**, e não de um Estado da federação."
+  },
+  {
+    "question": "Questão 15. (IADES / CRC-MG – 2015) A Constituição Federal dispõe acerca dos direitos dos trabalhadores urbanos e rurais, como o direito social. A esse respeito, assinale a alternativa que indica um direito social.",
+    "options": [
+      "Aviso prévio proporcional ao tempo de serviço, sendo no mínimo de 33 dias.",
+      "Licença à gestante, sem prejuízo do emprego e do salário, com a duração de 180 dias.",
+      "Participação nos lucros, ou resultados, vinculada à remuneração.",
+      "Repouso semanal remunerado, preferencialmente aos sábados.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até cinco anos de idade em creches e pré-escolas."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. É o direito previsto no Art. 7º, **XXV**, da CF/88: 'assistência gratuita aos filhos e dependentes desde o nascimento até **5 (cinco) anos** de idade em creches e pré-escolas'. As demais estão incorretas (A: o mínimo é 30 dias; B: a licença é de **120 dias**; C: a participação nos lucros é **desvinculada** da remuneração; D: o repouso é preferencialmente aos **domingos**)."
+  },
+  {
+    "question": "Questão 16. (IBFC / SAEB-BA – 2015) Considere as regras da Constituição Federal brasileira de 1988 sobre os direitos sociais e assinale a alternativa correta.",
+    "options": [
+      "O trabalhador tem proteção do salário na forma da lei, constituindo ilícito civil sua retenção intencional.",
+      "O trabalhador tem direito e proteção da duração do trabalho normal não superior a oito horas diárias e quarenta e oito semanais, facultada a compensação de horários e a redução da jornada, apenas mediante acordo individual de trabalho.",
+      "O trabalhador tem direito a aviso prévio proporcional ao tempo de serviço até o máximo de trinta dias.",
+      "É prevista a proibição de trabalho noturno, perigoso ou insalubre a menores de dezesseis e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz, a partir de doze anos.",
+      "O trabalhador tem direito a jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. É o direito previsto no Art. 7º, **XIV**, da CF/88: 'jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, **salvo negociação coletiva**'."
+  },
+  {
+    "question": "Questão 17. (IESES / TRE-MA – 2015) Nos termos da Constituição da República Federativa do Brasil de 1988, são direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:\nI. Fundo de garantia do tempo de serviço; salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim; e piso salarial proporcional à extensão e à complexidade do trabalho e irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.\nII. Décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria; remuneração do trabalho noturno superior à do diurno; proteção do salário na forma da lei, constituindo crime sua retenção dolosa; e participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei.\nIII. Duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; repouso semanal remunerado, preferencialmente aos domingos; gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; e licença-paternidade, nos termos fixados em lei.\nIV. Duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; repouso semanal remunerado, preferencialmente aos domingos; gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal; licença-paternidade, nos termos fixados em lei; segurodesemprego, em caso de desemprego voluntário.\nV. Piso salarial proporcional à extensão, duração e à complexidade do trabalho.\nEstão corretas apenas as afirmações:",
+    "options": [
+      "Todas as afirmativas estão corretas.",
+      "II, III e IV estão corretas.",
+      "I, II e III estão corretas.",
+      "I, III, IV e V estão corretas."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. As afirmativas **I**, **II** e **III** estão corretas, pois refletem o Art. 7º, incisos I a XXIII. A afirmativa **IV** está incorreta, pois o seguro-desemprego é em caso de desemprego **involuntário** (Art. 7º, II). A afirmativa **V** está incorreta/incompleta, pois é redundante com o item I e a Constituição não usa o termo 'duração' (V: Art. 7º, V - piso salarial proporcional à extensão e à complexidade do trabalho). Portanto, somente I, II e III estão corretas."
+  },
+  {
+    "question": "Questão 18. (IESES / TRT 14ª Região – 2014) No tocante à associação sindical, considere:\nI – A lei poderá exigir autorização do Estado para a fundação de sindicato, vedadas ao Poder Público a interferência e a intervenção na organização sindical.\nII – É vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município.\nIII – O aposentado filiado tem direito a votar e ser votado nas organizações sindicais.\nIV – Para empresas com cento e cinquenta empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores.\nDe acordo com a Constituição Federal, está correto o que se afirma APENAS em:",
+    "options": [
+      "I, II e IV.",
+      "I e III.",
+      "II, III e IV.",
+      "II e III.",
+      "I, III e IV."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**, pois apenas as afirmativas II e III estão corretas:\n- **I - INCORRETA:** A lei **NÃO** poderá exigir autorização (Art. 8º, I).\n- **II - CORRETA:** Princípio da Unicidade Sindical (Art. 8º, II).\n- **III - CORRETA:** Direito do aposentado filiado (Art. 8º, VII).\n- **IV - INCORRETA:** A eleição do representante é assegurada para empresas com **mais de duzentos** empregados (Art. 11)."
+  },
+  {
+    "question": "Questão 19. (IBFC / SEDS-MG – 2014) NÃO é direito social expressamente previsto na Constituição Federal:",
+    "options": [
+      "Saúde.",
+      "Previdência social.",
+      "Moradia.",
+      "Proteção à juventude."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. O Art. 6º da CF/88 prevê a 'proteção à maternidade e à **infância**'. Embora a juventude seja protegida pela CF (Art. 227), o termo 'Proteção à juventude' **não** está expressamente listado no *caput* do Art. 6º como direito social fundamental, ao contrário de Saúde, Previdência Social e Moradia."
+  },
+  {
+    "question": "Questão 20. (IBFC / SEDS-MG – 2014) No que se refere aos direitos sociais, indique a alternativa CORRETA:",
+    "options": [
+      "Somente através de lei alguém poderá ser obrigado a filiar-se ou a manter-se filiado a sindicato.",
+      "É facultativa a participação dos sindicatos nas negociações coletivas de trabalho.",
+      "O aposentado filiado tem direito a votar e ser votado nas organizações sindicais.",
+      "É vedada a dispensa do empregado sindicalizado a partir da posse no cargo de direção ou representação sindical e, ainda que suplente, até seis meses após o final do mandato, salvo se cometer falta grave nos termos da lei."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. O Art. 8º, **VII**, da CF/88, assegura que 'o aposentado filiado tem direito a votar e ser votado nas organizações sindicais'. As demais estão incorretas (A: Ninguém será obrigado a filiar-se - Art. 8º, V; B: A participação é **obrigatória** - Art. 8º, VI; D: A estabilidade vai **até um ano** após o final do mandato - Art. 8º, VIII)."
+  },
+  {
+    "question": "Questão 21. (IADES /EBSERH – 2014) No que se refere à efetividade na aplicação dos direitos sociais, conforme previsão do art. 6o da Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "É assegurado ao trabalhador o gozo de férias anuais remuneradas com, no mínimo, um terço a mais do que o salário normal.",
+      "A localização dos direitos sociais no título constitucional destinado aos direitos e às garantias fundamentais não acarreta, por consequência, a subordinação à regra da autoaplicabilidade das normas definidoras dos direitos e das garantias fundamentais.",
+      "O mandado de segurança coletivo pode ser impetrado por partido político recém criado, organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados.",
+      "A Constituição Federal estabelece como direito dos trabalhadores urbanos e rurais o repouso semanal, remunerado aos domingos.",
+      "É um direito do trabalhador urbano e rural a remuneração do serviço extraordinário superior à do normal, no mínimo, em 70%."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. É o direito previsto no Art. 7º, **XVII**, da CF/88: 'gozo de férias anuais remuneradas com, pelo menos, **um terço** a mais do que o salário normal'."
+  },
+  {
+    "question": "Questão 22. (IADES / CONAB – 2014) Entre os direitos sociais elencados na Constituição Federal, consta o da eleição de um representante dos empregados com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. Esse direito social é previsto expressamente na Constituição Federal para o âmbito das empresas com mais de",
+    "options": [
+      "30 empregados.",
+      "50 empregados.",
+      "100 empregados.",
+      "200 empregados.",
+      "500 empregados."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. O Art. 11 da CF/88 estabelece que o direito de eleição de representante é assegurado 'nas empresas com mais de **duzentos** empregados'."
+  },
+  {
+    "question": "Questão 23. (FEPESE / Prefeitura de Rio das Antas – 2018) São direitos sociais expressamente previstos na Constituição Federal de 1988:",
+    "options": [
+      "o trabalho, a assistência social e a proteção ao idoso.",
+      "o transporte, o lazer e a ressocialização do apenado.",
+      "a educação, a saúde e a previdência social.",
+      "a segurança, a assistência aos desamparados e o direito de petição.",
+      "a proteção à maternidade e à infância, a moradia e a presunção de inocência."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. O Art. 6º da CF/88 lista a **educação**, a **saúde** e a **previdência social** como direitos sociais. Embora outros elementos (como moradia, lazer, transporte, assistência aos desamparados) também sejam, esta opção agrupa elementos corretos."
+  },
+  {
+    "question": "Questão 24. (FUNRIO / AL-RR – 2018) NÃO se trata de um direito social, consagrado constitucionalmente, a/o",
+    "options": [
+      "alimentação.",
+      "lazer.",
+      "propriedade.",
+      "proteção à maternidade e à infância."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. A **Propriedade** é um **Direito Fundamental Individual** (Art. 5º, XXII). Os demais (Alimentação, Lazer, Proteção à Maternidade e à Infância) são Direitos Sociais (Art. 6º)."
+  },
+  {
+    "question": "Questão 25. (FUNRIO / CGE-RO – 2018) São inúmeros os projetos pertinentes à mudança dos direitos sociais quer utilizando a lei ordinária ou valendo-se da emenda constitucional. Dentre os direitos sociais previstos na Constituição encontra-se o:",
+    "options": [
+      "fundo de desemprego.",
+      "fundo de propagação social.",
+      "fundo de preservação social.",
+      "fundo de trabalhadores.",
+      "fundo de garantia do tempo de serviço."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa **E** está **CORRETA**. O **Fundo de Garantia do Tempo de Serviço (FGTS)** é um direito social dos trabalhadores previsto no Art. 7º, **III**, da CF/88."
+  },
+  {
+    "question": "Questão 26. (FAFIPA / Fundação Araucária-PR – 2017) De acordo com o disposto expressamente no artigo 7º da Constituição Federal, são direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:",
+    "options": [
+      "Relação de emprego protegida contra despedida por justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos.",
+      "Seguro-desemprego, em caso de desemprego voluntário.",
+      "Garantia de salário, podendo ser inferior ao mínimo, para os que percebem remuneração variável.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinco) anos de idade em creches e pré- escolas."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa **D** está **CORRETA**. É o direito previsto no Art. 7º, **XXV**, da CF/88: 'assistência gratuita aos filhos e dependentes desde o nascimento até **5 (cinco) anos** de idade em creches e pré-escolas'."
+  },
+  {
+    "question": "Questão 27. (FUNDATEC / Prefeitura de Viamão – 2016) Fábio trabalha na iniciativa privada como vendedor em uma loja de automóveis e recebe sua remuneração mensal somente com base nas vendas que realiza. No entanto, em decorrência da crise que também atingiu o setor automobilístico, Fábio tem recebido como remuneração, em média, o valor correspondente a quinhentos reais por mês. De acordo com a Constituição Federal, são direitos dos trabalhadores urbanos e rurais:\nI. Piso salarial proporcional à extensão e à complexidade do trabalho.\nII. Garantia de salário nunca inferior ao mínimo para os que percebem remuneração variável.\nIII. Redução do salário nos casos em que ficar comprovado a incapacidade da empresa em manter a média salarial dos efetivos, em decorrência de crises econômicas generalizadas.\nQuais estão INCORRETOS?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas III.",
+      "Apenas I e II.",
+      "I, II e III."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. A afirmativa **III** está **INCORRETA**. Embora a CF/88 permita a redução salarial mediante convenção ou acordo coletivo (Art. 7º, VI), ela não permite a redução unilateral por parte da empresa, nem usa o conceito de 'média salarial dos efetivos' como critério. A afirmativa II está CORRETA (Art. 7º, VII - salário mínimo). As afirmativas I e II estão CORRETAS (I: Art. 7º, V; II: Art. 7º, VII)."
+  },
+  {
+    "question": "Questão 28. (FEPESE / SJC-SC – 2016) Assinale a alternativa correta sobre os direitos sociais previstos na Constituição Federal.",
+    "options": [
+      "É proibida a prática de qualquer espécie de trabalho a menores de dezoito anos.",
+      "É vedada a diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil.",
+      "A distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos deverá ser aferida por meio de critérios objetivos e previamente estabelecidos.",
+      "O prêmio do seguro contra acidentes do trabalho contratado pelo empregador exclui a sua responsabilidade civil, mesmo quando incorrer em dolo ou culpa.",
+      "O empregador poderá descontar até o limite de dez por cento da remuneração do trabalhador em razão da restrição decorrente de sua deficiência, física ou motora."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o direito previsto no Art. 7º, **XXX**, da CF/88: 'proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil'."
+  },
+  {
+    "question": "Questão 29. (FUNCAB / PC-PA - 2016) Acerca dos direitos sociais, previstos na Constituição Federal, é correto afirmar:",
+    "options": [
+      "É vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até o final do mandato.",
+      "É vedada à categoria dos trabalhadores domésticos o direito à remuneração do trabalho noturno superior à do diurno.",
+      "O limite de idade para a inscrição em concurso público só se legitima em face da vedação constitucional de diferença de critério de admissão por motivo de idade, quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.",
+      "Admite-se a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um município.",
+      "A lei poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao Poder Público a interferência e a intervenção na organização sindical."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. Reflete o entendimento pacificado pelo STF (**Súmula 683**) sobre a compatibilização da vedação à discriminação por idade (Art. 7º, XXX) com a necessidade de adequação às atribuições do cargo."
+  },
+  {
+    "question": "Questão 30. (FUNRIO / IFPA – 2016) Constituem direitos sociais conforme Constituição Federal de 1988, dentre outros, os seguintes:",
+    "options": [
+      "a religião, o lazer e a segurança.",
+      "o voto, a cultura e a integração nacional.",
+      "o trabalho, a moradia e a segurança.",
+      "a igualdade tributária, a cultura e a segurança.",
+      "a cultura, a religião e o transporte."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. O Art. 6º da CF/88 lista expressamente o **trabalho**, a **moradia** e a **segurança** (além de outros, como lazer e educação)."
+  },
+  {
+    "question": "Questão 31. (FUNDATEC / Prefeitura de Nova Bassano – 2015) São direitos assegurados aos trabalhadores urbanos e rurais, de acordo com o Art. 7º, da Constituição Federal, EXCETO:",
+    "options": [
+      "Licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias.",
+      "Irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até 6 (seis) anos de idade em creches e pré-escolas.",
+      "Remuneração do trabalho noturno superior à do diurno.",
+      "Gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** é a **EXCETO** (incorreta). O Art. 7º, **XXV**, da CF/88, estabelece a assistência gratuita aos filhos e dependentes desde o nascimento até **5 (cinco) anos** de idade (e não 6 anos)."
+  },
+  {
+    "question": "Questão 32. (FUNCAB / MPOG – 2015) Entre as alternativas a seguir, assinale aquela que corresponde a um direito social constitucionalmente previsto.",
+    "options": [
+      "Aviso prévio proporcional ao tempo de serviço, sendo no mínimo de quarenta e cinco dias, nos termos da lei.",
+      "Igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.",
+      "Proibição de qualquer trabalho a menores de dezoito anos, salvo na condição de aprendiz, a partir dos doze anos.",
+      "Irredutibilidade de salário, mesmo em face de convenção ou acordo coletivo.",
+      "Seguro-desemprego, em caso de desemprego voluntário ou involuntário."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. É o direito previsto no Art. 7º, **XXXIV**, da CF/88: 'igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso'."
+  },
+  {
+    "question": "Questão 33. (FUNCAB / PC-AC – 2015) A alternativa que enumera corretamente quatro direitos sociais previstos expressamente na Constituição Federal vigente é:",
+    "options": [
+      "vida, felicidade, educação e segurança.",
+      "paz, alimentação, propriedade e lazer.",
+      "alimentação, trabalho, moradia e lazer.",
+      "educação, saúde, seguridade social e felicidade.",
+      "alimentação, trabalho, moradia e propriedade."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. A **alimentação**, o **trabalho**, a **moradia** e o **lazer** são todos listados como direitos sociais no Art. 6º da CF/88."
+  },
+  {
+    "question": "Questão 34. (FEPESE / Prefeitura de Balneário Camboriú – 2015) Assinale a alternativa que indica corretamente um dos instrumentos por meio do qual é exercida a soberania popular.",
+    "options": [
+      "aprovação",
+      "referendo",
+      "ratificação",
+      "medida provisória",
+      "decreto autônomo"
+    ],
+    "correct": 1,
+    "explanation": "A alternativa **B** está **CORRETA**. O Art. 14 da CF/88 estabelece que a soberania popular será exercida, nos termos da lei, mediante: plebiscito, **referendo** e iniciativa popular."
+  },
+  {
+    "question": "Questão 35. (FUNRIO / IFBA – 2015) Constitui direito dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social,",
+    "options": [
+      "o seguro desemprego, em caso de desemprego voluntário.",
+      "a garantia de salário, podendo ser inferior ao mínimo, para os que percebem remuneração variável.",
+      "o décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria.",
+      "a remuneração do trabalho noturno igual à do diurno.",
+      "a remuneração do serviço extraordinário superior, no mínimo, em trinta por cento à do normal."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 7º, **VIII**, da CF/88: 'décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria'."
+  },
+  {
+    "question": "Questão 36. (FUNRIO / IFBA – 2015) Quanto aos sindicatos e à associação sindical, a Constituição Federal de 1988 estabelece que",
+    "options": [
+      "a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente.",
+      "a participação dos sindicatos nas negociações coletivas de trabalho é facultativa.",
+      "todo trabalhador é obrigado a filiar-se ou a manter-se filiado a sindicato.",
+      "ao sindicato cabe a defesa dos direitos e interesses coletivos da categoria, exceto em questões judiciais.",
+      "o aposentado filiado tem direito a votar, mas não pode ser votado nas organizações sindicais."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa **A** está **CORRETA**. É o direito à livre associação profissional ou sindical (Art. 8º, **I**, da CF/88), vedando a exigência de autorização estatal, ressalvado o registro."
+  },
+  {
+    "question": "Questão 37. (FUNRIO / UFRB – 2015) Com relação aos direitos dos trabalhadores urbanos e rurais, nos termos da Constituição Federal de 1988, assinale a opção correta.",
+    "options": [
+      "Aviso prévio proporcional ao tempo de serviço, sendo no mínimo de quarenta dias, nos termos da lei.",
+      "Assistência gratuita aos filhos e dependentes desde o nascimento até 6 (seis) anos de idade em creches e pré-escolas.",
+      "Participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa.",
+      "Ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de três anos após a extinção do contrato de trabalho.",
+      "Proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de quatorze anos, salvo na condição de aprendiz, a partir de doze anos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa **C** está **CORRETA**. É o direito previsto no Art. 7º, **XI**, da CF/88: 'participação nos lucros, ou resultados, **desvinculada da remuneração**, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei'."
+  }
+],
+
+
+
+"RemediosConstitucionais":[
+  {
+    "question": "Questão 1. (FUNDATEC / IMESF – 2019) Por determinação constitucional, são gratuitas as ações de:",
+    "options": [
+      "Mandado de segurança e habeas corpus.",
+      "Mandado de segurança e habeas data.",
+      "Habeas corpus e habeas data.",
+      "Mandado de segurança individual e coletivo.",
+      "Habeas data e mandado de segurança coletivo."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. Conforme o Art. 5º, **LXXVII**, da CF/88, são gratuitas as ações de **habeas corpus** e **habeas data**, e, na forma da lei, os atos necessários ao exercício da cidadania."
+  },
+  {
+    "question": "Questão 2. (FUNDATEC / Câmara de Ituporanga – 2019) A ação popular pode ser ajuizada objetivando discutir:",
+    "options": [
+      "Atos tipicamente legislativos.",
+      "Atos tipicamente jurisdicionais.",
+      "O mérito dos atos administrativos.",
+      "Ato lesivo à moralidade administrativa.",
+      "Questões interna corporis do Poder Legislativo."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. A Ação Popular (Art. 5º, **LXXIII**) visa anular ato lesivo ao patrimônio público, ao meio ambiente, ao patrimônio histórico e cultural e, expressamente, à **moralidade administrativa**."
+  },
+  {
+    "question": "Questão 3. (INCAB / Prefeitura de Valença-RJ – 2018) Suponha-se que determinada autoridade administrativa nega-se a fornecer certidão requerida por particular, que dela necessita para defender um direito seu. Nesse caso, o remédio constitucional cabível é:",
+    "options": [
+      "Mandado de segurança.",
+      "Mandado de injunção.",
+      "Habeas Data.",
+      "Ação civil pública.",
+      "Ação popular."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. O direito à obtenção de certidões para a defesa de direitos é uma garantia (Art. 5º, XXXIV, 'b'). Quando esse direito é violado por uma autoridade, e a situação configura um direito líquido e certo não amparado por Habeas Corpus ou Habeas Data, o remédio cabível é o **Mandado de Segurança** (Art. 5º, **LXIX**)."
+  },
+  {
+    "question": "Questão 4. (FUNDATEC / PC-RS – 2018) Considerando a Constituição da República Federativa do Brasil de 1988, assinale a alternativa que NÃO representa um remédio constitucional.",
+    "options": [
+      "Direito de petição.",
+      "Mandado de injunção.",
+      "Ação popular.",
+      "Princípio da dignidade da pessoa humana.",
+      "Direito à certidão."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O **Princípio da dignidade da pessoa humana** é um dos fundamentos da República Federativa do Brasil (Art. 1º, **III**). Mandado de Injunção e Ação Popular são remédios constitucionais. Direito de Petição e Direito à Certidão são garantias expressas no Art. 5º, XXXIV, muitas vezes listadas junto aos remédios, mas a Dignidade da Pessoa Humana é um **Princípio Fundamental**."
+  },
+  {
+    "question": "Questão 5. (FUNDATEC / IGP-RS – 2017) A Constituição da República Federativa do Brasil de 1988 disponibiliza uma ação sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Essa ação denomina-se:",
+    "options": [
+      "Ação civil pública.",
+      "Ação popular.",
+      "Mandado de injunção.",
+      "Mandado de segurança.",
+      "Habeas data."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. O texto é a definição de **Mandado de Injunção**, prevista no Art. 5º, **LXXI**, da CF/88."
+  },
+  {
+    "question": "Questão 6. (FEPESE / PC-SC – 2017) Com base na Constituição Federal de 1998, sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder, conceder-se-á:",
+    "options": [
+      "habeas data.",
+      "habeas corpus.",
+      "mandado de segurança.",
+      "ação popular.",
+      "reclamação."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. O texto é a definição de **Habeas Corpus**, prevista no Art. 5º, **LXVIII**, da CF/88."
+  },
+  {
+    "question": "Questão 7. (FEPESE / CIASC - Advogado – 2017) O mandado de segurança coletivo poderá ser impetrado por:",
+    "options": [
+      "organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados, ou por partido político com representação no Congresso Nacional.",
+      "organização sindical, entidade de classe ou associação com representação nacional, legalmente constituída e expressamente autorizada, em defesa dos interesses de próprios.",
+      "partido político com representação nacional, sindicato, entidade de classe ou associação, legalmente autorizada por seus representados, para a defesa dos interesses de seus membros ou associados.",
+      "partido político com representação nacional, por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses próprios, de seus filiados, membros ou associados.",
+      "partido político, confederação sindical, entidade de classe de âmbito nacional ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses próprios, de seus membros ou associados."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. Ela espelha a previsão do Art. 5º, **LXX**, que lista os legitimados e seus requisitos: Partido Político com representação no Congresso Nacional **ou** Organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos **um ano**, em defesa dos interesses de seus membros ou associados."
+  },
+  {
+    "question": "Questão 8. (FUNCAB / Prefeitura de Nova Venécia-ES – 2016) Tem legitimidade inicial para a propositura de ação popular, segundo a Constituição Federal em vigor:",
+    "options": [
+      "qualquer pessoa, física ou jurídica.",
+      "partido político com representação no Congresso Nacional.",
+      "organização sindical em defesa dos interesses de seus associados.",
+      "pessoa natural no gozo de seus direitos políticos.",
+      "entidade de classe legalmente constituída em funcionamento há pelo menos um ano."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. A Ação Popular (Art. 5º, **LXXIII**) é proposta por **qualquer cidadão**, que é a pessoa natural no gozo de seus direitos políticos."
+  },
+  {
+    "question": "Questão 9. (FADESP / Prefeitura Mojuí dos Campos-PA – 2016) Qualquer cidadão é parte legítima para propor __________ que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando seu autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.\nA expressão que completa corretamente o texto acima é",
+    "options": [
+      "Mandado de Segurança.",
+      "Mandado de Injunção.",
+      "Habeas Data.",
+      "Ação Popular."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O texto descreve a finalidade e a legitimidade da **Ação Popular** (Art. 5º, **LXXIII**)."
+  },
+  {
+    "question": "Questão 10. (FEPESE / Prefeitura de Lages – 2016) De acordo com a Constituição da República Federativa do Brasil de 1988, qual a ação cabível para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo?",
+    "options": [
+      "habeas data",
+      "habeas corpus",
+      "mandado de injunção",
+      "mandado de segurança",
+      "exceção de incompetência"
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. A retificação de dados é a segunda finalidade do **Habeas Data**, prevista no Art. 5º, **LXXII, 'b'**."
+  },
+  {
+    "question": "Questão 11. (FEPESE / Prefeitura de Balneário Camboriú – 2015) É correto afirmar sobre o habeas data.",
+    "options": [
+      "Será concedido para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo.",
+      "Os partidos políticos com representação no Congresso Nacional detêm legitimidade passiva para ingressar com habeas data.",
+      "A ameaça de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder poderá ser afastada por meio do habeas data.",
+      "É o remédio constitucional que visa coibir a prisão civil por dívida, em decorrência do inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel.",
+      "Por meio do habeas data será possível a defesa de direito líquido e certo quando a violação for praticada por autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. É a transcrição do Art. 5º, **LXXII, 'b'** (Retificação de Dados)."
+  },
+  {
+    "question": "Questão 12. (FUNDATEC / PGE-RS – 2015) No que se refere ao mandado de injunção, previsto no artigo 5º, inciso LXXI, da Constituição Federal de 1988, é correto afirmar que a jurisprudência do STF:",
+    "options": [
+      "Sempre adotou a corrente não concretista, equiparando sua finalidade à da ação de inconstitucionalidade por omissão.",
+      "Inicialmente adotou a corrente não concretista, equiparando sua finalidade à da ação de inconstitucionalidade por omissão, transitando em 2007 para a corrente concretista com efeitos gerais.",
+      "Inicialmente adotou a corrente concretista com efeitos gerais, equiparando sua finalidade à da ação de inconstitucionalidade por omissão, transitando em 2007 para a corrente não concretista.",
+      "Inicialmente adotou a corrente concretista particular, transitando em 2007 para a corrente não concretista, equiparando sua finalidade à da ação de inconstitucionalidade por omissão.",
+      "Sempre adotou a corrente concretista, no sentido de tornar viável o exercício de direitos e liberdades inviabilizados por faltar norma regulamentadora."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. O STF adotou inicialmente a **corrente não concretista** (equiparando o MI à ADI por Omissão, apenas declarando a mora). A partir de 2007 (MI 708 e 712), houve a transição para a **corrente concretista**, permitindo a concretização do direito no caso concreto (em alguns casos, com efeitos *erga omnes*, como no direito de greve dos servidores)."
+  },
+  {
+    "question": "Questão 13. (FUNCAB / SEDS-TO – 2014) Remédio jurídico constitucional que será concedido sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder é denominado:",
+    "options": [
+      "mandado de segurança.",
+      "habeas data.",
+      "habeas corpus.",
+      "ação popular."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. O texto é a definição de **Habeas Corpus** (Art. 5º, **LXVIII**)."
+  },
+  {
+    "question": "Questão 14. (FUNCAB / SEDS-TO – 2014) O que será concedido sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania?",
+    "options": [
+      "Habeas corpus",
+      "Ação popular",
+      "Habeas data",
+      "Mandado de injunção"
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O texto é a definição de **Mandado de Injunção** (Art. 5º, **LXXI**)."
+  },
+  {
+    "question": "Questão 15. (FUNCAB / EMDAGRO-SE – 2014) Sobre o Mandado de Segurança, assinale a alternativa que reflete posição consolidada do Supremo Tribunal Federal.",
+    "options": [
+      "Controvérsia sobre matéria de direito impede concessão de mandado de segurança.",
+      "Pedido de reconsideração na via administrativa interrompe o prazo para o mandado de segurança.",
+      "Compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros Tribunais.",
+      "A impetração de mandado de segurança coletivo por entidade de classe em favor dos associados depende da autorização destes.",
+      "É constitucional lei que fixa prazo de decadência para impetração de mandado de segurança."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está **CORRETA**. A Lei nº 12.016/2009 (Lei do MS) estabelece o prazo de 120 dias, de natureza decadencial (Art. 23), o que é constitucional. As demais estão incorretas: A (Controvérsia sobre direito não impede MS), B (Súmula 430 STF: Pedido de reconsideração não interrompe prazo), C (O STF só julga contra atos de Tribunais Superiores, ou os previstos no Art. 102, I, 'd'), D (Súmula 629 STF: A entidade de classe tem legitimidade para impetrar MS coletivo em favor da totalidade ou de parte dos associados, independentemente de autorização expressa)."
+  },
+  {
+    "question": "Questão 16. (FUNCAB / SEMAD – 2013) Sobre o Mandado de Segurança, assinale a opção correta.",
+    "options": [
+      "É cabível para a cobrança de parcelas vencidas, desde que haja o respeito ao sistema de precatório.",
+      "Admitirá a dilação probatória, nos casos de recusa da Administração em prestar as informações sobre os fatos.",
+      "O prazo para o seu cabimento é de 120 dias e tem natureza decadencial, e não prescricional.",
+      "É cabível contra ato de presidente de associação de bairro."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. O prazo de 120 dias para impetração do MS está previsto na Lei nº 12.016/2009 (Art. 23) e a jurisprudência o considera de natureza **decadencial**. A alternativa A está incorreta (Súmula 269 STF: Não é sucedâneo de ação de cobrança). A B está incorreta (MS exige direito líquido e certo, sem dilação probatória)."
+  },
+  {
+    "question": "Questão 17. (FUNCAB / PC-ES – 2013) Pode-se afirmar sobre as garantias constitucionais:",
+    "options": [
+      "Mandado de injunção é o remédio constitucional que tem por objeto proteger a esfera íntima dos indivíduos contra usos abusivos de registros de dados pessoais coletados por meios fraudulentos, desleais ou ilícitos ou introdução nesses registros de dados sensíveis (raça, opinião política, filosófica, religiosa, filiação partidária, sindical, orientação sexual etc.).",
+      "Habeas corpus é o instrumento constitucional de garantia, quando alguém sofrer ou se achar na iminência de sofrer violência ou coação ilegal do direito ambulatorial.",
+      "Habeas data é a ação de que se pode utilizar pessoa física, jurídica privada, jurídica pública (nacional ou estrangeira) ou qualquer entidade que tenha capacidade processual para a proteção de direito líquido, certo e incontestável.",
+      "Direito de petição é o remédio constitucional pelo qual qualquer cidadão pode pleitear a invalidação de atos lesivos ao patrimônio público, ao meio ambiente, à moralidade administrativa ou ao patrimônio histórico e cultural, bem como a condenação por perdas e danos dos responsáveis pela lesão.",
+      "Mandado de segurança é o meio constitucional posto à disposição de quem se considerar prejudicado pela falta de norma regulamentadora que torne inviável o exercício dos direitos e liberdades e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. Ela descreve a figura do **Habeas Corpus preventivo** ('achar na iminência de sofrer') e repressivo ('sofrer violência ou coação'), garantindo o direito ambulatorial (liberdade de locomoção) – Art. 5º, **LXVIII**."
+  },
+  {
+    "question": "Questão 18. (FUNCAB / PC-ES – 2013) Quanto ao Mandado de Segurança Individual, marque a resposta correta.",
+    "options": [
+      "É ação de rito ordinário de que se pode utilizar pessoa física, jurídica privada, jurídica pública (nacional ou estrangeira) ou qualquer entidade que tenha capacidade processual para a proteção de direito líquido, certo e incontestável, amparado por habeas corpus ou habeas data, ameaçado ou violado por ato ou fato oriundo de autoridade responsável pela ilegalidade ou abuso de poder.",
+      "É admitido como adequado para pleitear prestações indeterminadas, genéricas, fungíveis ou alternativas.",
+      "É substitutivo de ação de cobrança.",
+      "A existência de recurso administrativo com efeito suspensivo não impede o uso de Mandado de Segurança contra omissão de autoridade.",
+      "O pedido de reconsideração na via administrativa interrompe o prazo para o Mandado de Segurança."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. A interposição de recurso administrativo (mesmo com efeito suspensivo) ou pedido de reconsideração não impede a impetração do Mandado de Segurança, pois a inércia da Administração Pública, neste caso, pode configurar a omissão lesiva a direito líquido e certo. As demais estão incorretas (A: MS é rito especial, não amparado por HC/HD; B e C: MS não admite cobrança - Súmula 269/271 STF; E: Pedido de reconsideração não interrompe prazo - Súmula 430 STF)."
+  },
+  {
+    "question": "Questão 19. (FUNCAB / PC-ES – 2013) Dos atos lesivos ao meio ambiente, cabe:",
+    "options": [
+      "Habeas corpus",
+      "Habeas data",
+      "Mandado de Injunção.",
+      "Mandado de Segurança Individual.",
+      "Ação Popular."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está **CORRETA**. A **Ação Popular** (Art. 5º, **LXXIII**) visa a anular ato lesivo, entre outros, ao **meio ambiente**."
+  },
+  {
+    "question": "Questão 20. (FUNCAB / ANS – 2013) Quanto às chamadas “ações constitucionais”, é correto afirmar que:",
+    "options": [
+      "o Mandado de Segurança poderá ser concedido para proteger direito líquido e certo, mesmo amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.",
+      "o habeas data somente é concedido para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo.",
+      "associação legalmente constituída e em funcionamento há menos de um ano, poderá impetrar Mandado de Segurança coletivo, em defesa dos interesses de seus associados.",
+      "o Mandado de Injunção será concedido sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+      "somente o Ministério Público é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. É a transcrição literal do Art. 5º, **LXXI**, que define o **Mandado de Injunção**."
+  },
+  {
+    "question": "Questão 21. (FUNCAB / PC-RJ – 2012) Com base nas orientações do Supremo Tribunal Federal, no que se refere às ações constitucionais, é correto afirmar:",
+    "options": [
+      "É cabível a impetração do mandado de injunção mesmo que já exista norma regulamentadora de direito previsto na Constituição Federal, desde que essa norma seja flagrantemente inconstitucional.",
+      "A entidade de classe tem legitimação para o mandado de segurança ainda quando a pretensão veiculada interesse apenas a uma parte da respectiva categoria.",
+      "É incabível o mandado de injunção coletivo, por ausência de previsão constitucional.",
+      "Os tribunais do Poder Judiciário não têm competência originária para julgamento de ação popular, mesmo que proposta contra atos de autoridades que dispõem de foro por prerrogativa de função, exceto no caso do Presidente da República em que a competência originária é do Supremo Tribunal Federal.",
+      "É cabível o mandado de injunção se a Constituição Federal outorga mera faculdade ao legislador para regulamentar direito previsto em algum de seus dispositivos."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. A Súmula **629 do STF** estabelece que a entidade de classe tem legitimidade para o Mandado de Segurança Coletivo em favor da totalidade ou de **parte** dos seus associados."
+  },
+  {
+    "question": "Questão 22. (FUNCAB / PC-RJ – 2012) A jurisprudência do Supremo Tribunal Federal fixou entendimentos sobre o mandado de segurança. Com base nessas orientações, é correto afirmar:",
+    "options": [
+      "É constitucional a lei que fixa prazo prescricional para impetração de mandado de segurança.",
+      "Controvérsia sobre matéria de direito impede concessão de mandado de segurança.",
+      "A concessão de mandado de segurança produz efeitos patrimoniais em relação a período pretérito, os quais somente devem ser reclamados pela via judicial própria.",
+      "Praticado o ato por autoridade, no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial.",
+      "É cabível mandado de segurança contra decisão judicial com trânsito em julgado."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Art. 6º, § 3º, da Lei nº 12.016/09, estabelece que se considera autoridade coatora 'aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática'. Se o ato é praticado por delegação, o MS deve ser impetrado contra a autoridade delegada que praticou o ato, e não contra a delegante."
+  },
+  {
+    "question": "Questão 23. (FUNCAB / PC-RJ – 2012) Acerca do mandado de segurança, é correto afirmar:",
+    "options": [
+      "Consiste em procedimento especial de uso exclusivo de acusados no processo penal.",
+      "Não admite contraditório se impetrado contra ato judicial.",
+      "É cabível contra decisão judicial da qual não caiba recurso com efeito suspensivo.",
+      "Não é admissível na forma individual quando o direito violado couber a várias pessoas.",
+      "Serve de sucedâneo de ação de cobrança de verbas atrasadas devidas aos servidores."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. A Súmula **267 do STF** ('Não cabe mandado de segurança contra ato judicial passível de recurso ou correição') leva à conclusão de que o MS é cabível contra ato judicial irrecorrível ou da qual não caiba recurso com efeito suspensivo. As opções D e E estão incorretas (D: é cabível, com litisconsórcio ativo; E: Súmula 269 STF: MS não é sucedâneo de ação de cobrança)."
+  },
+  {
+    "question": "Questão 24. (FUNCAB / MPE-RO – 2012) O mandado de injunção é instrumento processual, previsto pela Constituição Federal, para a hipótese de:",
+    "options": [
+      "sigilo ilegal de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.",
+      "ameaça ou sofrimento de violência ou coação à liberdade de locomoção.",
+      "ofensa a direito líquido e certo, não amparado por habeas corpus, ou habeas-data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.",
+      "a falta de norma regulamentadora tornar viável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+      "dano ao patrimônio público, ao meio ambiente, ao patrimônio histórico e cultural ou ofensa à moralidade administrativa."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Mandado de Injunção (Art. 5º, **LXXI**) é cabível na hipótese de falta de norma regulamentadora que torne **inviável** o exercício dos direitos e liberdades (a opção utiliza 'viável', o que é um erro de digitação, mas o contexto da lacuna aponta para a finalidade do MI)."
+  },
+  {
+    "question": "Questão 25. (FUNDATEC / SEFAZ-RS – 2014) Com relação aos direitos e garantias fundamentais, de acordo com o que dispõe a Constituição Federal, analise as seguintes assertivas:\nI. A todos é assegurado o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder, independentemente do pagamento de taxas.\nII. Qualquer pessoa é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má- fé, isento de custas judiciais e do ônus da sucumbência.\nIII. Conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à cidadania, à nacionalidade e à soberania.\nQuais estão corretas?",
+    "options": [
+      "Apenas III.",
+      "Apenas I e II.",
+      "Apenas I e III",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct": 2,
+    "explanation": "As afirmativas **I** e **III** estão **CORRETAS**:\n- **I** (Art. 5º, **XXXIV, 'a'** - Direito de Petição).\n- **II** está **INCORRETA** porque a Ação Popular é proposta por **cidadão**, não por 'qualquer pessoa' (Art. 5º, LXXIII).\n- **III** (Art. 5º, **LXXI** - Mandado de Injunção)."
+  },
+  {
+    "question": "Questão 26. (FEPESE / TCE-SC– 2014) De acordo com o disposto no art. 5o da Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "Conceder-se-á “habeas-data” para a retificação de dados.",
+      "São gratuitos a todos, na forma da lei: a) o registro civil de nascimento e adoção; b) o registro de casamento; c) a certidão de óbito.",
+      "São admissíveis, no processo, as provas obtidas por meios ilícitos que comprovem a verdade real.",
+      "O mandado de segurança coletivo pode ser impetrado por: a) partido político com representação no Congresso Nacional; b) organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos dois anos, em defesa dos interesses de seus membros ou associados;",
+      "Qualquer pessoa é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor isento de custas judiciais e do ônus da sucumbência."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. É a previsão do Art. 5º, **LXXII, 'b'**, sobre uma das finalidades do Habeas Data."
+  },
+  {
+    "question": "Questão 27. (FUNDATEC / Prefeitura de Campo Bom – 2013) A Constituição da República Federativa do Brasil, de 1988, dispõe, no seu artigo 5º, no que tange aos direitos e deveres individuais e coletivos, especificamente no inciso LXIX, que se concederá _____________________ para proteger direito líquido e certo, não amparado por \"habeas corpus\" ou \"habeas-data\", quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.\nMarque a alternativa que completa corretamente a lacuna do trecho acima.",
+    "options": [
+      "decisão abonatória",
+      "mandado de segurança",
+      "ordem de procedimento imediato",
+      "decreto inquisitorial",
+      "parecer circunstanciado da situação"
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. O texto é a definição de **Mandado de Segurança** (Art. 5º, **LXIX**)."
+  },
+  {
+    "question": "Questão 28. (FADESP / Pref. Castanhal-PA – 2012) Sobre direitos e garantias fundamentais, assinale a alternativa correta.",
+    "options": [
+      "Conceder-se-á \"habeas-data\" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.",
+      "Conceder-se-á \"mandado de injunção\" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.",
+      "Conceder-se-á \"mandado de segurança\" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.",
+      "Conceder-se-á \"habeas-corpus\" sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. É a definição de **Habeas Corpus** (Art. 5º, **LXVIII**)."
+  },
+  {
+    "question": "Questão 29. (FADESP / MPE-PA – 2006) São remédios constitucionais no direito brasileiro:\nI. O mandado de injunção, em caso de não observância da aplicabilidade imediata das normas constitucionais definidoras de direitos e garantias fundamentais.\nII. O habeas data, para assegurar o conhecimento e a retificação de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.\nIII. O mandado de segurança coletivo, ajuizado por qualquer partido político, organização sindical, entidade de classe ou associação, desde que legalmente constituídos e em funcionamento há pelo menos um ano.",
+    "options": [
+      "I e II estão corretas.",
+      "I e III estão corretas.",
+      "II e III estão corretas.",
+      "Somente II está correta.",
+      "Somente III está correta."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**, pois **somente a II está correta**:\n- **I** está **INCORRETA** (MI é para falta de norma regulamentadora, não para 'não observância da aplicabilidade imediata').\n- **II** está **CORRETA** (Art. 5º, **LXXII** - Habeas Data).\n- **III** está **INCORRETA** (O requisito de 'pelo menos um ano' aplica-se apenas à associação, não ao partido político ou à organização sindical – Art. 5º, LXX)."
+  },
+  {
+    "question": "Questão 30. (FUNDATEC / SEFAZ-RS – 2009) Em relação ao Mandado de Segurança, é correto afirmar que:",
+    "options": [
+      "Conceder-se-á Mandado de Segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade for agente de pessoa jurídica no exercício de atribuições do poder público.",
+      "O Mandado de Segurança não constitui ação adequada para a declaração do direito á compensação tributária.",
+      "Qualquer partido político tem legitimidade para impetrar Mandado de Segurança coletivo.",
+      "Tanto Mandado de Segurança individual, quanto o Mandado de Segurança Coletivo visão à proteção de direito líquido e certo e podem ser impetrados por pessoa física.",
+      "Cabe Mandado de Segurança contra atos de gestão comercial praticados por administradores de empresas públicas, de sociedade de economia mista e de concessionária de serviço público."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. É a transcrição literal do Art. 5º, **LXIX**, que define o cabimento do MS."
+  },
+  {
+    "question": "Questão 31. (FUNIVERSA / ADASA – 2009) Todo brasileiro pode usar a ação popular.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A Ação Popular (Art. 5º, **LXXIII**) pode ser proposta por **cidadão**, ou seja, o brasileiro que esteja no gozo dos direitos políticos. Um brasileiro que não seja cidadão (ex: menor de idade, ou com direitos políticos suspensos) não tem legitimidade."
+  },
+  {
+    "question": "Questão 32. (FUNIVERSA / ADASA – 2009) O mandado de segurança coletivo somente pode ser interposto por associação civil constituída há pelo menos um ano, na defesa de interesses de seus membros.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. O Mandado de Segurança Coletivo (Art. 5º, **LXX**) também pode ser impetrado por **partido político com representação no Congresso Nacional** e por **organização sindical ou entidade de classe**."
+  },
+  {
+    "question": "Questão 33. (FUNIVERSA / PM-DF – 2013) Visando a proteger os direitos individuais líquidos e certos, não amparados por habeas corpus e habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público, a Constituição Federal previu a concessão do mandado de segurança. Ante as características da ação constitucional mencionadas, a Carta Magna não admitiu o mandado de segurança coletivo.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A Constituição Federal **admitiu** o Mandado de Segurança Coletivo (Art. 5º, **LXX**)."
+  },
+  {
+    "question": "Questão 34. (Instituto AOCP / Prefeitura de Novo Hamburgo – 2020) Em observância ao que dispõe a Constituição Federal de 1988, referente ao direito à obtenção de certidões, assinale a alternativa correta.",
+    "options": [
+      "O remédio constitucional que protege o direito de certidão é o mandado de segurança.",
+      "O direito de obter certidão tem como finalidade a defesa de direitos e a defesa contra ilegalidade ou abuso de poder.",
+      "O direito à obtenção de certidões tem como finalidades a defesa de direitos e o esclarecimento de situações de interesse de terceiros.",
+      "O direito à obtenção de certidões em repartições públicas depende do pagamento de taxas, pois trata-se de prerrogativa de todas as pessoas.",
+      "O remédio constitucional destinado a proteger o direito de certidão é o habeas data."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. O Mandado de Segurança (Art. 5º, **LXIX**) é o remédio residual cabível para proteger o direito líquido e certo à obtenção de certidões (Art. 5º, XXXIV, 'b') quando este é violado por ato ilegal ou abusivo de autoridade."
+  },
+  {
+    "question": "Questão 35. (AOCP / EBSERH – 2016) Um advogado é procurado por um cliente que objetiva a retificação de dados cadastrais junto à Justiça Eleitoral, sendo que o cliente não prefere fazê-lo por processo sigiloso, judicial ou administrativo. Nesse caso, qual é a medida mais adequada para garantir os direitos desse cliente?",
+    "options": [
+      "Mandado de Segurança.",
+      "Habeas Data.",
+      "Habeas Corpus.",
+      "Mandado de Injunção.",
+      "Ação Popular."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. A finalidade de **retificação de dados** é expressamente tutelada pelo **Habeas Data** (Art. 5º, **LXXII, 'b'**)."
+  },
+  {
+    "question": "Questão 36. (AOCP / UFS – 2014) Analise as assertivas e assinale a alternativa que aponta as corretas. De acordo com a Constituição Federal, conceder-se-á “habeas-data\":\nI. para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.\nII. para proteger direito líquido e certo, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.\nIII. sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.\nIV. para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo.",
+    "options": [
+      "Apenas I e III",
+      "Apenas III e IV.",
+      "Apenas II e III.",
+      "Apenas I e IV",
+      "I, II, III e IV"
+    ],
+    "correct": 3,
+    "explanation": "As afirmativas **I** e **IV** estão **CORRETAS**. Elas descrevem, respectivamente, as duas finalidades do **Habeas Data**, previstas no Art. 5º, **LXXII, 'a' e 'b'**. A II descreve o Mandado de Segurança e a III o Habeas Corpus."
+  },
+  {
+    "question": "Questão 37. (AOCP / Pref. Vitória da Conquista-BA – 2013) De acordo com a Constituição Federal, sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder,",
+    "options": [
+      "conceder-se-á “habeas-corpus”.",
+      "conceder-se-á mandado de injunção.",
+      "conceder-se-á mandado de segurança.",
+      "conceder-se-á “habeas-data”.",
+      "conceder-se-á salvo-conduto."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. É a definição de **Habeas Corpus** (Art. 5º, **LXVIII**)."
+  },
+  {
+    "question": "Questão 38. (AOCP / DESO-SE – 2013) De acordo com a Constituição Federal, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. O mandado de segurança coletivo pode ser impetrado por: partido político com representação no Congresso Nacional e por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados.\nII. Conceder-se-á “habeas-data” sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.\nIII. Conceder-se-á mandado de injunção para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público e para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo.\nIV. Qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência.",
+    "options": [
+      "Apenas II, III e IV.",
+      "Apenas I e IV.",
+      "Apenas I, II e III.",
+      "Apenas II e III.",
+      "I, II, III e IV."
+    ],
+    "correct": 1,
+    "explanation": "As afirmativas **I** e **IV** estão **CORRETAS**:\n- **I** (Art. 5º, **LXX** - Legitimidade do MS Coletivo).\n- **II** está **INCORRETA** (Descreve o MI, não o HD).\n- **III** está **INCORRETA** (Descreve o HD, não o MI).\n- **IV** (Art. 5º, **LXXIII** - Ação Popular)."
+  },
+  {
+    "question": "Questão 39. (CONSULPLAN / TJ-MG – 2018) Em relação aos instrumentos constitucionais para a proteção dos direitos fundamentais, assinale a alternativa correta.",
+    "options": [
+      "Pessoa jurídica não tem legitimidade para propor ação popular.",
+      "O mandado de segurança pode ser usado como sucedâneo de ação popular.",
+      "O habeas corpus é o meio adequado para impugnação de pronunciamento em processo administrativo que haja implicado a perda de cargo público.",
+      "É cabível habeas corpus contra decisão condenatória a pena de multa, ou relativo a processo em curso por infração penal a que a pena pecuniária seja a única cominada."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. A Ação Popular (Art. 5º, **LXXIII**) só pode ser proposta por **cidadão**, que é a pessoa física no gozo de seus direitos políticos. Pessoa jurídica não se enquadra no conceito de cidadão."
+  },
+  {
+    "question": "Questão 40. (CONSULPLAN / TJ-MG – 2016) São isentos do pagamento de custas e taxas judiciais, EXCETO:",
+    "options": [
+      "O Habeas Data.",
+      "O Habeas Corpus.",
+      "A Ação Popular.",
+      "O Mandado de Segurança."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Art. 5º, **LXXVII**, lista o Habeas Corpus e o Habeas Data como ações gratuitas. A Ação Popular é gratuita, salvo comprovada má-fé (Art. 5º, LXXIII). O **Mandado de Segurança** (Art. 5º, LXIX) **não** tem previsão constitucional de gratuidade, embora a lei preveja a gratuidade para quem provar insuficiência de recursos."
+  },
+  {
+    "question": "Questão 41. (CONSULPLAN / TJ-MG – 2016) Assinale a alternativa correta em relação às Ações Constitucionais:",
+    "options": [
+      "A ação popular, ajuizada por pessoas físicas ou jurídicas, tem por objeto anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico cultural.",
+      "O mandado de segurança coletivo poderá ser impetrado por partido político com representação no Congresso Nacional, organização sindical, entidade de classe ou associação legalmente constituída há pelo menos três anos, em defesa de seus membros ou associados.",
+      "O mandado de injunção visa suprir a carência de normas regulamentadoras do exercício dos direitos e garantias constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.",
+      "O habeas data pode ser manejado para assegurar o conhecimento de informações relativas ao impetrante, constantes de registros de entidades de públicas e privadas."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. É a definição de **Mandado de Injunção** (Art. 5º, **LXXI**)."
+  },
+  {
+    "question": "Questão 42. (CONSULPLAN / CODERN – 2014) Assinale a alternativa que indica o remédio constitucional adequado a assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.",
+    "options": [
+      "Habeas data.",
+      "Ação popular.",
+      "Habeas corpus.",
+      "Mandado de injunção.",
+      "Mandado de segurança."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. É a primeira finalidade do **Habeas Data**, prevista no Art. 5º, **LXXII, 'a'**."
+  },
+  {
+    "question": "Questão 43. (CONSULPLAN / TRE-MG – 2015) “Carlos é presidente de uma associação civil sem fins lucrativos cujo objeto estatutário é buscar a proteção de determinados direitos afetos à comunidade onde reside e também exerce sua atividade profissional. Ciente de determinado ato governamental que atinge comunidades estabelecidas em municípios vizinhos, mas que poderia ser ampliada para atingir a sua comunidade, embora não constasse qualquer dado objetivo nesse sentido, decide apresentar Mandado de Segurança coletivo.” Nos termos da Constituição Federal, o Mandado de Segurança coletivo é:",
+    "options": [
+      "restrito aos partidos políticos.",
+      "próprio dos sindicatos de empregados privados.",
+      "legitimado a pessoas físicas com interesse determinado.",
+      "passível de impetração por associação civil no interesse dos associados."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. A associação, desde que legalmente constituída e em funcionamento há pelo menos um ano, tem legitimidade para impetrar **Mandado de Segurança Coletivo** (Art. 5º, **LXX, 'b'**), em defesa dos interesses de seus associados."
+  }
+],
+
+
+
+"DireitosFundamentais2":[
+{
+    "question": "Questão 40. (FUNCAB / Pref. Porto Velho – 2009) Acerca da tutela constitucional das liberdades é correto afirmar:",
+    "options": [
+      "A retificação de informações constantes de registros ou banco de dados de instituições privadas somente pode ser realizada através da ação de habeas data.",
+      "O mandado de segurança coletivo pode ser impetrado por associação constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus associados.",
+      "Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, ainda que necessária ampla dilação probatória.",
+      "A ação de habeas data pode ser gratuita, desde que demonstrada a hipossuficiência econômica da parte interessada.",
+      "A ação popular somente pode ser proposta por cidadão que demonstre interesse fático e jurídico na anulação de ato lesivo ao patrimônio público e ao meio ambiente."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. Conforme o Art. 5º, **LXX, 'b'**, o Mandado de Segurança Coletivo pode ser impetrado por 'associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus associados ou parte deles'."
+  },
+  {
+    "question": "Questão 41. (FUNDATEC / CREMERS – 2014) Considerando a garantia de razoável duração do processo e os meios que garantam a celeridade de sua tramitação, prevista no artigo 5º, inciso LXXVIII, da Constituição Federal, analise as assertivas que seguem.\nI. Trata-se de garantia prevista tanto para o âmbito judicial quanto para o administrativo.\nII. Trata-se de garantia prevista somente para a prestação jurisdicional.\nIII. É garantia aplicável aos brasileiros natos e naturalizados, pessoas físicas e jurídicas, estrangeiros residentes ou não no país.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III."
+    ],
+    "correct": 3,
+    "explanation": "As afirmativas **I** e **III** estão **CORRETAS**. A garantia da razoável duração do processo (Art. 5º, **LXXVIII**) abrange tanto o processo **judicial quanto o administrativo** (I). Embora o Art. 5º mencione brasileiros e estrangeiros residentes, os direitos fundamentais, em geral, aplicam-se a todas as pessoas, físicas ou jurídicas, residentes ou não, no território nacional (III). A afirmativa II está incorreta."
+  },
+  {
+    "question": "Questão 42. (FUNDATEC / CAGE-RS – 2014) As normas definidoras de direitos e garantias fundamentais",
+    "options": [
+      "dependem, para sua aplicação, da edição da respectiva lei complementar.",
+      "têm aplicação imediata.",
+      "terão aplicação imediata quando o texto constitucional assim dispuser expressamente em relação a cada direito desta espécie.",
+      "poderão ter aplicação imediata ou condicionada à edição de lei regulamentadora, de acordo com a natureza do direito.",
+      "são de natureza programática."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. Conforme o Art. 5º, **§ 1º**, da CF/88, 'As normas definidoras dos direitos e garantias fundamentais **têm aplicação imediata**'."
+  },
+  {
+    "question": "Questão 43. (FUNDATEC / SUSEPE-RS – 2014) Analise as assertivas abaixo segundo a Constituição da República Federativa do Brasil, em especial o Art. 5º, que dispõe sobre os direitos e deveres individuais e coletivos.\nI. No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.\nII. Às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação.\nIII. O preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ]
+    ,
+    "correct": 4,
+    "explanation": "Todas as afirmativas estão **CORRETAS**:\n- **I** (Art. 5º, **XXV** - Requisição Administrativa).\n- **II** (Art. 5º, **L** - Direitos das Presidiárias).\n- **III** (Art. 5º, **LXIII** - Direitos do Preso)."
+  },
+  {
+    "question": "Questão 44. (FEPESE / TCE-SC – 2014) De acordo com o disposto no art. 5º da Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "Não será concedida extradição de estrangeiro por crime político, de opinião, ou de corrupção passiva.",
+      "Não haverá penas: de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX; de caráter perpétuo; de banimento; cruéis.",
+      "Constitui crime inafiançável e imprescritível a ação de grupos armados, desde que militares, contra a ordem constitucional e o Estado Democrático.",
+      "São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas capazes, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador ou da autoridade policial, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. É a transcrição literal do Art. 5º, **XLVII**, que lista as penas vedadas, ressalvando a pena de morte em caso de guerra declarada (referência constitucional do Art. 84, XIX, que trata da declaração de guerra)."
+  },
+  {
+    "question": "Questão 45. (FEPESE / TCE-SC – 2014) Quanto aos Direitos e às garantias fundamentais estabelecidos na Constituição da República Federativa do Brasil de 1988, assinale a alternativa correta.",
+    "options": [
+      "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+      "Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros em linha reta ascendente ou descendente, pelo tempo que a lei determinar.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão administrativa ou judicial, assegurando-se o contraditório e a ampla defesa.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou por determinação judicial.",
+      "A pequena propriedade rural, assim definida em lei, não será objeto de penhora para pagamento de débito decorrente de sua atividade produtiva."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**, sendo a previsão constitucional da **escusa de consciência** (Art. 5º, **VIII**)."
+  },
+  {
+    "question": "Questão 46. (FADESP / CDP – 2012) A respeito de direitos e garantias fundamentais, é correto afirmar que",
+    "options": [
+      "mediante o pagamento de taxa única, é assegurado direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "mediante o pagamento de módica taxa, é assegurada a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal.",
+      "independentemente do pagamento de taxas, é assegurado direito de petição aos Poderes Públicos, em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "são gratuitas as ações de mandado de segurança."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. O direito de petição é garantido a todos, **independentemente do pagamento de taxas** (Art. 5º, **XXXIV, 'a'**)."
+  },
+  {
+    "question": "Questão 47. (FADESP / CDP – 2012) É gratuito o fornecimento de registro",
+    "options": [
+      "de casamento.",
+      "civil.",
+      "de óbito.",
+      "civil, para os reconhecidamente pobres, na forma da lei."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. Conforme o Art. 5º, **LXXVI**, são gratuitos o **registro civil de nascimento** e a **certidão de óbito** para os **reconhecidamente pobres**, na forma da lei."
+  },
+  {
+    "question": "Questão 48. (FUNDATEC / SEFAZ–RS – 2009) Em relação aos direitos fundamentais previstos na Constituição Federal de 1988, é correto afirmar que:",
+    "options": [
+      "A falta de defesa técnica por advogado no processo administrativo disciplinar ofende a Constituição, porque viola o princípio da ampla defesa.",
+      "A Constituição Federal de 1988 não assegura o direito do defensor, no interesse do representado, a ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.",
+      "Não viola a garantia constitucional de acesso à jurisdição a taxa judiciária calculada sem limite sobre o valor da causa.",
+      "Os direitos e garantias expressos na Constituição Federal brasileira não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
+      "A garantia da impenhorabilidade de bem de família não abrange o imóvel pertencente a pessoas solteiras."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. É o princípio da **não exclusividade** (ou abertura material), previsto no Art. 5º, **§ 2º**, da CF/88."
+  },
+  {
+    "question": "Questão 49. (FUNIVERSA / SAPeJUS-GO – 2015) Caracteriza(m)-se pela imprescritibilidade e pela inafiançabilidade:",
+    "options": [
+      "a prática de tortura.",
+      "a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado democrático.",
+      "os crimes hediondos.",
+      "o tráfico ilícito de entorpecentes e drogas afins.",
+      "os crimes contra a dignidade sexual que importem em violência ou grave ameaça."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. A CF/88 prevê apenas dois crimes (ou grupos de crimes) com as duas características (imprescritibilidade e inafiançabilidade): a prática do **Racismo** (Art. 5º, XLII) e a **Ação de grupos armados** (Art. 5º, **XLIV**)."
+  },
+  {
+    "question": "Questão 50. (FUNIVERSA / PM-DF – 2013) Consoante estabelece a Constituição Federal, no tocante aos direitos e garantias fundamentais, assinale a alternativa correta.",
+    "options": [
+      "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigida prévia autorização à autoridade competente.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, em ambos os casos, o trânsito em julgado.",
+      "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de detenção, nos termos da lei.",
+      "Não haverá penas de morte em quaisquer hipóteses."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**, sendo a regra da **inviolabilidade do domicílio** (Art. 5º, **XI**)."
+  },
+  {
+    "question": "Questão 51. (FUNIVERSA / SECTEC-GO – 2015) De acordo com a Constituição Federal, o civilmente identificado",
+    "options": [
+      "em hipótese nenhuma será submetido à identificação criminal.",
+      "não será submetido à identificação criminal, salvo nas hipóteses previstas em lei.",
+      "será submetido à identificação criminal se houver praticado crime hediondo.",
+      "será submetido à identificação criminal quando solicitado pelo Ministério Público.",
+      "será submetido à identificação criminal somente com autorização judicial."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. Conforme o Art. 5º, **LVIII**, 'o civilmente identificado **não será submetido a identificação criminal**, salvo nas hipóteses previstas em lei'."
+  },
+  {
+    "question": "Questão 52. (FUNIVERSA / SEJU-DF – 2008) A prática de racismo constitui crime afiançável e imprescritível, sujeito a pena de reclusão.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. O crime de racismo é **inafiançável** e imprescritível (Art. 5º, **XLII**)."
+  },
+  {
+    "question": "Questão 53. (FUNIVERSA / PC-DF – 2009) O antissemitismo pode ser considerado como crime de racismo.",
+    "correct": 0,
+    "explanation": "A assertiva está **CORRETA**. O Supremo Tribunal Federal (STF) já pacificou o entendimento de que a prática do antissemitismo (preconceito contra os judeus) está abrangida pelo Art. 20 da Lei nº 7.716/89 (Lei do Racismo) e é considerada crime de **racismo** para fins constitucionais."
+  },
+  {
+    "question": "Questão 54. (FUNIVERSA / PM-DF – 2013) Não haverá penas de morte em quaisquer hipóteses.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A pena de morte é permitida em caso de **guerra declarada** (Art. 5º, **XLVII, 'a'**)."
+  },
+  {
+    "question": "Questão 55. (FUNIVERSA / PM-DF – 2013) Com o intuito de preservar a segurança jurídica, a Constituição Federal prescreve que a lei penal nunca retroagirá.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A lei penal **não retroagirá, salvo para beneficiar o réu** (Art. 5º, **XL** - Princípio da Retroatividade Benéfica)."
+  },
+  {
+    "question": "Questão 56. (FUNIVERSA / CEB – 2010) A lei considerará crimes inafiançáveis e insuscetíveis de graça ou indulto a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem.",
+    "correct": 0,
+    "explanation": "A assertiva está **CORRETA**. O texto reproduz fielmente o Art. 5º, **XLIII**, da CF/88, que trata dos crimes inafiançáveis e insuscetíveis de graça ou indulto (TTT H - Tortura, Tráfico, Terrorismo e Hediondos)."
+  },
+  {
+    "question": "Questão 57. (FUNIVERSA / SEJUS-DF – 2008) Nenhum brasileiro pode ser extraditado.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. O brasileiro **nato** não será extraditado. O brasileiro **naturalizado** poderá ser extraditado em caso de crime comum praticado **antes** da naturalização, ou de comprovado envolvimento em tráfico ilícito de drogas **a qualquer tempo** (Art. 5º, **LI**)."
+  },
+  {
+    "question": "Questão 58. (FUNIVERSA / SEJUS-DF – 2008) Não será concedido extradição de estrangeiro por crime político ou comum.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. Não será concedida extradição de estrangeiro por crime **político ou de opinião** (Art. 5º, **LII**). É possível a extradição por crime comum."
+  },
+  {
+    "question": "Questão 59. (FUNIVERSA / SEJUS-DF – 2008) O indivíduo civilmente identificado jamais será submetido à identificação criminal.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. O civilmente identificado **não será submetido a identificação criminal, salvo nas hipóteses previstas em lei** (Art. 5º, **LVIII**)."
+  },
+  {
+    "question": "Questão 60. (FUNIVERSA / Apex Brasil – 2006) A lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade o exigir.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A lei poderá restringir a publicidade quando a defesa da intimidade **ou o interesse social** o exigir (Art. 5º, **LX**)."
+  },
+  {
+    "question": "Questão 61. (FUNIVERSA / SEPLAG-DF – 2011) Decorrente da amplitude do direito fundamental à necessária licitude nos processos, judiciais ou administrativos, a simples existência de qualquer prova ilícita nos autos é suficiente para anular o procedimento.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. A prova ilícita é inadmissível (Art. 5º, **LVI**). Contudo, a simples existência de uma prova ilícita não anula **todo** o procedimento. Além disso, a jurisprudência (teoria dos frutos da árvore envenenada) admite exceções que podem salvar provas derivadas, como a fonte independente."
+  },
+  {
+    "question": "Questão 62. (FUNIVERSA / ADASA – 2009) A concessão de habeas corpus somente ocorrerá quando alguém sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. O Habeas Corpus é concedido sempre que alguém **sofrer ou se achar ameaçado de sofrer** violência ou coação (Art. 5º, **LXVIII**). A omissão da hipótese de 'ameaça de sofrer' torna a assertiva incompleta e, portanto, incorreta."
+  },
+  {
+    "question": "Questão 63. (FUNIVERSA / PM-DF – 2013) A Emenda Constitucional n.º 45/2004 inseriu uma garantia constitucional segundo a qual serão assegurados a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação, estabelecendo prazo para que a prestação jurisdicional seja efetivamente entregue.",
+    "correct": 0,
+    "explanation": "A assertiva está **INCORRETA**. Embora a EC 45/2004 tenha inserido o Art. 5º, **LXXVIII**, com a garantia da razoável duração do processo, ela **não estabeleceu prazo** para a entrega da prestação jurisdicional."
+  },
+  {
+    "question": "Questão 64. (FUNRIO / IFPA – 2016) A Constituição Federal de 1988 diz que todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, dispondo também que",
+    "options": [
+      "será concedida extradição de estrangeiro por crime político ou de opinião.",
+      "é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional.",
+      "é plena a liberdade de associação para fins lícitos, permitida a de caráter paramilitar.",
+      "a lei não prejudicará o direito adquirido e o ato jurídico perfeito, mas a coisa julgada sim.",
+      "a lei não punirá a discriminação atentatória dos direitos e liberdades fundamentais."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. É a previsão do Art. 5º, **XIV** (Direito à Informação e Sigilo da Fonte)."
+  },
+  {
+    "question": "Questão 65. (FUNRIO / IFPA – 2016) De acordo com o artigo 5º da Constituição da República Federativa do Brasil de 1988, não haverá penas:\nI - de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;\nII - de caráter perpétuo;\nIII - de trabalhos forçados;\nIV - privação ou restrição da liberdade;\nV - de banimento;\nVI - cruéis.\nMarque a alternativa correta",
+    "options": [
+      "I, III, IV, V e VI.",
+      "I, II, III, V e VI.",
+      "II, III, IV, V e VI.",
+      "I, II, III, IV e VI.",
+      "I, II, III, IV e V."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. As penas que 'não haverá' no Brasil são as listadas no Art. 5º, **XLVII**, que são: I (morte, salvo exceção), II (perpétuo), III (trabalhos forçados), V (banimento) e VI (cruéis). A pena de privação ou restrição da liberdade (**IV**) é uma das espécies de pena que a lei adotará (Art. 5º, XLVI, 'a')."
+  },
+  {
+    "question": "Questão 66. (FUNRIO / Prefeitura de Itupeva-SP – 2016) Nos termos da jurisprudência sumulada do Supremo Tribunal Federal o processo administrativo disciplinar não requer necessária a presença de:",
+    "options": [
+      "advogado",
+      "informação",
+      "defesa",
+      "testemunhas",
+      "contraditório"
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. De acordo com a **Súmula Vinculante nº 5 do STF**, 'A falta de defesa técnica por **advogado** no processo administrativo disciplinar não ofende a Constituição'."
+  },
+  {
+    "question": "Questão 67. (FUNRIO / IFBA – 2015) A Constituição Federal de 1988 estabelece que a lei regulará a individualização da pena e adotará, entre outras, as seguintes:",
+    "options": [
+      "privação da liberdade e trabalhos forçados.",
+      "interdição de direitos e banimento.",
+      "prestação social alternativa e caráter perpétuo.",
+      "restrição da liberdade e perda de bens.",
+      "trabalhos forçados e banimento."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Art. 5º, **XLVI**, lista as espécies de pena permitidas (privação ou **restrição da liberdade**, **perda de bens**, multa, prestação social alternativa, suspensão ou interdição de direitos). Trabalhos forçados, banimento e caráter perpétuo são penas **vedadas** (Art. 5º, XLVII)."
+  },
+  {
+    "question": "Questão 68. (FUNRIO / MPOG – 2013) No tocante à possibilidade de patenteabilidade de inventos, a Constituição Brasileira vigente estabelece regra geral, que define determinados requisitos. Com relação a estes requisitos é correto afirmar que a lei assegurará",
+    "options": [
+      "aos requerentes de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas brasileiras e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos requerentes de inventos industriais e descobertas privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais e descobertas privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas exclusivamente brasileiras e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. É a transcrição do Art. 5º, **XXIX**, da CF/88. As alternativas incorretas inserem termos como 'requerentes', 'descobertas' ou 'exclusivamente brasileiras', não previstos no texto constitucional."
+  },
+  {
+    "question": "Questão 69. (Instituto AOCP / PC-ES – 2019) Segundo a Constituição Federal, todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:",
+    "options": [
+      "não será concedida extradição de estrangeiro por crime político ou de opinião.",
+      "as entidades associativas, mesmo sem autorização expressa, têm legitimidade para representar seus filiados judicial ou extrajudicialmente.",
+      "às presidiárias, serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação, desde que apresentem bom comportamento.",
+      "as normas definidoras dos direitos e garantias fundamentais têm aplicação contida.",
+      "os direitos e garantias expressos nesta Constituição excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**, conforme o Art. 5º, **LII**, da CF/88."
+  },
+  {
+    "question": "Questão 70. (Instituto AOCP / PC-ES – 2019) Assinale a alternativa correta de acordo com o que disciplina a Constituição Federal acerca dos direitos e garantias fundamentais.",
+    "options": [
+      "É assegurado a todos o acesso à informação, sendo garantida a publicidade da fonte.",
+      "Qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má fé, isento de custas judiciais e do ônus da sucumbência.",
+      "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "A retificação de dados perante os órgãos públicos, quando não se prefira fazer por processo sigiloso, judicial ou administrativo, poderá ser feita através de mandado de injunção.",
+      "Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às Leis Complementares."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está **CORRETA**. É a previsão da **Ação Popular** (Art. 5º, **LXXIII**)."
+  },
+  {
+    "question": "Questão 71. (Instituto AOCP / UFPB – 2019) Com base na temática direitos e garantias fundamentais, assinale a alternativa correta.",
+    "options": [
+      "A lei penal não retroagirá, mesmo que para beneficiar o réu.",
+      "A prática do racismo constitui crime afiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+      "São a todos assegurados, dependendo do pagamento de taxas, o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "Conceder-se-á habeas data: para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público.",
+      "Será concedida extradição de estrangeiro por crime político ou de opinião."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. É a primeira finalidade do **Habeas Data** (Art. 5º, **LXXII, 'a'**)."
+  },
+  {
+    "question": "Questão 72. (Instituto AOCP / UFPB – 2019) A Constituição da República Federativa do Brasil de 1988 prescreve uma série de direitos e garantias fundamentais ao indivíduo. Dentre eles, assinale a alternativa que apresenta aqueles que se enquadram no texto constitucional referido.",
+    "options": [
+      "É livre a manifestação do pensamento, sendo o anonimato regulado em lei própria.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, independentemente do trânsito em julgado da sentença.",
+      "A todos é assegurada, mediante prévio recolhimento de taxas, a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal.",
+      "A criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Art. 5º, **XVIII**, estabelece que 'A criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento'."
+  },
+  {
+    "question": "Questão 73. (Instituto AOCP / UFPB – 2019) Dentre os direitos e garantias fundamentais relacionados à liberdade de locomoção do indivíduo, assinale a alternativa equivalente ao texto constitucional.",
+    "options": [
+      "É reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados a plenitude de defesa, o sigilo das votações, a soberania dos veredictos e a competência para o julgamento dos crimes dolosos contra a vida.",
+      "A lei penal retroagirá, salvo para beneficiar o réu.",
+      "Ninguém será privado da liberdade ou de seus bens sem o devido processo legal, exceto por medida cautelar determinada pela autoridade policial.",
+      "São inadmissíveis, no processo, as provas obtidas por meios ilícitos, salvo as que forem indiretamente obtidas de boa-fé."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. O texto se refere ao Art. 5º, **XXXVIII**, da CF/88 (Tribunal do Júri)."
+  },
+  {
+    "question": "Questão 74. (Instituto AOCP / UFPB – 2019) Segundo o artigo 5º da Constituição Federal, todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Considerando o artigo mencionado da Constituição Federal brasileira, é correto afirmar que",
+    "options": [
+      "ainda que em caso de iminente perigo público, a autoridade competente não poderá usar de propriedade particular sem autorização judicial.",
+      "as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão do Poder Executivo.",
+      "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+      "a sucessão de bens de estrangeiros situados no País será regulada pela lei estrangeira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei brasileira."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. É a previsão constitucional sobre a **extradição de brasileiro** (Art. 5º, **LI**)."
+  },
+  {
+    "question": "Questão 75. (Instituto AOCP / ITEP-RN – 2018) O artigo 5º da Constituição Federal enumera alguns direitos individuais que devem ser preservados tanto pelo Estado como por particulares.\nAssinale a alternativa que apresenta um direito constitucionalmente previsto no referido artigo.",
+    "options": [
+      "É livre a manifestação do pensamento, permitido o anonimato.",
+      "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "É livre o exercício de qualquer trabalho, ofício ou profissão, independentemente das qualificações profissionais que a lei estabelecer.",
+      "Haverá juízo ou tribunal de exceção.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está **CORRETA**. É a regra da **inviolabilidade do domicílio** (Art. 5º, **XI**)."
+  },
+  {
+    "question": "Questão 76. (AOCP / Agepen-CE – 2017) Referente aos direitos e às garantias fundamentais previstos na Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "A autoridade pública somente pode penetrar em um domicílio com ordem judicial e desde que durante o dia.",
+      "É plena a liberdade de associação para quaisquer fins, inclusive a de caráter paramilitar.",
+      "Constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.",
+      "Nenhum brasileiro, nato ou naturalizado, será extraditado."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**, conforme o Art. 5º, **XLIV**."
+  },
+  {
+    "question": "Questão 77. (AOCP / Prefeitura de Juazeiro-BA – 2016) Segundo a constituição federal, no Brasil não haverá penas de morte, salvo em caso de",
+    "options": [
+      "guerra declarada, nos termos do artigo 84, inciso XlX, de caráter não perpétuo e cruéis.",
+      "guerra, de caráter perpétuo, de trabalho desigual.",
+      "guerra, de caráter perpétuo e caça.",
+      "guerra declarada, nos termos do artigo 84, inciso XlX, de caráter perpétuo, de trabalho forçado, de banimento e cruéis.",
+      "guerra, trabalho forçado e ineficiência, de banimento e cruéis."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **CORRETA**. O Art. 5º, **XLVII**, veda as penas de: morte (**salvo em caso de guerra declarada, nos termos do art. 84, XIX**), de **caráter perpétuo**, de **trabalhos forçados**, de **banimento** e **cruéis**. A alternativa D engloba o caput e a exceção do Art. 5º, XLVII, 'a', 'b', 'c', 'd' e 'e'."
+  },
+  {
+    "question": "Questão 78. (AOCP / EBSERH – 2015) A Constituição Federal de 1988 estipula uma série de direitos e garantias fundamentais. Em relação ao assunto, é correto afirmar que",
+    "options": [
+      "é a todos assegurado, mediante pagamento de taxa, o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "não há previsão de nenhuma forma de pena de morte.",
+      "o mandado de segurança coletivo pode ser impetrado por associações legalmente constituídas em defesa dos interesses de seus associados ou de outrem.",
+      "o brasileiro naturalizado poderá ser banido em caso de condenação por tráfico ilícito de entorpecentes.",
+      "são inafiançáveis os crimes definidos como hediondos, respondendo os executores e os que, podendo evitá-los, se omitirem."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está **CORRETA**. O Art. 5º, **XLIII**, trata dos crimes hediondos, que são inafiançáveis e insuscetíveis de graça ou indulto, responsabilizando mandantes, executores e omissos."
+  },
+  {
+    "question": "Questão 79. (AOCP / UFC – 2015) No tocante aos Direitos e garantias fundamentais, é INCORRETO afirmar que:",
+    "options": [
+      "o Brasil se submete à jurisdição de Tribunal Penal Internacional.",
+      "as normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+      "os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
+      "a todos, são assegurados a razoável duração do processo judicial, com exceção do administrativo, e os meios que garantam a celeridade de sua tramitação.",
+      "os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está **INCORRETA**. A razoável duração do processo (Art. 5º, **LXXVIII**) é assegurada nos âmbitos **judicial e administrativo**."
+  },
+  {
+    "question": "Questão 80. (AOCP / UFG – 2015) A Constituição Federal de 1988 estipula uma série de direitos e garantias fundamentais.\nEm relação ao assunto, é correto afirmar que",
+    "options": [
+      "é a todos assegurado, mediante pagamento de taxa, o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "não há previsão de nenhuma forma de pena de morte.",
+      "o mandado de segurança coletivo pode ser impetrado por associações legalmente constituídas em defesa dos interesses de seus associados ou de outrem.",
+      "o brasileiro naturalizado poderá ser banido em caso de condenação por tráfico ilícito de entorpecentes.",
+      "são inafiançáveis os crimes definidos como hediondos, respondendo os executores e os que, podendo evitá-los, se omitirem."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está **CORRETA**. O Art. 5º, **XLIII**, trata dos crimes hediondos, que são inafiançáveis e insuscetíveis de graça ou indulto, responsabilizando mandantes, executores e omissos."
+  },
+  {
+    "question": "Questão 81. (AOCP / UFSM – 2014) Analise as assertivas e assinale a alternativa que aponta as corretas, de acordo com a Legislação Brasileira.\nI. Ninguém será privado da liberdade ou de seus bens sem o devido processo legal.\nII. Aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes.\nIII. A lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem.\nIV. Ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei.",
+    "options": [
+      "Apenas I e III.",
+      "Apenas III e IV.",
+      "Apenas II e III.",
+      "Apenas I e IV.",
+      "I, II, III e IV."
+    ],
+    "correct": 4,
+    "explanation": "Todas as afirmativas estão **CORRETAS**:\n- **I** (Art. 5º, **LIV** - Devido Processo Legal)\n- **II** (Art. 5º, **LV** - Contraditório e Ampla Defesa)\n- **III** (Art. 5º, **LX** - Publicidade dos Atos Processuais)\n- **IV** (Art. 5º, **LXI** - Hipóteses de Prisão)"
+  },
+  {
+    "question": "Questão 82. (AOCP / UFMT – 2014) De acordo com a Constituição Federal, a lei regulará a individualização da pena e adotará, EXCETO",
+    "options": [
+      "privação ou restrição da liberdade",
+      "perda de bens",
+      "pena de caráter perpétuo",
+      "prestação social alternativa",
+      "suspensão ou interdição de direitos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está **CORRETA**. A pena de **caráter perpétuo** é uma das penas **vedadas** pela Constituição (Art. 5º, **XLVII, 'b'**). Portanto, não pode ser adotada na individualização da pena. As demais opções (A, B, D, E) são espécies de pena permitidas (Art. 5º, XLVI)."
+  },
+  {
+    "question": "Questão 83. (CONSULPLAN / TRF 2ª Região – 2017) Determinada associação privada faz requerimento administrativo formal à Administração Pública, buscando informações acerca do contrato administrativo que suspeitam ter irregularidades.\nAcerca do princípio da publicidade das informações na Administração Pública, assinale a alternativa correta.",
+    "options": [
+      "É possível a restrição de informações caso haja risco à intimidade de alguma das partes envolvidas no ato ou processo administrativo, bem como haja risco à segurança do Estado.",
+      "As informações administrativas buscadas somente podem ser prestadas aos diretamente envolvidos, demonstrado o legítimo interesse, por meio de habeas data.",
+      "É possível que haja restrição de informações pela Administração Pública, mas somente decorrente de decisão judicial, em que expostos os motivos do sigilo.",
+      "Todas as informações administrativas buscadas devem ser prestadas, tendo em vista o princípio da publicidade, materializado no direito constitucional de petição."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. O Art. 5º, **XXXIII**, garante o direito de receber informações dos órgãos públicos, **ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado** e as que digam respeito à **intimidade** (interesse particular)."
+  },
+  {
+    "question": "Questão 84. (CONSULPLAN / TJ-MG – 2016) A Constituição da República brasileira reconheceu a instituição do Tribunal do Júri como competente para julgar os crimes dolosos contra a vida, com a organização que lhe der a legislação, assegurando-lhe, explicitamente, tradicionais valores, EXCETO:",
+    "options": [
+      "O princípio do contraditório.",
+      "O sigilo das votações.",
+      "A soberania dos vereditos.",
+      "A plenitude de defesa."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está **CORRETA**. O Tribunal do Júri tem assegurados (Art. 5º, **XXXVIII**): a **plenitude de defesa** ('a'), o **sigilo das votações** ('b'), a **soberania dos vereditos** ('c') e a competência para o julgamento dos crimes dolosos contra a vida ('d'). O **contraditório** (Art. 5º, LV) é uma garantia fundamental geral, mas não está **explicitamente** listado no rol do art. 5º, XXXVIII, como um dos princípios específicos da instituição do Júri."
+  },
+  {
+    "question": "Questão 1. (INCAB / Prefeitura de Valença-RJ – 2018) A Constituição Federal brasileira de 1988, no seu art. 5°, trata dos chamados direitos e garantias fundamentais. O legislador previu uma série de princípios cuja importância é reconhecida por toda a doutrina. Assinale a seguir o nome do princípio constitucional que é expressamente previsto no dispositivo legal acima mencionado.",
+    "options": [
+      "Razoável duração do processo",
+      "Identidade física do juiz",
+      "Concentração dos atos processuais",
+      "Comunhão das provas",
+      "Duplo grau obrigatório de jurisdição"
+    ],
+    "correct": 0,
+    "explanation": "O princípio da **razoável duração do processo** e os meios que garantam a celeridade de sua tramitação são expressamente previstos no art. 5º, **LXXVIII**, da CF/88."
+  },
+  {
+    "question": "Questão 2. (FUNDATEC / Prefeitura de Santa Rosa – 2018) No Brasil, em casos específicos e além de outras formas, poderá ser adotada a pena:",
+    "options": [
+      "Cruel.",
+      "De banimento.",
+      "De caráter perpétuo.",
+      "De morte.",
+      "De trabalhos forçados."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 5º, **XLVII, 'a'**, veda a pena de morte, **salvo em caso de guerra declarada** (que é o caso específico em que poderá ser adotada). As demais penas são categoricamente vedadas (Art. 5º, XLVII, 'b' a 'e')."
+  },
+  {
+    "question": "Questão 3. (FUNDATEC / DPE-SC – 2018) São garantias constitucionais aplicáveis ao processo penal:\nI. Ninguém será privado da liberdade ou de seus bens sem o devido processo legal.\nII. Aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes.\nIII. Constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.\nIV. Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória.\nQuais estão corretas?",
+    "options": [
+      "Apenas I e IV.",
+      "Apenas II e III.",
+      "Apenas I, II e III.",
+      "Apenas I, II e IV.",
+      "I, II, III e IV."
+    ],
+    "correct": 4,
+    "explanation": "Todas as assertivas estão corretas:\n- **I** (Art. 5º, **LIV** - Devido Processo Legal)\n- **II** (Art. 5º, **LV** - Contraditório e Ampla Defesa)\n- **III** (Art. 5º, **XLIV** - Crimes contra o Estado Democrático)\n- **IV** (Art. 5º, **LVII** - Presunção de Inocência)"
+  },
+  {
+    "question": "Questão 4. (FUNDATEC / SPGG-RS – 2018) No que diz respeito aos direitos e garantias fundamentais previstos na Constituição Federal, analise as seguintes afirmações:\nI. A propriedade atenderá a sua função social, admitindo-se a desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos em lei.\nII. A lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.\nIII. O Estado promoverá, na forma definida em Lei Complementar, a defesa do consumidor.\nQuais estão corretas?",
+    "options": [
+      "Apenas II.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct": 0,
+    "explanation": "Apenas a assertiva **II** está correta, reproduzindo o Art. 5º, **XXIX** (Propriedade Industrial).\n- **I** está incorreta: as ressalvas são 'os casos previstos **nesta Constituição**' (Art. 5º, **XXIV**), e não 'em lei' genericamente.\n- **III** está incorreta: a defesa do consumidor será promovida 'na forma da **lei**' (Art. 5º, **XXXII**), não exigindo Lei Complementar."
+  },
+  {
+    "question": "Questão 5. (FEPESE / PC-SC – 2017) Assinale a alternativa correta a respeito dos direitos e deveres individuais e coletivos previstos no texto constitucional.",
+    "options": [
+      "Não se admite ação privada nos crimes de ação pública, ainda que esta não seja intentada no prazo legal.",
+      "São admissíveis, no processo, as provas obtidas por meios ilícitos.",
+      "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de detenção, nos termos da lei.",
+      "A lei penal não retroagirá, salvo para beneficiar o réu.",
+      "O preso não possui direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA. É o princípio da retroatividade da lei penal mais benéfica (Art. 5º, **XL**)."
+  },
+  {
+    "question": "Questão 6. (FEPESE / PC-SC - Agente – 2017) Assinale a alternativa correta acerca dos princípios constitucionais do direito penal.",
+    "options": [
+      "É vedada a aplicação de pena que suspenda o exercício de direitos.",
+      "As penas restritivas de liberdade somente poderão ser aplicadas para crimes consumados.",
+      "A pena de morte poderá ser decretada nos casos de reincidência de crimes hediondos.",
+      "Ao individualizar o crime, o magistrado é livre para escolher a espécie de penalidade que entender mais adequada para o caso.",
+      "Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, representando o princípio da **presunção de inocência** (Art. 5º, **LVII**)."
+  },
+  {
+    "question": "Questão 7. (FEPESE / PC-SC - Escrivão - 2017) De acordo com a Constituição Federal, conceder-se-á habeas data para:",
+    "options": [
+      "garantir o relaxamento de prisão.",
+      "anular ato lesivo ao patrimônio público.",
+      "sustar violência contra a liberdade de locomoção.",
+      "assegurar o conhecimento de informações constantes de registros ou bancos de dados públicos.",
+      "exigir a edição de norma regulamentadora que viabiliza o exercício de direito inerente à cidadania."
+    ],
+    "correct": 3,
+    "explanation": "O Habeas Data (Art. 5º, **LXXII, 'a'**) é concedido para assegurar o conhecimento (e a retificação) de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público."
+  },
+  {
+    "question": "Questão 8. (FUMARC / CBTU – 2016) A respeito dos direitos e das garantias fundamentais previstos na Constituição de 1988, é CORRETO afirmar:",
+    "options": [
+      "A sucessão de bens de estrangeiros situados no País será sempre regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros.",
+      "Depende de regulamentação a liberdade de associação para fins lícitos, vedada, em qualquer hipótese, a de caráter paramilitar.",
+      "É livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença.",
+      "É livre a locomoção no território nacional em tempo de paz, não sendo permitido, contudo, que qualquer pessoa entra, permaneça ou dele saia com seus bens."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está CORRETA, conforme o Art. 5º, **IX** (Liberdade de Expressão). A CF veda a censura de natureza política, ideológica e artística."
+  },
+  {
+    "question": "Questão 9. (FUNCAB / SUPEL-RO – 2016) Acerca do tema “Direitos e Garantias Fundamentais\", assinale a alternativa correta.",
+    "options": [
+      "Conceder-se-á extradição de estrangeiro por crime político ou de opinião.",
+      "A lei poderá, em caso de dolo, admitir a pena de trabalhos forçados para os crimes hediondos.",
+      "É compulsória a adesão à associação profissional ou a sindicato profissional.",
+      "Não haverá juízo ou tribunal de exceção, salvo em tempo de guerra.",
+      "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, reproduzindo o Art. 5º, **XLII**, da CF/88 (Crime de Racismo)."
+  },
+  {
+    "question": "Questão 10. (FEPESE / Prefeitura de Lages – 2016) Assinale a alternativa correta sobre o direito de petição.",
+    "options": [
+      "Exceto para os reconhecidamente pobres, o direito de petição é remunerado mediante taxa.",
+      "O direito de petição se relaciona apenas com a expedição de certidões pelas repartições administrativas, excluída tal possibilidade para os processos judiciais.",
+      "É indispensável a representação por meio de advogado para o exercício do direito de petição.",
+      "O direito de petição é absoluto, não havendo necessidade de o interessado justificar o seu pedido ou demonstrar a sua legitimação para tal.",
+      "O direito de petição é considerado um direito e uma garantia individual, não podendo ser suprimido por meio de emenda constitucional."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA. Os direitos e garantias individuais (Art. 5º) são considerados **cláusulas pétreas** (Art. 60, § 4º, IV), não podendo ser abolidos por Emenda Constitucional."
+  },
+  {
+    "question": "Questão 11. (FEPESE / SJC – 2016) De acordo com a Constituição Federal, não haverá penas:\n1. cruéis\n2. restritivas de direito\n3. de caráter perpétuo\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "É correta apenas a afirmativa 3.",
+      "São corretas apenas as afirmativas 1 e 2.",
+      "São corretas apenas as afirmativas 1 e 3.",
+      "São corretas apenas as afirmativas 2 e 3.",
+      "São corretas as afirmativas 1, 2 e 3."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, **XLVII**, veda as penas: de morte (salvo guerra declarada), de caráter **perpétuo** (**3**), de trabalhos forçados, de banimento e **cruéis** (**1**). A pena restritiva de direitos (**2**) é permitida (Art. 5º, XLVI, 'c')."
+  },
+  {
+    "question": "Questão 12. (FEPESE / SJC – 2016) De acordo com a Constituição Federal, o tribunal do júri é competente para julgar os crimes:",
+    "options": [
+      "dolosos ou culposos contra a administração da justiça.",
+      "dolosos contra a saúde pública.",
+      "dolosos contra a economia pública.",
+      "dolosos contra a vida.",
+      "dolosos praticados com violência contra a pessoa."
+    ],
+    "correct": 3,
+    "explanation": "O Tribunal do Júri tem competência para o julgamento dos **crimes dolosos contra a vida** (Art. 5º, **XXXVIII, 'd'**)."
+  },
+  {
+    "question": "Questão 13. (FEPESE / SJC – 2016) Assinale a alternativa que indica corretamente o crime que, de acordo com a Constituição Federal, é considerado imprescritível e inafiançável.",
+    "options": [
+      "crime contra a ordem tributária",
+      "crime de tráfico de drogas",
+      "crime de racismo",
+      "crime de estupro",
+      "crime de extorsão mediante sequestro"
+    ],
+    "correct": 2,
+    "explanation": "A CF/88 prevê apenas dois crimes (ou grupos de crimes) inafiançáveis **e** imprescritíveis (Art. 5º):\n1. **Racismo** (Art. 5º, **XLII**);\n2. Ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (Art. 5º, **XLIV**)."
+  },
+  {
+    "question": "Questão 14. (FEPESE / SJC – 2016) Assinale a alternativa correta sobre os direitos e as garantias fundamentais.",
+    "options": [
+      "É vedada a prisão civil por dívida.",
+      "Nos juízos ou tribunais de exceção é garantido o direito à plenitude de defesa.",
+      "A nova lei penal, mesmo que prejudicial ao réu, deverá ser aplicada de forma retroativa.",
+      "Ninguém será privado da liberdade ou de seus bens sem o devido processo legal.",
+      "Aos presos provisórios serão asseguradas as condições necessárias para que possam permanecer com seus filhos durante o período de amamentação."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA, conforme o Art. 5º, **LIV** (Devido Processo Legal)."
+  },
+  {
+    "question": "Questão 15. (FUNDATEC / Prefeitura de Liberato Salzano – 2016) Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes, EXCETO:",
+    "options": [
+      "Ninguém será submetido a tortura nem a tratamento desumano ou degradante.",
+      "É assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.",
+      "É livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença, exceto a atividade musical, como composições musicais de teor pejorativo.",
+      "É livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens.",
+      "É assegurado aos presos o respeito à integridade física e moral."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. O Art. 5º, **IX**, garante a livre expressão da atividade intelectual, artística, científica e de comunicação, **independentemente de censura ou licença**. A parte final do enunciado da alternativa insere uma restrição não prevista na CF/88."
+  },
+  {
+    "question": "Questão 16. (FEPESE / Prefeitura de Balneário Camboriú – 2015) Assinale a alternativa correta em relação aos direitos e às garantias fundamentais previstos na Constituição Federal de 1988.",
+    "options": [
+      "A prática de crime de racismo sujeitará o autor a pena de caráter perpétuo.",
+      "O devido processo legal é de aplicação exclusiva ao processo judicial.",
+      "o mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional.",
+      "As provas obtidas por meio ilícito são admissíveis, quando não houver outro meio para obtê-las.",
+      "O conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público, ocorrerá por meio de “habeas-corpus\". "
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está CORRETA, conforme o Art. 5º, **LXX, 'c'**, da CF/88."
+  },
+  {
+    "question": "Questão 17. (FUMARC / PC-MG – 2013) Considerando o art. 5º da Constituição Federal de 1988, NÃO é correto o que se afirma em:",
+    "options": [
+      "A instituição do júri é reconhecida, com a organização que lhe der a lei",
+      "Não haverá pena de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX.",
+      "Nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado a **qualquer tempo**, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem o consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. O Art. 5º, **LI**, prevê a extradição do naturalizado em caso de crime comum praticado **antes da naturalização**, ou de comprovado envolvimento em tráfico ilícito de drogas **a qualquer tempo**."
+  },
+  {
+    "question": "Questão 18. (FUMARC / PC-MG – 2013) O art. 5º, caput, da Constituição Federal de 1988, garante a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. Na esfera dos direitos e deveres individuais e coletivos, NÃO se pode afirmar:",
+    "options": [
+      "É livre a manifestação do pensamento, permitido o anonimato, nos termos da lei.",
+      "A prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei.",
+      "É livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens.",
+      "Constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado democrático."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está INCORRETA. O Art. 5º, **IV**, dispõe que é livre a manifestação do pensamento, **sendo vedado o anonimato**."
+  },
+  {
+    "question": "Questão 19. (FUNCAB / SEDS-TO – 2014) Sobre direitos e garantias fundamentais, assinale a alternativa correta.",
+    "options": [
+      "Mandado de segurança pode substituir ação de cobrança.",
+      "A lei poderá, em caso de dolo, admitir a pena de trabalhos forçados para os crimes hediondos.",
+      "Não haverá juízo ou tribunal de exceção, salvo em tempo de guerra.",
+      "A lei penal não pode retroagir, salvo para beneficiar o réu."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA. É o princípio da retroatividade da lei penal mais benéfica (Art. 5º, **XL**)."
+  },
+  {
+    "question": "Questão 20. (FUNCAB / SEDS-TO – 2014) Segundo a Constituição Federal vigente, a pena deve ser cumprida em estabelecimentos distintos, de acordo com a:",
+    "options": [
+      "origem social do apenado, idade e o grau de periculosidade.",
+      "religião, natureza do delito e o grau de instrução do apenado.",
+      "natureza do delito, a idade e o sexo do apenado.",
+      "religião, o sexo e a origem social do apenado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, **XLVIII**, estabelece que a pena será cumprida em estabelecimentos distintos, de acordo com a **natureza do delito, a idade e o sexo do apenado**."
+  },
+  {
+    "question": "Questão 21. (FUNCAB / SEDS-TO – 2014) Na aplicação das penas, de acordo com a Constituição Federal brasileira, o trabalho forçado:",
+    "options": [
+      "é permitido nas colônias agrícolas.",
+      "só se aplica ao sexo masculino.",
+      "pode ser aplicado, dependendo da natureza do delito cometido.",
+      "é vedado categoricamente."
+    ],
+    "correct": 3,
+    "explanation": "A pena de **trabalhos forçados** é expressamente **vedada** no Brasil (Art. 5º, **XLVII, 'c'**)."
+  },
+  {
+    "question": "Questão 22. (FUNCAB / IPEM-RO – 2013) Assinale a alternativa que NÃO corresponde a um direito ou garantia fundamental na Constituição Federal:",
+    "options": [
+      "retroatividade da lei.",
+      "devido processo legal.",
+      "inviolabilidade da vida privada.",
+      "a propriedade.",
+      "a defesa do consumidor."
+    ],
+    "correct": 0,
+    "explanation": "Embora a CF trate da retroatividade da lei penal benéfica (Art. 5º, XL), o princípio da irretroatividade da lei (Art. 5º, XXXVI) é o que é listado como garantia. A mera expressão 'retroatividade da lei' não é um direito ou garantia fundamental autônomo. Os demais itens são expressamente previstos como direitos/garantias no Art. 5º."
+  },
+  {
+    "question": "Questão 23. (FUNCAB / IF-RR – 2013) O princípio da Segurança Jurídica, consagrado na Constituição Federal de 1988, preceitua que a lei não prejudicará:",
+    "options": [
+      "a coisa julgada, o direito adquirido e a pena aplicada.",
+      "o direito adquirido, o ato jurídico perfeito e a coisa julgada.",
+      "o ato jurídico perfeito, a pena aplicada e o mandado de segurança.",
+      "o direito adquirido, o ato jurídico perfeito e a composição do júri popular.",
+      "a coisa julgada, a composição do júri popular e o mandado de segurança."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA. O Art. 5º, **XXXVI**, determina que 'a lei não prejudicará o **direito adquirido**, o **ato jurídico perfeito** e a **coisa julgada**'."
+  },
+  {
+    "question": "Questão 24. (FUNCAB / ANS – 2013) Acerca dos direitos individuais e coletivos, é correto afirmar que:",
+    "options": [
+      "o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder é assegurado a todos, independentemente do pagamento de taxas.",
+      "a lei poderá excluir da apreciação do Poder Judiciário lesão ou ameaça a direito.",
+      "aos litigantes em processo administrativo não é assegurado o contraditório, apenas a ampla defesa.",
+      "as normas definidoras dos direitos e garantias individuais, enunciadas na Constituição Federal, não tem como um dos destinatários do seu âmbito de proteção as pessoas jurídicas.",
+      "todos têm o direito a receber dos órgãos públicos somente informações de seu interesse particular, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, conforme o Art. 5º, **XXXIV, 'a'** (Direito de Petição)."
+  },
+  {
+    "question": "Questão 25. (FUNCAB / PC-RJ – 2012) Acerca dos direitos individuais e coletivos, é correto afirmar o seguinte:",
+    "options": [
+      "A propriedade particular não poderá ser usada por autoridade competente, mesmo no caso de iminente perigo público.",
+      "A prática do racismo constitui crime inafiançável, imprescritível, sujeito à pena de detenção, nos termos da lei.",
+      "O brasileiro naturalizado não poderá ser extraditado pela prática de crime comum antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei.",
+      "O sigilo da fonte será resguardado, quando necessário ao exercício profissional e assegurado a todos o acesso à informação.",
+      "O sigilo das informações imprescindíveis à segurança da sociedade e do Estado não excepciona o direito do indivíduo de receber dos órgãos públicos informações de interesse particular, ou de interesse coletivo ou geral, devendo ser prestadas no prazo da lei, sob pena de responsabilidade."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA, conforme o Art. 5º, **XIV**, da CF/88 (Acesso à Informação e Sigilo da Fonte)."
+  },
+  {
+    "question": "Questão 26. (FUNCAB / Pref. Várzea Grande – 2012) Nos termos da Constituição Federal, a apreciação, pelo Poder Judiciário, de lesão ou ameaça a direito:",
+    "options": [
+      "poderá ser excluída por lei, por decreto, ou a critério da autoridade policial.",
+      "poderá ser excluída apenas por previsão legal expressa.",
+      "não poderá ser excluída por lei.",
+      "poderá ser excluída por lei, salvo em se tratando de direito penal.",
+      "poderá ser excluída por lei ou por Decreto Administrativo devidamente fundamentado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, **XXXV**, consagra o princípio da **inafastabilidade da jurisdição**, determinando que 'a lei **não excluirá** da apreciação do Poder Judiciário lesão ou ameaça a direito'."
+  },
+  {
+    "question": "Questão 27. (FUNCAB / Pref. Várzea Grande – 2012) Nos termos da Constituição Federal, é correto afirmar:",
+    "options": [
+      "Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.",
+      "A todos é assegurado, mediante o pagamento da respectiva taxa, o direito de petição aos Poderes Públicos, em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "Somente a lei poderá excluir do Poder Judiciário a apreciação de lesão ou ameaça a direito.",
+      "É reconhecida a instituição do júri, com a competência para o julgamento dos crimes culposos ou dolosos contra a vida.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem o consentimento do morador, salvo se determinado pela autoridade policial."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, reproduzindo o princípio da **legalidade penal** (Art. 5º, **XXXIX**)."
+  },
+  {
+    "question": "Questão 28. (FUNCAB / Procurador DER-RO – 2012) Sobre os Direitos e Garantias Fundamentais, assinale a alternativa correta.",
+    "options": [
+      "O princípio da inviolabilidade domiciliar abrange não só o domicílio, mas também os escritórios, a oficina, a garagem e até mesmo os quartos de hotéis, desde que ocupados.",
+      "As discriminações, mesmo as positivas, são expressamente vedadas pela Constituição Federal de 1988.",
+      "O direito de petição, com previsão constitucional, não configura necessariamente o direito a receber qualquer pronunciamento do Poder Público.",
+      "O direito de reunião pode ser exercido em locais abertos, sem armas e de forma pacífica, independentemente de prévio aviso às autoridades competentes, desde que não frustre outra reunião anteriormente convocada.",
+      "O direito de propriedade é intangível e absoluto, ressalvadas apenas as situações de necessidade pública em que será possível a desapropriação com indenização prévia, justa e em dinheiro."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA. O conceito de 'casa' para fins de inviolabilidade (Art. 5º, **XI**) é amplo, abrangendo qualquer compartimento habitado, como escritórios, consultórios e quartos de hotel ocupados (domicílio profissional ou temporário) – entendimento consolidado na doutrina e jurisprudência."
+  },
+  {
+    "question": "Questão 29. (FUNCAB / Pref. Porto Velho – 2009) Sobre os Direitos e Garantias Fundamentais previstos na Constituição da República, assinale a alternativa correta.",
+    "options": [
+      "A casa é asilo inviolável do indivíduo, salvo, durante o dia e à noite, nos casos de flagrante delito, de desastre e de ordem judicial fundamentada.",
+      "É possível a quebra do sigilo de correspondência e das comunicações telefônicas por ordem judicial, para fins de investigação criminal e instrução processual penal.",
+      "O princípio da retroatividade benéfica da lei penal é garantia fundamental prevista na Constituição da República.",
+      "O princípio da função social da propriedade, apesar de previsto pelo Código Civil, não é assegurado como garantia fundamental pela Constituição da República.",
+      "A lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade publica, mediante justa e prévia indenização em dinheiro ou em títulos da dívida pública."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está CORRETA, conforme o Art. 5º, **XL** ('A lei penal não retroagirá, salvo para beneficiar o réu')."
+  },
+  {
+    "question": "Questão 30. (FUNCAB / ANS – 2013) Em relação aos direitos e garantias fundamentais e aos direitos sociais previstos na Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "O direito à propriedade é garantido constitucionalmente, devendo, no entanto, atender à sua função social.",
+      "O direito à saúde não possui aplicação imediata, sendo necessária a aprovação de lei complementar para que tenha eficácia.",
+      "É direito da gestante a obtenção de licença, não inferior a sessenta dias, sem prejuízo do emprego e do salário.",
+      "Os direitos e garantias fundamentais estendem-se a cidadãos estrangeiros, independente de onde residam.",
+      "É assegurado pela Constituição o acesso à informação por meio da rede mundial de computadores (internet)."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA. O Art. 5º, **XXII** e **XXIII**, garante a propriedade, mas a condiciona à **função social**."
+  },
+  {
+    "question": "Questão 31. (FUNCAB / SESACRE – 2013) De acordo com a Constituição Federal de 1988, NÃO haverá pena de:",
+    "options": [
+      "multa.",
+      "banimento.",
+      "perda de bens.",
+      "prestação social alternativa.",
+      "privação ou restrição da liberdade."
+    ],
+    "correct": 1,
+    "explanation": "A pena de **banimento** é expressamente **vedada** (Art. 5º, **XLVII, 'd'**)."
+  },
+  {
+    "question": "Questão 32. (FUNCAB / SEMAD – 2013) No que concerne aos direitos e garantias fundamentais tratados pela CRFB/1988, é correto afirmar:",
+    "options": [
+      "Os direitos são vantagens conferidas às pessoas e que limitam o Estado na sua atuação, já as garantias fundamentais são instrumentos, mecanismos que asseguram ou mesmo sanam os direitos em questão, quando não estiverem sendo respeitados.",
+      "Os direitos compreendem um conjunto de normas processuais que viabilizam a aplicação das garantias fundamentais.",
+      "O Habeas Corpus é uma espécie do gênero Direitos Fundamentais.",
+      "Os Direitos são normas de natureza processual que visam promover a aplicabilidade ou a efetividade das normas de direito material de que tratam as garantias fundamentais."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, refletindo a distinção doutrinária majoritária entre **direitos** (normas declaratórias, bens jurídicos tutelados) e **garantias** (normas assecuratórias, instrumentos de proteção)."
+  },
+  {
+    "question": "Questão 33. (FUNCAB / SC-CE – 2013) Nos termos da Constituição Federal, assegura-se a todos, independentemente do pagamento de taxas:",
+    "options": [
+      "a obtenção de certidões emitidas pelos órgãos públicos e de interesse individual ou coletivo, seja qual for a finalidade a que se prestem.",
+      "o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilegalidade ou abuso de poder.",
+      "o direito de ação, manifestado pelo Mandado de Segurança, contra ato ilegal praticado por autoridade pública.",
+      "a obtenção de certidões de nascimento e de óbito.",
+      "o direito de petição, manifestado pela Ação Civil Pública, para defesa de direitos coletivos."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o Art. 5º, **XXXIV, 'a'** (Direito de Petição)."
+  },
+  {
+    "question": "Questão 34. (FUNCAB / SC-CE – 2013) A norma da presunção de inocência, prevista pela Constituição Federal, dispõe que ninguém será considerado culpado até:",
+    "options": [
+      "o regular indiciamento pela autoridade policial competente.",
+      "a apresentação da denúncia pelo Ministério Público.",
+      "o recebimento da denúncia do Ministério Público pelo juiz competente.",
+      "a publicação do acórdão de condenação por tribunal de segunda instância.",
+      "o trânsito em julgado da sentença penal condenatória."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, conforme o Art. 5º, **LVII**, da CF/88 (Presunção de Inocência)."
+  },
+  {
+    "question": "Questão 35. (FUNCAB / Pref. Vassouras – 2013) Sobre o direito de petição aos Poderes Públicos e de obtenção de certidões em repartições públicas, assinale a alternativa que se encontra de acordo com a Constituição Federal.",
+    "options": [
+      "Não podem ser tidos, salvo por expressa previsão legal, como fato gerador de taxas.",
+      "O direito de petição aos Poderes Públicos é assegurado contra ilegalidade ou abuso de poder, mas, para a defesa de outros direitos, deve o administrado recorrer diretamente ao Poder Judiciário.",
+      "A obtenção de certidões em repartições públicas para esclarecimento de situações de interesse pessoal está sujeita ao pagamento de taxas, ao contrário do que ocorre se o objetivo for a defesa de direitos.",
+      "O direito de petição aos Poderes Públicos é assegurado independentemente do pagamento de taxas, ao passo que a obtenção de certidões pode ser taxada com amparo em expressa previsão legal.",
+      "A obtenção de certidões em repartições públicas, tanto para defesa de direitos, quanto para o esclarecimento de situações de interesse pessoal, é garantida independentemente do pagamento de taxas."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, conforme o Art. 5º, **XXXIV, 'a' e 'b'**: o direito de petição e a obtenção de certidões para a defesa de direitos ou esclarecimento de situações de interesse pessoal são **independentes de pagamento de taxas**."
+  },
+  {
+    "question": "Questão 36. (FUNCAB / ANS – 2013) Assinale a alternativa correta sobre os direitos e garantias fundamentais, tal como previstos pela Constituição Federal.",
+    "options": [
+      "O rol constitucional de direitos e garantias fundamentais é taxativo.",
+      "As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+      "Os tratados e convenções internacionais sobre direitos humanos possuem hierarquia jurídica equivalente à das emendas constitucionais, mesmo que não votados pelo Congresso Nacional.",
+      "As normas definidoras de direitos fundamentais são meramente programáticas.",
+      "A eficácia das normas definidoras de direitos fundamentais depende de regulamentação legal."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA. O Art. 5º, **§ 1º**, da CF/88 estabelece que 'As normas definidoras dos direitos e garantias fundamentais têm **aplicação imediata**'."
+  },
+  {
+    "question": "Questão 37. (FUNCAB / PC-RJ – 2012) Tomando por base as decisões recentes do Supremo Tribunal Federal, é INCORRETO afirmar:",
+    "options": [
+      "Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.",
+      "É ilícita a prisão civil do depositário infiel, qualquer que seja a modalidade de depósito.",
+      "É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.",
+      "Não cabe habeas corpus quando já extinta a pena privativa de liberdade.",
+      "A prisão do depositário judicial pode ser decretada no próprio processo em que se constitui o encargo, independentemente da propositura de ação de depósito."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está INCORRETA, pois contraria a jurisprudência do STF. A prisão civil do depositário judicial exige o ajuizamento de uma **ação de depósito** (Art. 901 do CPC/73, aplicado analogicamente), não podendo ser decretada no bojo do próprio processo de execução ou inventário."
+  },
+  {
+    "question": "Questão 38. (FUNCAB / PC-RJ – 2012) O art. 5º, LVI da Constituição Federal de 1988 trata da vedação da prova ilícita. Tomando por base as decisões do Supremo Tribunal Federal, é INCORRETO afirmar:",
+    "options": [
+      "É lícita a prova obtida por meio de gravação de conversa própria, feita por um dos interlocutores, se quem está gravando está sendo vítima de proposta criminosa do outro.",
+      "Exige-se a comprovação da legitimidade das interceptações telefônicas, com a fiel observância de todos os requisitos legais, não entendendo, porém, que exista ofensa ao direito ao silêncio e ao direito a não autoincriminação nas gravações obtidas mediante os requisitos constitucionais e legais para a realização de interceptação telefônica.",
+      "É incabível a utilização de prova emprestada obtida mediante interceptação telefônica, judicialmente autorizada, para fins de subsidiar apurações de cunho disciplinar.",
+      "A prova ilícita originária contamina todas as demais provas obtidas a partir dela; é a denominada teoria dos frutos da árvore envenenada.",
+      "A confissão sob prisão ilegal é prova ilícita e, portanto, invalida a condenação nela fundada."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. A jurisprudência do STF (e do STJ) admite o **empréstimo da prova lícita** (como a interceptação telefônica autorizada judicialmente) para outros processos, inclusive disciplinares, desde que observados o contraditório e a ampla defesa."
+  },
+  {
+    "question": "Questão 39. (FUNCAB / MPE-RO – 2012) A respeito dos direitos e garantias fundamentais previstos na Constituição Federal, assinale a alternativa correta.",
+    "options": [
+      "Devem ser interpretados restritivamente.",
+      "Possuem aplicação mediata, isto é, dependem de regulamentação legal.",
+      "Somente podem ser revogados por Lei Complementar.",
+      "Somente podem ser revogados por Emenda Constitucional.",
+      "Não excluem direitos decorrentes dos tratados internacionais em que o Brasil seja parte."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA. O Art. 5º, **§ 2º**, estabelece o princípio da **não exclusividade** (ou abertura material): 'Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte'."
+  },
+  {
+    "question": "Questão 40. (FUNCAB / Pref. Porto Velho – 2009) Acerca da tutela constitucional das liberdades é correto afirmar:",
+    "options": [
+      "A retificação de informações constantes de registros ou banco de dados de instituições privadas somente pode ser realizada através da ação de habeas data.",
+      "O mandado de segurança coletivo pode ser impetrado por associação constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus associados.",
+      "Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, ainda que necessária ampla dilação probatória.",
+      "A ação de habeas data pode ser gratuita, desde que demonstrada a hipossuficiência econômica da parte interessada.",
+      "A ação popular somente pode ser proposta por cidadão que demonstre interesse fático e jurídico na anulação de ato lesivo ao patrimônio público e ao meio ambiente."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o Art. 5º, **LXX, 'b'** (Mandado de Segurança Coletivo)."
+  }
+],
+
+
+
+"Direitosfundamentais_5":[
+{
+    "question": "Questão 36. (FUNDATEC/ AL-RS – 2018) Considerando o regime jurídico dos direitos e garantias individuais previstos na Constituição Federal, analise as seguintes assertivas:\nI. O sigilo das comunicações telefônicas é violável por ordem judicial, nas hipóteses e na forma que a lei estabelecer, para fins de investigação criminal ou instrução processual penal.\nII. A casa do indivíduo é violável, durante o dia, em caso de flagrante delito, desastre, ou para prestar socorro, ainda que sem o consentimento do morador.\nIII. A intimidade, a vida privada, a honra e a imagem das pessoas são invioláveis, assegurado o direito à indenização pelo dano material ou moral decorrente de sua violação.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct": 2,
+    "explanation": "Estão corretas: **I** (Art. 5º, XII) e **III** (Art. 5º, X). A assertiva **II** está incorreta pois os casos de flagrante delito, desastre e socorro permitem o ingresso a **qualquer hora** do dia ou da noite. A restrição 'durante o dia' aplica-se apenas à determinação judicial (Art. 5º, XI)."
+  },
+  {
+    "question": "Questão 37. (FEPESE/ PGE-SC – 2018) Diz o inciso XIII do artigo 5° da Constituição da República, que “é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer”. Considerando a classificação das normas constitucionais, o dispositivo é norma de:",
+    "options": [
+      "eficácia plena e aplicabilidade imediata.",
+      "eficácia contida e aplicabilidade imediata.",
+      "eficácia contida e aplicabilidade mediata.",
+      "eficácia limitada do tipo princípio institutivo.",
+      "eficácia limitada do tipo programático."
+    ],
+    "correct": 1,
+    "explanation": "A norma tem **eficácia contida** porque, embora tenha aplicabilidade **imediata**, seu alcance pode ser restringido por lei (que estabelecerá as qualificações profissionais), conforme a parte final do inciso (Art. 5º, XIII)."
+  },
+  {
+    "question": "Questão 38. (FEPESE / PC-SC – Escrivão - 2017) Sobre os direitos e deveres individuais e coletivos previstos na Constituição Federal de 1988, assinale a alternativa correta.",
+    "options": [
+      "É plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "É livre a manifestação do pensamento, sendo permitido o anonimato.",
+      "É livre a expressão da atividade intelectual, artística, científica e de comunicação, mediante autorização ou licença.",
+      "É livre o exercício de qualquer trabalho, ofício ou profissão, sendo vedada a exigência de qualificações profissionais.",
+      "É assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, reproduzindo o art. 5º, XIV, da CF/88."
+  },
+  {
+    "question": "Questão 39. (FUNCAB/ Prefeitura de Ariquemes/RO – 2016) A Constituição da República Federativa do Brasil de 1988, em seu artigo 5º, inciso VII garante a assistência religiosa. Sobre o tema, é correto afirmar que:",
+    "options": [
+      "é assegurada a prestação de assistência religiosa nas entidades civis, mas não nas militares de internação coletiva.",
+      "os presos são obrigados a aceitar a assistência religiosa, pois trata-se de direito objetivo imposto a eles.",
+      "a assistência religiosa conflita com o fato de o Estado Brasileiro ser leigo.",
+      "o fato de o Estado Brasileiro não adotar religião oficial não o faz ateu.",
+      "a prestação de assistência religiosa nas entidades civis permite que o Estado ajude financeiramente a um grupo religioso específico."
+    ],
+    "correct": 3,
+    "explanation": "O Brasil é um Estado **laico**, o que significa que não adota religião oficial, mas também não é ateu. Garante a **liberdade de crença** (Art. 5º, VI) e a **assistência religiosa** em entidades de internação (Art. 5º, VII)."
+  },
+  {
+    "question": "Questão 40. (FUMARC/ Prefeitura de Matozinhos-MG – 2016) A manifestação política em formato de passeata a ser realizada nas ruas da cidade exige autorização do Poder Público?",
+    "options": [
+      "A autorização prévia deve ser exigida porque é pressuposto para que o Poder Público garanta que uma reunião não frustrará outra convocada anteriormente para o mesmo local.",
+      "Não, pois a disciplina constitucional da liberdade de reunião estabelece que seu exercício independe de autorização.",
+      "Sim, desde que haja lei municipal impondo tal exigência, posto que o direito em questão está previsto em norma constitucional de eficácia limitada.",
+      "Sim, pois a disciplina constitucional da liberdade de reunião exige prévio aviso à autoridade competente."
+    ],
+    "correct": 1,
+    "explanation": "O direito de reunião (Art. 5º, XVI) exige apenas **prévio aviso** à autoridade competente, e **independe de autorização**."
+  },
+  {
+    "question": "Questão 41. (FADESP/ Pref. Ulianópolis-PA – 2016) Uma das garantias que nossa Constituição Federal prevê para a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, é a de que",
+    "options": [
+      "não haverá direito de resposta proporcional ao agravo, mas sim indenização por dano material, moral ou à imagem.",
+      "é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.",
+      "dependendo da crença religiosa ou da convicção ideológica, filosófica ou política, o cidadão poderá ou não, sofrer sanções por recusar-se a cumprir determinação governamental.",
+      "a expressão da atividade intelectual, artística, científica e de comunicação, poderá vir a sofrer censura ou cassação de licença se promover crítica negativa à imagem de autoridade constituída."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o art. 5º, VII, da CF/88 (Assistência Religiosa)."
+  },
+  {
+    "question": "Questão 42. (FUNCAB/ PC-PA – 2016) Sobre os direitos e deveres individuais e coletivos assegurados pela Constituição Federal, é correto afirmar que:",
+    "options": [
+      "todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que com autorização e não frustrem outra reunião anteriormente convocada para o mesmo local.",
+      "é plena a liberdade de associação para fins lícitos, inclusive a de caráter paramilitar.",
+      "ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, mesmo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+      "é livre a manifestação do pensamento, ainda que sob anonimato.",
+      "é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, reproduzindo o art. 5º, VI, da CF/88 (Liberdade de Crença)."
+  },
+  {
+    "question": "Questão 43. (FUNCAB/ PC-PA – 2016) Sobre o assunto (Direitos e Garantias Fundamentais), assinale a alternativa correta.",
+    "options": [
+      "A realização de manifestações públicas como a denominada “Marcha da Maconha” não encontra amparo no exercício do direito fundamental de reunião e da livre manifestação do pensamento, uma vez que consiste em afronta ao ordenamento jurídico na esfera penal como verdadeira apologia à prática de crime.",
+      "A proteção constitucional à inviolabilidade domiciliar há que ser entendida restritivamente aos conceitos de residência e domicílio, não devendo, portanto, ser estendido a locais não abertos ao público no qual a pessoa exerça sua profissão ou atividade.",
+      "A gravação clandestina, como aquela em que captação e gravação de áudio e vídeo de conversa pessoal, ambiental ou telefônica se dão no mesmo momento em que a conversa se realiza, feita por um dos interlocutores, sem conhecimento dos outros ou por terceira pessoa, sem conhecimento dos demais, afronta o preceito constitucional da inviolabilidade do sigilo das comunicações telefônicas.",
+      "Encontra-se em clara e ostensiva contradição com o fundamento constitucional da dignidade da pessoa humana, com o direito à honra, intimidade e vida privada utilizar-se em desobediência expressa à autorização judicial ou aos limites de sua atuação, de bens e documentos pessoais apreendidos ilicitamente acarretando injustificado dano à dignidade da pessoa humana, autorizando a ocorrência de indenização por danos materiais e morais, além do respectivo direito à resposta e responsabilização penal.",
+      "A inviolabilidade do sigilo das correspondências, das comunicações telegráficas e de dados são absolutas, uma vez que a previsão constitucional apenas ressalva a possibilidade de interceptação das comunicações telefônicas, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA. A utilização de provas obtidas de forma ilícita, em desobediência a limites judiciais e em violação à honra/intimidade, é contrária aos direitos e garantias fundamentais (Art. 5º, X e LVI) e gera o dever de indenizar."
+  },
+  {
+    "question": "Questão 44. (FUNRIO / IF-PA – 2016) De acordo com o artigo 5º da Constituição da República Federativa do Brasil de 1988, não haverá penas:\nI - de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;\nII - de caráter perpétuo;\nIII - de trabalhos forçados;\nIV - privação ou restrição da liberdade;\nV - de banimento;\nVI - cruéis.\nMarque a alternativa correta",
+    "options": [
+      "I, III, IV, V e VI.",
+      "I, II, III, V e VI.",
+      "II, III, IV, V e VI.",
+      "I, II, III, IV e VI.",
+      "I, II, III, IV e V."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 5º, XLVII, proíbe as penas: de morte (exceto guerra declarada), de caráter **perpétuo**, de **trabalhos forçados**, de **banimento** e **cruéis** (I, II, III, V e VI). A pena de 'privação ou restrição da liberdade' (IV) **é permitida** no Brasil."
+  },
+  {
+    "question": "Questão 45. (FUMARC/ Prefeitura de Belo Horizonte – 2015) O Artigo 5º da Constituição da República de 1988 garante que",
+    "options": [
+      "é livre a expressão da atividade intelectual, artística, científica e de comunicação, desde que observada a censura instituída pela União, pelos Estados e pelos Municípios.",
+      "homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição.",
+      "os Estados e Municípios podem proibir cultos religiosos.",
+      "qualquer autoridade estatal, desde que assim o queira, pode adentrar na casa do indivíduo independentemente de seu consentimento."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o art. 5º, I, da CF/88 (Princípio da Isonomia)."
+  },
+  {
+    "question": "Questão 46. (FUNIVERSA/ PC-DF – 2015) Com relação aos direitos e às garantias fundamentais, assinale a alternativa correta segundo interpretação dada pelo STF.",
+    "options": [
+      "Admite-se a apreensão, pela polícia federal e pela receita federal, de livros contábeis e documentos fiscais de clientes localizados em escritório de advocacia, pois escritório não se equipara a domicílio.",
+      "A regra constitucional que preceitua ser livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer, é norma de eficácia contida que somente será aplicada quando houver regulamentação.",
+      "É ilegal, por violação ao domicílio, a prova obtida por meio de escuta ambiental e exploração de local, em escritório de advocacia, realizada no período noturno, mesmo com ordem judicial.",
+      "Suponha-se que um policial, imediatamente após a prisão em flagrante, tenha verificado, no celular do preso, os registros das últimas ligações. Nesse caso, essa prova é lícita, pois a interceptação telefônica não se confunde com os registros telefônicos.",
+      "A casa é o asilo inviolável do indivíduo, nela ninguém podendo penetrar, salvo em casos de desastre, para prestar socorro, ou, durante o dia, por determinação judicial."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está CORRETA (seguindo a interpretação do **STF** no RE 603.616, com repercussão geral). O acesso a dados (como registros de chamadas ou agenda) no celular do preso, apreendido no flagrante, é considerado lícito, pois não se confunde com a quebra do sigilo da **comunicação telefônica** (escuta da conversa) em tempo real, que exige ordem judicial (Art. 5º, XII)."
+  },
+  {
+    "question": "Questão 47. (FUMARC/ PC-MG – 2014) A casa é asilo inviolável do indivíduo, podendo-se nela entrar, sem permissão do morador, EXCETO:",
+    "options": [
+      "em caso de desastre.",
+      "em caso de flagrante delito.",
+      "para prestar socorro.",
+      "por determinação judicial, a qualquer hora."
+    ],
+    "correct": 3,
+    "explanation": "As exceções (Art. 5º, XI) que permitem a entrada sem consentimento são: flagrante delito, desastre e socorro (a qualquer hora), ou por determinação judicial, **durante o dia**. Portanto, o ingresso por determinação judicial **a qualquer hora** (dia ou noite) é a única situação que **NÃO** está prevista na exceção constitucional e que, em regra, a inviolabilidade **não permite**."
+  },
+  {
+    "question": "Questão 48. (FUMARC/ PC-MG - 2013) A Constituição Federal de 1988 institui o princípio da aplicabilidade imediata das normas que traduzem direitos e garantias fundamentais. Tal princípio intenta, EXCETO:",
+    "options": [
+      "assegurar a força dirigente e vinculante dos direitos e garantias de cunho fundamental.",
+      "ressaltar apenas que os direitos e garantias se aplicam independentemente da intervenção legislativa.",
+      "tornar os referidos direitos e garantias prerrogativas diretamente aplicáveis pelos poderes Legislativo, Executivo e Judiciário.",
+      "sublinhar que os direitos e garantias valem diretamente contra a lei, quando esta estabelece restrições em desconformidade com a Constituição."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 5º, § 1º, estabelece a aplicabilidade imediata. A alternativa B está incorreta pela palavra '**apenas**', pois o princípio intenta a máxima eficácia e aplicabilidade dos direitos, e não só ressaltar a independência legislativa (já que existem normas de eficácia limitada, que dependem de lei para sua eficácia plena)."
+  },
+  {
+    "question": "Questão 49. (FUMARC / TJM-MG – 2013) No que diz respeito ao Direito de Propriedade, constitucionalmente tutelado, é possível afirmar corretamente:",
+    "options": [
+      "A Constituição Federal prevê hipótese de expropriação sem qualquer indenização ao proprietário de glebas.",
+      "Aos autores pertence o privilégio temporário para utilização de sua obra, transmissível aos herdeiros, pelo tempo que lei complementar fixar.",
+      "A desapropriação poderá ocorrer por necessidade ou utilidade pública, ou por interesse social, tendo como requisitos constitucionais indenizatórios inafastáveis a justeza, a anterioridade e o pagamento em dinheiro.",
+      "A lei assegurará aos autores de inventos industriais o direito exclusivo de sua utilização, publicação ou reprodução, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas, imagem, moral e voz humanas e a outros signos distintivos, tendo em vista a função social e o desenvolvimento tecnológico e econômico do País."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA. O Art. 243 da CF/88 prevê a **expropriação confiscatória** (sem indenização) de glebas utilizadas para o cultivo de plantas psicotrópicas ou exploração de trabalho escravo."
+  },
+  {
+    "question": "Questão 50. (FUMARC / Advogado BDMG – 2011) Marque a alternativa INCORRETA:",
+    "options": [
+      "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+      "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.",
+      "Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros perpetuamente.",
+      "A pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. Os direitos autorais são transmissíveis aos herdeiros, mas por **tempo limitado** (o prazo que a lei fixar, Art. 5º, XXVII), e não 'perpetuamente'."
+  },
+  {
+    "question": "Questão 51. (FUNCAB / MPE-RO – 2012) Sobre o direito à vida, previsto pela Constituição Federal, é correto afirmar:",
+    "options": [
+      "O direito à vida não comporta exceções.",
+      "É vedada qualquer hipótese de aborto.",
+      "O direito à vida impede a pesquisa com células-tronco embrionárias.",
+      "Admite-se a eutanásia no Brasil.",
+      "Permite-se, excepcionalmente, a instituição de pena de morte no Brasil."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA. Não haverá pena de morte, **salvo em caso de guerra declarada**, nos termos do Art. 5º, XLVII, 'a'."
+  },
+  {
+    "question": "Questão 52. (FUNCAB / MPE – RO – 2012) A Constituição Federal de 1988 enumera uma série de direitos e garantias fundamentais, como também assevera a existência de inúmeros princípios. Em seu Artigo 5°, inciso II, quando afirma “ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei”, a Constituição Federal está discorrendo sobre o Princípio da:",
+    "options": [
+      "Impessoalidade.",
+      "Inafastabilidade da jurisdição.",
+      "Legalidade",
+      "Anterioridade.",
+      "Devido processo legal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, II, da CF/88, trata do **Princípio da Legalidade**."
+  },
+  {
+    "question": "Questão 53. (FEPESE / ISS-Florianópolis – 2014) Em atenção aos direitos e às garantias fundamentais, assinale a alternativa correta de acordo com a Constituição da República.",
+    "options": [
+      "O sigilo das comunicações telefônicas é absolutamente inviolável.",
+      "A criação de associações e de cooperativas depende de autorização por lei específica.",
+      "É vedada a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.",
+      "A sucessão de bens de estrangeiros situados no País será sempre regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros.",
+      "É inviolável a liberdade de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e suas liturgias."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, conforme o art. 5º, VI, da CF/88 (Liberdade de Crença)."
+  },
+  {
+    "question": "Questão 54. (FEPESE / MPE-SC – 2014) Quanto aos Direitos e às garantias fundamentais estabelecidos na Constituição da República Federativa do Brasil de 1988, assinale a alternativa correta.",
+    "options": [
+      "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+      "Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros em linha reta ascendente ou descendente, pelo tempo que a lei determinar.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão administrativa ou judicial, assegurando-se o contraditório e a ampla defesa.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou por determinação judicial.",
+      "A pequena propriedade rural, assim definida em lei, não será objeto de penhora para pagamento de débito decorrente de sua atividade produtiva."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, reproduzindo o art. 5º, VIII, da CF/88 (Escusa de Consciência)."
+  },
+  {
+    "question": "Questão 55. (FEPESE / MPE-SC – 2014) Quanto aos Direitos e Garantias Fundamentais estabelecidos na Constituição da República Federativa do Brasil de 1988, assinale a alternativa correta.",
+    "options": [
+      "É livre a expressão de atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença.",
+      "A autoridade competente, em caso de necessidade social, poderá usar de propriedade particular, assegurado ao proprietário indenização ulterior, se for o caso.",
+      "As entidades associativas, em situações justificadas, têm legitimidade independentemente de autorização, para representar seus filiados judicial ou extrajudicialmente.",
+      "É inviolável o sigilo da correspondência, salvo por ordem judicial, nas hipóteses a na forma que a lei estabelecer para fins de processo administrativo ou judicial.",
+      "A lei estabelecerá o procedimento para desapropriação por utilidade pública, mediante justa e posterior indenização."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, conforme o art. 5º, IX, da CF/88."
+  },
+  {
+    "question": "Questão 56. (FUNDATEC/ SEFAZ-RS – 2014) Em relação aos direitos individuais e coletivos previstos na Constituição Federal, analise as seguintes assertivas:\nI. É livre a manifestação do pensamento, sendo vedado o anonimato.\nII. É livre a expressão de atividade intelectual, artística, cientifica e de comunicação, observadas as avaliações de licença legais e de censura.\nIII. É livre o exercício de qualquer trabalho, ofício, ou profissão, atendidas as qualificações profissionais que a lei estabelecer.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas III.",
+      "Apenas I e III.",
+      "I, II e III."
+    ],
+    "correct": 3,
+    "explanation": "Estão corretas: **I** (Art. 5º, IV) e **III** (Art. 5º, XIII). A assertiva **II** está incorreta, pois a expressão da atividade intelectual, etc., é **independentemente de censura ou licença** (Art. 5º, IX)."
+  },
+  {
+    "question": "Questão 57. (FEPESE/ SJC-SC – 2013) Analise as afirmativas abaixo em relação aos direitos e às garantias fundamentais previstos na Constituição da República de 1988.\n1. Mesmo sem o consentimento do morador, a autoridade policial poderá ingressar, a qualquer momento, na sua residência.\n2. Expedida ordem judicial, a polícia está autorizada a penetrar na casa do suspeito durante o dia ou a noite.\n3. Em caso de flagrante delito, a inviolabilidade da residência é afastada.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "É correta apenas a afirmativa 1.",
+      "É correta apenas a afirmativa 2.",
+      "É correta apenas a afirmativa 3.",
+      "São corretas apenas as afirmativas 1 e 3.",
+      "São corretas apenas as afirmativas 2 e 3."
+    ],
+    "correct": 2,
+    "explanation": "Apenas a afirmativa **3** está correta (Art. 5º, XI). A afirmativa 1 está incorreta porque a autoridade policial não pode ingressar 'a qualquer momento' sem que se configure uma das exceções. A afirmativa 2 está incorreta porque a ordem judicial só permite o ingresso **durante o dia** (Art. 5º, XI)."
+  },
+  {
+    "question": "Questão 58. (FUNCAB / SESACRE – 2013) Conforme artigo 5º da Constituição Federal vigente, são exemplos de direitos e garantias fundamentais:",
+    "options": [
+      "inviolabilidade domiciliar e soberania.",
+      "inviolabilidade de dados e direito de herança.",
+      "inviolabilidade da intimidade e tratamento favorecido.",
+      "acesso à informação e obrigatoriedade de associação.",
+      "direito de herança e de associação para fins paramilitares."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B lista dois direitos e garantias fundamentais expressos no Art. 5º: **Inviolabilidade de dados** (Art. 5º, XII) e **Direito de herança** (Art. 5º, XXX)."
+  },
+  {
+    "question": "Questão 59. (FUNCAB / SEMAD – 2013) No que diz respeito à inviolabilidade do domicílio, prevista no artigo 5º da CRFB/1988, é correto afirmar:",
+    "options": [
+      "A inviolabilidade não será aplicada nas hipóteses de flagrante delito ou desastre, independentemente do horário em que houver a ocorrência dos fatos supracitados.",
+      "A autoridade policial, munida de autorização judicial, poderá adentrar na casa até as 22 horas.",
+      "A inviolabilidade é um direito que só se aplica ao indivíduo que detém o domínio/propriedade do bem imóvel, não alcançando aquele que detém a posse.",
+      "Se a autoridade policial receber informações seguras de que um crime está sendo cometido dentro da residência de um chefe de Estado, deverá aguardar ordem de seu superior hierárquico para adentrar na casa, por conta da inviolabilidade do domicílio do artigo supracitado."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA. As exceções de flagrante delito, desastre ou para prestar socorro permitem o ingresso na casa a **qualquer hora** do dia ou da noite (Art. 5º, XI)."
+  },
+  {
+    "question": "Questão 60. (FUNRIO/ MPOG – 2013) No tocante à possibilidade de patenteabilidade de inventos, a Constituição Brasileira vigente estabelece regra geral, que define determinados requisitos. Com relação a estes requisitos é correto afirmar que a lei assegurará",
+    "options": [
+      "aos requerentes de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas brasileiras e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos requerentes de inventos industriais e descobertas privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais e descobertas privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País.",
+      "aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas exclusivamente brasileiras e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B reproduz integralmente o Art. 5º, XXIX, da CF/88 (Direitos de Propriedade Industrial)."
+  },
+  {
+    "question": "Questão 61. (FEPESE / FATMA – 2012) Considerando os direitos e garantias fundamentais, assinale a alternativa correta, com fundamento na Constituição da República.",
+    "options": [
+      "É plena a liberdade de associação, inclusive a de caráter paramilitar.",
+      "É inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.",
+      "É vedada a prestação de assistência religiosa nas entidades civis e militares de internação coletiva.",
+      "A sucessão de bens de estrangeiros situados no País, em benefício do cônjuge ou dos filhos brasileiros, sempre será regulada pela lei brasileira.",
+      "Conceder-se-á mandado de segurança, para proteger direito líquido e certo, sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o art. 5º, VI, da CF/88 (Liberdade de Crença)."
+  },
+  {
+    "question": "Questão 62. (FUNCAB / MPE-RO – 2012) A fonte jornalística, isto é, o informante ou a fonte de informações do jornalista, segundo a Constituição Federal:",
+    "options": [
+      "não pode ser escondida pelo profissional quando compelido pela autoridade administrativa a revelá-la.",
+      "deve ser obrigatoriamente publicada, sob pena de ser a informação considerada anônima.",
+      "possui sigilo resguardado, não podendo o profissional ser compelido ou coagido a informá-la.",
+      "é sigilosa desde que a informação seja comprovadamente verdadeira.",
+      "somente deve ser revelada se houver ordem judicial neste sentido."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, XIV, CF/88, garante a todos o acesso à informação e **resguarda o sigilo da fonte, quando necessário ao exercício profissional**."
+  },
+  {
+    "question": "Questão 63. (FUNCAB / Pref. Várzea Grande – 2012) Segundo a Constituição Federal, consiste em exceção à inviolabilidade de correspondência e das comunicações telegráficas:",
+    "options": [
+      "desastre.",
+      "flagrante delito, assim considerado pela autoridade policial.",
+      "ordem judicial, nas hipóteses e na forma que a lei estabelecer, para fins de investigação criminal ou instrução processual penal.",
+      "ordem judicial, a fim de garantir a produção de prova processual civil ou penal.",
+      "ordem da autoridade policial, nos casos de investigação criminal, quando não haja outra forma de proceder, com a mesma finalidade."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, XII, CF/88, estabelece a inviolabilidade do sigilo da correspondência e comunicações telegráficas/de dados/telefônicas. A única exceção prevista, por ordem judicial, é para as **comunicações telefônicas** ('no último caso'), para fins de investigação criminal ou instrução processual penal. A alternativa C descreve a única exceção constitucionalmente prevista no inciso XII."
+  },
+  {
+    "question": "Questão 64. (FUNDATEC / Advogado CRMV – 2011) Considere as seguintes afirmativas referentes aos Direitos Fundamentais previstos na Constituição Federal:\nI. É livre a manifestação de pensamento, sendo vedado o anonimato.\nII. É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer.\nIII. As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por determinação de autoridade administrativa competente.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas III.",
+      "Apenas I e II.",
+      "Apenas II e III."
+    ],
+    "correct": 3,
+    "explanation": "Estão corretas: **I** (Art. 5º, IV) e **II** (Art. 5º, XIII). A assertiva **III** está incorreta, pois a dissolução ou suspensão das atividades de associações é determinada por **decisão judicial** (Art. 5º, XIX), não administrativa."
+  },
+  {
+    "question": "Questão 65. (FUNRIO/ DEPEN – 2009) O artigo 5° da Constituição da República Federativa do Brasil em seu inciso XVII prevê que é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar. Em relação as a associações é INCORRETO afirmar que:",
+    "options": [
+      "as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;",
+      "ninguém poderá ser compelido a associar-se ou a permanecer associado;",
+      "a criação de associações e, na forma da lei, a de cooperativas dependem de autorização, sendo vedada a interferência estatal em seu funcionamento;",
+      "as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;",
+      "todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. A criação de associações e cooperativas **independe de autorização** (Art. 5º, XVIII)."
+  },
+  {
+    "question": "Questão 66. (FEPESE/ IPESC – 2006) A interceptação das comunicações telefônicas para fins de investigação criminal:",
+    "options": [
+      "pode ser determinada pelo Ministério Público.",
+      "fica a critério exclusivo da autoridade policial.",
+      "depende sempre de ordem judicial.",
+      "depende de prévia autorização do Conselho Nacional de Justiça.",
+      "jamais é admissível."
+    ],
+    "correct": 2,
+    "explanation": "A interceptação das comunicações telefônicas (Art. 5º, XII) **depende sempre de ordem judicial** e de lei que a estabeleça, para fins de investigação criminal ou instrução processual penal."
+  },
+  {
+    "question": "Questão 67. (FEPESE/ Prefeitura de Bombinhas-SC – 2015) Analise o texto abaixo: É ___________a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, ____________________. Assinale a alternativa que completa corretamente as lacunas do texto.",
+    "options": [
+      "( ) inviolável • a proteção à liturgia católica",
+      "( ) inviolável • a proteção aos locais de culto e a suas liturgias",
+      "( ) violável • somente em locais registrados pela administração pública",
+      "( ) violável • a proteção aos locais de culto e a suas liturgias na administração pública",
+      "( ) permitida • quando decreto presidencial regular o contrário"
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B reproduz o Art. 5º, VI, da CF/88: 'É **inviolável** a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, **a proteção aos locais de culto e a suas liturgias**'."
+  },
+  {
+    "question": "Questão 68. (FUNIVERSA / PM-DF – 2013) Relativamente aos direitos e garantias fundamentais, constitucionalmente assegurados e essenciais à plena cidadania, assinale a alternativa correta.",
+    "options": [
+      "É livre a manifestação do pensamento, sendo permitido o anonimato.",
+      "Homens e mulheres são iguais em direitos e obrigações.",
+      "A casa é asilo inviolável do indivíduo, não sendo dado a ninguém nela penetrar sem autorização do morador.",
+      "Sem exceção, é inviolável o sigilo da correspondência e das comunicações telefônicas."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está CORRETA, conforme o art. 5º, I, da CF/88 (Isonomia)."
+  }
+  ,{
+    "question": "Questão 1. (IADES / ALEGO – 2019) Considerando-se o art. 5º, inciso XIII, da Constituição Federal, “é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer”. Com relação à sua aplicabilidade, o referido artigo é classificado como norma constitucional de",
+    "options": [
+      "eficácia limitada.",
+      "eficácia plena.",
+      "aplicabilidade indireta, mediata e reduzida",
+      "eficácia contida.",
+      "eficácia absoluta."
+    ],
+    "correct": 3,
+    "explanation": "A norma do art. 5º, XIII, é de **eficácia contida** (ou restringível), pois possui aplicabilidade imediata, mas pode ter sua abrangência restringida por lei infraconstitucional (que estabelece as qualificações profissionais)."
+  },
+  {
+    "question": "Questão 2. (IADES / CRF-TO – 2019) Com base na Constituição Federal, acerca dos direitos e garantias fundamentais, assinale a alternativa correta.",
+    "options": [
+      "Aplicam-se somente a cidadãos maiores de 18 anos de idade ou aos emancipados por decisão judicial transitada em julgado.",
+      "São garantidos somente aos brasileiros que estiverem no pleno gozo dos respectivos direitos políticos.",
+      "Não são garantidos aos presidiários que sofreram condenação criminal.",
+      "São garantidos a todos os brasileiros e estrangeiros residentes no País.",
+      "Podem ser suspensos por ato do Poder Executivo federal."
+    ],
+    "correct": 3,
+    "explanation": "O *caput* do art. 5º da CF/88 garante a inviolabilidade dos direitos e liberdades aos **brasileiros e aos estrangeiros residentes no País**. Embora a jurisprudência amplie a abrangência, esta alternativa reproduz o texto literal do *caput*."
+  },
+  {
+    "question": "Questão 3. (IESES / Prefeitura de Gaspar – 2018) Sobre as garantias fundamentais previstas na Constituição Federal, assinale a alternativa INCORRETA:",
+    "options": [
+      "Homens e mulheres são iguais em direitos e obrigações, nos termos da Constituição.",
+      "Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei.",
+      "É livre a manifestação do pensamento, inclusive no anonimato.",
+      "É inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e suas liturgias."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está INCORRETA. O art. 5º, IV, da CF/88 estabelece que 'é livre a manifestação do pensamento, **sendo vedado o anonimato**'."
+  },
+  {
+    "question": "Questão 4. (IBFC / PM-PB – 2018) A Constituição Federal determina expressamente a inviolabilidade de determinados direitos fundamentais, todos eles vinculados à personalidade humana. Nesse sentido, assinale a alternativa que não se encontra prevista como um desses direitos fundamentais:",
+    "options": [
+      "o trabalho das pessoas",
+      "a vida privada das pessoas",
+      "a honra das pessoas",
+      "a intimidade das pessoas"
+    ],
+    "correct": 0,
+    "explanation": "O art. 5º, X, da CF/88 lista a inviolabilidade da **intimidade**, da **vida privada**, da **honra** e da **imagem** das pessoas. O **trabalho** (Art. 5º, XIII) não está incluído neste rol específico de direitos invioláveis ligados à personalidade."
+  },
+  {
+    "question": "Questão 5. (IBFC / PM-PB – 2018) A Constituição Federal discorre sobre o procedimento de desapropriação, o qual poderá incidir sobre a propriedade particular. Nesse sentido, assinale a alternativa que não se encontra prevista como um dos requisitos autorizadores do ato expropriatório governamental estabelecido pela Carta Magna:",
+    "options": [
+      "necessidade pública",
+      "interesse social",
+      "justa e prévia indenização em dinheiro",
+      "interesse coletivo"
+    ],
+    "correct": 3,
+    "explanation": "Os requisitos autorizadores da desapropriação (Art. 5º, XXIV) são por **necessidade ou utilidade pública** ou por **interesse social**, mediante justa e prévia indenização em dinheiro. O termo 'interesse coletivo' não é expressamente o fundamento legal da desapropriação indenizada em dinheiro, embora possa ser um conceito mais amplo."
+  },
+  {
+    "question": "Questão 6. (IBFC / PM-SE – 2018) A Constituição Federal da República autoriza o ingresso na casa, sem o consentimento do morador, na seguinte hipótese:",
+    "options": [
+      "a qualquer hora do dia ou da noite, mediante determinação judicial",
+      "somente durante o dia, no caso de flagrante delito de contravenção",
+      "a qualquer hora do dia ou da noite, em caso de desastre, para prestar socorro",
+      "somente durante a noite, no caso de flagrante delito de crime"
+    ],
+    "correct": 2,
+    "explanation": "O art. 5º, XI, CF/88, estabelece que a casa é asilo inviolável, salvo em caso de **flagrante delito, desastre**, ou para **prestar socorro** (hipóteses permitidas a **qualquer hora do dia ou da noite**), ou, **durante o dia**, por **determinação judicial**."
+  },
+  {
+    "question": "Questão 7. (IBFC / CBM-BA – 2017) Assinale a alternativa correta sobre a proteção do domicílio nos termos da Constituição da República Federativa do Brasil.",
+    "options": [
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de determinação judicial.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, mesmo em caso de flagrante delito ou desastre.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro ou por determinação judicial.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de desastre, durante o dia."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C reproduz integralmente o art. 5º, XI, da CF/88, com a restrição de que a determinação judicial deve ocorrer apenas 'durante o dia'."
+  },
+  {
+    "question": "Questão 8. (IESES / Algás – 2017) Assinale a alternativa INCORRETA com relação aos direitos e garantias fundamentais estampados na Constituição Federal de 1988:",
+    "options": [
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, sem a exigência do trânsito em julgado em nenhum dos casos.",
+      "A pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento.",
+      "A lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País."
+    ],
+    "correct": 1,
+    "explanation": "O art. 5º, XIX, da CF/88 estabelece que a **dissolução compulsória** de associações exige **trânsito em julgado** da decisão judicial, enquanto a **suspensão** das atividades exige apenas **decisão judicial**."
+  },
+  {
+    "question": "Questão 9. (IESES / CRMV-SC – 2017) Denominada também como “Constituição cidadã”, a Carta Magna de 1988 em seu artigo 5º elenca os direitos fundamentais do cidadão, dentre os quais podemos citar:\nI. É inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.\nII. A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo autorização policial ou de alguém outorgado através de procuração particular exclusivamente para fins de investigação criminal.\nIII. As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial. Em qualquer momento do processo o juiz despachará interlocutoriamente e autorizará a sua dissolução.\nIV. A lei estabelecerá o procedimento para desapropriação por necessidade, utilidade pública ou interesse privado que traga geração de empregos, ou por interesse econômico que se justifique a referida desapropriação, mediante permuta por imóvel avaliado no mercado imobiliário com valor semelhante ou próximo do imóvel desapropriado.\nA sequência correta é:",
+    "options": [
+      "Apenas as assertivas II e III estão corretas.",
+      "Somente as assertivas I, III e IV estão corretas.",
+      "Somente a assertiva I está correta.",
+      "Apenas as assertivas I e III estão corretas."
+    ],
+    "correct": 2,
+    "explanation": "Apenas a assertiva **I** está correta, reproduzindo o art. 5º, XII, da CF/88. As demais estão incorretas: II (Exceções de domicílio – art. 5º, XI – não incluem autorização policial/procuração); III (Exige trânsito em julgado para dissolução compulsória – art. 5º, XIX); IV (Desapropriação indenizada em dinheiro – art. 5º, XXIV – tem como fundamento necessidade/utilidade pública ou interesse social)."
+  },
+  {
+    "question": "Questão 10. (IESES / TJ-CE – 2017) Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade. No que diz respeito ao artigo 5º da CF/88 é correto afirmar:\nI. É livre a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo permitida a interferência estatal em seu funcionamento.\nII. São invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação.\nIII. É livre a manifestação do pensamento, sendo consentido o anonimato.\nIV. É garantido o direito de propriedade.\nA sequência correta é:",
+    "options": [
+      "Apenas as assertivas II e IV estão corretas.",
+      "Apenas a assertiva II está incorreta.",
+      "As assertivas I, II, III e IV estão corretas.",
+      "Apenas as assertivas I, II e III estão corretas."
+    ],
+    "correct": 0,
+    "explanation": "Estão corretas: **II** (Art. 5º, X) e **IV** (Art. 5º, XXII). Estão incorretas: **I** (a interferência estatal é **vedada** – Art. 5º, XVIII) e **III** (o **anonimato é vedado** – Art. 5º, IV)."
+  },
+  {
+    "question": "Questão 11. (IBFC / EBSERH – 2017) Analise os itens a seguir e considere as normas da Constituição Federal sobre a garantia de sigilo para assinalar a alternativa correta.",
+    "options": [
+      "É inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+      "É inviolável o sigilo da correspondência e das comunicações telefônicas, de dados e das comunicações telegráficas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+      "É inviolável o sigilo das comunicações telefônicas e das comunicações telegráficas, de dados e da correspondência, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal.",
+      "É inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual civil.",
+      "É inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, em qualquer caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual civil."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A reproduz literalmente o art. 5º, XII, da CF/88, sendo a única modalidade cuja quebra de sigilo por ordem judicial é permitida: as **comunicações telefônicas** ('no último caso') e apenas para fins de **investigação criminal ou instrução processual penal**."
+  },
+  {
+    "question": "Questão 12. (IBFC / EBSERH – 2017) Considere as normas da Constituição Federal sobre direitos e garantias fundamentais e assinale a alternativa INCORRETA.",
+    "options": [
+      "São assegurados, nos termos da lei, o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações associativas.",
+      "São assegurados, nos termos da lei, a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas.",
+      "São assegurados, nos termos da lei, o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas.",
+      "São assegurados, nos termos da lei, a proteção às participações individuais em obras coletivas, excluídas as atividades desportivas.",
+      "São assegurados, nos termos da lei, o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está INCORRETA. O art. 5º, XXVIII, 'a', da CF/88, assegura a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, **inclusive nas atividades desportivas**."
+  },
+  {
+    "question": "Questão 13. (IESES / TRE-MA – 2015) No que tange aos direitos e deveres individuais e coletivos, de acordo com o previsto na Constituição Federal de 1988, marque V ou F, conforme as afirmações a seguir sejam verdadeiras ou falsas.\n( ) É inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.\n( ) Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.\n( ) É livre a expressão da atividade intelectual, artística, científica e de comunicação, dependendo apenas de licença.\n( ) É plena a liberdade de associação para fins lícitos, inexistindo, portanto, qualquer vedação neste sentido.\n( ) A criação de associações e, na forma da lei, a de cooperativas dependem de autorização, sendo vedada a interferência estatal em seu funcionamento.\nA sequência correta, de cima para baixo, é:",
+    "options": [
+      "V – V – F – F – F",
+      "V – F – F – V – V",
+      "V – F – V – F – F",
+      "V – V – V – V – V"
+    ],
+    "correct": 0,
+    "explanation": "(V) Art. 5º, VI. (V) Art. 5º, VIII. (F) Art. 5º, IX: independe de censura ou licença. (F) Art. 5º, XVII: vedada a de caráter paramilitar. (F) Art. 5º, XVIII: independem de autorização e é vedada a interferência estatal. Sequência: V – V – F – F – F."
+  },
+  {
+    "question": "Questão 14. (IESES / TRE-MA – 2015) Quanto aos direitos e garantias individuais e coletivos é INCORRETO afirmar que:",
+    "options": [
+      "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei.",
+      "É livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença.",
+      "É inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias.",
+      "A lei estabelecerá as regras para a manifestação de pensamento sob a forma de anonimato."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está INCORRETA. O art. 5º, IV, da CF/88, veda o anonimato na manifestação do pensamento."
+  },
+  {
+    "question": "Questão 15. (IBFC / SAEB-BA – 2015) Assinale a alternativa correta com base nas disposições da Constituição Federal sobre os direitos e garantias fundamentais.",
+    "options": [
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo, a qualquer hora, por determinação judicial.",
+      "É plena a liberdade de associação de caráter paramilitar.",
+      "As entidades associativas, ainda que expressamente autorizadas, não têm legitimidade para representar seus filiados judicialmente.",
+      "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização anterior, independentemente da ocorrência de dano.",
+      "A lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está CORRETA, conforme o art. 5º, XXIX, da CF/88, que trata da proteção dos direitos de propriedade industrial. As demais estão incorretas: A (Determinação judicial só durante o dia – Art. 5º, XI); B (Associação paramilitar é vedada – Art. 5º, XVII); C (Entidades associativas têm legitimidade, se autorizadas – Art. 5º, XXI); D (Indenização é ulterior, se houver dano – Art. 5º, XXV)."
+  },
+  {
+    "question": "Questão 16. (IBFC / EMBASA – 2015) Assinale a alternativa correta considerando as disposições da Constituição Federal quanto aos direitos e garantias fundamentais.",
+    "options": [
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "É assegurado o direito de resposta, proporcional ao agravo ou, subsidiariamente, a indenização por dano material, moral ou à imagem.",
+      "É assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis de internação coletiva, inexistindo tal garantia nas entidades militares.",
+      "É inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, em todos os casos, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, reproduzindo o art. 5º, XI, da CF/88 (Inviolabilidade do domicílio)."
+  },
+  {
+    "question": "Questão 17. (IBFC / EMBASA – 2015) Assinale a alternativa correta considerando as disposições da Constituição Federal quanto aos direitos e garantias fundamentais.",
+    "options": [
+      "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio pedido de autorização à autoridade competente.",
+      "A criação de associações e, na forma da lei, a de cooperativas dependem de autorização, sendo vedada a interferência estatal em seu funcionamento.",
+      "É plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar.",
+      "As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, em ambos os casos, o trânsito em julgado."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C está CORRETA, conforme o art. 5º, XVII, da CF/88 (Liberdade de Associação)."
+  },
+  {
+    "question": "Questão 18. (IBFC / PC-SE – 2014) A Constituição Federal, no capítulo “Dos Direitos e das garantias individuais”, reconhece a casa como asilo inviolável do indivíduo. A respeito do tema, assinale a alternativa que corresponde aos exatos termos do texto constitucional:",
+    "options": [
+      "Ninguém pode penetrar na casa sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.",
+      "Ninguém pode penetrar na casa sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação da autoridade policial.",
+      "Ninguém pode penetrar na casa sem consentimento do morador, salvo em caso de flagrante delito, ou, durante o dia, por determinação judicial, admitido, excepcionalmente, o ingresso à noite por determinação judicial em casos de relevante interesse público.",
+      "Ninguém pode penetrar na casa sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro mediante determinação judicial."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, reproduzindo o art. 5º, XI, da CF/88."
+  },
+  {
+    "question": "Questão 19. (IBFC / SEDS –MG – 2014) Assinale a alternativa que NÃO está de acordo com os direitos individuais previstos na Constituição Federal:",
+    "options": [
+      "É plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar.",
+      "A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante a noite, por determinação judicial.",
+      "Ninguém poderá ser compelido a associar-se ou a permanecer associado.",
+      "O Estado promoverá, na forma da lei, a defesa do consumidor."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B NÃO está de acordo. O art. 5º, XI, da CF/88, permite a entrada na casa por determinação judicial **somente durante o dia** (e não durante a noite)."
+  },
+  {
+    "question": "Questão 20. (IBFC / SEPLAG-MG – 2013) Acerca do direito de associação previsto na Constituição Federal, assinale a alternativa CORRETA:",
+    "options": [
+      "as associações só poderão ser compulsoriamente dissolvidas, ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.",
+      "é plena a liberdade de associação, inclusive a de caráter paramilitar, desde que para fins lícitos.",
+      "a criação de associações independe de autorização, mas é permitida a interferência estatal em seu funcionamento.",
+      "as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicialmente, apenas."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA, conforme o art. 5º, XIX, da CF/88."
+  },
+  {
+    "question": "Questão 21. (IBEG / Câmara de Uruaçu-GO – 2015) As ações afirmativas concretizam os princípios da igualdade e da dignidade da pessoa humana previstos no ordenamento constitucional brasileiro. Assim, quanto às políticas públicas que estabeleceram quotas socioeconômicas e raciais para o ingresso em universidades públicas, oriundas de ações afirmativas com vista a proteger grupos considerados vulneráveis, é incorreto afirmar a respeito dessas ações afirmativas.",
+    "options": [
+      "As ações afirmativas são medidas especiais de políticas públicas e/ou ações privadas de cunho temporário ou não, que pressupõem uma reparação histórica de desigualdades e desvantagens acumuladas e vivenciadas por um grupo racial ou étnico, de modo que essas medidas aumentem e facilitem o acesso desses grupos, garantindo a igualdade de oportunidade.",
+      "Compensação por erros do passado e promoção da diversidade não são argumentos favoráveis a políticas públicas que se constituem em ações afirmativas.",
+      "Um utilitarista clássico avaliaria ações afirmativas perguntando se elas contribuiriam para o incremento de benefícios individuais e sociais, em comparação com eventuais prejuízos que podem decorrer da implantação de tais políticas.",
+      "As ações afirmativas são uma forma de discriminação que se justifica do ponto de vista ético, pois visam elevar o status moral de grupos vulneráveis.",
+      "Consistem em políticas públicas (e também privadas) voltadas à concretização do princípio constitucional da igualdade material e à neutralização dos efeitos da discriminação racial, de gênero, de idade, de origem nacional, de compleição física e situação socioeconômica."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B está INCORRETA. A **compensação por erros do passado (reparação histórica)** e a **promoção da diversidade** são argumentos **fundamentais e favoráveis** à adoção de ações afirmativas no ordenamento jurídico brasileiro."
+  },
+  {
+    "question": "Questão 22. (IESES / CRA-SC – 2013) Considerando o que expressamente consta da Constituição da República Federativa do Brasil, analise as assertivas I, II e III e depois assinale a alternativa correta:\nI) Dentre os princípios que segue a República Federativa do Brasil nas suas relações internacionais, estão a solução pacífica dos conflitos, o repúdio ao terrorismo e ao racismo, além da intervenção quando necessária à garantia de autodeterminação dos povos.\nII) Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros no País, a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade.\nIII) As associações só poderão ter compulsoriamente suas atividades suspensas por decisão judicial com trânsito em julgado.\nDiante das assertivas I, II e III, assinale a alternativa correta:",
+    "options": [
+      "São verdadeiras as assertivas I, II e III.",
+      "É verdadeira a assertiva II e são falsas as assertivas II e III.",
+      "São falsas as assertivas I, II e III.",
+      "A assertiva III é verdadeira."
+    ],
+    "correct": 2,
+    "explanation": "Todas as assertivas são FALSAS: I (Princípios das Relações Internacionais – Art. 4º – adota a **não-intervenção** e não o oposto); II (O *caput* do Art. 5º fala em estrangeiros **residentes**); III (A **suspensão** de atividades não exige trânsito em julgado – Art. 5º, XIX)."
+  },
+  {
+    "question": "Questão 23. (IDECAN / CREFITO PR – 2013) Analise as alternativas abaixo, e em seguida, marque a correta.",
+    "options": [
+      "As entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente.",
+      "É plena a liberdade de associação para fins lícitos, em caso de caráter paramilitar, será necessária a autorização do Ministério do Exército, sendo assegurado recurso ao Presidente da República em caso de negativa.",
+      "É assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem. Vale ressaltar, entretanto, que, segundo a jurisprudência majoritária do STF, o direito de resposta somente será possível quando tiver relação com uma infração penal.",
+      "Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente, a qual deverá se manifestar de forma fundamentada pelo deferimento ou não.",
+      "Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei, sendo conveniente frisar que a “escusa de consciência” somente pode ser admitida para o Serviço Militar Obrigatório."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa A está CORRETA. O art. 5º, XXI, da CF/88, estabelece que 'as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados **judicial ou extrajudicialmente**'."
+  },
+  {
+    "question": "Questão 24. (IADES / SEAP-DF – 2014) É livre a expressão da atividade intelectual, artística, científica e de comunicação, após regular processo de censura e (ou) licença.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O art. 5º, IX, CF/88, garante a livre expressão da atividade intelectual, artística, científica e de comunicação, **independentemente de censura ou licença**."
+  },
+  {
+    "question": "Questão 25. (IADES / SEAP-DF – 2014) É livre a manifestação do pensamento, bem como o anonimato.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O art. 5º, IV, CF/88, garante a livre manifestação do pensamento, **sendo vedado o anonimato**."
+  },
+  {
+    "question": "Questão 26. (IADES / PGDF – 2011) Os direitos fundamentais foram projetados para serem limites de atuação do Estado, não irradiando, portanto, seus efeitos sobre as relações jurídico-privadas.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. Segundo a doutrina moderna (eficácia horizontal dos direitos fundamentais), eles irradiam seus efeitos também nas **relações jurídico-privadas**, aplicando-se às relações entre particulares."
+  },
+  {
+    "question": "Questão 27. (IADES / PGDF – 2011) Os direitos e as garantias fundamentais chegaram a tal nível de abrangência na previsão constitucional que, de sua interpretação, é possível afirmar que não mais somente frente ao Estado, mas, agora também, nas relações privadas, podem os cidadãos fazer valer suas garantias a fim de concretizar seus direitos fundamentais.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 0,
+    "explanation": "A afirmação é CORRETA. Reflete a doutrina da eficácia horizontal dos direitos fundamentais, que permite sua aplicação nas relações entre particulares."
+  },
+  {
+    "question": "Questão 28. (IADES / CFA – 2010) A inalienabilidade dos direitos fundamentais caracteriza-se pela impossibilidade de negociação dos mesmos, tendo em vista não possuírem conteúdo patrimonial.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 0,
+    "explanation": "A afirmação é CORRETA. A **inalienabilidade** é a característica que impede que os direitos fundamentais sejam transferidos, vendidos ou negociados, ou seja, são indisponíveis."
+  },
+  {
+    "question": "Questão 29. (IADES / CFA – 2010) Os direitos fundamentais podem ser reclamados em um determinado tempo, pois há um lapso temporal que limita sua exigibilidade.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. Os direitos fundamentais possuem a característica da **imprescritibilidade**, o que significa que não se perdem pelo decurso do tempo (não há lapso temporal que limite sua exigibilidade)."
+  },
+  {
+    "question": "Questão 30. (IADES / CFA – 2010) A característica da complementaridade, refere-se à interpretação conjunta dos direitos fundamentais objetivando sua realização de forma parcial.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. A característica da **complementaridade** significa que os direitos e garantias fundamentais devem ser interpretados em conjunto, visando a sua **máxima** eficácia e aplicação, e não apenas de forma parcial."
+  },
+  {
+    "question": "Questão 31. (IADES / PGDF – 2011) Os direitos à vida, à liberdade, à igualdade, à segurança e à propriedade, embora assegurados no caput do artigo 5º da Constituição Federal de 1988 apenas aos brasileiros e aos estrangeiros residentes no País, interpretados teleologicamente, são direitos de todos os brasileiros e estrangeiros, residentes ou não.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 0,
+    "explanation": "A afirmação é CORRETA. Embora o *caput* do art. 5º utilize a expressão 'estrangeiros residentes', a jurisprudência e a doutrina (interpretação teleológica) pacificaram o entendimento de que os direitos fundamentais se estendem a todos os **estrangeiros em trânsito (não residentes)** no País."
+  },
+  {
+    "question": "Questão 32. (IESES / TJ-MA – 2008) A casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de determinação judicial, ou, durante o dia, em caso de flagrante delito ou desastre, ou para prestar socorro.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O art. 5º, XI, CF/88, estabelece que a determinação judicial deve ocorrer apenas **durante o dia**. As hipóteses de flagrante delito, desastre ou socorro são permitidas a **qualquer hora** do dia ou da noite. O item inverteu a restrição de horário."
+  },
+  {
+    "question": "Questão 33. (IESES / TJ-MS – 2014) É defeso a livre a manifestação do pensamento.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O art. 5º, IV, CF/88, estabelece que **é livre** a manifestação do pensamento. ('Defeso' significa proibido, vedado)."
+  },
+  {
+    "question": "Questão 34. (IESES / TJ-MA – 2008) As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, o trânsito em julgado.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. Apenas a **dissolução compulsória** exige o trânsito em julgado. A **suspensão** das atividades exige apenas decisão judicial, sem a necessidade de trânsito em julgado (Art. 5º, XIX)."
+  },
+  {
+    "question": "Questão 35. (FUNDATEC/ AL-RS – 2018) No que diz respeito aos direitos e deveres individuais e coletivos previstos no art. 5º da Constituição da República Federativa do Brasil, analise as seguintes afirmações:\nI. O exercício de qualquer trabalho, ofício ou profissão pode ser limitado por qualificações profissionais estabelecidas em lei.\nII. O acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional, é assegurado a todos pela Constituição.\nIII. Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigida prévia autorização da autoridade competente.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas I e II.",
+      "Apenas I e III.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct": 1,
+    "explanation": "Estão corretas: **I** (Art. 5º, XIII) e **II** (Art. 5º, XIV). A afirmação **III** está incorreta, pois para as reuniões não é exigida **autorização**, mas apenas **prévio aviso** à autoridade competente (Art. 5º, XVI)."
+  }
+],
+
+
+  "AplicacaoLeiPenal":[
+  {
+    "question": "Questão 57. (VUNESP – 2017 – CRBIO-1°REGIÃO – ADVOGADO - ADAPTADA) De acordo com o código penal brasileiro, fica sujeito à lei brasileira, embora praticado no estrangeiro, o crime contra o patrimônio dos municípios. O agente será punido segundo a lei brasileira, ainda que absolvido no estrangeiro.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O Código Penal (art. 7º, I, 'b') prevê a extraterritorialidade incondicionada para crimes contra o patrimônio ou a fé pública da União, do Distrito Federal, de Estado, de Território, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público, mas não inclui os Municípios (pessoa jurídica de direito público interno, mas que não se enquadra na lista taxativa)."
+  },
+  {
+    "question": "Questão 58. (VUNESP – 2017 – TJM-SP – ESCREVENTE TÉCNICO JUDICIÁRIO – ADAPTADA) Nos termos previstos no código penal, é correto afirmar que se considera praticado o crime no momento do resultado.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O Código Penal (art. 4º) adota a Teoria da Atividade quanto ao tempo do crime: considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado."
+  },
+  {
+    "question": "Questão 59. (VUNESP – 2017 – TJM-SP – ESCREVENTE TÉCNICO JUDICIÁRIO – ADAPTADA) Nos termos previstos no código penal, é correto afirmar que a lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, salvo se decididos por sentença condenatória transitada em julgado.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. A lei posterior mais benéfica se aplica aos fatos anteriores, INCLUSIVE se já decididos por sentença condenatória transitada em julgado (art. 5º, XL, da Constituição Federal e art. 2º, parágrafo único, do CP)."
+  },
+  {
+    "question": "Questão 60. (VUNESP – 2017 – TJM-SP – ESCREVENTE TÉCNICO JUDICIÁRIO – ADAPTADA) Nos termos previstos no código penal, é correto afirmar que o dia do começo deve ser excluído no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum.",
+    "options": [
+      "CORRETA",
+      "ERRADA"
+    ],
+    "correct": 1,
+    "explanation": "A afirmação é ERRADA. O dia do começo INCLUI-SE no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum (art. 10 do CP)."
+  },
+  {
+    "question": "Questão 61. (VUNESP – 2016 – PREF. DE ALUMÍNIO-SP – PROCURADOR) Um brasileiro, João, que reside em Buenos Aires, argentina, decide matar um desafeto, José, que reside na cidade de alumínio, SP, brasil. João, em sua residência, fabrica uma “carta-bomba”, no dia 10, e, no mesmo dia, posta o objeto em uma unidade dos correios de Buenos Aires, com destino a alumínio. O artefato é recebido por José, em alumínio, no dia 20. No dia 25 é aberto, explode e mata José. Com relação à aplicação da lei penal, e de acordo com os arts. 4º e 6º do CP, assinale a alternativa que traz, respectivamente, o dia do crime e o local em que ele foi praticado.",
+    "options": [
+      "10; apenas Buenos Aires.",
+      "10; Buenos Aires ou Alumínio.",
+      "20; apenas Alumínio.",
+      "25; apenas Alumínio.",
+      "25; Buenos Aires ou Alumínio."
+    ],
+    "correct": 1,
+    "explanation": "Tempo do Crime (Art. 4º CP): Adota a Teoria da Atividade. Considera-se praticado o crime no momento da ação ou omissão (dia 10).\nLugar do Crime (Art. 6º CP): Adota a Teoria da Ubiquidade (ou Mista). Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado. Logo, o crime foi praticado em Buenos Aires (ação) ou Alumínio (resultado). A alternativa B está incorreta na data, que é 10.\n**Revisão do Gabarito Oficial (B)**: A questão 61 da VUNESP (2016) está apontada com gabarito **B**. Considerando que o Código Penal adota a **Teoria da Atividade** (Art. 4º CP: 'Considera-se praticado o crime no momento da **ação ou omissão**...'), o 'Dia do Crime' é **10**. Quanto ao 'Local do Crime', o Código Penal adota a **Teoria da Ubiquidade** (Art. 6º CP: 'Considera-se praticado o crime no lugar em que ocorreu a **ação ou omissão**, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o **resultado**'), que abrange Buenos Aires (ação) ou Alumínio (resultado). A única alternativa que combina o tempo correto (10) com o lugar correto (Buenos Aires ou Alumínio) é a **B** (10; Buenos Aires ou Alumínio). *O gabarito fornecido no prompt está errado para essa questão, que deveria ser A, B ou E, mas dado o gabarito B fornecido pelo usuário, a explicação é compatível com o artigo 4º e 6º do CP: Tempo (ação - dia 10) e Lugar (ação ou resultado - Buenos Aires ou Alumínio).* Dado o gabarito oficial B, vamos segui-lo."
+  },
+  {
+    "question": "Questão 62. (VUNESP – 2016 – CÂMARA DE MARÍLIA-SP – PROCURADOR) aplica-se a lei penal brasileira ao crime cometido no território nacional. O art. 5° do cp estende a aplicação da lei penal brasileira para fato cometido em",
+    "options": [
+      "embarcação privada brasileira atracada em portos estrangeiros.",
+      "embarcação estrangeira de propriedade privada navegando no mar territorial do Brasil.",
+      "aeronave privada brasileira pousada em aeroportos estrangeiros, desde que o país respectivo tenha acordo de extradição com o Brasil.",
+      "sede de embaixada ou unidade consular do Brasil no estrangeiro.",
+      "residência do embaixador brasileiro em país estrangeiro que faça parte do Mercosul."
+    ],
+    "correct": 1,
+    "explanation": "Aplica-se a lei brasileira a crimes praticados a bordo de embarcações ou aeronaves estrangeiras de propriedade privada, se estiverem, respectivamente, em porto ou mar territorial do Brasil, ou em pouso no território nacional ou em voo no espaço aéreo correspondente (territorialidade por extensão – art. 5º, caput e §2º, CP)."
+  },
+  {
+    "question": "Questão 63. (VUNESP – 2016 – PREF. DE SERTÃOZINHO-SP – PROCURADOR) Rosa Margarida, apaixonada por Carlos Flores, imaginando que se os dois convivessem por alguns dias, ele poderia se apaixonar, resolveu sequestrá-lo. Sendo assim, o privou da sua liberdade e o levou para sua casa. Enquanto Carlos era mantido em cativeiro por rosa, nova lei entrou em vigor, agravando a pena do crime de sequestro. Sobre a possibilidade de aplicação da nova lei, mais severa, ao caso exposto, assinale a alternativa correta.",
+    "options": [
+      "Não se aplica, tendo em vista a irretroatividade da lei penal mais severa.",
+      "É aplicável, pois entrou em vigor antes de cessar a permanência.",
+      "Não se aplica, tendo em vista o princípio da prevalência do interesse do réu.",
+      "É aplicável, pois se trata de crime material e nesses casos deve ser aplicada a teoria da ubiquidade.",
+      "Não se aplica, pois de acordo com a teoria da atividade, a lei a ser aplicada deve ser aquela em vigor no momento do crime."
+    ],
+    "correct": 1,
+    "explanation": "O sequestro (privação de liberdade) é um **crime permanente**. No crime permanente, a consumação se prolonga no tempo, e a lei penal se aplica enquanto não cessa a permanência. A nova lei mais grave aplica-se se entrar em vigor antes da cessação da permanência (art. 4º, parte final, CP - Teoria da Atividade). (Súmula 711 do STF: 'A lei penal mais grave aplica-se ao crime continuado ou ao crime permanente, se a sua vigência é anterior à cessação da continuidade ou da permanência.')"
+  },
+  {
+    "question": "Questão 64. (VUNESP – 2016 – PREF. DE POÁ-SP – PROCURADOR) CONSIDERA-SE PRATICADO O CRIME NO MOMENTO",
+    "options": [
+      "do resultado.",
+      "em que o agente inicia os atos preparatórios.",
+      "em que o agente cogita e planeja a prática criminosa.",
+      "da ação ou omissão, ainda que outro seja o momento do resultado.",
+      "da ação ou omissão, bem como no momento em que se produziu o resultado."
+    ],
+    "correct": 3,
+    "explanation": "O Código Penal (art. 4º) adota a Teoria da Atividade quanto ao tempo do crime: considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado."
+  },
+  {
+    "question": "Questão 65. (VUNESP – 2015 – CAMARA DE ITATIBA/SP – ADVOGADO) Acerca da aplicação da lei penal, assinale a alternativa correta.",
+    "options": [
+      "A lei excepcional ou temporária aplica-se ao fato praticado durante sua vigência, ainda que decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram.",
+      "A lei posterior, que de alguma forma favorecer o agente, será aplicada aos fatos anteriores, desde que não decididos por sentença condenatória transitada em julgado.",
+      "Considera-se praticado o crime no momento do resultado.",
+      "Um crime praticado contra a vida ou a liberdade do Presidente da República, se cometido no estrangeiro, ficará sujeito à legislação do país em que tenha ocorrido.",
+      "Ao crime cometido no território nacional aplica-se a lei brasileira, sem possibilidade de aplicação de qualquer tratado ou regra de direito internacional."
+    ],
+    "correct": 0,
+    "explanation": "A Lei Excepcional ou Temporária é Ultrativa (art. 3º do CP): 'A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.'"
+  },
+  {
+    "question": "Questão 66. (VUNESP – 2015 – CAMARA DE ITATIBA/SP – ADVOGADO) De acordo com o código penal,",
+    "options": [
+      "considera-se lugar do crime aquele em que o resultado se produziu.",
+      "no cômputo do prazo, não se inclui o dia do começo, mas sim o do vencimento.",
+      "aplica-se a lei brasileira aos crimes praticados a bordo de embarcações estrangeiras, de propriedade privada, que estejam em porto ou mar territorial do Brasil.",
+      "a sentença estrangeira não pode ser homologada no Brasil para obrigar o condenado à reparação do dano.",
+      "em se tratando de pena cumprida no estrangeiro pelo mesmo crime, caso sejam diferentes as penas impostas, aquela cumprida no estrangeiro não atenuará a imposta no Brasil."
+    ],
+    "correct": 2,
+    "explanation": "É a hipótese de Territorialidade por Extensão (art. 5º, § 2º, CP): aplica-se a lei brasileira a crimes praticados a bordo de embarcações ou aeronaves estrangeiras de propriedade privada, se estiverem, respectivamente, em porto ou mar territorial do Brasil."
+  },
+  {
+    "question": "Questão 67. (VUNESP – 2015 – CÂMARA DE SÃO JOSÉ DO RIO PRETO/SP – ADVOGADO) A respeito da aplicação da lei penal, pode-se afirmar que",
+    "options": [
+      "o princípio da retroatividade determina que os efeitos benéficos e favoráveis de uma lei penal retroajam ilimitada e indiscriminadamente apenas para os fatos praticados a partir da sua vigência.",
+      "a abolitio criminis, por ser benéfica ao acusado, pode ser instituída tanto por lei como por medida provisória.",
+      "as leis temporárias e excepcionais representam exceção à regra da aplicação da lei mais benéfica ao acusado, pois sempre serão aplicadas aos fatos praticados durante suas vigências.",
+      "o princípio da nacionalidade ou personalidade garante ao agente a aplicação da lei penal do país em que ele cometeu o crime, pouco importando a lei vigente do seu país de origem.",
+      "a imunidade dos agentes diplomáticos impede o processo, a prisão ou detenção do agente, não abrangendo o dever de depor como testemunha."
+    ],
+    "correct": 2,
+    "explanation": "A afirmação correta é a C, pois as leis temporárias e excepcionais, por serem ultrativas (art. 3º CP), serão aplicadas aos fatos praticados durante sua vigência, mesmo que uma lei posterior, já em vigor no momento do julgamento, seja mais benéfica. Isso é uma exceção ao princípio da retroatividade da lei mais benéfica. (Gabarito fornecido pelo usuário foi ANULADA; no entanto, a alternativa C é a única tecnicamente correta com base no CP)."
+  },
+  {
+    "question": "Questão 68. (VUNESP – 2015 – MPE/SP – ANALISTA DE PROMOTORIA) Sobre a aplicação da lei penal, é correto afirmar que",
+    "options": [
+      "em relação ao tempo do crime, o Código Penal, no artigo 4º, adotou a teoria da ubiquidade.",
+      "para os crimes permanentes, aplica-se a lei nova, ainda que mais severa, pois é considerado tempo do crime todo o período em que se desenvolver a atividade criminosa.",
+      "em relação ao lugar do crime, o Código Penal, no artigo 6º, adotou a teoria da atividade.",
+      "a nova lei, que deixa de considerar criminoso determinado fato, cessa, em favor do agente, todos os efeitos penais e civis.",
+      "o princípio da retroatividade da lei penal mais benéfica é absoluto, previsto constitucionalmente, sobrepondo-se até mesmo à ultratividade das leis excepcionais ou temporárias."
+    ],
+    "correct": 1,
+    "explanation": "Em crimes permanentes (cuja consumação se prolonga no tempo), a lei nova mais severa aplica-se se entrar em vigor antes de cessar a permanência, pois o crime continua sendo praticado sob sua vigência (Teoria da Atividade - art. 4º CP e Súmula 711 STF)."
+  },
+  {
+    "question": "Questão 69. (VUNESP – 2015 – CÂMARA DE CAIEIRAS/SP – ASSESSOR) De acordo com a teoria da aplicação da lei penal, pode-se afirmar:",
+    "options": [
+      "A lei penal, em razão das suas consequências, não retroage.",
+      "A analogia, uma das fontes do direito, é vetada, no direito penal, em razão do princípio da legalidade.",
+      "Considera-se o crime praticado no momento do resultado, e não da ação ou omissão (artigo 4º, CP).",
+      "Considera-se o crime praticado no lugar em que ocorreu a ação ou omissão, bem como onde se produziu ou deveria produzir-se o resultado.",
+      "No Brasil, os efeitos da lei penal não podem ultrapassar seus limites territoriais para regular fatos ocorridos além da sua soberania."
+    ],
+    "correct": 3,
+    "explanation": "Essa é a Teoria da Ubiquidade ou Mista, adotada pelo CP (art. 6º) para definir o lugar do crime."
+  },
+  {
+    "question": "Questão 70. (VUNESP – 2015 – PREF. ARUJA/SP – ASSISTENTE JURÍDICO) Renato Reis, brasileiro a serviço do consulado-geral do Brasil em Toronto, no Canadá, foi surpreendido desviando verbas do órgão para sua conta corrente, naquele país. levando em conta o princípio da extraterritorialidade, previsto na parte geral do código penal, é correto afirmar que",
+    "options": [
+      "a lei canadense será aplicada se o autor do crime for absolvido pela justiça do Brasil.",
+      "a lei brasileira será aplicada se não foi pedida ou foi negada a extradição do autor do crime.",
+      "o crime sujeita-se à lei brasileira por ter sido praticado contra a Administração Pública.",
+      "o agente será punido pela lei brasileira se houver requisição do Ministro da Justiça.",
+      "o crime sujeita-se à lei canadense por ter sido praticado naquele território, excluindo-se a lei brasileira."
+    ],
+    "correct": 2,
+    "explanation": "Trata-se de hipótese de Extraterritorialidade Incondicionada (art. 7º, I, 'c', do CP): Aplica-se a lei brasileira aos crimes cometidos no estrangeiro contra a Administração Pública, por quem está a seu serviço, independentemente das condições previstas no §2º."
+  },
+  {
+    "question": "Questão 71. (VUNESP – 2015 – PC/CE – ESCRIVÃO) O indivíduo B provocou aborto com o consentimento da gestante, em 01 de fevereiro de 2010, e foi condenado, em 20 de fevereiro de 2013, pela prática de tal crime à pena de oito anos de reclusão. a condenação já transitou em julgado. na hipótese do crime de aborto, com o consentimento da gestante, deixar de ser considerado crime por força de uma lei que passe a vigorar a partir de 02 de fevereiro de 2015, assinale a alternativa correta no tocante à consequência dessa nova lei à condenação imposta ao indivíduo B.",
+    "options": [
+      "A nova lei só irá gerar algum efeito sobre a condenação do indivíduo B se prever expressamente que se aplica a fatos anteriores.",
+      "A nova lei será aplicada para os fatos praticados pelo indivíduo B, contudo só fará cessar a execução persistindo os efeitos penais da sentença condenatória, tendo em vista que esta já havia transitado em julgado.",
+      "Não haverá consequência à condenação imposta ao indivíduo B visto que já houve o trânsito em julgado da condenação.",
+      "A nova lei só seria aplicada para os fatos praticados pelo indivíduo B se a sua entrada em vigência ocorresse antes de 01 de fevereiro de 2015.",
+      "A nova lei será aplicada para os fatos praticados pelo indivíduo B, cessando em virtude dela a execução e os efeitos penais da sentença condenatória."
+    ],
+    "correct": 4,
+    "explanation": "Ocorre a **abolitio criminis** (art. 2º da CP). A lei posterior que deixa de considerar o fato como crime retroage, cessando a execução da pena e todos os efeitos penais da sentença condenatória, inclusive se houver trânsito em julgado."
+  },
+  {
+    "question": "Questão 72. (VUNESP – 2015 – PC/CE – ESCRIVÃO) No que diz respeito à contagem de prazo no código penal, assinale a alternativa correta.",
+    "options": [
+      "O dia do começo é irrelevante no cômputo do prazo.",
+      "O dia do começo inclui-se no cômputo do prazo.",
+      "O dia do começo exclui-se no cômputo do prazo.",
+      "Inicia-se o cômputo do prazo dois dias após o dia do começo.",
+      "O dia do começo exclui-se no cômputo do prazo nas hipóteses de crime contra a vida."
+    ],
+    "correct": 1,
+    "explanation": "O dia do começo inclui-se no cômputo do prazo (art. 10 do CP)."
+  },
+  {
+    "question": "Questão 73. (VUNESP – 2015 – PC/CE – INSPETOR) Em virtude da seca que assola o país, considere a hipótese em que seja promulgada uma lei federal ordinária que estabeleça como crime o desperdício doloso ou culposo de água tratada, no período compreendido entre 01 de novembro de 2014 e 01 de março de 2015. em virtude do encerramento da estiagem e volta à normalidade, não houve necessidade de edição de nova lei ou alteração no prazo estabelecido na citada legislação. nessa hipótese, o indivíduo a que em 02 de março de 2015 estiver sendo acusado em um processo criminal por ter praticado o referido crime de “desperdício de água tratada”, durante o período de vigência da lei,",
+    "options": [
+      "só poderá ser punido pelo crime de “desperdício de água tratada” se houver nova edição da lei no próximo período de seca.",
+      "poderá ser condenado pelo crime de “desperdício de água tratada”, no entanto esta condenação não poderá ser executada.",
+      "poderá ser condenado pelo crime de “desperdício de água tratada” ainda que o período indicado na lei que previu essa conduta esteja encerrado.",
+      "não poderá ser punido pelo crime de “desperdício de água tratada”.",
+      "só poderá ser punido pelo crime de “desobediência” em virtude de não mais subsistir o crime de “desperdício de água tratada”."
+    ],
+    "correct": 2,
+    "explanation": "Trata-se de uma **Lei Temporária**. Pelo princípio da ultratividade (art. 3º do CP), a lei temporária, embora decorrido o período de sua duração, aplica-se ao fato praticado durante sua vigência."
+  },
+  {
+    "question": "Questão 74. (VUNESP – 2015 – PC/CE – INSPETOR) Nos termos do código penal e em relação à territorialidade, é correto afirmar que, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido a bordo de aeronaves ou embarcações estrangeiras de propriedade privada",
+    "options": [
+      "será aplicada a lei brasileira se as aeronaves estiverem em pouso no território nacional ou em voo no espaço aéreo correspondente, e as embarcações estiverem em porto ou mar territorial do Brasil.",
+      "será aplicada a lei brasileira se as embarcações estiverem em porto brasileiro, mas é vedada a aplicação da lei brasileira se as embarcações estiverem em mar territorial do Brasil.",
+      "não se aplica a lei brasileira ao crime cometido a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, ainda que aquelas estejam em pouso no território nacional ou em voo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil.",
+      "será aplicada a lei brasileira se as aeronaves estiverem em pouso no território nacional, sendo vedada a aplicação da lei brasileira se as aeronaves estiverem em voo no espaço aéreo correspondente.",
+      "é vedada a aplicação da lei brasileira se as aeronaves estiverem em voo no espaço aéreo correspondente e se as embarcações estiverem em mar territorial do Brasil."
+    ],
+    "correct": 0,
+    "explanation": "É a regra da Territorialidade por Extensão para aeronaves e embarcações estrangeiras de propriedade privada (art. 5º, § 2º, CP), que aplica a lei brasileira se as embarcações/aeronaves estiverem em território nacional (o que inclui mar territorial, porto, espaço aéreo correspondente ou aeroporto)."
+  },
+  {
+    "question": "Questão 75. (VUNESP – 2014 – TJ-PA – AUXILIAR JUDICIÁRIO) É correto afirmar que a pena cumprida no estrangeiro",
+    "options": [
+      "não é nela computada, quando de natureza idêntica.",
+      "não produz qualquer efeito, para os fins de atenuação ou de agravação de penas no Brasil pelo mesmo crime.",
+      "agrava a pena imposta no Brasil pelo mesmo crime, quando de natureza idêntica.",
+      "atenua a pena imposta no Brasil pelo mesmo crime, quando de natureza diversa.",
+      "é nela computada, quando de natureza diversa."
+    ],
+    "correct": 3,
+    "explanation": "A afirmação CORRETA seria a D. O art. 8º do CP estabelece que: 'A pena cumprida no estrangeiro **atenua** a pena imposta no Brasil pelo mesmo crime, quando **diversas**, ou **nela é computada**, quando **idênticas**.' O gabarito fornecido no prompt está como D, o que está correto de acordo com a lei."
+  },
+  {
+    "question": "Questão 76. (VUNESP – 2014 – CÂMARA DE SÃO JOSÉ DOS CAMPOS – ADVOGADO) Para os efeitos penais, consideram-se como extensão do território nacional, nos termos do quanto determina o art. 5.º, §1.º do CP, as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como",
+    "options": [
+      "as aeronaves oficiais de chefes de Estado estrangeiro que estejam pousadas em solo nacional.",
+      "as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar.",
+      "as áreas de embaixadas e consulados brasileiros, além das residências particulares de diplomatas instalados em países que mantêm relações de amizade com o Brasil.",
+      "as embarcações e aeronaves de guerra estrangeiras, desde que estacionadas em nosso mar territorial ou desde que sobrevoando o espaço aéreo correspondente ao território nacional.",
+      "as embarcações mercantes e de propriedade privada, seja qual for sua bandeira, desde que estejam estacionadas ou em trânsito em área de mar internacional próxima ao mar territorial do Brasil."
+    ],
+    "correct": 1,
+    "explanation": "Esta é a definição de Territorialidade por Extensão para aeronaves e embarcações brasileiras de propriedade privada (mercantes), quando em alto-mar ou espaço aéreo correspondente (art. 5º, § 1º, do CP)."
+  },
+  {
+    "question": "Questão 77. (VUNESP – 2014 – CÂMARA DE SÃO JOSÉ DOS CAMPOS – ADVOGADO) De acordo com o art. 8.º do CP, a pena cumprida no estrangeiro atenua a pena imposta no brasil, quando diversas, ou nela é computada, quando idênticas, desde que as penas digam respeito",
+    "options": [
+      "ao mesmo crime.",
+      "a crimes da mesma espécie.",
+      "a condenações não transitadas em julgado.",
+      "a crimes que não sejam classificados como atentatórios à dignidade da pessoa humana.",
+      "a crimes que não estejam inseridos no rol daqueles que, por convenção ou tratado internacional, o Brasil tenha se obrigado a combater."
+    ],
+    "correct": 0,
+    "explanation": "A regra do art. 8º do CP exige que a pena cumprida no estrangeiro seja pelo **mesmo crime** que motivou a pena imposta no Brasil (Princípio do 'Non Bis In Idem')."
+  },
+  {
+    "question": "Questão 78. (VUNESP – 2014 – SAAE-SP – PROCURADOR JURÍDICO) Durante o regular curso de processo penal, passa a vigorar lei nova, que deixa de considerar o fato imputado na denú-cia como criminoso. nessa hipótese, deve o juiz",
+    "options": [
+      "absolver o acusado.",
+      "decretar a prescrição e arquivar o processo.",
+      "decretar a extinção da punibilidade do acusado.",
+      "encaminhar os autos ao Ministério Público, a fim de que adite a denúncia.",
+      "determinar o normal prosseguimento do processo, uma vez que o fato foi cometido sob a égide da lei antiga."
+    ],
+    "correct": 2,
+    "explanation": "A lei nova que deixa de considerar o fato como criminoso é a abolitio criminis (art. 2º do CP). A consequência é a **extinção da punibilidade** do agente (art. 107, III, do CP), e o juiz deve declarar extinta a punibilidade, cessando a execução e os efeitos penais da sentença condenatória."
+  },
+  {
+    "question": "Questão 79. (VUNESP – 2011 – TJ-RJ – JUIZ) Pedro é sequestrado e os agentes exigem dinheiro de familiares dele como preço do resgate. enquanto Pedro está privado da sua liberdade, é promulgada lei aumentando a pena cominada ao crime de extorsão mediante sequestro, previsto no art. 159, do código penal. os agentes são presos em flagrante, e Pedro, libertado pela polícia, mas somente após a entrada em vigor da alteração legislativa. a pena a ser imposta aos agentes do sequestro, neste caso, será:",
+    "options": [
+      "a pena anteriormente prevista, pelo princípio da ultratividade da lei penal benéfica.",
+      "a pena anteriormente prevista, pois a extorsão mediante sequestro é crime instantâneo de efeitos permanentes.",
+      "a pena prevista pela nova legislação, pelo princípio da retroatividade da lei penal.",
+      "a pena prevista pela nova legislação, pois a extorsão mediante sequestro é crime permanente."
+    ],
+    "correct": 3,
+    "explanation": "A extorsão mediante sequestro é um **crime permanente**. Aplica-se a lei mais grave (nova legislação) se ela entrar em vigor antes de cessar a permanência (momento da libertação da vítima) - art. 4º, CP e Súmula 711 do STF."
+  },
+  {
+    "question": "Questão 80. (VUNESP – 2011 – TJ-SP – TITULAR NOTARIAL) Assinale a alternativa que indica hipótese de não aplicação da lei penal brasileira.",
+    "options": [
+      "Crime praticado em navio de cruzeiro italiano, navegando em mar territorial brasileiro.",
+      "Crime praticado em navio de guerra brasileiro, navegando no mar territorial australiano.",
+      "Crime praticado em lancha de recreio brasileira no mar territorial uruguaio.",
+      "Falsificação de Reais (artigo 289 do Código Penal) praticada na China."
+    ],
+    "correct": 2,
+    "explanation": "Aplica-se a lei brasileira nos casos: **A** (embarcação privada estrangeira em mar territorial brasileiro – art. 5º, § 2º, CP), **B** (embarcação pública brasileira onde quer que se encontre – art. 5º, § 1º, CP), **D** (Extraterritorialidade Incondicionada – contra a fé pública da União – art. 7º, I, 'b', CP).\n**C** (lancha de recreio brasileira no mar territorial uruguaio): Trata-se de embarcação brasileira de propriedade privada em território estrangeiro. Aplica-se a lei brasileira APENAS se o crime **não for julgado lá** (Extraterritorialidade Condicionada – art. 7º, II, 'd', CP). Como a alternativa afirma a **não aplicação** da lei brasileira, esta é a única hipótese onde a lei estrangeira **pode** ser aplicada, excluindo a lei brasileira (caso a justiça uruguaia o julgue)."
+  },
+  {
+    "question": "Questão 81. (VUNESP – 2010 – MPE-SP – ANALISTA DE PROMOTORIA) Considere que um indivíduo, de nacionalidade chilena, em território argentino, contamine a água potável que será utilizada para distribuição no Brasil e Paraguai. considere, ainda, que neste último país, em razão da contaminação, ocorre a morte de um cidadão paraguaio, sendo que no brasil é vitimado, apenas, um equatoriano. De acordo com a regra do art. 6.º, do nosso código penal (\"lugar do crime\"), considera-se o crime praticado",
+    "options": [
+      "na Argentina, apenas.",
+      "no Brasil e no Paraguai, apenas.",
+      "no Chile e na Argentina, apenas.",
+      "na Argentina, no Brasil e no Paraguai, apenas.",
+      "no Chile, na Argentina, no Paraguai, no Brasil e no Equador."
+    ],
+    "correct": 3,
+    "explanation": "O Código Penal (art. 6º) adota a Teoria da Ubiquidade (ou Mista): 'Considera-se praticado o crime no lugar em que ocorreu a **ação ou omissão**, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o **resultado**.'\n- Ação/Omissão: **Argentina** (onde contaminou a água).\n- Resultado: **Brasil** (onde foi consumida) e **Paraguai** (onde foi consumida)."
+  },
+  {
+    "question": "Questão 82. (VUNESP – 2009 – TJ-SP – JUIZ) A norma inserida no art. 7.º, inciso II, alínea \"b\", do código penal - ficam sujeitos à lei brasileira, embora cometidos no estrangeiro (...) os crimes (...) praticados por brasileiro - encerra o princípio",
+    "options": [
+      "da universalidade ou da justiça mundial.",
+      "da territorialidade.",
+      "da nacionalidade ou da personalidade ativa.",
+      "real, de defesa ou da proteção de interesses."
+    ],
+    "correct": 2,
+    "explanation": "O princípio da **nacionalidade ou personalidade ativa** justifica a aplicação da lei brasileira em razão da nacionalidade do agente (brasileiro), independentemente do local onde o crime foi praticado (art. 7º, II, 'b', CP)."
+  },
+  {
+    "question": "Questão 83. (VUNESP – 2009 – TJ-SP – JUIZ) O código penal brasileiro, em seu art. 6.º, como lugar do crime, adota a teoria",
+    "options": [
+      "da atividade ou da ação.",
+      "do resultado ou do evento.",
+      "da ação ou do efeito.",
+      "da ubiquidade."
+    ],
+    "correct": 3,
+    "explanation": "O art. 6º do CP adota a Teoria da Ubiquidade (ou Mista): 'Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado.'"
+  },
+  {
+    "question": "Questão 84. (VUNESP – 2007 – OAB-SP – EXAME DE ORDEM) O código penal brasileiro,",
+    "options": [
+      "quanto ao lugar do crime, adotou a teoria mista ou da ubiqüidade.",
+      "quanto ao lugar do crime, adotou a teoria da atividade ou da ação.",
+      "quanto ao tempo do crime, adotou a teoria mista ou da ubiqüidade.",
+      "quanto ao tempo do crime, adotou a teoria do resultado."
+    ],
+    "correct": 0,
+    "explanation": "O CP adota a Teoria da **Ubiquidade** (mista) para o **Lugar do Crime** (art. 6º) e a Teoria da **Atividade** para o **Tempo do Crime** (art. 4º)."
+  }
+],	
+
+
+
+"CrimeContraPessoa2":[
+  {
+    "question": "(Banca: Vunesp / Órgão: Prefeitura de Cerquilho - SP / Cargo: Guarda Municipal) Serena havia acabado de dar à luz o seu filho, mas, em razão de seu estado emocional, caracterizando o estado puerperal, veio a tirar dolosamente a vida da criança. Considerando o disposto no Código Penal, é correto afirmar que essa conduta de Serena",
+    "options": [
+      "caracteriza o crime de infanticídio.",
+      "não é considerada crime.",
+      "é considerada crime de homicídio qualificado.",
+      "caracteriza o crime de homicídio, com agravante de a vítima ser um recém-nascido.",
+      "é considerada crime, mas Serena ficará isenta de pena por ter sido influenciada pelo estado puerperal."
+    ],
+    "correct": 0,
+    "explanation": "Nessa situação hipotética, Serena deverá responder pelo crime de **infanticídio**, previsto no Art. 123 do Código Penal: 'Matar, **sob a influência do estado puerperal**, o próprio filho, **durante o parto ou logo após**'. Este é um tipo penal específico para a mãe que age dolosamente, mas sob a influência da condição pós-parto, e possui pena de detenção, de dois a seis anos."
+  },
+  {
+    "question": "(Banca: Vunesp / Órgão: Prefeitura de Cerquilho - SP / Cargo: Guarda Municipal) Hércules havia cometido um crime de roubo e ficou sabendo que Medusa foi testemunha ocular desse delito. Assim, resolve tirar a vida de Medusa, crime este que veio a executar, pessoalmente, mediante disparo de arma de fogo. Nessa situação hipotética, considerando apenas essas informações, segundo o Código Penal, é correto afirmar que Hércules cometeu o crime de:",
+    "options": [
+      "homicídio simples.",
+      "homicídio simples, com atenuante, por ter agido sob o domínio de violenta emoção.",
+      "feminicídio em razão de a vítima ser mulher.",
+      "homicídio qualificado, por ter agido para assegurar a impunidade de outro crime.",
+      "homicídio qualificado, em razão de a vítima ser mulher."
+    ],
+    "correct": 3,
+    "explanation": "Nesse caso, Hércules cometeu o homicídio **para assegurar a impunidade de outro crime** (o roubo), uma vez que Medusa era testemunha ocular. Esta circunstância é uma **qualificadora** do homicídio (conexão teleológica), prevista no Art. 121, §2º, V do Código Penal: 'para assegurar a execução, a ocultação, a impunidade ou vantagem de outro crime'. O fato de a vítima ser mulher, por si só, não configura feminicídio, que exige que o crime seja cometido 'por razões da condição de sexo feminino' (Art. 121, §2º, VI c/c §2º-A)."
+  },
+  {
+    "question": "(Banca: Vunesp / Órgão: TJ-SP / Cargo: Titular de Serviços de Notas e de Registros) Diz o parágrafo 5º do artigo 121 do Código Penal Brasileiro, que: “na hipótese de homicídio culposo, o juiz poderá deixar de aplicar a pena, se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária”. Trata-se de:",
+    "options": [
+      "graça.",
+      "perdão judicial.",
+      "anistia.",
+      "indulto."
+    ],
+    "correct": 1,
+    "explanation": "A opção correta é a letra b) **perdão judicial**. O parágrafo 5º do Art. 121 do Código Penal prevê a possibilidade de o juiz deixar de aplicar a pena nos casos de **homicídio culposo**, se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária (também aplicável à lesão corporal culposa - Art. 129, §8º). O perdão judicial é uma causa extintiva da punibilidade (Art. 107, IX do CP) que se aplica a situações específicas previstas em lei."
+  },
+  {
+    "question": "(Banca: AOCP / Órgão: MPE-RS / Cargo: Técnico do Ministério Público) Analise o seguinte caso hipotético: Vilma foi presa em flagrante por tentativa de homicídio contra Alice, sua inimiga mortal. De acordo com o Código Penal, nesse caso, pune-se a tentativa de homicídio com a pena correspondente à do crime consumado, diminuída:",
+    "options": [
+      "da metade.",
+      "de um sexto.",
+      "de um terço.",
+      "de um sexto a um terço.",
+      "de um a dois terços."
+    ],
+    "correct": 4,
+    "explanation": "De acordo com o Art. 14, Parágrafo Único do Código Penal Brasileiro, que trata da tentativa (crimes tentados em geral), o agente que inicia a execução, mas não a consuma por circunstâncias alheias à sua vontade, tem a pena correspondente à do crime consumado, **diminuída de um a dois terços** (a diminuição será maior quanto mais longe o agente ficou da consumação). A tentativa de homicídio se enquadra nesta regra geral. Portanto, a alternativa correta é a letra e) de um a dois terços."
+  },
+  {
+    "question": "(Banca: IBADE / Órgão: Prefeitura de Cariacica - ES / Cargo: Guarda Municipal) Se o agente X mata alguém por motivo fútil, responde pelo crime de:",
+    "options": [
+      "homicídio simples.",
+      "homicídio qualificado.",
+      "latrocínio.",
+      "corrupção.",
+      "furto."
+    ],
+    "correct": 1,
+    "explanation": "Se o agente X mata alguém por **motivo fútil**, ele responde pelo crime de **homicídio qualificado**, nos termos do Art. 121, § 2º, II do Código Penal Brasileiro. O motivo fútil é aquele insignificante, desproporcional à reação (o assassinato), e é uma das circunstâncias que tornam o crime mais grave e, consequentemente, qualificado. "
+  }
+  ,
+  {
+    "question": "(Banca: FGV / Órgão: PC-AM / Cargo: Perito Legista) Em relação ao aborto preterdoloso, é correto afirmar que:",
+    "options": [
+      "ocorre quando a mãe sofre algum tipo de violência em qualquer fase da gestação e o feto nasce morto por qualquer motivo.",
+      "o elemento dolo do crime corresponde a causar lesões na mãe, independente de ser conhecido seu estado gravídico.",
+      "ocorre quando o agressor não sabe da gestação e, portanto, não tem intenção de matar o feto.",
+      "ocorre quando o autor sabe da gravidez e tem intenção de matar o feto.",
+      "ocorre quando o autor sabe da gravidez e, mesmo não tendo intenção de matar o feto, assume o risco ao agredir uma gestante."
+    ],
+    "correct": 4,
+    "explanation": "O aborto preterdoloso (crime preterdoloso) ocorre quando o agente tem **dolo na conduta antecedente** (causar lesões na gestante) e **culpa no resultado consequente** (morte do feto/aborto). O Art. 129, §3º do CP, que trata da lesão corporal seguida de morte, é a base legal (analogia). O resultado abortivo não decorre do dolo direto do agressor. Para que se configure o aborto preterdoloso, é necessário que o agente **saiba da gravidez** e, apesar do dolo de lesionar, **não tenha dolo de matar o feto**. No entanto, a alternativa E está incorreta ao afirmar que o agente 'assume o risco' (o que configuraria dolo eventual). O gabarito aponta E como correta. A doutrina majoritária, todavia, considera o aborto preterdoloso na hipótese de lesão corporal gravíssima por 'aborto' (Art. 129, §2º, V do CP). Na interpretação da questão, a alternativa E melhor descreve o dolo de lesionar (autor sabe da gravidez, mas não tem intenção de matar) e, no contexto preterdoloso (dolo no antecedente, culpa no consequente), a morte do feto é resultado da agressão. A alternativa E, se interpretada no sentido de 'assumir o risco' como previsibilidade (culpa consciente), seria a mais próxima. O aborto preterdoloso ocorre quando o autor sabe da gravidez e, mesmo não tendo intenção de matar o feto, o resultado morte (aborto) é causado por **culpa** decorrente da agressão. Portanto, a alternativa correta é a letra E, apesar da imprecisão do termo 'assume o risco' que sugere dolo eventual."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: PC-PB / Cargo: Delegado de Polícia Civil) O feminicídio – crime cometido contra a vida da mulher devido à sua condição de sexo feminino – tem aumento de pena se praticado:",
+    "options": [
+      "contra vítima menor de dezoito anos de idade.",
+      "contra vítima portadora de doença degenerativa que acarrete condição limitante.",
+      "durante a gestação ou nos seis meses após o parto.",
+      "na presença física ou virtual de descendente, ascendente ou irmão da vítima.",
+      "contra vítima com idade maior ou igual a sessenta e cinco anos."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa (B) está correta e corresponde à redação presente no Art. 121, § 7º, II, CP, que prevê causa de aumento de pena (majorante) para o feminicídio: '§ 7º A pena do feminicídio é aumentada de 1/3 (um terço) até a metade se o crime for praticado: (...) II - contra pessoa maior de 60 (sessenta) anos, com deficiência ou **com doenças degenerativas que acarretem condição limitante ou de vulnerabilidade física ou mental**.' A) Errada, a majorante é para menor de **14** anos (Art. 121, §7º, III). C) Errada, a majorante é durante a gestação ou nos **três** (e não seis) meses após o parto (Art. 121, §7º, I). D) Errada, a majorante é na presença física ou virtual de **descendente ou de ascendente** (Art. 121, §7º, III), e não inclui irmão. E) Errada, a majorante é para maior de **60** (e não 65) anos (Art. 121, §7º, II)."
+  },
+  {
+    "question": "(Banca: Avança SP / Órgão: Prefeitura de Louveira - SP / Cargo: Guarda Municipal) O crime contra a vida, cometido mediante paga ou promessa de recompensa, ou por outro motivo torpe, é classificado como:",
+    "options": [
+      "feminicídio.",
+      "homicídio privilegiado.",
+      "homicídio simples.",
+      "homicídio qualificado",
+      "homicídio culposo."
+    ],
+    "correct": 3,
+    "explanation": "A resposta correta é a letra d) **homicídio qualificado**. O crime de homicídio qualificado é aquele que, além de preencher os requisitos do tipo básico (Art. 121, *caput* do CP), apresenta uma ou mais circunstâncias que qualificam a conduta, tornando-a mais grave. Uma dessas circunstâncias é justamente o **motivo torpe**, que consiste na realização do homicídio por razões moralmente reprováveis, tais como a **paga ou promessa de recompensa** (homicídio mercenário), conforme o Art. 121, §2º, I do CP."
+  },
+  {
+    "question": "(Banca: FGV / Órgão: Prefeitura de Paulínia - SP / Cargo: Guarda Patrimonial) O homicídio é considerado qualificado se é cometido nas seguintes situações, à exceção de uma. Assinale-a.",
+    "options": [
+      "Mediante paga ou promessa de recompensa.",
+      "Por motivo grave.",
+      "Com emprego de veneno asfixia ou tortura.",
+      "À traição ou de emboscada.",
+      "Para assegurar a ocultação ou outro crime."
+    ],
+    "correct": 1,
+    "explanation": "A opção b) está incorreta, pois o homicídio qualificado pode ser cometido por **motivo fútil** (Art. 121, §2º, II), e **não por motivo grave** (motivo grave não é qualificadora, podendo ser, na verdade, um motivo de relevante valor moral/social, que seria causa de diminuição de pena - privilégio). As demais alternativas estão corretas, pois são qualificadoras previstas no Art. 121, § 2º do CP: A) Motivo torpe (§2º, I); C) Meio cruel/insidioso (§2º, III); D) Recurso que dificulte a defesa (§2º, IV); E) Conexão teleológica (§2º, V). "
+  },
+  {
+    "question": "(Banca: FUMARC / Órgão: PC-MG / Cargo: Investigador de Polícia I) A Parte Especial de nosso Código Penal começa com o crime de homicídio (art. 121 CP), demonstrando a preocupação do nosso legislador em proteger penalmente a vida do ser humano. NÃO corresponde a uma modalidade de homicídio qualificado o praticado:",
+    "options": [
+      "à traição, de emboscada ou mediante dissimulação ou outro recurso que dificulte ou torne impossível a defesa do ofendido.",
+      "contra a mulher, por razões da condição de sexo feminino.",
+      "contra pessoa menor de 14 anos ou maior de 60 anos.",
+      "mediante paga ou promessa de recompensa."
+    ],
+    "correct": 2,
+    "explanation": "O homicídio contra pessoa **menor de 14 anos** é uma qualificadora prevista no Art. 121, §2º, IX. No entanto, o homicídio contra pessoa **maior de 60 anos** é uma **causa de aumento de pena** (majorante), conforme o Art. 121, §4º, e não uma qualificadora do §2º. Como a alternativa C mescla uma qualificadora com uma majorante, ela é considerada a opção que **NÃO** corresponde integralmente a uma modalidade de homicídio qualificado (§2º). As demais são todas qualificadoras expressas no Art. 121, §2º do CP: A) §2º, IV; B) §2º, VI (Feminicídio); D) §2º, I (Motivo Torpe)."
+  },
+  {
+    "question": "(Banca: IBFC / Órgão: ISE-AC / Cargo: Agente Socioeducativo) Suponha que Aragornio foi vítima do crime de lesão corporal, previsto no artigo 129 do Código Penal, e ficou incapacitado para as ocupações habituais, por mais de 30 (trinta) dias. Dessa forma, Aragornio foi vítima do crime de lesão corporal:",
+    "options": [
+      "Leve.",
+      "Levíssima.",
+      "Grave",
+      "Gravíssima.",
+      "Neutra."
+    ],
+    "correct": 2,
+    "explanation": "A resposta correta é a letra c) **Grave**. O crime de lesão corporal (Art. 129 do CP) possui várias modalidades. No caso descrito na questão, em que a vítima ficou **incapacitada para as ocupações habituais por mais de trinta dias**, caracteriza-se a **lesão corporal de natureza grave**, prevista no Art. 129, §1º, I, do Código Penal. "
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: MPE-CE / Cargo: Técnico Ministerial) Mário, após ingerir bebida alcoólica em uma festa, agrediu um casal de namorados, o que resultou na morte do rapaz, devido à gravidade das lesões. A moça sofreu lesões leves. A partir dessa situação hipotética, julgue o item a seguir. Se, após a apuração dos fatos, a morte do rapaz caracterizar homicídio simples doloso, a conduta de Mário não será classificada como crime hediondo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. De acordo com a Lei nº 8.072/90 (Lei dos Crimes Hediondos), o **homicídio simples doloso** (Art. 121, *caput*) **não é considerado crime hediondo**. Somente são hediondos o homicídio simples praticado em atividade típica de grupo de extermínio (ainda que por um só agente) e o homicídio qualificado (Art. 1º, I, da Lei 8.072/90). Portanto, se a morte do rapaz for caracterizada como homicídio simples doloso, a conduta de Mário não será classificada como crime hediondo. Logo, o item está correto."
+  },
+  
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: PC-SE / Cargo: Delegado de Polícia) Em um clube social, Paula, maior e capaz, provocou e humilhou injustamente Carlos, também maior e capaz, na frente de amigos. Envergonhado e com muita raiva, Carlos foi à sua residência e, sem o consentimento de seu pai, pegou um revólver pertencente à corporação policial de que seu pai faz parte. Voltando ao clube depois de quarenta minutos, armado com o revólver, sob a influência de emoção extrema e na frente dos amigos, Carlos fez disparos da arma contra a cabeça de Paula, que faleceu no local antes mesmo de ser socorrida. Acerca dessa situação hipotética, julgue o próximo item. Na situação considerada, em que Paula foi vitimada por Carlos por motivação torpe, caso haja vínculo familiar entre eles, o reconhecimento das qualificadoras da motivação torpe e de feminicídio não caracterizará bis in idem.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. O Superior Tribunal de Justiça (STJ) pacificou o entendimento (Informativo 625) de que a qualificadora do feminicídio tem **natureza objetiva** (referente ao modo de execução ou à condição da vítima – Art. 121, §2º, VI c/c §2º-A) e, portanto, é **compatível** com qualificadoras de **natureza subjetiva** (referentes ao motivo do crime), como o **motivo torpe** (Art. 121, §2º, I). Desde que não se utilizem os mesmos fatos para fundamentar ambas, não há *bis in idem* (o motivo torpe pode ser a vingança pela humilhação, e o feminicídio, a violência doméstica/familiar em razão do sexo feminino). O item está correto, pois admite o concurso entre as duas qualificadoras."
+  },
+  {
+    "question": "(Banca: IBADE / Órgão: PC-AC / Cargo: Agente de Polícia Civil) Abigail, depois de iniciado parto caseiro, mas antes de completá-lo, sob influência do estado puerperal, mata o próprio filho. Abigail praticou crime de:",
+    "options": [
+      "homicídio qualificado.",
+      "consentimento para o aborto",
+      "homicídio.",
+      "autoaborto.",
+      "infanticídio."
+    ],
+    "correct": 4,
+    "explanation": "Nessa situação hipotética, a mãe que mata o próprio filho, **durante o parto ou logo após**, sob a **influência do estado puerperal**, pratica o delito de **infanticídio**, que está previsto no Art. 123 do Código Penal."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: TJ-RR / Cargo: Agente de Proteção) Lia, grávida de 8 meses, pediu ao médico que a atendera no hospital, onde chegara em trabalho de parto, que interrompesse a gravidez, pois ela não queria ter mais filhos. O médico, então, matou o bebê durante o procedimento cirúrgico para realização do parto. O marido de Lia, Augusto, sob a influência de violenta emoção, matou-a quando recebeu a notícia de que o bebê havia morrido. Depois de matar a esposa, Augusto, decidido a cometer suicídio, pediu a Cláudio, seu amigo, que lhe emprestasse sua arma de fogo para que pudesse se matar. Sem coragem para cometer o suicídio, Augusto pediu a ajuda de sua mãe, Severina, que, embora concordasse com o ato do filho, não teve coragem de apertar o gatilho. Augusto, então, incentivado pela mãe, atirou contra si. O tiro, entretanto, ocasionou apenas um ferimento leve em seu ombro. Desesperado, Augusto recorreu novamente a seu amigo Cláudio, a quem implorou auxílio. Muito a contragosto, Cláudio matou Augusto. Augusto tem direito ao reconhecimento da figura do homicídio privilegiado, pois estava sob a influência de violenta emoção.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 1,
+    "explanation": "Errado. Uma das hipóteses de homicídio privilegiado (Art. 121, §1º do CP) é o homicídio praticado quando o agente está sob **domínio** (e não mera influência) de violenta emoção, e deve ser praticado **logo em seguida** (e não em momento posterior) à injusta provocação da vítima. No caso, Augusto estava apenas sob a *influência* e não sob o *domínio* (que é um estado mais intenso de choque emocional), e o lapso temporal não é imediato ('quando recebeu a notícia', o que sugere um tempo após o fato ter ocorrido, e não 'logo após a injusta provocação' de Lia). Portanto, item incorreto."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: Polícia Federal / Cargo: Agente Federal da Polícia Federal) Vítor desferiu duas facadas na mão de Joaquim, que, em consequência, passou a ter debilidade permanente do membro. Nessa situação, Vítor praticou crime de lesão corporal de natureza grave, classificado como crime instantâneo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. Nos termos do Art. 129, §1º, III do CP, a lesão corporal que resulta em **debilidade permanente de membro, sentido ou função** é classificada como lesão corporal de **natureza grave**. Ademais, a lesão corporal é classificada como **crime instantâneo**, pois a consumação ocorre em um momento preciso (com a ofensa à integridade corporal ou saúde), embora seus efeitos (a debilidade permanente) perdurem no tempo."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: DPU / Cargo: Defensor Público Federal) Para a configuração da agravante da lesão corporal de natureza grave em face da incapacidade para as ocupações habituais por mais de trinta dias, não é necessário que a ocupação habitual seja laborativa, podendo ser assim compreendida qualquer atividade regularmente desempenhada pela vítima.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. O item está correto. A lesão corporal de natureza grave pelo resultado **incapacidade para as ocupações habituais por mais de trinta dias** (Art. 129, § 1º, I, do CP) não se limita a atividades **laborativas** (trabalho). A 'ocupação habitual' abrange qualquer atividade que a vítima realizava regularmente, como estudos, práticas esportivas, ou mesmo afazeres domésticos. A intenção da lei é proteger o modo de vida da vítima."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: DPE-AL / Cargo: Defensor Público) A premeditação, apesar de não ser considerada qualificadora do delito de homicídio, pode ser levada em consideração para agravar a pena, funcionando como circunstância judicial.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. De fato, a premeditação (o planejamento prévio do crime) **não é qualificadora** do homicídio (não está no Art. 121, §2º). Contudo, pode ser levada em conta pelo Juiz como circunstância judicial desfavorável, enquadrada na 'culpabilidade' ou nas 'circunstâncias do crime' do Art. 59 do CP, de forma a **elevar a pena-base** na primeira fase da dosimetria. Isso demonstra a maior reprovabilidade da conduta."
+  },
+  {
+    "question": "(Banca: FGV / Órgão: ALERJ / Cargo: Especialista Legislativo) João, servidor público estadual ocupante do cargo efetivo de engenheiro civil, foi o responsável por determinada obra com escavação de um poço. João agiu culposamente, nas modalidades de imperícia e negligência, pois, na condição de engenheiro civil, realizou obra sem observar seu dever objetivo de cuidado e as regras técnicas da profissão, provocando como resultado a morte de um pedreiro que trabalhava no local. Em termos de responsabilidade criminal, em tese, João:",
+    "options": [
+      "não deve ser processado por homicídio, pois não agiu com dolo ou culpa criminal, restringindo-se sua responsabilidade à esfera cível;",
+      "não deve ser processado por homicídio, pois agiu como funcionário público no exercício da função, restando apenas a responsabilidade cível que recairá sobre o poder público;",
+      "deve ser processado por homicídio doloso, eis que agiu com dolo direto e eventual, na medida em que assumiu o risco de provocar a morte do pedreiro;",
+      "deve ser processado por homicídio culposo, com causa de diminuição de pena, eis que não agiu com intenção de provocar o resultado morte do pedreiro;",
+      "deve ser processado por homicídio culposo, com causa de aumento de pena, eis que o crime resultou de inobservância de regra técnica de profissão."
+    ],
+    "correct": 4,
+    "explanation": "Nessa situação hipotética, João deve responder pelo crime de **homicídio culposo** (Art. 121, §3º do CP), uma vez que, deu causa ao resultado morte por culpa, decorrente de **negligência e imperícia**. Além disso, o Art. 121, **§4º** do CP prevê que a pena será **aumentada de 1/3** se o crime culposo (homicídio ou lesão corporal) decorre de **inobservância de regra técnica de profissão, arte ou ofício**. A conduta de João, como engenheiro civil, enquadra-se nesta majorante. Portanto, a alternativa correta é E."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: PC-AL / Cargo: Agente de Polícia) Acerca dos crimes contra a pessoa, julgue o item que se segue. O agente que jogar óleo quente na vítima, com animus laedendi, causando, assim, deformidade permanente nela, segundo laudo médico, cometerá crime de lesão corporal gravíssima.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Correto. De acordo com o Art. 129, **§ 2º, IV** do Código Penal, a lesão corporal que resulta em **deformidade permanente** da vítima é classificada como lesão corporal de natureza **gravíssima** (juntamente com perda ou inutilização de membro/sentido/função, incapacidade permanente para o trabalho e enfermidade incurável). O dolo do agente era apenas o de lesionar (*animus laedendi*), mas o resultado foi gravíssimo. A pena é de reclusão, de dois a oito anos."
+  },
+  {
+    "question": "(Banca: Idecan / Órgão: PEFOCE / Cargo: Odontologia) As lesões corporais descritas nos incisos do §1º do art. 129 do Código Penal, prevendo pena de reclusão de 1 a 5 anos em razão dos resultados (incapacidade para as ocupações habituais por mais de 30 dias; perigo de vida; debilidade permanente de membro, sentido ou função; e/ou aceleração do parto), são consideradas lesões corporais de natureza:",
+    "options": [
+      "leve.",
+      "média.",
+      "grave.",
+      "gravíssima.",
+      "levíssima."
+    ],
+    "correct": 2,
+    "explanation": "A resposta correta é a letra c) **grave**. O Art. 129, **§ 1º** do Código Penal detalha os resultados que classificam as lesões corporais como de natureza **grave** (pena de reclusão, de um a cinco anos): I - Incapacidade para as ocupações habituais, por mais de trinta dias; II - Perigo de vida; III - Debilidade permanente de membro, sentido ou função; IV - Aceleração de parto."
+  },
+  {
+    "question": "(Banca: FCC / Órgão: TRT - 15ª Região (SP) / Cargo: Técnico Judiciário) O autor de homicídio praticado com a intenção de livrar um doente, que padece de moléstia incurável, dos sofrimentos que o atormentam (eutanásia), perante a legislação brasileira,",
+    "options": [
+      "não cometeu infração penal.",
+      "responderá por crime de homicídio privilegiado.",
+      "responderá por homicídio qualificado pelo motivo torpe.",
+      "responderá por homicídio simples.",
+      "responderá por homicídio qualificado pelo motivo fútil."
+    ],
+    "correct": 1,
+    "explanation": "O autor do homicídio por **eutanásia** (homicídio piedoso) será enquadrado no crime de **homicídio privilegiado** previsto no Art. 121, **§ 1º** do Código Penal. A ação é motivada por um **relevante valor moral** (piedade), que é uma das causas especiais de diminuição de pena (redução de um sexto a um terço) no homicídio simples: '§ 1º Se o agente comete o crime impelido por **motivo de relevante valor social ou moral**...'"
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: MPE-SC / Cargo: Promotor de Justiça Substituto) Com relação aos crimes previstos na Parte Especial do Código Penal, julgue o próximo item. No homicídio qualificado, o dolo eventual é incompatível com o meio cruel.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 1,
+    "explanation": "Errado. O Superior Tribunal de Justiça (STJ) tem entendimento de que o **dolo eventual** é **compatível** com a figura qualificada do homicídio praticado mediante **meio cruel** (Art. 121, §2º, III). Isso ocorre porque, nessa modalidade, a qualificadora é de natureza **objetiva** (meio utilizado). O agente, ao assumir o risco de matar, pode utilizar um meio que, objetivamente, impõe sofrimento desnecessário à vítima, mesmo que não tivesse a intenção *direta* de causar esse sofrimento (Dolo Eventual). Portanto, não há incompatibilidade."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: PC-DF / Cargo: Agente de Polícia) No que se refere aos crimes previstos na legislação penal, julgue o item a seguir. Responderá pelo crime de lesão corporal seguida de morte o agente que não quis o resultado morte nem assumiu o risco de produzi-lo.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. A **lesão corporal seguida de morte** (Art. 129, §3º do CP) é um crime **preterdoloso**, ou seja, o agente tem dolo no antecedente (lesionar) e culpa no consequente (morte). Para sua configuração, exige-se que o agente **não tenha querido o resultado morte nem assumido o risco de produzi-lo** (culpa - previsibilidade ou previsibilidade exigível). Se ele tivesse assumido o risco (dolo eventual), seria homicídio doloso. Portanto, o item está correto ao descrever a essência da preterdolo no crime de lesão corporal seguida de morte."
+  },
+  {
+    "question": "(Banca: FGV / Órgão: PC-RJ / Cargo: Perito Criminal) Do ponto de vista legislativo, constitui espécie de crime contra a vida:",
+    "options": [
+      "lesão corporal seguida de morte;",
+      "abandono de recém-nascido com resultado morte;",
+      "maus-tratos com resultado morte;",
+      "instigação, auxílio ou induzimento à automutilação;",
+      "tortura com resultado morte."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta que constitui espécie de crime contra a vida é a \"D\" - instigação, auxílio ou induzimento à automutilação, prevista no art. 122 do Código Penal Brasileiro como incitação ao suicídio, que também é considerado um crime contra a vida. Os crimes contra a vida, previstos no Código Penal (Título I da Parte Especial), são os crimes de homicídio (art. 121), Induzimento, instigação ou auxílio a suicídio ou a automutilação (art. 122), infanticídio (art. 123) e aborto (art. 124 a 126). As demais opções são crimes preterdolosos (lesão corporal seguida de morte, maus-tratos com resultado morte) ou qualificados pelo resultado (tortura com resultado morte), que estão em outros Títulos do CP."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: MPE-PA / Cargo: Promotor de Justiça) Na saída de uma festa, após uma discussão, Francisco, motivado por ciúmes, desferiu um único soco em José. Este, surpreendido, não esboçou reação e caiu no chão, bateu a cabeça no meio-fio da calçada e faleceu em seguida. Iniciado e instruído o processo, o laudo do IML apontou que José tinha morrido em decorrência de um aneurisma cerebral, fato desconhecido de ambos. Nessa situação hipotética, a conduta de Francisco é considerada crime de:",
+    "options": [
+      "lesão corporal simples.",
+      "lesão corporal seguida de morte.",
+      "lesão corporal na forma qualificada.",
+      "homicídio simples.",
+      "homicídio qualificado."
+    ],
+    "correct": 0,
+    "explanation": "Como o laudo do IML apontou que a morte da vítima foi causada por um aneurisma cerebral, fato desconhecido tanto por Francisco quanto por José, o resultado morte (aneurisma) não pode ser atribuído à conduta do agente (soco), pois houve uma concausa preexistente totalmente independente (doença da vítima). O resultado fatal é atípico em relação ao agente. Portanto, Francisco apenas responderá por **lesão corporal simples**, já que desferiu um soco na vítima, que resultou em sua queda (Art. 129, caput do CP). Não há, portanto, o elemento subjetivo do crime de lesão corporal seguida de morte, que exige a existência de dolo no antecedente (lesão) e culpa no consequente (morte) - o resultado morte aqui decorreu de causa independente. Portanto, a alternativa correta é a letra A: lesão corporal simples."
+  },
+  {
+    "question": "(Banca: Quadrix / Órgão: CRO - SC / Cargo: Fiscal Cirurgião Dentista) À luz do Código Penal brasileiro, julgue o item. Considere-se que, após a realização de um procedimento cirúrgico, tenha ficado comprovada a imperícia de um cirurgião-dentista, resultando em um dano permanente a um nervo sensitivo do paciente. Nessa situação hipotética, a lesão corporal é dolosa e de natureza grave.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 1,
+    "explanation": "Errado. Na situação hipotética descrita, a lesão corporal é **culposa**, pois houve a falta de habilidade técnica do cirurgião-dentista, configurando um caso de **imperícia**, uma das modalidades de culpa (Art. 18, II do CP). Além disso, o dano permanente a um nervo sensitivo é um tipo de 'debilidade permanente de sentido ou função' (Art. 129, §1º, III do CP), sendo a lesão corporal, neste caso, de natureza **grave** (e não leve, como o comentário sugere, ao indicar 'apenas dano a um nervo sensitivo', mas ao mesmo tempo exigindo 'debilidade permanente'). De qualquer forma, o erro mais evidente no item é classificá-la como **dolosa** (o que o comentário corretamente refuta ao classificar a conduta como culposa por imperícia). Portanto, a afirmativa está incorreta."
+  },
+  {
+    "question": "(Banca: AOCP / Órgão: PC-GO / Cargo: Agente de Polícia) É considerado qualificado o homicídio",
+    "options": [
+      "se a vítima é pessoa com deficiência ou com doença que implique o aumento de sua vulnerabilidade.",
+      "se o crime for praticado por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio.",
+      "se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou, por qualquer outro título, tiver autoridade sobre ela.",
+      "se o crime for praticado na presença física ou virtual de descendente ou de ascendente da vítima.",
+      "se o crime for praticado contra menor de 14 (quatorze) anos."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa correta é a letra E. O homicídio é considerado **qualificado** quando é praticado **contra menor de 14 (quatorze) anos**, conforme previsto no inciso IX do §2º do art. 121 do Código Penal brasileiro (Lei nº 14.344/2022). As demais alternativas são causas de **aumento de pena** (majorantes) no homicídio, e não qualificadoras (Art. 121, §4º e §7º do CP), exceto a B, que qualifica o homicídio simples (grupo de extermínio, Art. 1º, I da Lei 8.072/90), mas não é a resposta mais precisa aqui, sendo E a qualificadora expressa no §2º."
+  },
+  {
+    "question": "(Banca: FUMARC / Órgão: TRT - 3ª Região (MG) / Cargo: Técnico Judiciário) Caracteriza feminicídio o crime cometido:",
+    "options": [
+      "contra a mulher, independente da motivação.",
+      "contra a mulher, por razões da condição de sexo feminino.",
+      "contra a mulher, desde que não seja no ambiente doméstico.",
+      "contra a mulher, se o autor for seu companheiro ou marido.",
+      "pela mulher, em razão de sua condição de gênero."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra b) - **contra a mulher, por razões da condição de sexo feminino**. O feminicídio (Art. 121, §2º, VI do CP) é uma qualificadora do crime de homicídio que se configura quando uma mulher é morta em razão de sua condição de gênero. Isso significa que o crime foi cometido por ódio, desvalorização ou discriminação à condição de mulher, o que pode incluir situações de violência doméstica (Art. 121, § 2º-A, I) ou menosprezo/discriminação (Art. 121, § 2º-A, II), por exemplo."
+  },
+  {
+    "question": "(Banca: Idecan / Órgão: TJ-PI / Cargo: Oficial de Justiça e Avaliador) José, com dolo de matar, resolve torturar Carlos até sua morte. Para tanto, se inspirando em filmes de guerra hollywoodianos, faz com que Carlos sofra, física e mentalmente, de forma inimagináveis, vindo a acarretar sua morte. Nessa hipótese, José deverá responder por:",
+    "options": [
+      "homicídio qualificado pela tortura.",
+      "lesão corporal seguida de morte.",
+      "tortura qualificada pela morte.",
+      "homicídio.",
+      "tortura."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A. O caso descrito é de **Homicídio Qualificado**, pois o agente (José) agiu com *animus necandi* (dolo de matar) e utilizou a tortura como **meio de execução** do homicídio. Conforme o Art. 121, § 2º, inciso III do Código Penal Brasileiro, o homicídio é qualificado quando cometido com emprego de veneno, fogo, explosivo, asfixia, **tortura** ou outro meio insidioso ou cruel. Se o dolo do agente fosse apenas o de torturar e o resultado morte fosse culposo ou preterdoloso, o crime seria 'tortura qualificada pelo resultado morte' (Lei 9.455/97, Art. 1º, §3º). Como havia dolo de matar, a tortura é o meio, qualificando o homicídio."
+  },
+  {
+    "question": "(Banca: IBFC / Órgão: PC-BA / Cargo: Investigador de Polícia Civil) Haverá crime de lesão corporal de natureza grave, punido com pena de reclusão, de um a cinco anos, se resultar:",
+    "options": [
+      "aceleração de parto",
+      "perda ou inutilização do membro, sentido ou função",
+      "enfermidade incurável",
+      "incapacidade permanente para o trabalho",
+      "deformidade permanente"
+    ],
+    "correct": 0,
+    "explanation": "A resposta correta é a letra A: “aceleração de parto”, conforme previsão do Art. 129, § 1º, IV, do CP. As opções B, C, D e E (perda/inutilização, enfermidade incurável, incapacidade permanente para o trabalho, deformidade permanente) são hipóteses de **Lesão Corporal de Natureza Gravíssima** (Art. 129, §2º do CP), cuja pena é mais alta (reclusão de dois a oito anos). A Lesão Corporal de Natureza Grave (Art. 129, §1º), com pena de reclusão de um a cinco anos, é tipificada nos incisos I a IV, sendo o IV a aceleração de parto."
+  },
+  {
+    "question": "(Banca: IBFC / Órgão: PC-BA / Cargo: Investigador de Polícia Civil) Assinale a alternativa que indica a presença de uma qualificadora do crime de homicídio.",
+    "options": [
+      "Crime cometido por razão de relevante valor moral",
+      "Crime praticado durante o repouso noturno",
+      "Crime praticado contra a mulher por razões da condição de sexo feminino",
+      "Crime praticado sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima",
+      "Crime impelido por motivo de relevante valor social"
+    ],
+    "correct": 2,
+    "explanation": "A alternativa que indica a presença de uma **qualificadora** do crime de homicídio é a letra c) **Crime praticado contra a mulher por razões da condição de sexo feminino**. Essa é a qualificadora do **Feminicídio** (Art. 121, §2º, VI do CP), introduzida pela Lei nº 13.104/2015. As opções A, D e E (relevante valor moral/social, domínio de violenta emoção) são causas de **diminuição de pena** (homicídio privilegiado, Art. 121, §1º do CP). A opção B (repouso noturno) é uma **agravante genérica** (Art. 61, II, 'f' do CP) e não uma qualificadora do homicídio."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: POLITEC - RO / Cargo: Perito Criminal) À luz do Código Penal, assinale a opção correta acerca dos crimes contra a pessoa.",
+    "options": [
+      "A mulher que, sob a influência do estado puerperal, matar o próprio filho durante o parto responderá por aborto provocado pela gestante.",
+      "O agente que induzir ou instigar alguém a suicidar-se ou a praticar automutilação responderá por crime doloso contra a vida, punido com reclusão.",
+      "A gravidade da lesão corporal será equivalente se ocorrer tanto a debilidade permanente quanto a perda ou a inutilização de membro, sentido ou função.",
+      "O aborto necessário — quando não há outro meio de salvar a gestante — e o aborto no caso de gravidez decorrente de estupro excluem a ilicitude por inexigibilidade de conduta diversa.",
+      "A circunstância de o crime de feminicídio ser praticado durante a gestação ou nos seis meses após o parto é qualificadora desse crime."
+    ],
+    "correct": 1,
+    "explanation": "A) ERRADA: A conduta descrita configura **Infanticídio** (Art. 123 do CP), e não aborto. B) **CORRETA:** O Art. 122 do CP prevê o crime de 'Induzimento, instigação ou auxílio a suicídio ou a automutilação', que é um **crime doloso contra a vida** (listado no Título I da Parte Especial) e é punido com **reclusão** (pena base de 6 meses a 2 anos, mas com penas aumentadas podendo chegar a reclusão de 2 a 6 anos, e de 4 a 12 anos, dependendo do resultado e da motivação). C) ERRADA: **Debilidade permanente** (Art. 129, §1º, III) é lesão de natureza **grave**; **Perda ou inutilização** (Art. 129, §2º, III) é lesão de natureza **gravíssima**. As gravidades **não são equivalentes**. D) ERRADA: O aborto necessário e o aborto sentimental/humanitário (Art. 128, I e II) são causas de **exclusão de ilicitude** (causas legais de atipicidade, 'Não se pune...'), não por inexigibilidade de conduta diversa (que é causa supralegal de exclusão de culpabilidade). E) ERRADA: A prática do feminicídio **durante a gestação ou nos 3 meses após o parto** (e não 6 meses) é uma **causa de aumento de pena** (majorante - Art. 121, §7º, I do CP), e não uma qualificadora."
+  },
+  {
+    "question": "(Banca: Vunesp / Órgão: PC-SP / Cargo: Escrivão de Polícia) Tício, técnico em manutenção de equipamentos, de forma imperita, instalou, em sua própria casa, suporte de ar-condicionado não compatível com o peso do aparelho que, passados poucos dias da instalação, desprendeu-se da parede, vindo a atingir seu próprio filho, que brincava no quintal. A criança, atingida na cabeça, teve traumatismo craniano, com sequela de convulsões periódicas. Haja vista a situação hipotética, assinale a alternativa correta.",
+    "options": [
+      "Tício praticou o crime de lesão corporal culposa, com causa de aumento em razão de a vítima ser criança, nos exatos termos do parágrafo 7º, do artigo 129, CP.",
+      "Tício praticou o crime de lesão corporal, de natureza grave, nos termos do parágrafo 1º, do artigo 129, CP.",
+      "Ticio praticou o crime de lesão corporal, nos exatos termos do “caput”, do artigo 129, do CP.",
+      "A Tício, dadas as circunstâncias, é possível a aplicação de perdão judicial, nos exatos termos do parágrafo 8º do artigo 129, CP.",
+      "Tício praticou o crime de lesão corporal culposa, de natureza grave, nos exatos termos do artigo 129, parágrafo 6º, do CP"
+    ],
+    "correct": 3,
+    "explanation": "A letra D é a alternativa correta. O crime foi de lesão corporal culposa (imperícia). O resultado (sequela de convulsões periódicas) sugere lesão corporal grave ou gravíssima. De acordo com o Art. 129, **parágrafo 8º** do Código Penal, na **lesão corporal culposa**, é possível a aplicação do **perdão judicial** nos termos do artigo 121, parágrafo 5º, que prevê que o juiz poderá deixar de aplicar a pena se as consequências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária (princípio da desnecessidade da pena). No caso, Tício lesionou gravemente o próprio filho, sendo as consequências do crime graves para ele. Portanto, no caso descrito, é possível a aplicação do perdão judicial a Tício devido às graves consequências da sua própria conduta."
+  },
+  {
+    "question": "(Banca: FCC / Órgão: DPE-CE / Cargo: Defensor Público) O crime de feminicídio tem a pena aumentada de um terço até a metade se o crime for praticado:",
+    "options": [
+      "durante a gestação ou nos 6 (seis) primeiros meses posteriores ao parto.",
+      "contra pessoa com menos de 18 (dezoito) anos ou mais de 60 (sessenta) anos.",
+      "com emprego de tortura ou outro meio insidioso ou cruel.",
+      "após o descumprimento de qualquer medida protetiva de urgência.",
+      "na presença física ou virtual de descendente ou de ascendente da vítima."
+    ],
+    "correct": 4,
+    "explanation": "De acordo com o Art. 121, § 7º, III, do Código Penal, o crime de feminicídio tem a pena aumentada de um terço até a metade se o crime for praticado: 'III – **na presença física ou virtual de descendente ou de ascendente da vítima**.' As demais alternativas: A) Aumento de pena é se for durante a gestação ou nos **3** (três) primeiros meses posteriores ao parto (Art. 121, §7º, I). B) Aumento é se for contra pessoa **menor de 14 anos** ou **maior de 60 anos** ou com deficiência (Art. 121, §7º, III). C) Emprego de tortura é **qualificadora** (Art. 121, §2º, III). D) Descumprimento de MP de Urgência é causa de aumento (Art. 121, §7º, IV), mas não é a resposta mais adequada por ser outra previsão. Portanto, a alternativa (E) apresenta exatamente a previsão contida no artigo 121, § 7º, III do CP."
+  },
+  {
+    "question": "(Banca: AOCP / Órgão: Governo do Distrito Federal / Cargo: Policial Penal) Em relação ao direito penal, julgue o seguinte item. Imagine que Caio, com animus necandi, ministre dose letal de veneno na comida de Ana. No entanto, antes que a substância produza o efeito almejado, Ana é atingida por um raio, morrendo eletrocutada. Nessa situação, em decorrência da quebra da relação de causalidade, Caio deverá responder por tentativa de homicídio.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 0,
+    "explanation": "Certo. Mesmo que Caio tenha tido a intenção de matar Ana (dolo), ele não pode ser responsabilizado pela morte decorrente de uma **causa superveniente totalmente independente** (o raio, um fato da natureza) que, por si só, produziu o resultado fatal (Art. 13, §1º do CP - Concausa Absolutamente Independente Superveniente). O fato de Ana ter morrido pelo raio **quebra o nexo causal** entre a conduta de Caio (ministrar veneno) e o resultado morte. Dessa forma, ele deve responder apenas pelo ato de ministrar a dose letal de veneno, que configura a **tentativa de homicídio** (Homicídio Qualificado pelo Veneno, na forma tentada). É importante lembrar que a concausa deve ser totalmente independente da conduta do agente para que ocorra a quebra do nexo causal."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: PC-PB / Cargo: Técnico em Perícia) João, logo após ter sido provocado injustamente por Francisco, sob o domínio de violenta emoção, desferiu golpes de faca contra o peito de Francisco, que faleceu em razão desse ato. Diante dessa situação hipotética, é correto afirmar que João:",
+    "options": [
+      "responderá por homicídio consumado na modalidade simples.",
+      "responderá por homicídio privilegiado.",
+      "responderá por homicídio consumado por motivo fútil.",
+      "não responderá por crime, uma vez que agiu em legítima defesa.",
+      "responderá por homicídio consumado por motivo torpe."
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o Art. 121, § 1º, do Código Penal, o homicídio praticado sob o **domínio de violenta emoção, logo em seguida a injusta provocação da vítima**, tem a pena reduzida de um sexto a um terço. Essa é a hipótese de **homicídio privilegiado** (causa especial de diminuição de pena), que deve ser diferenciada do homicídio simples, que é a modalidade mais básica desse crime. Dessa forma, João responderá por homicídio privilegiado, em razão da influência da violenta emoção que o levou a agir após ter sido injustamente provocado por Francisco."
+  },
+  {
+    "question": "(Banca: Cespe/Cebraspe / Órgão: SERES-PE / Cargo: Policial Penal do Estado) Suponha que um indivíduo tenha provocado lesão na filha de um policial penal estadual, em razão da função pública exercida pelo pai da vítima. Nessa hipótese, o indivíduo cometeu:",
+    "options": [
+      "lesão corporal simples.",
+      "lesão corporal qualificada, por ser a vítima do sexo feminino.",
+      "lesão corporal com causa de aumento de pena, em razão de a vítima ser familiar de agente de segurança pública.",
+      "lesão corporal simples e desacato.",
+      "lesão corporal qualificada, pela prevalência de relações domésticas da vítima."
+    ],
+    "correct": 2,
+    "explanation": "O indivíduo provocou lesão corporal na vítima **em razão de ela ser familiar de agente de segurança pública**. O Art. 129, **§ 12** do Código Penal prevê uma **causa de aumento de pena** (de 1/3 a 2/3) para a lesão corporal (dolosa ou culposa) praticada contra o cônjuge, companheiro, ou parente consanguíneo até o terceiro grau de agente de segurança pública (Art. 144 da CRFB/88) **em razão dessa condição**. Assim sendo, o delito praticado foi o de **lesão corporal com causa de aumento de pena**, sendo a alternativa (C) a correta."
+  }
+],
+
+};
+
+// Elementos do DOM
+const subjectSelect = document.getElementById('subject-select');
+const quizContent = document.getElementById('quiz-content');
+const questionContainer = document.getElementById('question-container');
+const answerBtn = document.getElementById('answer-btn');
+const prevBtn = document.getElementById('prev-btn');
+const nextBtn = document.getElementById('next-btn');
+const submitBtn = document.getElementById('submit-btn');
+const resultDiv = document.getElementById('result');
+const correctCountSpan = document.getElementById('correct-count');
+const wrongCountSpan = document.getElementById('wrong-count');
+const nQuestoes = document.getElementById('nquestoes');
+
+
+// Estado do quiz
+let currentQuestions = [];
+let userAnswers = [];
+let answeredQuestions = [];
+let currentQuestionIndex = 0;
+let correctCount = 0;
+let wrongCount = 0;
+
+// Função para embaralhar array (Fisher-Yates)
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+// Função para obter todas as questões
+function getAllQuestions() {
+    return Object.values(questions).flat();
+}
+
+// Função para carregar questões
+function loadQuestions(subject) {
+    if (subject) {
+        currentQuestions = shuffleArray([...questions[subject]]);
+    } else {
+        currentQuestions = shuffleArray([...getAllQuestions()]);
+    }
+    userAnswers = new Array(currentQuestions.length).fill(null);
+    answeredQuestions = new Array(currentQuestions.length).fill(false);
+    currentQuestionIndex = 0;
+    correctCount = 0;
+    wrongCount = 0;
+    updateScoreCounter();
+    questionContainer.innerHTML = '';
+    submitBtn.style.display = 'none';
+    prevBtn.style.display = currentQuestions.length > 0 ? 'block' : 'none';
+    nextBtn.style.display = currentQuestions.length > 0 ? 'block' : 'none';
+    answerBtn.style.display = currentQuestions.length > 0 ? 'block' : 'none';
+
+    if (currentQuestions.length === 0) {
+        questionContainer.innerHTML = '<p>Nenhuma questão disponível.</p>';
+        prevBtn.style.display = 'none';
+        nextBtn.style.display = 'none';
+        answerBtn.style.display = 'none';
+        return;
+    }
+
+    showQuestion(currentQuestionIndex);
+
+    updateNavigation();
+    nQuestoes.innerHTML = `Número de Questoes: ${currentQuestions.length}`;
+}
+
+// Função para exibir uma questão
+function showQuestion(index) {
+    questionContainer.innerHTML = '';
+    const q = currentQuestions[index];
+    const questionDiv = document.createElement('div');
+    questionDiv.classList.add('question');
+    questionDiv.innerHTML = `<h3>${index + 1}. ${q.question}</h3>`;
+
+    q.options.forEach((option, optIndex) => {
+        const optionDiv = document.createElement('div');
+        optionDiv.classList.add('option');
+        const isChecked = userAnswers[index] === option;
+        optionDiv.innerHTML = `
+            <input type="radio" name="q${index}" id="q${index}o${optIndex}" value="${option}" ${isChecked ? 'checked' : ''} ${answeredQuestions[index] ? 'disabled' : ''}>
+            <label for="q${index}o${optIndex}">
+		${option} 
+	    </label>
+	<br/><br/>
+
+	 ${answeredQuestions[index] && optIndex === q.correct ? q.explanation : ''} 	
+	 
+        `;
+        if (answeredQuestions[index] && optIndex === q.correct) {
+            optionDiv.classList.add('correct');
+        }
+        optionDiv.querySelector('input').addEventListener('change', () => {
+            userAnswers[index] = option;
+        });
+        questionDiv.appendChild(optionDiv);
+    });
+
+    questionContainer.appendChild(questionDiv);
+    answerBtn.disabled = answeredQuestions[index];
+}
+
+// Função para atualizar botões de navegação
+function updateNavigation() {
+    prevBtn.disabled = currentQuestionIndex === 0;
+    if (currentQuestionIndex === currentQuestions.length - 1) {
+        nextBtn.innerText = 'Finalizar';
+    } else {
+        nextBtn.innerText = 'Próxima';
+    }
+}
+
+// Função para atualizar contador de pontuação
+function updateScoreCounter() {
+    correctCountSpan.textContent = correctCount;
+    wrongCountSpan.textContent = wrongCount;
+}
+
+// Função para verificar resposta
+function checkAnswer(index) {
+    if (answeredQuestions[index]) return; // Evita verificar novamente
+    if (userAnswers[index] === null) {
+        resultDiv.innerHTML = 'Por favor, selecione uma resposta!';
+        return;
+    }
+
+    answeredQuestions[index] = true;
+    const q = currentQuestions[index];
+    const correctOption = q.options[q.correct]; // Obtém a opção correta pelo índice
+    if (userAnswers[index] === correctOption) {
+        correctCount++;
+    } else {
+        wrongCount++;
+    }
+    updateScoreCounter();
+    showQuestion(index); // Reexibe a questão com a resposta correta destacada
+    answerBtn.disabled = true;
+}
+
+// Função para verificar todas as respostas no final
+function checkAnswers() {
+    let score = 0;
+    const allAnswered = userAnswers.every(answer => answer !== null);
+
+    if (!allAnswered) {
+        resultDiv.innerHTML = 'Por favor, responda todas as questões!';
+        return;
+    }
+
+    currentQuestions.forEach((q, index) => {
+        const correctOption = q.options[q.correct]; // Obtém a opção correta pelo índice
+        if (userAnswers[index] === correctOption) {
+            score++;
+        }
+    });
+
+    resultDiv.innerHTML = `Você acertou ${score} de ${currentQuestions.length} questões!`;
+    questionContainer.innerHTML = '';
+    prevBtn.style.display = 'none';
+    nextBtn.style.display = 'none';
+    answerBtn.style.display = 'none';
+    submitBtn.style.display = 'none';
+}
+
+// Evento para mudança de assunto
+subjectSelect.addEventListener('change', (e) => {
+    resultDiv.innerHTML = '';
+    loadQuestions(e.target.value);
+});
+
+// Evento para botão Anterior
+prevBtn.addEventListener('click', () => {
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex--;
+        showQuestion(currentQuestionIndex);
+        updateNavigation();
+    }
+});
+
+// Evento para botão Próxima/Finalizar
+nextBtn.addEventListener('click', () => {
+    if (currentQuestionIndex < currentQuestions.length - 1) {
+        currentQuestionIndex++;
+        showQuestion(currentQuestionIndex);
+        updateNavigation();
+    } else {
+        checkAnswers();
+    }
+});
+
+// Evento para botão Responder
+answerBtn.addEventListener('click', () => {
+    checkAnswer(currentQuestionIndex);
+});
+
+// Evento para envio das respostas (opcional)
+submitBtn.addEventListener('click', checkAnswers);
+
+// Carregar todas as questões ao iniciar
+loadQuestions('');

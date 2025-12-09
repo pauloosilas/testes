@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Interativo</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <h1>Quiz Interativo</h1>
+    <div id="quiz-container">
+        <select id="subject-select">
+            <option value="">Todos os assuntos</option>
+
+             <option value="PrincipiosConstitucional">Principios Constitucional- Direito Constitucional</option>
+		
+	  
+            <option value="Direitosfundamentais_5">Direitos fundamentais art 5 - Direito Constitucional</option>
+            <option value="DireitosFundamentais2">Direitos fundamentais parte 2 art 5 - Direito Constitucional</option>
+	    <option value="RemediosConstitucionais">Remedios Constitucionais art 5 - Direito Constitucional</option>	
+	    <option value="DireitosSociais">Direitos Sociais art 6 - Direito Constitucional</option>
+
+        <option value="">-----------------------------</option>
+            <option value="AplicacaoLeiPenal">Aplicacao da Lei Penal </option>
+
+            <option value="CrimesContraPessoa"> Crimes Contra Pessoa</option>
+            <option value="CrimeContraPessoa2"> Crimes Contra Pessoa 2</option>
+
+           
+    <option value="">-----------------------------</option>
+    <option value="Decreto_11615">Decreto 11615 sobre armas </option>
+    <option value="Decreto_11615_1e2">Decreto 11615 art 1 e 2 </option> 
+    <option value="Decreto_11615_3">Decreto 11615 art 3 </option>
+	<option value="">-----------------------------</option>
+
+            <option value="DireitosHumanosCAmericana">Convenção Americana sobre Direitos Humanos</option>
+
+          
+	
+ 		<option value="">-----------------------------</option>
+
+        </select>
+
+        <div id="quiz-content">
+            <div id="question-container"></div>
+            <button id="answer-btn">Responder</button>
+        </div>
+        <div id="score-counter">
+            Corretas: <span id="correct-count">0</span> | Erradas: <span id="wrong-count">0</span>
+        </div>
+        <div id="navigation">
+            <button id="prev-btn" disabled>Anterior</button>
+            <button id="next-btn">Próxima</button>
+        </div>
+        <button id="submit-btn" style="display: none;">Enviar Respostas</button>
+        <div id="result"></div>
+	<div id="nquestoes"></div?
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
