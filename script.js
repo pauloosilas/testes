@@ -1,6 +1,175 @@
 // Banco de questões
 const questions = {  
 
+  "leideexecucao_art71a86":[
+  {
+    "question": "De acordo com o art. 71 da LEP, qual é a finalidade do trabalho do preso?",
+    "options": [
+      "Garantir remuneração equivalente ao salário mínimo",
+      "Proporcionar condições para remuneração e ressocialização",
+      "Assegurar apenas atividade laborativa obrigatória",
+      "Apenas ocupar o tempo do preso"
+    ],
+    "correct": 1,
+    "explanation": "Art. 71: O trabalho do condenado é um dever social e condição de dignidade humana, com finalidade educativa e produtiva."
+  },
+  {
+    "question": "Segundo o art. 72 da LEP, como deve ser a organização do trabalho penitenciário?",
+    "options": [
+      "De forma livre, sem controle estatal",
+      "Conforme as necessidades da iniciativa privada",
+      "Sob forma de laborterapia sem fins produtivos",
+      "Adequada às condições pessoais do condenado"
+    ],
+    "correct": 3,
+    "explanation": "Art. 72: O trabalho do condenado será organizado de forma a atender às condições pessoais do preso."
+  },
+  {
+    "question": "Conforme o art. 73 da LEP, qual a prioridade na finalidade do trabalho interno?",
+    "options": [
+      "Aumentar a arrecadação do Estado",
+      "Produzir bens para venda externa",
+      "Atender às necessidades do estabelecimento penal",
+      "Gerar concorrência com empresas privadas"
+    ],
+    "correct": 2,
+    "explanation": "Art. 73: O trabalho interno deve visar prioritariamente às necessidades do estabelecimento penal."
+  },
+  {
+    "question": "Segundo o art. 74 da LEP, a jornada normal de trabalho do preso deve ser:",
+    "options": [
+      "No mínimo de 12 horas diárias",
+      "Entre 6 e 8 horas, com descanso nos domingos e feriados",
+      "Somente quando houver demanda",
+      "Sem limite mínimo ou máximo"
+    ],
+    "correct": 1,
+    "explanation": "Art. 74: A jornada normal será de 6 a 8 horas, com descanso nos domingos e feriados."
+  },
+  {
+    "question": "De acordo com o art. 75 da LEP, como deve ser a remuneração do trabalho do preso?",
+    "options": [
+      "Equivalente ao salário mínimo",
+      "Abaixo de qualquer referência legal",
+      "Justa, não podendo ser inferior a 3/4 do salário mínimo",
+      "Definida livremente pelo diretor do presídio"
+    ],
+    "correct": 2,
+    "explanation": "Art. 75: A remuneração não será inferior a três quartos do salário mínimo."
+  },
+  {
+    "question": "Segundo o art. 76 da LEP, o trabalho externo depende de:",
+    "options": [
+      "Autorização do juiz da execução e aptidão médica",
+      "Autorização administrativa e condições de segurança",
+      "Apenas bom comportamento",
+      "Requerimento da família do preso"
+    ],
+    "correct": 1,
+    "explanation": "Art. 76: O trabalho externo depende de aptidão, disciplina e responsabilidade, além de autorização administrativa."
+  },
+  {
+    "question": "Conforme o art. 77 da LEP, qual é a regra para admissão do preso ao trabalho externo sem vigilância direta?",
+    "options": [
+      "Só após metade da pena",
+      "Somente presos do regime aberto",
+      "Depende de mérito e confiança",
+      "Nunca é permitido"
+    ],
+    "correct": 2,
+    "explanation": "Art. 77: A admissão ao trabalho externo, sem vigilância direta, depende de confiança e mérito."
+  },
+  {
+    "question": "O art. 78 da LEP determina que deverá ser guardada, na execução do trabalho, a observância de normas relativas a:",
+    "options": [
+      "Livre mercado",
+      "Higiene, segurança e medicina do trabalho",
+      "Apenas cumprimento de horários",
+      "Somente produtividade"
+    ],
+    "correct": 1,
+    "explanation": "Art. 78: Devem ser observadas normas de higiene, segurança e medicina do trabalho."
+  },
+  {
+    "question": "Segundo o art. 79 da LEP, como deve ser organizado o trabalho externo para condenados em regime fechado?",
+    "options": [
+      "Sem qualquer controle",
+      "Sob vigilância direta da segurança penitenciária",
+      "Com escolta militar obrigatória",
+      "Por iniciativa exclusiva da iniciativa privada"
+    ],
+    "correct": 1,
+    "explanation": "Art. 79: O trabalho externo do preso em regime fechado será executado sob vigilância."
+  },
+  {
+    "question": "O art. 80 da LEP estabelece que o trabalho do preso não está sujeito ao regime jurídico da CLT porque:",
+    "options": [
+      "O preso não pode trabalhar formalmente",
+      "Trata-se de relação de caráter administrativo especial",
+      "O Estado não pode contratar presos",
+      "O trabalho do preso é voluntário"
+    ],
+    "correct": 1,
+    "explanation": "Art. 80: O trabalho do preso não está sujeito à CLT por se tratar de relação de caráter administrativo especial."
+  },
+  {
+    "question": "Segundo o art. 81 da LEP, qual é a principal finalidade do ensino no estabelecimento penal?",
+    "options": [
+      "Apenas ocupar o preso",
+      "Atender ao ensino fundamental obrigatório",
+      "Garantir formação profissional e integração social",
+      "Preparar para concursos públicos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 81: O ensino terá por objetivo a formação profissional e a integração social."
+  },
+  {
+    "question": "O art. 82 da LEP determina que a assistência educacional compreenderá:",
+    "options": [
+      "Somente alfabetização",
+      "Instrução escolar e formação profissional",
+      "Apenas leitura obrigatória",
+      "Somente atividades de lazer"
+    ],
+    "correct": 1,
+    "explanation": "Art. 82: A assistência educacional abrange instrução escolar e formação profissional."
+  },
+  {
+    "question": "Segundo o art. 83 da LEP, a instrução escolar do preso deve:",
+    "options": [
+      "Ser somente à distância",
+      "Necessariamente ocorrer em salas fora do presídio",
+      "Integrar-se no sistema escolar do Estado",
+      "Ser sempre individualizada"
+    ],
+    "correct": 2,
+    "explanation": "Art. 83: A instrução escolar será integrada ao sistema escolar do Estado."
+  },
+  {
+    "question": "O art. 84 da LEP prevê que a formação profissional deverá observar:",
+    "options": [
+      "Apenas a necessidade do mercado local",
+      "A vocação e capacidade do condenado",
+      "Somente disponibilidade de professores",
+      "Apenas escolha do diretor do presídio"
+    ],
+    "correct": 1,
+    "explanation": "Art. 84: A formação profissional deve observar a aptidão e capacidade do preso."
+  },
+  {
+    "question": "O art. 85 da LEP estabelece que a participação do preso em cursos supletivos ou profissionalizantes:",
+    "options": [
+      "É proibida",
+      "Depende de autorização judicial",
+      "É parte da assistência educacional e deve ser incentivada",
+      "Só é permitida no regime aberto"
+    ],
+    "correct": 2,
+    "explanation": "Art. 85: A participação do preso em cursos supletivos ou profissionalizantes faz parte da assistência educacional."
+  }
+]
+,
+
   "leideexecucao_art1a15":[
   {
     "question": "Conforme o Art. 1º da Lei de Execução Penal (LEP), a execução penal possui um duplo objetivo. Qual é este objetivo?",
@@ -579,17 +748,6 @@ const questions = {
     ],
     "correct": 1,
     "explanation": "Art. 51: Comete falta grave o condenado à pena privativa de liberdade que: I – Incumbe-se de deveres, conforme o Art. 39; II – Praticar fato previsto como crime doloso; III – Tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, ou que permita a comunicação com outros presos ou com o ambiente externo. (A lei não fala em 'fato previsto como falta grave, mas que não constitua crime doloso', mas sim na prática de crime doloso como falta grave. A regressão de regime é tratada em outro artigo (Art. 118, I), que é acionada pela prática de falta grave. A questão se refere à regressão por falta grave, que é aplicável aos regimes semiaberto e aberto.)"
-  },
-  {
-    "question": "O Art. 52 da LEP descreve as hipóteses de inclusão no Regime Disciplinar Diferenciado (RDD). Qual o prazo máximo de duração do RDD em caso de falta grave (sem reiteração)?",
-    "options": [
-      "Até 1 (um) ano, sem prejuízo de repetição por nova falta grave.",
-      "Até 360 (trezentos e sessenta) dias.",
-      "Até 2 (dois) anos.",
-      "Até 180 (cento e oitenta) dias."
-    ],
-    "correct": 1,
-    "explanation": "Art. 52, caput: A prática de fato previsto como crime doloso constitui falta grave e, quando ocasionar subversão da ordem ou disciplina internas, sujeita o preso provisório ou condenado, sem prejuízo da sanção penal, ao Regime Disciplinar Diferenciado, com as seguintes características: I - duração máxima de até 360 (trezentos e sessenta) dias, sem prejuízo de repetição por nova falta grave."
   },
   {
     "question": "Qual é a regra sobre a duração do isolamento celular para o preso provisório, conforme o Art. 53 da LEP?",
@@ -6806,6 +6964,815 @@ const questions = {
     "explanation": "O indivíduo provocou lesão corporal na vítima **em razão de ela ser familiar de agente de segurança pública**. O Art. 129, **§ 12** do Código Penal prevê uma **causa de aumento de pena** (de 1/3 a 2/3) para a lesão corporal (dolosa ou culposa) praticada contra o cônjuge, companheiro, ou parente consanguíneo até o terceiro grau de agente de segurança pública (Art. 144 da CRFB/88) **em razão dessa condição**. Assim sendo, o delito praticado foi o de **lesão corporal com causa de aumento de pena**, sendo a alternativa (C) a correta."
   }
 ],
+
+"OrgaosDaExecucao":[
+{
+    "question": "O Conselho Nacional de Política Criminal e Penitenciária (CNPCP), órgão subordinado ao Ministério da Justiça, tem sua sede:",
+    "options": [
+      "No Estado-membro onde houver o maior número de estabelecimentos prisionais",
+      "Na Capital da República",
+      "No Distrito Federal, mas não necessariamente na Capital da República",
+      "Na capital do estado que sediar a maior penitenciária de segurança máxima",
+      "No Ministério da Justiça, onde seus membros se reúnem"
+    ],
+    "correct": 1,
+    "explanation": "Art. 62. O Conselho Nacional de Política Criminal e Penitenciária, com sede na Capital da República, é subordinado ao Ministério da Justiça."
+  },
+  {
+    "question": "Sobre a composição do Conselho Nacional de Política Criminal e Penitenciária (CNPCP), é correto afirmar que:",
+    "options": [
+      "Será integrado por 7 (sete) membros, com mandato de 4 (quatro) anos.",
+      "Será integrado por 15 (quinze) membros, renovado 1/4 (um quarto) a cada ano.",
+      "Será integrado por 13 (treze) membros, designados através de ato do Ministério da Justiça.",
+      "Será composto exclusivamente por professores da área de Direito Penal e Processual Penal, designados por ato do Presidente da República.",
+      "Será integrado por 13 (treze) membros, com mandato de 4 (quatro) anos, renovado 1/3 anualmente."
+    ],
+    "correct": 2,
+    "explanation": "Art. 63. O Conselho Nacional de Política Criminal e Penitenciária será integrado por 13 (treze) membros designados através de ato do Ministério da Justiça, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade e dos Ministérios da área social."
+  },
+  {
+    "question": "Qual é a duração do mandato dos membros do Conselho Nacional de Política Criminal e Penitenciária (CNPCP) e como ocorre a sua renovação?",
+    "options": [
+      "4 (quatro) anos, com renovação integral a cada mandato.",
+      "3 (três) anos, renovado 1/2 (metade) a cada ano.",
+      "2 (dois) anos, renovado integralmente a cada mandato.",
+      "2 (dois) anos, renovado 1/3 (um terço) em cada ano.",
+      "Indeterminado, sendo a renovação definida pelo Ministério da Justiça anualmente."
+    ],
+    "correct": 3,
+    "explanation": "Art. 63. Parágrafo único. O mandato dos membros do Conselho terá duração de 2 (dois) anos, renovado 1/3 (um terço) em cada ano."
+  },
+  {
+    "question": "Não é incumbência do Conselho Nacional de Política Criminal e Penitenciária (CNPCP):",
+    "options": [
+      "Propor diretrizes da política criminal quanto à prevenção do delito e administração da Justiça Criminal.",
+      "Representar ao Juiz da execução para instauração de sindicância, em caso de violação das normas referentes à execução penal.",
+      "Estabelecer regras sobre a arquitetura e construção de estabelecimentos penais e casas de albergados.",
+      "Emitir parecer sobre indulto e comutação de pena, excetuada a hipótese de pedido de indulto com base no estado de saúde do preso.",
+      "Promover a avaliação periódica do sistema criminal para a sua adequação às necessidades do País."
+    ],
+    "correct": 3,
+    "explanation": "Art. 70, I (Este artigo e inciso tratam de uma incumbência do Conselho Penitenciário, e não do CNPCP, conforme os Art. 64 e 70 da LEP). A emissão de parecer sobre indulto é competência do Conselho Penitenciário (Art. 70, I)."
+  },
+  {
+    "question": "Nos termos do Art. 64, é incumbência do Conselho Nacional de Política Criminal e Penitenciária (CNPCP):",
+    "options": [
+      "Autorizar saídas temporárias de condenados em regime semiaberto.",
+      "Determinar a forma de cumprimento da pena restritiva de direitos e fiscalizar sua execução.",
+      "Estabelecer os critérios para a elaboração da estatística criminal.",
+      "Decidir sobre a desinternação e o restabelecimento da situação anterior.",
+      "Compor e instalar o Conselho da Comunidade."
+    ],
+    "correct": 2,
+    "explanation": "Art. 64. Ao Conselho Nacional de Política Criminal e Penitenciária, no exercício de suas atividades, em âmbito federal ou estadual, incumbe: (...) VII - estabelecer os critérios para a elaboração da estatística criminal."
+  },
+  {
+    "question": "A execução penal competirá, prioritariamente, a qual autoridade judicial?",
+    "options": [
+      "Ao Juiz que proferiu a sentença condenatória.",
+      "Ao Juiz indicado na lei local de organização judiciária.",
+      "Ao Juiz da Vara Criminal com jurisdição sobre o estabelecimento penal.",
+      "Ao Juiz Corregedor de Presídios em qualquer circunstância.",
+      "Ao Tribunal de Justiça local."
+    ],
+    "correct": 1,
+    "explanation": "Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença."
+  },
+  {
+    "question": "De acordo com o Art. 66, compete ao Juiz da execução decidir sobre os seguintes incidentes, exceto:",
+    "options": [
+      "Detração e remição da pena.",
+      "Soma ou unificação de penas.",
+      "Progressão ou regressão nos regimes.",
+      "Emissão de parecer sobre indulto e comutação de pena.",
+      "Livramento condicional."
+    ],
+    "correct": 3,
+    "explanation": "Art. 66. Compete ao Juiz da execução: (...) III - decidir sobre: a) soma ou unificação de penas; b) progressão ou regressão nos regimes; c) detração e remição da pena; d) suspensão condicional da pena; e) livramento condicional; f) incidentes da execução. A emissão de parecer sobre indulto é incumbência do Conselho Penitenciário (Art. 70, I)."
+  },
+  {
+    "question": "É uma competência específica do Juiz da execução, conforme a LEP:",
+    "options": [
+      "Elaborar o programa nacional penitenciário de formação e aperfeiçoamento do servidor.",
+      "Representar à autoridade competente para a interdição de estabelecimento penal.",
+      "Inspeção e fiscalização dos estabelecimentos penais (incumbência do CNPCP).",
+      "Interditar, no todo ou em parte, estabelecimento penal que estiver funcionando em condições inadequadas ou com infringência aos dispositivos desta Lei.",
+      "Fiscalizar a regularidade formal das guias de recolhimento e de internamento."
+    ],
+    "correct": 3,
+    "explanation": "Art. 66. Compete ao Juiz da execução: (...) VIII - interditar, no todo ou em parte, estabelecimento penal que estiver funcionando em condições inadequadas ou com infringência aos dispositivos desta Lei."
+  },
+  {
+    "question": "O Juiz da execução tem competência para:",
+    "options": [
+      "Aplicar aos casos julgados lei posterior que de qualquer modo favorecer o condenado.",
+      "Acompanhar o processo executivo e os incidentes da execução, mas não as guias de recolhimento.",
+      "Emitir parecer sobre a política criminal e penitenciária.",
+      "Instaurar sindicância ou procedimento administrativo em caso de violação de normas de execução penal.",
+      "Nomear os membros do Conselho Penitenciário."
+    ],
+    "correct": 0,
+    "explanation": "Art. 66. Compete ao Juiz da execução: I - aplicar aos casos julgados lei posterior que de qualquer modo favorecer o condenado."
+  },
+  {
+    "question": "O Juiz da execução deve inspecionar os estabelecimentos penais com qual frequência mínima?",
+    "options": [
+      "Trimestralmente.",
+      "Semestralmente.",
+      "Mensalmente.",
+      "Anualmente.",
+      "A cada 15 (quinze) dias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 66. Compete ao Juiz da execução: (...) VII - inspecionar, mensalmente, os estabelecimentos penais, tomando providências para o adequado funcionamento e promovendo, quando for o caso, a apuração de responsabilidade."
+  },
+  {
+    "question": "De acordo com o Art. 67 da LEP, qual é a principal função do Ministério Público em relação à execução penal e da medida de segurança?",
+    "options": [
+      "Declarar extinta a punibilidade.",
+      "Fiscalizar a execução, oficiando no processo executivo e nos incidentes da execução.",
+      "Compor e instalar o Conselho da Comunidade.",
+      "Emitir anualmente atestado de pena a cumprir.",
+      "Representar ao Juiz da execução para a remoção do condenado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 67. O Ministério Público fiscalizará a execução da pena e da medida de segurança, oficiando no processo executivo e nos incidentes da execução."
+  },
+  {
+    "question": "Entre as incumbências do Ministério Público na execução penal, está a de requerer:",
+    "options": [
+      "A aplicação de lei posterior que de qualquer modo favorecer o condenado.",
+      "O livramento condicional e a suspensão condicional da pena (decisão do Juiz).",
+      "A instauração dos incidentes de excesso ou desvio de execução.",
+      "A interdição de estabelecimento penal que estiver funcionando em condições inadequadas.",
+      "A composição e instalação do Conselho da Comunidade."
+    ],
+    "correct": 2,
+    "explanation": "Art. 68. Incumbe, ainda, ao Ministério Público: (...) II - requerer: (...) b) a instauração dos incidentes de excesso ou desvio de execução."
+  },
+  {
+    "question": "No que tange à fiscalização, o Parágrafo único do Art. 68 estabelece que o órgão do Ministério Público deve visitar mensalmente os estabelecimentos penais, sendo obrigatório:",
+    "options": [
+      "A emissão de parecer sobre indulto após cada visita.",
+      "O registro de sua presença em livro próprio.",
+      "A elaboração de um relatório trimestral ao Conselho Nacional de Política Criminal e Penitenciária.",
+      "A tomada de providências para o adequado funcionamento.",
+      "A representação à autoridade para a desinternação de ofício."
+    ],
+    "correct": 1,
+    "explanation": "Art. 68. Parágrafo único. O órgão do Ministério Público visitará mensalmente os estabelecimentos penais, registrando a sua presença em livro próprio."
+  },
+  {
+    "question": "É incumbência do Ministério Público, nos termos da LEP:",
+    "options": [
+      "Aplicar a medida de segurança, bem como a substituição da pena por medida de segurança.",
+      "Fiscalizar a regularidade formal das guias de recolhimento e de internamento.",
+      "Decidir sobre a conversão da pena restritiva de direitos e de multa em privativa de liberdade.",
+      "Compor e instalar o Conselho da Comunidade.",
+      "Autorizar as saídas temporárias."
+    ],
+    "correct": 1,
+    "explanation": "Art. 68. Incumbe, ainda, ao Ministério Público: I - fiscalizar a regularidade formal das guias de recolhimento e de internamento."
+  },
+  {
+    "question": "O Ministério Público, durante a execução penal, possui a prerrogativa de:",
+    "options": [
+      "Declarar extinta a punibilidade.",
+      "Interpor recursos de decisões proferidas pela autoridade judiciária.",
+      "Decidir sobre a progressão ou regressão nos regimes.",
+      "Autorizar a desinternação e o restabelecimento da situação anterior.",
+      "Estabelecer regras sobre a arquitetura e construção de estabelecimentos penais."
+    ],
+    "correct": 1,
+    "explanation": "Art. 68. Incumbe, ainda, ao Ministério Público: (...) III - interpor recursos de decisões proferidas pela autoridade judiciária, durante a execução."
+  }
+  ,{
+    "question": "A Lei nº 7.210/1984 (Lei de Execução Penal), a emissão de parecer sobre indulto, excetuado o pedido com base no estado de saúde do preso, é uma incumbência do:",
+    "options": [
+      "Conselho Nacional de Política Criminal e Penitenciária",
+      "Departamento Penitenciário",
+      "Conselho da Comunidade",
+      "Conselho Penitenciário",
+      "Patronato"
+    ],
+    "correct": 3,
+    "explanation": "(Art. 69. O Conselho Penitenciário é órgão consultivo e fiscalizador da execução da pena. Art. 70. Incumbe ao Conselho Penitenciário: I - emitir parecer sobre indulto e comutação de pena, excetuada a hipótese de pedido de indulto com base no estado de saúde do preso; 	 (Redação dada pela Lei nº 10.792, de 2003) II - inspecionar os estabelecimentos e serviços penais; III - apresentar, no 1º (primeiro) trimestre de cada ano, ao Conselho Nacional de Política Criminal e Penitenciária, relatório dos trabalhos efetuados no exercício anterior; IV - supervisionar os patronatos, bem como a assistência aos egressos.)"
+  },
+  {
+    "question": "Sobre o conteúdo normativo da Lei 7.210/19, que trata das Execuções Penais, é correto afirmar que",
+    "options": [
+      "o Ministério Público fiscalizará a execução da pena, oficiando no processo executivo e nos incidentes da execução. Quanto à medida de segurança, acompanhará seus incidentes.",
+      "é permitido ao Conselho Penitenciário exigir parecer sobre indulto e comutação de pena, mesmo na hipótese de pedido de indulto com base no estado de saúde do preso.",
+      "é atribuição do Departamento Penitenciário Nacional fiscalizar a fiel aplicação das normas de execução penal.",
+      "o Conselho Penitenciário é órgão consultivo e fiscalizador da execução da pena.",
+      "os estabelecimentos penais destinados a mulheres serão dotados de berçário, em que as condenadas possam amamentar seus filhos, no minimo, até 4 (quatro) meses de idade."
+    ],
+    "correct": 3,
+    "explanation": "(Art. 69. O Conselho Penitenciário é órgão consultivo e fiscalizador da execução da pena. § 1º O Conselho será integrado por membros nomeados pelo Governador do Estado, do Distrito Federal e dos Territórios, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade. A legislação federal e estadual regulará o seu funcionamento. § 2º O mandato dos membros do Conselho Penitenciário terá a duração de 4 (quatro) anos.)"
+  },
+  {
+    "question": "Sobre o Conselho Penitenciário, assinale a alternativa INCORRETA:",
+    "options": [
+      "É um órgão consultivo da execução da pena.",
+      "É um órgão fiscalizador da execução da pena.",
+      "Seus membros são nomeados pelo Presidente da República.",
+      "O mandato de seus membros tem duração de 4 (quatro) anos.",
+      "Conta com representantes da comunidade em sua composição."
+    ],
+    "correct": 2,
+    "explanation": "Art. 69, § 1º O Conselho será integrado por membros nomeados pelo Governador do Estado, do Distrito Federal e dos Territórios..."
+  },
+  {
+    "question": "O Conselho Penitenciário deve apresentar relatório dos trabalhos efetuados no exercício anterior ao Conselho Nacional de Política Criminal e Penitenciária. Este relatório deve ser apresentado:",
+    "options": [
+      "Mensalmente.",
+      "Semestralmente.",
+      "No 1º (primeiro) trimestre de cada ano.",
+      "No último trimestre de cada ano.",
+      "A cada 2 (dois) anos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 70. Incumbe ao Conselho Penitenciário: (...) III - apresentar, no 1º (primeiro) trimestre de cada ano, ao Conselho Nacional de Política Criminal e Penitenciária, relatório dos trabalhos efetuados no exercício anterior."
+  },
+  {
+    "question": "Em relação às incumbências do Conselho Penitenciário previstas no Art. 70, assinale a alternativa INCORRETA:",
+    "options": [
+      "Inspecionar os estabelecimentos e serviços penais.",
+      "Supervisionar os patronatos.",
+      "Supervisionar a assistência aos egressos.",
+      "Emitir parecer sobre indulto e comutação de pena em todos os casos, sem exceções.",
+      "Apresentar relatório anual ao Conselho Nacional de Política Criminal e Penitenciária."
+    ],
+    "correct": 3,
+    "explanation": "Art. 70. Incumbe ao Conselho Penitenciário: I - emitir parecer sobre indulto e comutação de pena, excetuada a hipótese de pedido de indulto com base no estado de saúde do preso."
+  },
+  {
+    "question": "Qual é a duração do mandato dos membros do Conselho Penitenciário, conforme estabelecido no Art. 69 da Lei de Execução Penal?",
+    "options": [
+      "2 (dois) anos.",
+      "3 (três) anos.",
+      "4 (quatro) anos.",
+      "5 (cinco) anos.",
+      "Vitalício."
+    ],
+    "correct": 2,
+    "explanation": "Art. 69. § 2º O mandato dos membros do Conselho Penitenciário terá a duração de 4 (quatro) anos."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre o Departamento Penitenciário Nacional:",
+    "options": [
+      "É subordinado ao Ministério da Justiça.",
+      "É órgão executivo da Política Penitenciária Nacional.",
+      "Presta apoio administrativo e financeiro ao Conselho Nacional de Política Criminal e Penitenciária.",
+      "Incumbe a ele a coordenação e supervisão dos estabelecimentos penais federais.",
+      "É subordinado diretamente ao Supremo Tribunal Federal."
+    ],
+    "correct": 4,
+    "explanation": "Art. 71. O Departamento Penitenciário Nacional, subordinado ao Ministério da Justiça, é órgão executivo da Política Penitenciária Nacional..."
+  },
+  {
+    "question": "Dentre as atribuições do Departamento Penitenciário Nacional, destaca-se:",
+    "options": [
+      "Julgar os pedidos de progressão de regime.",
+      "Emitir parecer sobre indulto humanitário.",
+      "Acompanhar a fiel aplicação das normas de execução penal em todo o Território Nacional.",
+      "Nomear os membros do Conselho Penitenciário Estadual.",
+      "Criar leis estaduais sobre execução penal."
+    ],
+    "correct": 2,
+    "explanation": "Art. 72. São atribuições do Departamento Penitenciário Nacional: I - acompanhar a fiel aplicação das normas de execução penal em todo o Território Nacional."
+  },
+  {
+    "question": "O Departamento Penitenciário Nacional deve assistir tecnicamente as Unidades Federativas na implementação dos princípios da LEP. Além disso, colabora para a realização de cursos de:",
+    "options": [
+      "Formação de juízes e promotores.",
+      "Formação de pessoal penitenciário e ensino profissionalizante do condenado e do internado.",
+      "Ensino superior para todos os detentos do regime fechado.",
+      "Defesa pessoal para os membros do Conselho da Comunidade.",
+      "Gestão pública para os governadores."
+    ],
+    "correct": 1,
+    "explanation": "Art. 72. (...) V - colaborar com as Unidades Federativas para a realização de cursos de formação de pessoal penitenciário e de ensino profissionalizante do condenado e do internado."
+  },
+  {
+    "question": "Sobre o cadastro nacional de vagas em estabelecimentos locais, assinale a alternativa INCORRETA:",
+    "options": [
+      "É estabelecido pelo Departamento Penitenciário Nacional.",
+      "É feito mediante convênios com as unidades federativas.",
+      "Destina-se a vagas para cumprimento de penas privativas de liberdade aplicadas pela justiça de outra unidade federativa.",
+      "É voltado especialmente para presos sujeitos a regime disciplinar.",
+      "É de responsabilidade exclusiva dos Conselhos Penitenciários Estaduais, sem participação federal."
+    ],
+    "correct": 4,
+    "explanation": "Art. 72. VI – estabelecer, mediante convênios com as unidades federativas, o cadastro nacional das vagas existentes... (Atribuição do Departamento Penitenciário Nacional)."
+  },
+  {
+    "question": "Compete ao Departamento Penitenciário Nacional acompanhar a execução da pena de mulheres beneficiadas pela progressão especial (Art. 112, § 3º). Esse monitoramento visa:",
+    "options": [
+      "Garantir que elas não engravidem novamente.",
+      "Aumentar o tempo de pena no regime fechado.",
+      "Monitorar sua integração social e a ocorrência de reincidência.",
+      "Impedir que elas tenham contato com seus filhos.",
+      "Substituir o trabalho do Patronato."
+    ],
+    "correct": 2,
+    "explanation": "Art. 72. VII - acompanhar a execução da pena das mulheres beneficiadas pela progressão especial [...] monitorando sua integração social e a ocorrência de reincidência..."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre os Departamentos Penitenciários Locais:",
+    "options": [
+      "A legislação local poderá criar Departamento Penitenciário ou órgão similar.",
+      "Têm por finalidade supervisionar e coordenar os estabelecimentos penais da Unidade da Federação a que pertencer.",
+      "Devem encaminhar ao Departamento Penitenciário Nacional os resultados do acompanhamento da progressão especial de mulheres.",
+      "São subordinados administrativamente ao Ministério da Justiça Federal.",
+      "Podem ter atribuições estabelecidas pela legislação local."
+    ],
+    "correct": 3,
+    "explanation": "Art. 73 e 74. (A subordinação ao MJ é do Depen Nacional. O Depen Local é criado por legislação local e supervisiona a UF a que pertence)."
+  },
+  {
+    "question": "Sobre a composição do Conselho Penitenciário (Art. 69), assinale a alternativa que contém uma afirmação INCORRETA:",
+    "options": [
+      "Membros devem ser escolhidos dentre professores e profissionais da área do Direito Penal.",
+      "Membros devem ser escolhidos dentre profissionais da área de Processual Penal e Penitenciário.",
+      "Membros devem ser escolhidos dentre profissionais de ciências correlatas.",
+      "A composição é exclusiva para advogados e juízes, sendo vedada a participação da comunidade.",
+      "Haverá representantes da comunidade na composição."
+    ],
+    "correct": 3,
+    "explanation": "Art. 69. § 1º O Conselho será integrado (...) bem como por representantes da comunidade."
+  },
+  {
+    "question": "Qual órgão é responsável pela coordenação e supervisão dos estabelecimentos penais e de internamento federais?",
+    "options": [
+      "O Conselho Penitenciário do Distrito Federal.",
+      "O Departamento Penitenciário Local.",
+      "O Departamento Penitenciário Nacional.",
+      "O Conselho da Comunidade.",
+      "O Patronato Federal."
+    ],
+    "correct": 2,
+    "explanation": "Art. 72. § 1º Incumbem também ao Departamento [Nacional] a coordenação e supervisão dos estabelecimentos penais e de internamento federais."
+  },
+  {
+    "question": "Quanto ao monitoramento da progressão especial de mulheres (Art. 72, § 2º), assinale a alternativa INCORRETA sobre o objetivo do uso desses dados:",
+    "options": [
+      "Avaliar a efetividade da progressão especial para a ressocialização.",
+      "Avaliar a eventual desnecessidade do regime fechado para essas mulheres.",
+      "Focar nos casos de crimes cometidos sem violência ou grave ameaça.",
+      "Subsidiar a criação de novas penitenciárias de segurança máxima exclusivamente para mulheres.",
+      "Utilizar os resultados obtidos por meio do monitoramento e avaliações periódicas."
+    ],
+    "correct": 3,
+    "explanation": "Art. 72. § 2º (...) avaliar eventual desnecessidade do regime fechado de cumprimento de pena para essas mulheres nos casos de crimes cometidos sem violência ou grave ameaça. (Não há menção a criar penitenciárias de segurança máxima)."
+  },
+  {
+    "question": "A fiscalização dos estabelecimentos penais locais é uma tarefa compartilhada. Segundo o texto, o Departamento Penitenciário Nacional deve:",
+    "options": [
+      "Inspecionar e fiscalizar periodicamente os estabelecimentos e serviços penais.",
+      "Assumir a direção de todos os presídios estaduais.",
+      "Apenas financiar a construção, sem fiscalizar.",
+      "Delegar a fiscalização exclusivamente ao Ministério Público.",
+      "Fiscalizar apenas os estabelecimentos federais."
+    ],
+    "correct": 0,
+    "explanation": "Art. 72. São atribuições do Departamento Penitenciário Nacional: (...) II - inspecionar e fiscalizar periodicamente os estabelecimentos e serviços penais."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre o Departamento Penitenciário Local (Art. 74):",
+    "options": [
+      "Tem por finalidade supervisionar os estabelecimentos penais da Unidade da Federação.",
+      "Tem por finalidade coordenar os estabelecimentos penais da Unidade da Federação.",
+      "Deve realizar o acompanhamento das mulheres beneficiadas pela progressão especial (Art. 112, § 3º).",
+      "Não precisa encaminhar nenhum resultado ou dado ao Departamento Penitenciário Nacional.",
+      "Pode ser um órgão similar ao Departamento Penitenciário, conforme legislação local."
+    ],
+    "correct": 3,
+    "explanation": "Art. 74. Parágrafo único. Os órgãos referidos no caput deste artigo realizarão o acompanhamento [...] e encaminharão ao Departamento Penitenciário Nacional os resultados obtidos."
+  },
+  {
+    "question": "De acordo com a Lei de Execução Penal (LEP), o ocupante do cargo de diretor de estabelecimento penal deve satisfazer, obrigatoriamente, qual dos seguintes requisitos?",
+    "options": [
+      "Ser portador de diploma de nível superior em Engenharia ou Arquitetura.",
+      "Ser portador de diploma de nível superior de Direito, ou Psicologia, ou Ciências Sociais, ou Pedagogia, ou Serviços Sociais.",
+      "Ter, no mínimo, 10 anos de experiência na área de segurança pública.",
+      "Ser formado exclusivamente em Direito Penal.",
+      "Possuir apenas idoneidade moral, sendo dispensável o nível superior."
+    ],
+    "correct": 1,
+    "explanation": "Art. 75. O ocupante do cargo de diretor de estabelecimento deverá satisfazer os seguintes requisitos: I - ser portador de diploma de nível superior de Direito, ou Psicologia, ou Ciências Sociais, ou Pedagogia, ou Serviços Sociais."
+  },
+  {
+    "question": "Além da formação e da experiência administrativa, o diretor de estabelecimento penal deve possuir, segundo o Art. 75 da LEP:",
+    "options": [
+      "Certificado de especialização em criminologia.",
+      "Residência em capital de estado.",
+      "Idoneidade moral e reconhecida aptidão para o desempenho da função.",
+      "Título de mestre ou doutor.",
+      "Filiação obrigatória ao Conselho Penitenciário."
+    ],
+    "correct": 2,
+    "explanation": "Art. 75. O ocupante do cargo de diretor de estabelecimento deverá satisfazer os seguintes requisitos: (...) III - ter idoneidade moral e reconhecida aptidão para o desempenho da função."
+  },
+  {
+    "question": "Sobre as exigências para o diretor de estabelecimento penal, o Parágrafo único do Art. 75 estabelece que o diretor deverá:",
+    "options": [
+      "Dedicar no máximo 30 horas semanais à função.",
+      "Residir no estabelecimento, ou nas proximidades, e dedicar tempo integral à sua função.",
+      "Residir, obrigatoriamente, fora da comarca onde se localiza o estabelecimento.",
+      "Ter tempo integral, mas a residência é facultativa.",
+      "Residir nas proximidades, sendo o tempo integral dispensável, desde que cumpra o horário comercial."
+    ],
+    "correct": 1,
+    "explanation": "Art. 75. Parágrafo único. O diretor deverá residir no estabelecimento, ou nas proximidades, e dedicará tempo integral à sua função."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a organização do Quadro do Pessoal Penitenciário:",
+    "options": [
+      "Será organizado em diferentes categorias funcionais.",
+      "A organização deve atender às necessidades do serviço.",
+      "As atribuições relativas às funções de direção, chefia e assessoramento devem ser especificadas.",
+      "A organização é feita exclusivamente em função de direção, vedadas outras categorias.",
+      "Deve haver especificação de atribuições relativas às demais funções."
+    ],
+    "correct": 3,
+    "explanation": "Art. 76. O Quadro do Pessoal Penitenciário será organizado em diferentes categorias funcionais, segundo as necessidades do serviço, com especificação de atribuições relativas às funções de direção, chefia e assessoramento do estabelecimento e às demais funções. (Portanto, a organização não é feita *exclusivamente* em função de direção)."
+  },
+  {
+    "question": "A escolha do pessoal administrativo, especializado, de instrução técnica e de vigilância deve atender a quais critérios, conforme o Art. 77?",
+    "options": [
+      "Apenas ao nível de escolaridade.",
+      "Apenas à experiência prévia em outras unidades prisionais.",
+      "Vocação, preparação profissional e antecedentes pessoais do candidato.",
+      "Somente ao resultado de testes de aptidão física.",
+      "Apenas à ausência de antecedentes criminais."
+    ],
+    "correct": 2,
+    "explanation": "Art. 77. A escolha do pessoal administrativo, especializado, de instrução técnica e de vigilância atenderá a vocação, preparação profissional e antecedentes pessoais do candidato."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre o ingresso e a progressão do pessoal penitenciário:",
+    "options": [
+      "O ingresso na carreira depende de cursos específicos de formação.",
+      "A progressão funcional depende de cursos específicos de formação.",
+      "Deve haver reciclagem periódica dos servidores em exercício.",
+      "A ascensão funcional não requer cursos específicos de formação, apenas antiguidade.",
+      "Tanto o ingresso quanto a ascensão funcional dependem de cursos específicos de formação."
+    ],
+    "correct": 3,
+    "explanation": "Art. 77. § 1° O ingresso do pessoal penitenciário, bem como a progressão ou a ascensão funcional dependerão de cursos específicos de formação, procedendo-se à reciclagem periódica dos servidores em exercício. (A afirmação incorreta é a que dispensa os cursos)."
+  },
+  {
+    "question": "Em um estabelecimento penal destinado a mulheres, qual é a regra geral para o trabalho do pessoal, e qual a exceção admitida?",
+    "options": [
+      "É permitido o trabalho de pessoal de ambos os sexos, sem restrições.",
+      "Somente se permitirá o trabalho de pessoal do sexo masculino, exceto quando se tratar de pessoal administrativo.",
+      "Somente se permitirá o trabalho de pessoal do sexo feminino, salvo quando se tratar de pessoal técnico especializado.",
+      "A regra é a predominância masculina, com a exceção de médicas e psicólogas.",
+      "A escolha do pessoal é indiferente ao sexo, desde que tenham a formação exigida."
+    ],
+    "correct": 2,
+    "explanation": "Art. 77. § 2º No estabelecimento para mulheres somente se permitirá o trabalho de pessoal do sexo feminino, salvo quando se tratar de pessoal técnico especializado."
+  },
+  {
+    "question": "Assinale a alternativa que apresenta um requisito NÃO exigido para o ocupante do cargo de diretor de estabelecimento penal, de acordo com o Art. 75:",
+    "options": [
+      "Possuir experiência administrativa na área.",
+      "Ser portador de diploma de nível superior de Serviço Social.",
+      "Ter idoneidade moral.",
+      "Possuir diploma de pós-graduação.",
+      "Ter reconhecida aptidão para o desempenho da função."
+    ],
+    "correct": 3,
+    "explanation": "Art. 75. Os requisitos obrigatórios listados são: I - ser portador de diploma de nível superior (...); II - possuir experiência administrativa na área; III - ter idoneidade moral e reconhecida aptidão. O diploma de pós-graduação não é um requisito legal obrigatório, apenas o de nível superior."
+  },
+  {
+    "question": "De acordo com o Art. 78 da LEP, qual é a finalidade principal do Patronato (público ou particular)?",
+    "options": [
+      "Fiscalizar o cumprimento de penas privativas de liberdade.",
+      "Promover a capacitação profissional dos servidores penitenciários.",
+      "Prestar assistência aos albergados e aos egressos (artigo 26).",
+      "Decidir sobre a progressão de regime dos condenados.",
+      "Emitir parecer sobre indulto e comutação de pena."
+    ],
+    "correct": 2,
+    "explanation": "Art. 78. O Patronato público ou particular destina-se a prestar assistência aos albergados e aos egressos (artigo 26)."
+  },
+  {
+    "question": "Assinale a alternativa que NÃO constitui uma incumbência do Patronato, conforme o Art. 79 da LEP:",
+    "options": [
+      "Orientar os condenados à pena restritiva de direitos.",
+      "Fiscalizar o cumprimento das penas de prestação de serviço à comunidade.",
+      "Fiscalizar o cumprimento das penas de limitação de fim de semana.",
+      "Colaborar na fiscalização do cumprimento das condições do livramento condicional.",
+      "Conceder o livramento condicional."
+    ],
+    "correct": 4,
+    "explanation": "Art. 79. Incumbe também ao Patronato: I, II e III. A concessão de livramento condicional é competência do Juiz da execução (Art. 66, III, 'e')."
+  },
+  {
+    "question": "Sobre o Conselho da Comunidade, o Art. 80 da LEP exige que haja um em cada:",
+    "options": [
+      "Estado da Federação.",
+      "Região metropolitana.",
+      "Tribunal de Justiça.",
+      "Comarca.",
+      "Estabelecimento penal."
+    ],
+    "correct": 3,
+    "explanation": "Art. 80. Haverá, em cada comarca, um Conselho da Comunidade..."
+  },
+  {
+    "question": "Assinale a alternativa que NÃO é um dos representantes obrigatórios na composição mínima do Conselho da Comunidade, conforme a redação dada pela Lei nº 12.313/2010:",
+    "options": [
+      "Um representante de associação comercial ou industrial.",
+      "Um advogado indicado pela Seção da Ordem dos Advogados do Brasil.",
+      "Um Defensor Público indicado pelo Defensor Público Geral.",
+      "Um assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais.",
+      "Um membro do Ministério Público indicado pelo Procurador-Geral de Justiça."
+    ],
+    "correct": 4,
+    "explanation": "Art. 80. O Ministério Público não está listado entre os representantes mínimos obrigatórios na composição do Conselho da Comunidade."
+  },
+  {
+    "question": "Na falta da representação prevista para o Conselho da Comunidade (Art. 80), quem tem a prerrogativa de escolher os integrantes?",
+    "options": [
+      "O Governador do Estado.",
+      "O Conselho Penitenciário.",
+      "O Conselho Nacional de Política Criminal e Penitenciária.",
+      "O Juiz da execução.",
+      "O Patronato."
+    ],
+    "correct": 3,
+    "explanation": "Art. 80. Parágrafo único. Na falta da representação prevista neste artigo, ficará a critério do Juiz da execução a escolha dos integrantes do Conselho."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre as incumbências do Conselho da Comunidade (Art. 81):",
+    "options": [
+      "Visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca.",
+      "Entrevistar presos.",
+      "Apresentar relatórios trimestrais ao Juiz da execução e ao Conselho Penitenciário.",
+      "Diligenciar a obtenção de recursos materiais e humanos para melhor assistência ao preso ou internado.",
+      "Atuar em harmonia com a direção do estabelecimento para a obtenção de recursos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81. Incumbe ao Conselho da Comunidade: (...) III - apresentar relatórios **mensais** ao Juiz da execução e ao Conselho Penitenciário."
+  },
+  {
+    "question": "A Defensoria Pública velará pela regular execução da pena e da medida de segurança, oficiando no processo executivo e nos incidentes da execução, para a defesa de quem, nos termos do Art. 81-A?",
+    "options": [
+      "Apenas os condenados à pena privativa de liberdade.",
+      "Exclusivamente a União e os Estados.",
+      "Os necessitados em todos os graus e instâncias, de forma individual e coletiva.",
+      "Apenas os assistidos do Patronato.",
+      "Somente os réus primários."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81-A. A Defensoria Pública velará pela regular execução da pena e da medida de segurança, oficiando, no processo executivo e nos incidentes da execução, para a defesa dos necessitados em todos os graus e instâncias, de forma individual e coletiva."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre as incumbências da Defensoria Pública na execução penal (Art. 81-B):",
+    "options": [
+      "Requerer a unificação de penas.",
+      "Requerer a detração e remição da pena.",
+      "Requerer a aplicação aos casos julgados de lei posterior que de qualquer modo favorecer o condenado.",
+      "Decidir sobre o livramento condicional e a progressão nos regimes.",
+      "Requerer a declaração de extinção da punibilidade."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-B, I. A Defensoria Pública pode **requerer** (letra 'h') o livramento condicional e a progressão de regimes, mas a **decisão** é competência do Juiz da Execução (Art. 66)."
+  },
+  {
+    "question": "Incumbe à Defensoria Pública requerer a instauração de qual incidente no processo executivo?",
+    "options": [
+      "Incidente de incompatibilidade de Juiz.",
+      "Incidente de excesso ou desvio de execução.",
+      "Incidente de insalubridade do estabelecimento penal.",
+      "Incidente de competência do juízo criminal.",
+      "Incidente de custas processuais."
+    ],
+    "correct": 1,
+    "explanation": "Art. 81-B. Incumbe, ainda, à Defensoria Pública: I - requerer: (...) f) a instauração dos incidentes de excesso ou desvio de execução."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA. A Defensoria Pública pode requerer, exceto:",
+    "options": [
+      "A progressão nos regimes.",
+      "O indulto.",
+      "A comutação de pena.",
+      "A interdição, no todo ou em parte, de estabelecimento penal.",
+      "A nomeação de membros do Conselho da Comunidade."
+    ],
+    "correct": 4,
+    "explanation": "Art. 81-B. A Defensoria pode requerer a interdição (inciso VI) e todas as medidas do inciso I, como progressão, indulto e comutação (letra 'h'). A nomeação de membros do Conselho da Comunidade (na falta de representação) é critério do Juiz da execução (Art. 80, Parágrafo único)."
+  },
+  {
+    "question": "Sobre o atestado de pena a cumprir, qual é a incumbência da Defensoria Pública?",
+    "options": [
+      "Emitir o atestado anualmente.",
+      "Apenas receber o atestado após sua emissão.",
+      "Requerer a emissão anual do atestado de pena a cumprir.",
+      "Requerer a emissão apenas a cada cinco anos.",
+      "Fiscalizar a emissão, mas sem poder requerer."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81-B. Incumbe, ainda, à Defensoria Pública: (...) II - requerer a emissão anual do atestado de pena a cumprir."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA. A Defensoria Pública tem como incumbência:",
+    "options": [
+      "Interpor recursos de decisões proferidas pela autoridade judiciária ou administrativa durante a execução.",
+      "Representar ao Juiz da execução para instauração de sindicância.",
+      "Representar à autoridade administrativa para instauração de procedimento administrativo.",
+      "Decidir sobre a revogação da medida de segurança e a desinternação.",
+      "Requerer a aplicação e a revogação de medida de segurança."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-B, I, 'g' e III, e IV. A Defensoria pode **requerer** a revogação e a desinternação, mas **decidir** sobre estes temas é competência do Juiz da execução (Art. 66)."
+  },
+  {
+    "question": "Sobre a visita da Defensoria Pública aos estabelecimentos penais, o Parágrafo único do Art. 81-B exige que o órgão:",
+    "options": [
+      "Visite anualmente e registre em livro próprio.",
+      "Visite trimestralmente e relate ao Governador.",
+      "Visite periodicamente os estabelecimentos penais, registrando a sua presença em livro próprio.",
+      "Visite somente quando for chamado pelo Juiz da execução.",
+      "Apenas envie relatórios, sem a necessidade de visitas presenciais."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81-B. Parágrafo único. O órgão da Defensoria Pública visitará periodicamente os estabelecimentos penais, registrando a sua presença em livro próprio."
+  },
+  {
+    "question": "O Conselho da Comunidade deve visitar os estabelecimentos penais com qual frequência mínima?",
+    "options": [
+      "Diariamente.",
+      "Semanalmente.",
+      "Pelo menos mensalmente.",
+      "Trimestralmente.",
+      "Anualmente."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81. Incumbe ao Conselho da Comunidade: I - visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca."
+  },
+  {
+    "question": "Assinale a alternativa que NÃO é uma das atribuições do Patronato (Art. 79):",
+    "options": [
+      "Colaborar na fiscalização do cumprimento das condições da suspensão condicional da pena.",
+      "Orientar os condenados à pena restritiva de direitos.",
+      "Fiscalizar o cumprimento da limitação de fim de semana.",
+      "Conceder o indulto coletivo aos egressos.",
+      "Colaborar na fiscalização do cumprimento das condições do livramento condicional."
+    ],
+    "correct": 3,
+    "explanation": "Art. 79. O Patronato não tem competência para conceder indulto (competência do Presidente da República, após parecer do Conselho Penitenciário)."
+  },
+  {
+    "question": "Sobre o Patronato (Capítulo VII), assinale a alternativa INCORRETA quanto às suas incumbências:",
+    "options": [
+      "Orientar os condenados à pena restritiva de direitos.",
+      "Fiscalizar o cumprimento das penas de prestação de serviço à comunidade.",
+      "Fiscalizar o cumprimento da limitação de fim de semana.",
+      "Decretar a prisão preventiva de albergados que descumprirem regras.",
+      "Colaborar na fiscalização do cumprimento das condições da suspensão e do livramento condicional."
+    ],
+    "correct": 3,
+    "explanation": "Art. 79. Incumbe também ao Patronato: I, II e III. O Patronato não possui poder jurisdicional para decretar prisões."
+  },
+  {
+    "question": "O Patronato público ou particular destina-se a prestar assistência precipuamente a quais grupos, segundo o Art. 78?",
+    "options": [
+      "Aos presos provisórios e aos condenados em regime fechado.",
+      "Aos albergados e aos egressos.",
+      "Às vítimas de crimes violentos.",
+      "Aos familiares dos presos em regime disciplinar diferenciado.",
+      "Aos servidores penitenciários aposentados."
+    ],
+    "correct": 1,
+    "explanation": "Art. 78. O Patronato público ou particular destina-se a prestar assistência aos albergados e aos egressos (artigo 26)."
+  },
+  {
+    "question": "Quanto à composição do Conselho da Comunidade (Art. 80), assinale a alternativa que indica um membro que NÃO consta no rol mínimo obrigatório previsto em lei:",
+    "options": [
+      "1 (um) representante de associação comercial ou industrial.",
+      "1 (um) advogado indicado pela Seção da Ordem dos Advogados do Brasil.",
+      "1 (um) Delegado de Polícia indicado pela Secretaria de Segurança Pública.",
+      "1 (um) Defensor Público indicado pelo Defensor Público Geral.",
+      "1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais."
+    ],
+    "correct": 2,
+    "explanation": "Art. 80. A lei prevê representante de associação comercial, advogado, Defensor Público e assistente social. Não há previsão de Delegado de Polícia na composição mínima."
+  },
+  {
+    "question": "Sobre as incumbências do Conselho da Comunidade descritas no Art. 81, assinale a alternativa INCORRETA:",
+    "options": [
+      "Visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca.",
+      "Entrevistar presos.",
+      "Apresentar relatórios mensais apenas ao Ministério Público, mantendo sigilo para o Juiz.",
+      "Apresentar relatórios mensais ao Juiz da execução e ao Conselho Penitenciário.",
+      "Diligenciar a obtenção de recursos materiais e humanos para melhor assistência ao preso."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81. III - apresentar relatórios mensais ao Juiz da execução e ao Conselho Penitenciário."
+  },
+  {
+    "question": "No caso de falta da representação prevista no Art. 80 para a formação do Conselho da Comunidade, a quem cabe a escolha dos integrantes?",
+    "options": [
+      "Ao Governador do Estado.",
+      "Ao Presidente do Tribunal de Justiça.",
+      "Ao Ministério Público.",
+      "Ao Juiz da execução.",
+      "Ao Prefeito Municipal."
+    ],
+    "correct": 3,
+    "explanation": "Art. 80. Parágrafo único. Na falta da representação prevista neste artigo, ficará a critério do Juiz da execução a escolha dos integrantes do Conselho."
+  },
+  {
+    "question": "Sobre a atuação da Defensoria Pública na execução penal (Art. 81-A), assinale a alternativa INCORRETA:",
+    "options": [
+      "Velará pela regular execução da pena e da medida de segurança.",
+      "Oficiará no processo executivo e nos incidentes da execução.",
+      "Atuará na defesa dos necessitados em todos os graus e instâncias.",
+      "Atuará apenas de forma individual, sendo vedada a atuação coletiva.",
+      "A defesa dos necessitados poderá ocorrer de forma individual e coletiva."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-A. (...) para a defesa dos necessitados em todos os graus e instâncias, de forma individual e coletiva."
+  },
+  {
+    "question": "Nos termos do Art. 81-B, a Defensoria Pública possui diversas incumbências de requerimento. Assinale a opção que NÃO corresponde a uma atribuição de requerimento da Defensoria:",
+    "options": [
+      "Requerer a declaração de extinção da punibilidade.",
+      "Requerer a unificação de penas.",
+      "Requerer a detração e remição da pena.",
+      "Determinar a soltura imediata do preso independente de ordem judicial.",
+      "Requerer a instauração dos incidentes de excesso ou desvio de execução."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-B. A Defensoria Pública tem a atribuição de *requerer* providências (inciso I), mas não tem poder para *determinar* soltura sem decisão judicial."
+  },
+  {
+    "question": "Conforme o Parágrafo único do Art. 81-B, como deve proceder o órgão da Defensoria Pública em relação às visitas aos estabelecimentos penais?",
+    "options": [
+      "Visitar mensalmente, enviando relatório ao Conselho Penitenciário.",
+      "Visitar semanalmente, sem necessidade de registro formal.",
+      "Visitar periodicamente, registrando a sua presença em livro próprio.",
+      "Visitar anualmente para o mutirão carcerário.",
+      "Visitar somente quando solicitado pelo diretor do presídio."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81-B. Parágrafo único. O órgão da Defensoria Pública visitará periodicamente os estabelecimentos penais, registrando a sua presença em livro próprio."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA. Incumbe à Defensoria Pública requerer:",
+    "options": [
+      "A autorização de saídas temporárias.",
+      "A internação, a desinternação e o restabelecimento da situação anterior.",
+      "O cumprimento de pena ou medida de segurança em outra comarca.",
+      "A aplicação de pena de morte em casos de crimes hediondos.",
+      "A remoção do condenado na hipótese prevista em lei."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-B. A pena de morte não é prevista na legislação penal comum brasileira e não consta no rol de requerimentos da Defensoria na LEP."
+  },
+  {
+    "question": "Em relação à fiscalização das condições do estabelecimento penal, assinale a alternativa INCORRETA sobre a competência da Defensoria Pública (Art. 81-B):",
+    "options": [
+      "Visitar os estabelecimentos penais.",
+      "Tomar providências para o adequado funcionamento.",
+      "Requerer, quando for o caso, a apuração de responsabilidade.",
+      "Requerer à autoridade competente a interdição, no todo ou em parte, de estabelecimento penal.",
+      "Interditar administrativamente o estabelecimento penal por ato próprio."
+    ],
+    "correct": 4,
+    "explanation": "Art. 81-B. VI - requerer à autoridade competente a interdição... (A Defensoria *requer*, não interdita por ato próprio)."
+  },
+  {
+    "question": "A Defensoria Pública tem legitimidade para interpor recursos de decisões proferidas:",
+    "options": [
+      "Apenas pela autoridade judiciária.",
+      "Apenas pela autoridade administrativa.",
+      "Pela autoridade judiciária ou administrativa durante a execução.",
+      "Apenas pelo Supremo Tribunal Federal.",
+      "Apenas pelo Conselho Penitenciário."
+    ],
+    "correct": 2,
+    "explanation": "Art. 81-B. III - interpor recursos de decisões proferidas pela autoridade judiciária ou administrativa durante a execução."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre o atestado de pena a cumprir, segundo o Art. 81-B da LEP:",
+    "options": [
+      "É um direito do preso ter conhecimento de sua situação penal.",
+      "A Defensoria Pública pode requerer sua emissão.",
+      "A emissão do atestado deve ser requerida anualmente.",
+      "A Defensoria Pública é proibida de solicitar esse documento, sendo exclusivo do Ministério Público.",
+      "O atestado informa o quanto resta da pena."
+    ],
+    "correct": 3,
+    "explanation": "Art. 81-B. II - requerer a emissão anual do atestado de pena a cumprir. (Portanto, a Defensoria não é proibida, é uma incumbência dela requerer)."
+  }
+
+],
+
 
 };
 
