@@ -7773,6 +7773,152 @@ const questions = {
 
 ],
 
+"LepSaidaTemporaria":[
+  {
+    "question": "Para a concessão da saída temporária, nos termos do Art. 122 da Lei de Execução Penal, é requisito indispensável que o condenado esteja cumprindo a pena em regime:",
+    "options": [
+      "Fechado ou semi-aberto.",
+      "Aberto.",
+      "Semi-aberto.",
+      "Fechado.",
+      "Disciplinar Diferenciado (RDD)."
+    ],
+    "correct": 2,
+    "explanation": "Art. 122. Os condenados que cumprem pena em regime semi-aberto poderão obter autorização para saída temporária..."
+  },
+  {
+    "question": "De acordo com as alterações promovidas pela Lei nº 14.843/2024 no Art. 122 da LEP, qual é a única finalidade permitida atualmente para a concessão de saída temporária?",
+    "options": [
+      "Visita à família.",
+      "Participação em atividades que concorram para o retorno ao convívio social.",
+      "Frequência a curso supletivo profissionalizante, bem como de instrução do 2º grau ou superior.",
+      "Tratamento de saúde extra-hospitalar.",
+      "Realização de trabalho externo sem vigilância."
+    ],
+    "correct": 2,
+    "explanation": "Art. 122. II - freqüência a curso supletivo profissionalizante, bem como de instrução do 2º grau ou superior, na Comarca do Juízo da Execução. (Os incisos I e III, que tratavam de visita à família e atividades sociais, foram revogados)."
+  },
+  {
+    "question": "João, condenado primário, cumpre pena em regime semi-aberto por crime hediondo. Diante disso, sobre o direito à saída temporária, é correto afirmar:",
+    "options": [
+      "Ele terá direito, desde que cumpra 1/6 da pena.",
+      "Ele terá direito, mas precisará de monitoramento eletrônico obrigatório.",
+      "Não terá direito à saída temporária, conforme vedação expressa para condenados por crime hediondo.",
+      "Terá direito apenas para visita familiar, vedada a saída para estudos.",
+      "Terá direito se o crime hediondo não tiver resultado em morte."
+    ],
+    "correct": 2,
+    "explanation": "Art. 122. § 2º Não terá direito à saída temporária de que trata o caput deste artigo [...] o condenado que cumpre pena por praticar crime hediondo..."
+  },
+  {
+    "question": "Um condenado que cumpre pena por crime cometido com violência ou grave ameaça contra a pessoa (ex: roubo) solicita saída temporária para estudo. Segundo o Art. 122, § 2º:",
+    "options": [
+      "O benefício poderá ser concedido, pois a educação é um direito inalienável.",
+      "O benefício será concedido mediante uso de tornozeleira eletrônica.",
+      "Não terá direito à saída temporária ou a trabalho externo sem vigilância direta.",
+      "Terá direito após cumprir 50% da pena.",
+      "O juiz decidirá com base apenas no bom comportamento, ignorando a natureza do crime."
+    ],
+    "correct": 2,
+    "explanation": "Art. 122. § 2º Não terá direito à saída temporária [...] o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa."
+  },
+  {
+    "question": "Sobre o requisito temporal para a concessão da saída temporária (Art. 123), o condenado primário deve ter cumprido, no mínimo:",
+    "options": [
+      "1/3 (um terço) da pena.",
+      "1/6 (um sexto) da pena.",
+      "1/4 (um quarto) da pena.",
+      "Metade da pena.",
+      "2/5 (dois quintos) da pena."
+    ],
+    "correct": 1,
+    "explanation": "Art. 123. II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário..."
+  },
+  {
+    "question": "Se o condenado for reincidente, o requisito temporal exigido pelo Art. 123 para a autorização da saída temporária é o cumprimento mínimo de:",
+    "options": [
+      "1/6 (um sexto) da pena.",
+      "1/3 (um terço) da pena.",
+      "1/4 (um quarto) da pena.",
+      "2/3 (dois terços) da pena.",
+      "Metade da pena."
+    ],
+    "correct": 2,
+    "explanation": "Art. 123. II - cumprimento mínimo de [...] 1/4 (um quarto), se reincidente."
+  },
+  {
+    "question": "A autorização para saída temporária é concedida por ato motivado do Juiz da execução. Antes de decidir, o Juiz deve ouvir:",
+    "options": [
+      "O Conselho da Comunidade e a Defensoria Pública.",
+      "O Ministério Público e a administração penitenciária.",
+      "Apenas o Ministério Público.",
+      "Apenas o Diretor do presídio.",
+      "O Conselho Penitenciário e o Patronato."
+    ],
+    "correct": 1,
+    "explanation": "Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária..."
+  },
+  {
+    "question": "Sobre a vigilância durante a saída temporária, o Art. 122 estabelece que:",
+    "options": [
+      "A saída ocorre sempre com escolta policial armada.",
+      "A saída ocorre sem vigilância direta, mas o juiz pode determinar a utilização de equipamento de monitoração eletrônica.",
+      "A monitoração eletrônica é proibida para saídas de estudo.",
+      "A vigilância direta é obrigatória para reincidentes.",
+      "O condenado deve ser acompanhado por um familiar responsável."
+    ],
+    "correct": 1,
+    "explanation": "Art. 122. caput (...) sem vigilância direta (...) § 1º A ausência de vigilância direta não impede a utilização de equipamento de monitoração eletrônica pelo condenado, quando assim determinar o juiz da execução."
+  },
+  {
+    "question": "O benefício da saída temporária será automaticamente revogado se o condenado praticar fato definido como:",
+    "options": [
+      "Crime culposo.",
+      "Contravenção penal.",
+      "Crime doloso.",
+      "Infração de trânsito.",
+      "Apenas se praticar crime hediondo."
+    ],
+    "correct": 2,
+    "explanation": "Art. 125. O benefício será automaticamente revogado quando o condenado praticar fato definido como crime doloso..."
+  },
+  {
+    "question": "Além da prática de crime doloso, constitui causa para a revogação automática da saída temporária, conforme o Art. 125:",
+    "options": [
+      "O divórcio ou separação conjugal.",
+      "A mudança de endereço da família.",
+      "Revelar baixo grau de aproveitamento do curso.",
+      "Não conseguir emprego após o curso.",
+      "Atrasar o pagamento da multa penitenciária."
+    ],
+    "correct": 2,
+    "explanation": "Art. 125. O benefício será automaticamente revogado quando o condenado [...] revelar baixo grau de aproveitamento do curso."
+  },
+  {
+    "question": "Após a revogação do benefício, a recuperação do direito à saída temporária dependerá:",
+    "options": [
+      "Apenas do decurso de tempo de 1 ano.",
+      "De novo pedido formulado exclusivamente pelo Ministério Público.",
+      "Da absolvição no processo penal, do cancelamento da punição disciplinar ou da demonstração do merecimento.",
+      "Da progressão para o regime aberto.",
+      "Do pagamento de fiança."
+    ],
+    "correct": 2,
+    "explanation": "Art. 125. Parágrafo único. A recuperação do direito à saída temporária dependerá da absolvição no processo penal, do cancelamento da punição disciplinar ou da demonstração do merecimento do condenado."
+  },
+  {
+    "question": "Quando a saída temporária for concedida para frequência a curso profissionalizante ou de instrução de ensino médio ou superior, qual será a duração do benefício?",
+    "options": [
+      "Sempre 7 dias, renováveis por mais 4 vezes ao ano.",
+      "O tempo será o necessário para o cumprimento das atividades discentes.",
+      "Máximo de 4 horas diárias.",
+      "Apenas nos finais de semana.",
+      "35 dias por ano, independente da duração do curso."
+    ],
+    "correct": 1,
+    "explanation": "Art. 122. § 3º Quando se tratar de frequência a curso profissionalizante ou de instrução de ensino médio ou superior, o tempo de saída será o necessário para o cumprimento das atividades discentes."
+  }
+],
 
 };
 
