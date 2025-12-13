@@ -8088,6 +8088,349 @@ const questions = {
   }
 ],
 
+"Lei11343_33_40":[
+  {
+    "question": "Qual é a pena cominada para o crime de Tráfico de Drogas (Art. 33, caput), que consiste em 'Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender...' drogas sem autorização ou em desacordo com determinação legal?",
+    "options": [
+      "Reclusão de 3 a 10 anos e multa de 700 a 1.200 dias-multa.",
+      "Detenção de 6 meses a 1 ano e multa de 700 a 1.500 dias-multa.",
+      "Reclusão de 5 a 15 anos e pagamento de 500 a 1.500 dias-multa.",
+      "Detenção de 1 a 3 anos e multa de 100 a 300 dias-multa.",
+      "Reclusão de 8 a 20 anos e pagamento de 1.500 a 4.000 dias-multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 33. Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa."
+  },
+  {
+    "question": "Incorre nas mesmas penas do Tráfico de Drogas (Art. 33, caput) quem, sem autorização, semeia, cultiva ou faz a colheita de plantas que se constituam em:",
+    "options": [
+      "Produto comestível.",
+      "Matéria-prima para a preparação de drogas.",
+      "Planta ornamental.",
+      "Produto para uso medicinal autorizado.",
+      "Produto para artesanato."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33. § 1º II - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas."
+  },
+  {
+    "question": "A conduta de 'Induzir, instigar ou auxiliar alguém ao uso indevido de droga' (Art. 33, § 2º) tem como pena:",
+    "options": [
+      "Reclusão de 5 a 15 anos.",
+      "Detenção, de 1 a 3 anos, e multa de 100 a 300 dias-multa.",
+      "Reclusão de 3 a 10 anos.",
+      "Apenas multa.",
+      "Reclusão de 6 meses a 2 anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33. § 2º Pena - detenção, de 1 (um) a 3 (três) anos, e multa de 100 (cem) a 300 (trezentos) dias-multa."
+  },
+  {
+    "question": "O crime de 'Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem' (Art. 33, § 3º) prevê pena de:",
+    "options": [
+      "Apenas prestação de serviços à comunidade.",
+      "Detenção, de 6 meses a 1 ano, e pagamento de 700 a 1.500 dias-multa.",
+      "Reclusão de 5 a 15 anos.",
+      "Detenção de 1 a 3 anos.",
+      "Advertência sobre os efeitos das drogas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33. § 3º Pena - detenção, de 6 (seis) meses a 1 (um) ano, e pagamento de 700 (setecentos) a 1.500 (mil e quinhentos) dias-multa, sem prejuízo das penas previstas no art. 28."
+  },
+  {
+    "question": "Qual é a pena cominada ao crime de 'Fabricar, adquirir, utilizar, transportar (...) maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas' (Art. 34)?",
+    "options": [
+      "Detenção, de 6 meses a 1 ano.",
+      "Reclusão, de 3 a 10 anos, e pagamento de 1.200 a 2.000 dias-multa.",
+      "Reclusão, de 5 a 15 anos.",
+      "Detenção, de 1 a 3 anos.",
+      "Reclusão, de 8 a 20 anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 34. Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 1.200 (mil e duzentos) a 2.000 (dois mil) dias-multa."
+  },
+  {
+    "question": "O crime de Associação para o Tráfico (Art. 35) exige que o fim seja a prática reiterada ou não, de quais crimes?",
+    "options": [
+      "Apenas o crime de Tráfico (Art. 33, caput).",
+      "Qualquer crime previsto na Lei nº 11.343.",
+      "Qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei.",
+      "Apenas o crime de Financiamento (Art. 36).",
+      "Apenas o crime de uso (Art. 28)."
+    ],
+    "correct": 2,
+    "explanation": "Art. 35. Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei."
+  },
+  {
+    "question": "O crime de Financiamento ou Custeio para a prática do tráfico (Art. 36) possui a pena mais grave entre os crimes listados, sendo:",
+    "options": [
+      "Reclusão de 5 a 15 anos.",
+      "Detenção de 6 meses a 1 ano.",
+      "Reclusão de 3 a 10 anos.",
+      "Reclusão de 8 a 20 anos, e pagamento de 1.500 a 4.000 dias-multa.",
+      "Reclusão de 2 a 6 anos."
+    ],
+    "correct": 3,
+    "explanation": "Art. 36. Pena - reclusão, de 8 (oito) a 20 (vinte) anos, e pagamento de 1.500 (mil e quinhentos) a 4.000 (quatro mil) dias-multa."
+  },
+  {
+    "question": "Qual a pena para quem Colabora, como informante, com grupo, organização ou associação destinados à prática de Tráfico (Art. 37)?",
+    "options": [
+      "Reclusão, de 2 a 6 anos, e pagamento de 300 a 700 dias-multa.",
+      "Detenção, de 6 meses a 2 anos.",
+      "Reclusão, de 8 a 20 anos.",
+      "Detenção, de 1 a 3 anos.",
+      "A mesma pena do financiador."
+    ],
+    "correct": 0,
+    "explanation": "Art. 37. Pena - reclusão, de 2 (dois) a 6 (seis) anos, e pagamento de 300 (trezentos) a 700 (setecentos) dias-multa."
+  },
+  {
+    "question": "Para a aplicação da causa de diminuição de pena (Tráfico privilegiado, Art. 33, § 4º), é condição que o agente:",
+    "options": [
+      "Seja reincidente específico.",
+      "Se dedique a atividades criminosas.",
+      "Seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.",
+      "Tenha praticado o crime com violência ou grave ameaça.",
+      "Tenha sido condenado a mais de 8 anos de reclusão."
+    ],
+    "correct": 2,
+    "explanation": "Art. 33. § 4º (...) desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+  },
+  {
+    "question": "Qual o limite de redução da pena no caso do Tráfico privilegiado (Art. 33, § 4º)?",
+    "options": [
+      "De um terço a metade.",
+      "De um sexto a dois terços.",
+      "Apenas dois terços.",
+      "Metade, obrigatoriamente.",
+      "Um quarto, obrigatoriamente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33. § 4º (...) as penas poderão ser reduzidas de um sexto a dois terços..."
+  },
+  {
+    "question": "Qual a consequência da aplicação do Tráfico privilegiado (Art. 33, § 4º) em relação à substituição da pena?",
+    "options": [
+      "A conversão em penas restritivas de direitos é obrigatória.",
+      "A conversão em penas restritivas de direitos é vedada.",
+      "A conversão em penas restritivas de direitos é facultativa ao juiz.",
+      "A pena é substituída por multa.",
+      "A pena é substituída por advertência."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33. § 4º (...) vedada a conversão em penas restritivas de direitos..."
+  },
+  {
+    "question": "Nos crimes de tráfico (Art. 33 a 37), a pena é aumentada de um sexto a dois terços se o crime for praticado em qual das seguintes situações (Art. 40, III)?",
+    "options": [
+      "Em local particular e isolado.",
+      "Nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares.",
+      "Por agente primário.",
+      "Com veículo particular não licenciado.",
+      "Em dia de folga do agente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 40. III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares..."
+  },
+  {
+    "question": "A pena é aumentada (Art. 40, VI) se a prática do crime envolver ou visar a atingir:",
+    "options": [
+      "Apenas criança.",
+      "Apenas adolescente.",
+      "Criança ou adolescente ou a quem tenha diminuída ou suprimida a capacidade de entendimento e determinação.",
+      "Apenas adultos maiores de 60 anos.",
+      "Apenas funcionários públicos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 40. VI - sua prática envolver ou visar a atingir criança ou adolescente ou a quem tenha, por qualquer motivo, diminuída ou suprimida a capacidade de entendimento e determinação."
+  },
+  {
+    "question": "Qual a causa de aumento de pena (Art. 40, IV) relacionada ao modo de execução do crime?",
+    "options": [
+      "Se for praticado durante a noite.",
+      "Se tiver sido praticado com violência, grave ameaça, emprego de arma de fogo.",
+      "Se o lucro for superior a 10 salários mínimos.",
+      "Se for praticado por pessoa de bons antecedentes.",
+      "Se for praticado em dia de semana."
+    ],
+    "correct": 1,
+    "explanation": "Art. 40. IV - o crime tiver sido praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva."
+  },
+  {
+    "question": "O indiciado ou acusado que colaborar voluntariamente com a investigação e o processo, no caso de condenação, terá a pena reduzida em qual limite (Art. 41)?",
+    "options": [
+      "Metade.",
+      "De um quarto a metade.",
+      "De um terço a dois terços.",
+      "Apenas um sexto.",
+      "Apenas metade."
+    ],
+    "correct": 2,
+    "explanation": "Art. 41. O indiciado ou acusado que colaborar voluntariamente (...) terá pena reduzida de um terço a dois terços."
+  },
+  {
+    "question": "Na fixação das penas, o juiz considerará, com preponderância sobre o previsto no art. 59 do CP (Art. 42):",
+    "options": [
+      "O estado civil do agente.",
+      "A natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.",
+      "Apenas o valor do salário-mínimo na época do fato.",
+      "O local da prisão.",
+      "O número de filhos do agente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente."
+  },
+  {
+    "question": "Qual é a natureza dos crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei em relação à fiança e outros benefícios (Art. 44)?",
+    "options": [
+      "São afiançáveis e suscetíveis de sursis.",
+      "São inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória.",
+      "São inafiançáveis, mas suscetíveis de indulto.",
+      "São afiançáveis, mas insuscetíveis de anistia.",
+      "São de ação penal privada."
+    ],
+    "correct": 1,
+    "explanation": "Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos."
+  },
+  {
+    "question": "Em relação aos crimes previstos no Art. 33, caput, dar-se-á o livramento condicional após o cumprimento de qual fração da pena (Art. 44, Parágrafo único)?",
+    "options": [
+      "Um terço.",
+      "Metade.",
+      "Dois terços.",
+      "Um quarto.",
+      "Um sexto."
+    ],
+    "correct": 2,
+    "explanation": "Art. 44. Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico."
+  },
+  {
+    "question": "Em qual situação o agente é isento de pena, independentemente da infração penal praticada (Art. 45)?",
+    "options": [
+      "Se não possuía emprego lícito.",
+      "Se era inteiramente incapaz de entender o caráter ilícito do fato em razão da dependência de droga, ou sob o efeito, proveniente de caso fortuito ou força maior.",
+      "Se for primário e de bons antecedentes.",
+      "Se a quantidade de droga for pequena.",
+      "Se confessar o crime na fase policial."
+    ],
+    "correct": 1,
+    "explanation": "Art. 45. É isento de pena o agente que, em razão da dependência, ou sob o efeito, proveniente de caso fortuito ou força maior, de droga, era, ao tempo da ação ou da omissão, qualquer que tenha sido a infração penal praticada, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento."
+  },
+  {
+    "question": "Se o agente não possuía a plena capacidade de entendimento do ilícito devido às circunstâncias do Art. 45, as penas podem ser reduzidas em qual limite (Art. 46)?",
+    "options": [
+      "De um décimo a um quarto.",
+      "De um sexto a um terço.",
+      "De um terço a dois terços.",
+      "Metade, obrigatoriamente.",
+      "Um sexto, obrigatoriamente."
+    ],
+    "correct": 2,
+    "explanation": "Art. 46. As penas podem ser reduzidas de um terço a dois terços se, por força das circunstâncias previstas no art. 45 desta Lei, o agente não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento."
+  }
+],
+
+
+"Lei11343_31_32":[
+  {
+    "question": "De acordo com o Art. 31, para realizar atividades como produzir, fabricar, vender ou adquirir drogas ou matéria-prima destinada à sua preparação, é indispensável:",
+    "options": [
+      "A comunicação posterior à autoridade policial.",
+      "A licença prévia da autoridade competente.",
+      "Apenas o pagamento de taxas tributárias.",
+      "A autorização verbal do Ministério Público.",
+      "O registro em cartório de notas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 31. É indispensável a licença prévia da autoridade competente para produzir, extrair, fabricar..."
+  },
+  {
+    "question": "Segundo o Art. 32, as plantações ilícitas serão imediatamente destruídas por qual autoridade?",
+    "options": [
+      "Pelo Juiz de Direito.",
+      "Pelo Promotor de Justiça.",
+      "Pelo Perito Criminal.",
+      "Pelo Delegado de Polícia.",
+      "Pelo Agente do Sisnama."
+    ],
+    "correct": 3,
+    "explanation": "Art. 32. As plantações ilícitas serão imediatamente destruídas pelo delegado de polícia na forma do art. 50-A..."
+  },
+  {
+    "question": "Antes de destruir a plantação ilícita, o delegado de polícia deve tomar uma providência essencial para a materialidade do crime. Qual é ela?",
+    "options": [
+      "Aguardar a sentença judicial transitada em julgado.",
+      "Recolher quantidade suficiente para exame pericial.",
+      "Vender a colheita em leilão público.",
+      "Solicitar autorização ao Ibama.",
+      "Convocar uma coletiva de imprensa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 32. (...) que recolherá quantidade suficiente para exame pericial..."
+  },
+  {
+    "question": "Ao realizar a destruição da plantação e a colheita de amostras, o delegado deve lavrar qual documento, conforme o Art. 32?",
+    "options": [
+      "Auto de prisão em flagrante.",
+      "Auto de resistência.",
+      "Auto de levantamento das condições encontradas.",
+      "Boletim de Ocorrência Circunstanciado.",
+      "Termo de Ajustamento de Conduta."
+    ],
+    "correct": 2,
+    "explanation": "Art. 32. (...) de tudo lavrando auto de levantamento das condições encontradas, com a delimitação do local..."
+  },
+  {
+    "question": "Caso seja utilizada a queimada para destruir a plantação ilícita, o que o Art. 32, § 3º dispõe sobre a autorização do órgão próprio do Sistema Nacional do Meio Ambiente (Sisnama)?",
+    "options": [
+      "É obrigatória e deve ser solicitada com 30 dias de antecedência.",
+      "É indispensável, sob pena de crime ambiental.",
+      "É dispensada a autorização prévia.",
+      "Deve ser substituída por autorização judicial.",
+      "Só é dispensada se a plantação for pequena."
+    ],
+    "correct": 2,
+    "explanation": "Art. 32. § 3º (...) dispensada a autorização prévia do órgão próprio do Sistema Nacional do Meio Ambiente - Sisnama."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a destruição de plantações por meio de queimada (Art. 32, § 3º):",
+    "options": [
+      "Deve-se observar as cautelas necessárias à proteção ao meio ambiente.",
+      "Deve-se observar o disposto no Decreto nº 2.661/1998, no que couber.",
+      "A autorização prévia do Sisnama é dispensada.",
+      "A queimada é a única forma permitida por lei para destruição de plantações.",
+      "O procedimento busca agilidade na erradicação da droga."
+    ],
+    "correct": 3,
+    "explanation": "Art. 32, § 3º. A lei diz 'Em caso de ser utilizada a queimada...', indicando que é uma possibilidade, não a única forma exclusiva ou obrigatória."
+  },
+  {
+    "question": "O que acontecerá com as glebas (terras) cultivadas com plantações ilícitas, de acordo com o Art. 32, § 4º?",
+    "options": [
+      "Serão devolvidas ao proprietário após o pagamento de multa.",
+      "Serão expropriadas, conforme o disposto no art. 243 da Constituição Federal.",
+      "Serão arrendadas para custear o tratamento de dependentes.",
+      "Ficarão interditadas por 10 anos.",
+      "Serão doadas para a prefeitura local construir escolas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 32. § 4º As glebas cultivadas com plantações ilícitas serão expropriadas, conforme o disposto no art. 243 da Constituição Federal..."
+  },
+  {
+    "question": "A licença prévia mencionada no Art. 31 é exigida para atividades envolvendo drogas ou matéria-prima destinada à sua preparação para:",
+    "options": [
+      "Apenas fins comerciais.",
+      "Apenas fins industriais.",
+      "Apenas fins de exportação.",
+      "Qualquer fim.",
+      "Fins medicinais exclusivamente."
+    ],
+    "correct": 3,
+    "explanation": "Art. 31. É indispensável a licença prévia (...) para qualquer fim..."
+  },
+],
+
 "Lei11343_54_59":[
   {
     "question": "Conforme o Art. 54, recebidos em juízo os autos do inquérito policial, dar-se-á vista ao Ministério Público para adotar providências no prazo de:",
