@@ -7773,6 +7773,711 @@ const questions = {
 
 ],
 
+"Lei11343_27_30":[
+  {
+    "question": "De acordo com o Art. 28 da Lei de Drogas, o indivíduo que adquire ou transporta droga para consumo pessoal está sujeito, entre outras, à pena de:",
+    "options": [
+      "Reclusão de 1 a 3 anos.",
+      "Detenção e multa.",
+      "Medida educativa de comparecimento a programa ou curso educativo.",
+      "Prisão simples e advertência.",
+      "Internação compulsória imediata."
+    ],
+    "correct": 2,
+    "explanation": "Art. 28. Quem adquirir (...) para consumo pessoal (...) será submetido às seguintes penas: (...) III - medida educativa de comparecimento a programa ou curso educativo."
+  },
+  {
+    "question": "Assinale a alternativa que indica uma pena NÃO prevista no Art. 28 para quem traz consigo droga para consumo pessoal:",
+    "options": [
+      "Advertência sobre os efeitos das drogas.",
+      "Prestação de serviços à comunidade.",
+      "Pena de multa como sanção principal e direta.",
+      "Comparecimento a curso educativo.",
+      "As alternativas A, B e D estão previstas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 28. O caput prevê apenas advertência, prestação de serviços e medida educativa. A multa só aparece no § 6º como medida coercitiva sucessiva em caso de recusa injustificada."
+  },
+  {
+    "question": "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá, conforme o Art. 28, § 2º, aos seguintes critérios, EXCETO:",
+    "options": [
+      "Natureza e quantidade da substância apreendida.",
+      "Local e condições em que se desenvolveu a ação.",
+      "Conduta e antecedentes do agente.",
+      "Valor de mercado da droga apreendida.",
+      "Circunstâncias sociais e pessoais do agente."
+    ],
+    "correct": 3,
+    "explanation": "Art. 28, § 2º. O valor de mercado da substância não consta no rol legal de critérios para a distinção entre consumo e tráfico."
+  },
+  {
+    "question": "Em regra, as penas de prestação de serviços à comunidade e medida educativa (Art. 28) serão aplicadas pelo prazo máximo de:",
+    "options": [
+      "3 (três) meses.",
+      "5 (cinco) meses.",
+      "8 (oito) meses.",
+      "10 (dez) meses.",
+      "12 (doze) meses."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28, § 3º. As penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 5 (cinco) meses."
+  },
+  {
+    "question": "No caso de REINCIDÊNCIA nas condutas de porte para consumo pessoal, qual o prazo máximo de aplicação das penas de prestação de serviços à comunidade e medida educativa?",
+    "options": [
+      "6 (seis) meses.",
+      "8 (oito) meses.",
+      "10 (dez) meses.",
+      "2 (dois) anos.",
+      "O dobro da pena anterior, sem limite fixo."
+    ],
+    "correct": 2,
+    "explanation": "Art. 28, § 4º. Em caso de reincidência, as penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 10 (dez) meses."
+  },
+  {
+    "question": "Conforme o Art. 28, § 1º, às mesmas medidas do usuário submete-se quem, para consumo pessoal:",
+    "options": [
+      "Vende sementes de plantas destinadas à preparação de drogas.",
+      "Semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade de substância capaz de causar dependência.",
+      "Aluga local para o cultivo de substâncias entorpecentes.",
+      "Financia a plantação de terceiros para consumo compartilhado.",
+      "Transporta ferramentas para o cultivo ilícito."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28, § 1º. Às mesmas medidas submete-se quem, para seu consumo pessoal, semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade..."
+  },
+  {
+    "question": "Se o agente se recusar injustificadamente ao cumprimento das medidas educativas, o juiz poderá submetê-lo, sucessivamente, a:",
+    "options": [
+      "Prisão administrativa e multa.",
+      "Admoestação verbal e multa.",
+      "Serviço militar obrigatório e admoestação.",
+      "Perda de bens e admoestação verbal.",
+      "Regressão de regime e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28, § 6º. (...) sucessivamente a: I - admoestação verbal; II - multa."
+  },
+  {
+    "question": "Sobre a prestação de serviços à comunidade prevista na Lei de Drogas (Art. 28, § 5º), assinale a opção INCORRETA:",
+    "options": [
+      "Pode ser cumprida em hospitais.",
+      "Pode ser cumprida em entidades privadas sem fins lucrativos.",
+      "Deve ocorrer, preferencialmente, em locais que se ocupem da recuperação de dependentes.",
+      "Pode ser cumprida em empresas privadas de fins lucrativos que prestem serviços ao governo.",
+      "Pode ser cumprida em entidades educacionais ou assistenciais."
+    ],
+    "correct": 3,
+    "explanation": "Art. 28, § 5º. A lei especifica que as entidades devem ser públicas ou privadas *sem fins lucrativos*."
+  },
+  {
+    "question": "Na imposição da multa prevista no § 6º do Art. 28, o juiz fixará o número de dias-multa entre os limites de:",
+    "options": [
+      "10 (dez) a 50 (cinquenta).",
+      "20 (vinte) a 60 (sessenta).",
+      "40 (quarenta) a 100 (cem).",
+      "50 (cinquenta) a 200 (duzentos).",
+      "10 (dez) a 360 (trezentos e sessenta)."
+    ],
+    "correct": 2,
+    "explanation": "Art. 29. (...) o juiz (...) fixará o número de dias-multa, em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem)."
+  },
+  {
+    "question": "Os valores decorrentes da imposição da multa por descumprimento de medida educativa (Art. 28, § 6º) serão creditados a qual conta?",
+    "options": [
+      "Fundo Penitenciário Nacional (FUNPEN).",
+      "Fundo Nacional Antidrogas (FUNAD).",
+      "Conta do Tesouro Nacional para a Educação.",
+      "Fundo Municipal de Saúde local.",
+      "Fundo Nacional de Segurança Pública."
+    ],
+    "correct": 1,
+    "explanation": "Art. 29, Parágrafo único. Os valores decorrentes da imposição da multa (...) serão creditados à conta do Fundo Nacional Antidrogas."
+  },
+  {
+    "question": "Qual é o prazo de prescrição para a imposição e execução das penas previstas para o consumo pessoal (Art. 30)?",
+    "options": [
+      "1 (um) ano.",
+      "2 (dois) anos.",
+      "3 (três) anos.",
+      "4 (quatro) anos.",
+      "5 (cinco) anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 30. Prescrevem em 2 (dois) anos a imposição e a execução das penas..."
+  },
+  {
+    "question": "De acordo com o Art. 27, as penas previstas no capítulo de crimes e penas da Lei de Drogas podem ser aplicadas:",
+    "options": [
+      "Apenas de forma isolada.",
+      "Isolada ou cumulativamente.",
+      "Apenas cumulativamente.",
+      "Somente após o trânsito em julgado de crime de tráfico correlato.",
+      "Apenas se houver concordância do réu."
+    ],
+    "correct": 1,
+    "explanation": "Art. 27. As penas previstas neste Capítulo poderão ser aplicadas isolada ou cumulativamente..."
+  },
+  {
+    "question": "Sobre o tratamento do infrator, o Art. 28, § 7º estabelece que o juiz determinará ao Poder Público que coloque à disposição daquele, GRATUITAMENTE:",
+    "options": [
+      "Medicamentos de alto custo para desintoxicação.",
+      "Estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado.",
+      "Internação em clínica particular paga pelo Estado.",
+      "Acompanhamento policial domiciliar 24 horas.",
+      "Cesta básica e auxílio-doença."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28, § 7º. O juiz determinará ao Poder Público que coloque à disposição do infrator, gratuitamente, estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado."
+  },
+  {
+    "question": "Sobre a aplicação das penas previstas no Capítulo III (Art. 27), elas poderão ser aplicadas de qual forma?",
+    "options": [
+      "Apenas isoladamente.",
+      "Apenas cumulativamente.",
+      "Apenas substituídas a qualquer tempo.",
+      "Isolada ou cumulativamente, bem como substituídas a qualquer tempo.",
+      "Somente após a decisão final do Tribunal."
+    ],
+    "correct": 3,
+    "explanation": "Art. 27. As penas previstas neste Capítulo poderão ser aplicadas isolada ou cumulativamente, bem como substituídas a qualquer tempo, ouvidos o Ministério Público e o defensor."
+  },
+  {
+    "question": "Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo drogas para consumo pessoal será submetido a quais tipos de penas?",
+    "options": [
+      "Pena privativa de liberdade de 6 meses a 1 ano.",
+      "Advertência, prestação de serviços à comunidade e medida educativa.",
+      "Multa de 5 a 10 salários mínimos.",
+      "Apenas advertência verbal.",
+      "Regressão de regime de pena."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. (...) será submetido às seguintes penas: I - advertência; II - prestação de serviços à comunidade; III - medida educativa de comparecimento a programa ou curso educativo."
+  },
+  {
+    "question": "Qual é a pena aplicável à conduta de semear, cultivar ou colher plantas destinadas à preparação de pequena quantidade de substância para consumo pessoal, segundo o § 1º do Art. 28?",
+    "options": [
+      "Pena de multa apenas.",
+      "As mesmas medidas aplicáveis ao porte para consumo pessoal (Art. 28, caput).",
+      "Pena de detenção de 6 meses a 1 ano.",
+      "Apenas admoestação verbal.",
+      "Pena de interdição de direitos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. § 1º Às mesmas medidas submete-se quem, para seu consumo pessoal, semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade de substância ou produto capaz de causar dependência física ou psíquica."
+  },
+  {
+    "question": "Qual dos seguintes fatores NÃO é considerado pelo juiz para determinar se a droga se destinava a consumo pessoal, conforme o Art. 28, § 2º?",
+    "options": [
+      "A natureza e a quantidade da substância apreendida.",
+      "O local e as condições em que se desenvolveu a ação.",
+      "As circunstâncias sociais e pessoais do agente.",
+      "A conduta e os antecedentes do agente.",
+      "O tipo de regime de pena que o agente cumpria."
+    ],
+    "correct": 4,
+    "explanation": "Art. 28. § 2º (...) o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+  },
+  {
+    "question": "Qual é o prazo máximo de aplicação das penas de Prestação de Serviços à Comunidade e Medida Educativa (incisos II e III) para o agente NÃO reincidente?",
+    "options": [
+      "3 (três) meses.",
+      "5 (cinco) meses.",
+      "10 (dez) meses.",
+      "12 (doze) meses.",
+      "2 (dois) anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. § 3º As penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 5 (cinco) meses."
+  },
+  {
+    "question": "Em caso de reincidência por porte para consumo pessoal (Art. 28, § 4º), qual será o prazo máximo de aplicação das penas de Prestação de Serviços à Comunidade e Medida Educativa (incisos II e III)?",
+    "options": [
+      "5 (cinco) meses.",
+      "6 (seis) meses.",
+      "10 (dez) meses.",
+      "1 (um) ano.",
+      "2 (dois) anos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 28. § 4º Em caso de reincidência, as penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 10 (dez) meses."
+  },
+  {
+    "question": "A Prestação de Serviços à Comunidade (Art. 28, II) será cumprida em entidades que se ocupem, preferencialmente, de quais atividades?",
+    "options": [
+      "Fiscalização tributária.",
+      "Prevenção do consumo ou da recuperação de usuários e dependentes de drogas.",
+      "Manutenção de parques urbanos.",
+      "Serviços de limpeza urbana.",
+      "Controle de fronteiras."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. § 5º A prestação de serviços à comunidade será cumprida em programas comunitários, entidades (...) que se ocupem, preferencialmente, da prevenção do consumo ou da recuperação de usuários e dependentes de drogas."
+  },
+  {
+    "question": "Quais medidas coercitivas o juiz poderá aplicar sucessivamente ao agente que, injustificadamente, se recuse a cumprir as medidas educativas (Art. 28, § 6º)?",
+    "options": [
+      "Prisão simples e interdição de direitos.",
+      "Admoestação verbal e multa.",
+      "Prestação de fiança e monitoração eletrônica.",
+      "Regressão de regime e isolamento.",
+      "Advertência e suspensão da CNH."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. § 6º (...) poderá o juiz submetê-lo, sucessivamente a: I - admoestação verbal; II - multa."
+  },
+  {
+    "question": "Em relação ao tratamento especializado para o infrator, o Art. 28, § 7º, estabelece que o juiz determinará ao Poder Público que o coloque à disposição de forma:",
+    "options": [
+      "Paga, com desconto em folha.",
+      "Gratuita, preferencialmente em estabelecimento ambulatorial.",
+      "Gratuita, obrigatoriamente em regime de internação integral.",
+      "Paga, mediante custeio de entidade privada.",
+      "Não há previsão de gratuidade."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28. § 7º O juiz determinará ao Poder Público que coloque à disposição do infrator, gratuitamente, estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado."
+  },
+  {
+    "question": "Na imposição da multa prevista no Art. 28, § 6º, II (por recusa ao cumprimento da medida educativa), qual é a quantidade mínima de dias-multa que o juiz pode fixar, segundo o Art. 29?",
+    "options": [
+      "10 (dez) dias-multa.",
+      "20 (vinte) dias-multa.",
+      "40 (quarenta) dias-multa.",
+      "100 (cem) dias-multa.",
+      "30 (trinta) dias-multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 29. (...) fixará o número de dias-multa, em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem)..."
+  },
+  {
+    "question": "Qual é a quantidade máxima de dias-multa que o juiz pode fixar na imposição da multa por recusa ao cumprimento da medida educativa, conforme o Art. 29?",
+    "options": [
+      "50 (cinquenta).",
+      "75 (setenta e cinco).",
+      "100 (cem).",
+      "150 (cento e cinquenta).",
+      "200 (duzentos)."
+    ],
+    "correct": 2,
+    "explanation": "Art. 29. (...) em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem)..."
+  },
+  {
+    "question": "Qual é o valor mínimo e máximo que pode ser atribuído a cada dia-multa, segundo o Art. 29?",
+    "options": [
+      "Um trinta avos até 3 (três) vezes o valor do maior salário mínimo.",
+      "Um décimo até 5 (cinco) vezes o valor do maior salário mínimo.",
+      "Um centésimo até 10 (dez) vezes o valor do maior salário mínimo.",
+      "Um quinto até 2 (duas) vezes o valor do maior salário mínimo.",
+      "Um quarenta avos até 1 (um) salário mínimo."
+    ],
+    "correct": 0,
+    "explanation": "Art. 29. (...) atribuindo depois a cada um, segundo a capacidade econômica do agente, o valor de um trinta avos até 3 (três) vezes o valor do maior salário mínimo."
+  },
+  {
+    "question": "Em qual prazo prescrevem a imposição e a execução das penas por porte para consumo pessoal (Art. 30)?",
+    "options": [
+      "6 (seis) meses.",
+      "1 (um) ano.",
+      "2 (dois) anos.",
+      "4 (quatro) anos.",
+      "5 (cinco) anos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 30. Prescrevem em 2 (dois) anos a imposição e a execução das penas, observado, no tocante à interrupção do prazo, o disposto nos arts. 107 e seguintes do Código Penal."
+  }
+],
+
+"Lei11343_54_59":[
+  {
+    "question": "Conforme o Art. 54, recebidos em juízo os autos do inquérito policial, dar-se-á vista ao Ministério Público para adotar providências no prazo de:",
+    "options": [
+      "5 (cinco) dias.",
+      "10 (dez) dias.",
+      "15 (quinze) dias.",
+      "20 (vinte) dias.",
+      "30 (trinta) dias."
+    ],
+    "correct": 1,
+    "explanation": "Art. 54. (...) dar-se-á vista ao Ministério Público para, no prazo de 10 (dez) dias, adotar uma das seguintes providências..."
+  },
+  {
+    "question": "Ao oferecer a denúncia com base na Lei nº 11.343 (Art. 54, III), quantas testemunhas o Ministério Público pode arrolar?",
+    "options": [
+      "Até 3 (três) testemunhas.",
+      "Até 5 (cinco) testemunhas.",
+      "Até 8 (oito) testemunhas.",
+      "O número é ilimitado.",
+      "Até 2 (duas) testemunhas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 54. III - oferecer denúncia, arrolar até 5 (cinco) testemunhas e requerer as demais provas que entender pertinentes."
+  },
+  {
+    "question": "Após o oferecimento da denúncia, qual é o ato processual ordenado pelo juiz conforme o Art. 55?",
+    "options": [
+      "A citação do acusado para comparecer à audiência.",
+      "A prisão preventiva do acusado.",
+      "A notificação do acusado para oferecer defesa prévia, por escrito.",
+      "A nomeação imediata de defensor público.",
+      "O arquivamento do inquérito."
+    ],
+    "correct": 2,
+    "explanation": "Art. 55. Oferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito..."
+  },
+  {
+    "question": "Qual é o prazo para o acusado oferecer a defesa prévia por escrito, segundo o Art. 55?",
+    "options": [
+      "3 (três) dias.",
+      "5 (cinco) dias.",
+      "10 (dez) dias.",
+      "15 (quinze) dias.",
+      "20 (vinte) dias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 55. Oferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito, no prazo de 10 (dez) dias."
+  },
+  {
+    "question": "Na defesa preliminar (Art. 55, § 1º), o acusado pode arrolar até quantas testemunhas?",
+    "options": [
+      "3 (três).",
+      "5 (cinco).",
+      "8 (oito).",
+      "10 (dez).",
+      "Não há limite na defesa prévia."
+    ],
+    "correct": 1,
+    "explanation": "Art. 55. § 1º (...) especificar as provas que pretende produzir e, até o número de 5 (cinco), arrolar testemunhas."
+  },
+  {
+    "question": "Caso a resposta (defesa prévia) não seja apresentada no prazo legal pelo acusado, qual deve ser a conduta do juiz (Art. 55, § 3º)?",
+    "options": [
+      "Decretar a revelia e seguir o processo.",
+      "Arquivar o processo.",
+      "Nomear defensor para oferecê-la em 10 (dez) dias, concedendo-lhe vista dos autos.",
+      "Condenar o réu imediatamente.",
+      "Intimar o Ministério Público para apresentar a defesa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 55. § 3º Se a resposta não for apresentada no prazo, o juiz nomeará defensor para oferecê-la em 10 (dez) dias, concedendo-lhe vista dos autos no ato de nomeação."
+  },
+  {
+    "question": "Apresentada a defesa prévia, qual é o prazo para o juiz decidir, conforme o Art. 55, § 4º?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "5 (cinco) dias.",
+      "10 (dez) dias.",
+      "15 (quinze) dias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 55. § 4º Apresentada a defesa, o juiz decidirá em 5 (cinco) dias."
+  },
+  {
+    "question": "Como devem ser processadas as exceções arguidas na defesa preliminar (Art. 55, § 2º)?",
+    "options": [
+      "Nos próprios autos principais.",
+      "Em apenso, sem suspender o processo.",
+      "Em apartado, nos termos do Código de Processo Penal.",
+      "Verbalmente na audiência.",
+      "Após a sentença final."
+    ],
+    "correct": 2,
+    "explanation": "Art. 55. § 2º As exceções serão processadas em apartado, nos termos dos arts. 95 a 113 do Decreto-Lei nº 3.689..."
+  },
+  {
+    "question": "Se o denunciado for funcionário público e cometer infração prevista nos artigos especificados na lei (como tráfico), o que o juiz pode decretar ao receber a denúncia (Art. 56, § 1º)?",
+    "options": [
+      "A perda imediata do cargo.",
+      "O afastamento cautelar de suas atividades.",
+      "A aposentadoria compulsória.",
+      "A prisão preventiva obrigatória.",
+      "A suspensão do salário, mantendo o exercício da função."
+    ],
+    "correct": 1,
+    "explanation": "Art. 56. § 1º (...) o juiz, ao receber a denúncia, poderá decretar o afastamento cautelar do denunciado de suas atividades, se for funcionário público..."
+  },
+  {
+    "question": "Qual é o prazo regra para a realização da audiência de instrução e julgamento após o recebimento da denúncia (Art. 56, § 2º)?",
+    "options": [
+      "10 (dez) dias.",
+      "20 (vinte) dias.",
+      "30 (trinta) dias.",
+      "60 (sessenta) dias.",
+      "90 (noventa) dias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 56. § 2º A audiência a que se refere o caput deste artigo será realizada dentro dos 30 (trinta) dias seguintes ao recebimento da denúncia..."
+  },
+  {
+    "question": "Em qual hipótese o prazo para a realização da audiência de instrução e julgamento será de 90 (noventa) dias (Art. 56, § 2º)?",
+    "options": [
+      "Se o réu for reincidente.",
+      "Se houver mais de 5 réus.",
+      "Se for determinada a realização de avaliação para atestar dependência de drogas.",
+      "Se o crime for considerado hediondo.",
+      "Se o Ministério Público requerer diligências complexas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 56. § 2º (...) salvo se determinada a realização de avaliação para atestar dependência de drogas, quando se realizará em 90 (noventa) dias."
+  },
+  {
+    "question": "Na audiência de instrução e julgamento, qual é o tempo destinado à sustentação oral do Ministério Público e do defensor, respectivamente (Art. 57)?",
+    "options": [
+      "10 minutos, prorrogáveis por 5.",
+      "15 minutos, sem prorrogação.",
+      "20 minutos, prorrogáveis por mais 10.",
+      "30 minutos, prorrogáveis por mais 15.",
+      "1 hora para cada."
+    ],
+    "correct": 2,
+    "explanation": "Art. 57. (...) pelo prazo de 20 (vinte) minutos para cada um, prorrogável por mais 10 (dez), a critério do juiz."
+  },
+  {
+    "question": "Sobre o interrogatório do acusado na audiência, o Parágrafo único do Art. 57 estabelece que o juiz:",
+    "options": [
+      "Não pode fazer perguntas após as partes.",
+      "Indagará das partes se restou algum fato para ser esclarecido após proceder ao interrogatório.",
+      "Deve interrogar o acusado apenas ao final da audiência.",
+      "Não participa do interrogatório, deixando-o a cargo apenas do MP e Defesa.",
+      "Deve dispensar o interrogatório se o réu confessar."
+    ],
+    "correct": 1,
+    "explanation": "Art. 57. Parágrafo único. Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido..."
+  },
+  {
+    "question": "Encerrados os debates na audiência, em qual prazo o juiz proferirá a sentença (Art. 58)?",
+    "options": [
+      "Sempre em audiência designada para 10 dias depois.",
+      "De imediato, ou em 10 (dez) dias.",
+      "De imediato, ou em 30 (trinta) dias.",
+      "Obrigatoriamente na própria audiência.",
+      "Em 5 (cinco) dias."
+    ],
+    "correct": 1,
+    "explanation": "Art. 58. Encerrados os debates, proferirá o juiz sentença de imediato, ou o fará em 10 (dez) dias..."
+  },
+  {
+    "question": "Nos crimes previstos nos arts. 33 e 34 a 37 da Lei, qual é a regra para o réu apelar (Art. 59)?",
+    "options": [
+      "Pode apelar sempre em liberdade.",
+      "Não poderá apelar sem recolher-se à prisão, salvo exceção.",
+      "Deve pagar fiança para apelar.",
+      "Só pode apelar se houver nulidade.",
+      "Não cabe apelação nesses crimes."
+    ],
+    "correct": 1,
+    "explanation": "Art. 59. (...) o réu não poderá apelar sem recolher-se à prisão, salvo se for primário e de bons antecedentes..."
+  },
+  {
+    "question": "Para que o réu condenado pelos crimes dos arts. 33 e 34 a 37 possa apelar em liberdade (sem recolher-se à prisão), ele deve ser (Art. 59):",
+    "options": [
+      "Funcionário público.",
+      "Réu confesso.",
+      "Primário e de bons antecedentes, assim reconhecido na sentença.",
+      "Menor de 21 anos.",
+      "Dependente químico comprovado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 59. (...) salvo se for primário e de bons antecedentes, assim reconhecido na sentença condenatória."
+  },
+  {
+    "question": "Recebida a denúncia, o juiz ordenará a intimação de quem, além do Ministério Público (Art. 56)?",
+    "options": [
+      "Do Delegado de Polícia.",
+      "Do assistente, se for o caso.",
+      "Das testemunhas de defesa imediatamente.",
+      "Do Conselho Penitenciário.",
+      "Da família do acusado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 56. Recebida a denúncia, o juiz (...) ordenará (...) a intimação do Ministério Público, do assistente, se for o caso..."
+  }
+],
+
+"LepMonitoramentoEletronico":[
+  {
+    "question": "De acordo com o Art. 146-B da Lei de Execução Penal, o juiz poderá definir a fiscalização por meio da monitoração eletrônica quando:",
+    "options": [
+      "Determinar a prisão preventiva.",
+      "Autorizar a saída temporária no regime fechado.",
+      "Determinar a prisão domiciliar.",
+      "Houver condenação por crime culposo, independentemente do regime.",
+      "O apenado estiver em liberdade provisória."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-B. O juiz poderá definir a fiscalização por meio da monitoração eletrônica quando: (...) IV - determinar a prisão domiciliar."
+  },
+  {
+    "question": "Conforme as alterações trazidas pela Lei nº 14.843/2024, a monitoração eletrônica também poderá ser definida pelo juiz quando:",
+    "options": [
+      "Conceder o livramento condicional.",
+      "O preso for transferido para presídio federal.",
+      "Houver regressão para o regime fechado.",
+      "O condenado praticar falta média.",
+      "For decretada a prisão temporária."
+    ],
+    "correct": 0,
+    "explanation": "Art. 146-B. VIII - conceder o livramento condicional. (Incluído pela Lei nº 14.843, de 2024)"
+  },
+  {
+    "question": "É um dever do condenado submetido à monitoração eletrônica, previsto expressamente no Art. 146-C:",
+    "options": [
+      "Pagar mensalmente pelo aluguel do equipamento.",
+      "Abster-se de remover, de violar, de modificar ou de danificar o dispositivo de monitoração eletrônica.",
+      "Comparecer diariamente ao fórum para justificar atividades.",
+      "Permanecer em silêncio durante as visitas do servidor responsável.",
+      "Realizar manutenção técnica do equipamento por conta própria."
+    ],
+    "correct": 1,
+    "explanation": "Art. 146-C. II - abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça."
+  },
+  {
+    "question": "A violação comprovada dos deveres da monitoração eletrônica pode acarretar, a critério do juiz da execução, a seguinte consequência:",
+    "options": [
+      "Aumento da pena em 1/3.",
+      "Aplicação de multa pecuniária administrativa.",
+      "A regressão do regime.",
+      "Perda automática da nacionalidade.",
+      "Transferência imediata para o Regime Disciplinar Diferenciado (RDD) sem audiência."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-C. Parágrafo único. A violação comprovada dos deveres previstos neste artigo poderá acarretar [...] I - a regressão do regime."
+  },
+  {
+    "question": "Para a aplicação de sanções em caso de violação dos deveres da monitoração eletrônica, o juiz da execução deve ouvir previamente:",
+    "options": [
+      "Apenas o Ministério Público.",
+      "Apenas a defesa.",
+      "O Conselho Penitenciário.",
+      "O Ministério Público e a defesa.",
+      "O Diretor do presídio e o Conselho da Comunidade."
+    ],
+    "correct": 3,
+    "explanation": "Art. 146-C. Parágrafo único. A violação comprovada dos deveres [...] poderá acarretar, a critério do juiz da execução, ouvidos o Ministério Público e a defesa..."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA. A violação dos deveres da monitoração eletrônica pode resultar em:",
+    "options": [
+      "Revogação da autorização de saída temporária.",
+      "Revogação da prisão domiciliar.",
+      "Revogação do livramento condicional.",
+      "Advertência por escrito.",
+      "Aumento da pena base em dobro."
+    ],
+    "correct": 4,
+    "explanation": "Art. 146-C, Parágrafo único. Não há previsão de aumento da pena base como sanção por violação da monitoração eletrônica nos incisos citados."
+  },
+  {
+    "question": "A monitoração eletrônica poderá ser revogada (Art. 146-D) quando:",
+    "options": [
+      "O apenado completar 1 mês de uso sem intercorrências.",
+      "Se tornar desnecessária ou inadequada.",
+      "O apenado solicitar formalmente sem motivo justificado.",
+      "Houver mudança de juiz na vara de execuções.",
+      "Ocorrer a progressão para o regime semiaberto (que é uma hipótese de concessão, não revogação)."
+    ],
+    "correct": 1,
+    "explanation": "Art. 146-D. A monitoração eletrônica poderá ser revogada: I - quando se tornar desnecessária ou inadequada."
+  },
+  {
+    "question": "Segundo o Art. 146-E (Redação dada pela Lei nº 15.280, de 2025), o condenado por qual tipo de crime será obrigatoriamente fiscalizado por monitoração eletrônica ao usufruir de benefício com saída do estabelecimento?",
+    "options": [
+      "Crimes contra o patrimônio (ex: furto, roubo).",
+      "Crimes contra a administração pública (ex: corrupção).",
+      "Crimes contra a dignidade sexual.",
+      "Crimes de trânsito.",
+      "Crimes de perigo comum."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-E. O condenado por crime contra a mulher [...] ou por crimes contra a dignidade sexual [...] será fiscalizado por meio de monitoração eletrônica."
+  },
+  {
+    "question": "Além dos crimes contra a dignidade sexual, o Art. 146-E exige monitoração eletrônica para condenados por crimes contra a mulher:",
+    "options": [
+      "Cometidos com emprego de arma de fogo.",
+      "Por razões da condição do sexo feminino.",
+      "Apenas se houver reincidência específica.",
+      "Apenas se a pena for superior a 10 anos.",
+      "Se a vítima for menor de idade."
+    ],
+    "correct": 1,
+    "explanation": "Art. 146-E. O condenado por crime contra a mulher por razões da condição do sexo feminino [...] será fiscalizado por meio de monitoração eletrônica."
+  },
+  {
+    "question": "Nos casos em que o juiz decide não aplicar a regressão de regime ou revogação de benefícios após violação dos deveres da monitoração, qual medida deve ser aplicada?",
+    "options": [
+      "Multa.",
+      "Suspensão do direito de visita.",
+      "Advertência, por escrito.",
+      "Aumento do tempo de monitoramento.",
+      "Prestação de serviços à comunidade extra."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-C. Parágrafo único. VII - advertência, por escrito, para todos os casos em que o juiz da execução decida não aplicar alguma das medidas previstas nos incisos de I a VI deste parágrafo."
+  },
+  {
+    "question": "Sobre a aplicação da monitoração eletrônica em penas restritivas de direitos, a Lei nº 14.843/2024 permitiu seu uso quando:",
+    "options": [
+      "A pena for de prestação pecuniária.",
+      "A pena estabelecer limitação de frequência a lugares específicos.",
+      "A pena for de perda de bens e valores.",
+      "O condenado for primário.",
+      "A pena for inferior a 1 ano."
+    ],
+    "correct": 1,
+    "explanation": "Art. 146-B. VII - aplicar pena restritiva de direitos que estabeleça limitação de frequência a lugares específicos. (Incluído pela Lei nº 14.843, de 2024)"
+  },
+  {
+    "question": "A revogação da monitoração eletrônica também pode ocorrer se o acusado ou condenado:",
+    "options": [
+      "Arranjar um emprego lícito.",
+      "Casar-se.",
+      "Cometer falta grave.",
+      "Mudar de religião.",
+      "Tiver bom comportamento carcerário."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-D. II - se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave."
+  },
+  {
+    "question": "Caso haja violação dos deveres na monitoração eletrônica durante o cumprimento de pena restritiva de direitos, o juiz poderá determinar:",
+    "options": [
+      "A conversão da pena restritiva de direitos em pena privativa de liberdade.",
+      "A isenção da pena.",
+      "Apenas a advertência verbal.",
+      "A redução da pena pela metade.",
+      "O perdão judicial."
+    ],
+    "correct": 0,
+    "explanation": "Art. 146-C. Parágrafo único. IX - a conversão da pena restritiva de direitos em pena privativa de liberdade. (Incluído pela Lei nº 14.843, de 2024)"
+  },
+  {
+    "question": "O condenado sob monitoração eletrônica deve receber visitas do servidor responsável. Sobre esse dever, é correto afirmar:",
+    "options": [
+      "O condenado pode recusar a visita se for em horário noturno.",
+      "O condenado deve responder aos contatos e cumprir as orientações do servidor.",
+      "O servidor não pode contatar o condenado, apenas monitorar o sinal.",
+      "As visitas são facultativas e dependem da vontade do apenado.",
+      "O condenado só deve atender ao juiz, não ao servidor."
+    ],
+    "correct": 1,
+    "explanation": "Art. 146-C. I - receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações."
+  },
+  {
+    "question": "A aplicação de pena privativa de liberdade a ser cumprida em quais regimes autoriza o juiz a definir a fiscalização por monitoração eletrônica, conforme o inciso VI do Art. 146-B (Lei 14.843/2024)?",
+    "options": [
+      "Regimes fechado e semiaberto.",
+      "Apenas regime aberto.",
+      "Regimes aberto ou semiaberto.",
+      "Apenas regime disciplinar diferenciado.",
+      "Qualquer regime, inclusive fechado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 146-B. VI - aplicar pena privativa de liberdade a ser cumprida nos regimes aberto ou semiaberto, ou conceder progressão para tais regimes. (Incluído pela Lei nº 14.843, de 2024)"
+  }
+],
+
 "LepSaidaTemporaria":[
   {
     "question": "Para a concessão da saída temporária, nos termos do Art. 122 da Lei de Execução Penal, é requisito indispensável que o condenado esteja cumprindo a pena em regime:",
