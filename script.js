@@ -8088,6 +8088,383 @@ const questions = {
   }
 ],
 
+
+"Leidecrimeshediondos":[
+  {
+    "question": "De acordo com o Art. 1º da Lei nº 8.072/1990, os crimes considerados hediondos são aqueles tipificados no Código Penal que, em relação à consumação, foram:",
+    "options": [
+      "Apenas consumados.",
+      "Apenas tentados, se a pena for superior a 8 anos.",
+      "Consumados ou tentados.",
+      "Apenas consumados, com exceção do homicídio.",
+      "Somente os previstos na parte especial do Código Penal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º expressamente dispõe que são considerados hediondos os crimes do Código Penal, consumados ou tentados."
+  },
+  {
+    "question": "Qual modalidade de homicídio (Art. 121) é considerada hedionda, mesmo que cometida por apenas 1 (um) agente?",
+    "options": [
+      "Homicídio privilegiado.",
+      "Homicídio simples, com dolo eventual.",
+      "Homicídio praticado em atividade típica de grupo de extermínio.",
+      "Homicídio culposo.",
+      "Homicídio simples, desde que a pena seja superior a 12 anos."
+    ],
+    "correct": 2,
+    "explanation": "O Inciso I do Art. 1º considera hediondo o homicídio quando praticado em atividade típica de grupo de extermínio, ainda que cometido por 1 (um) só agente."
+  },
+  {
+    "question": "Qual tipo de homicídio, em relação à forma, é sempre considerado hediondo, conforme o Art. 1º, I, da Lei 8.072/90?",
+    "options": [
+      "Homicídio simples.",
+      "Homicídio culposo com aumento de pena.",
+      "Homicídio qualificado (art. 121, § 2º).",
+      "Homicídio privilegiado-qualificado.",
+      "Homicídio praticado por motivo fútil, desde que a vítima seja maior de 60 anos."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, I, inclui expressamente o homicídio qualificado (art. 121, § 2º) no rol dos crimes hediondos."
+  },
+  {
+    "question": "O crime de Feminicídio (Art. 121-A), incluído no Inciso I-B, é considerado hediondo?",
+    "options": [
+      "Não, apenas é equiparado a hediondo.",
+      "Sim, é considerado hediondo por força do Inciso I-B.",
+      "Sim, mas apenas se resultar em lesão corporal de natureza gravíssima.",
+      "Não, a não ser que seja cometido em atividade de grupo de extermínio.",
+      "Apenas se for cometido com emprego de arma de fogo."
+    ],
+    "correct": 1,
+    "explanation": "O Feminicídio (art. 121-A) está expressamente listado no Art. 1º, I-B, da Lei nº 8.072/1990 como crime hediondo."
+  },
+  {
+    "question": "Qual dos crimes abaixo é considerado hediondo quando praticado contra autoridade ou agente de segurança, no exercício da função ou em decorrência dela?",
+    "options": [
+      "Dano qualificado.",
+      "Lesão corporal dolosa de natureza gravíssima (art. 129, § 2º).",
+      "Lesão corporal de natureza leve.",
+      "Ameaça.",
+      "Injúria racial."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, I-A, alínea 'a', inclui a lesão corporal dolosa de natureza gravíssima e a lesão corporal seguida de morte, quando praticadas contra as autoridades ou agentes de segurança pública listados."
+  },
+  {
+    "question": "Além da prática contra autoridades ou agentes, a lesão corporal dolosa de natureza gravíssima ou seguida de morte é hedionda quando praticada em qual outro local específico, conforme a Lei nº 15.159/2025?",
+    "options": [
+      "Em local de culto religioso.",
+      "Em transportes públicos.",
+      "Nas dependências de instituição de ensino.",
+      "Na residência da vítima.",
+      "Em área rural isolada."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, I-A, alínea 'c', inclui as lesões corporais de natureza gravíssima ou seguida de morte quando praticadas nas dependências de instituição de ensino."
+  },
+  {
+    "question": "Qual circunstância do crime de Roubo (Art. 157) o torna hediondo, conforme o Art. 1º, II, alínea 'a'?",
+    "options": [
+      "Circunstanciado pelo concurso de pessoas.",
+      "Circunstanciado pelo uso de faca.",
+      "Circunstanciado pela restrição de liberdade da vítima.",
+      "Qualificado pela destruição ou rompimento de obstáculo.",
+      "Circunstanciado por ter sido praticado durante o repouso noturno."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, II, 'a', considera hediondo o roubo circunstanciado pela restrição de liberdade da vítima (art. 157, § 2º, inciso V)."
+  },
+  {
+    "question": "Em relação ao emprego de arma de fogo no Roubo, qual modalidade desse crime é considerada hedionda?",
+    "options": [
+      "Roubo circunstanciado pelo emprego de arma branca.",
+      "Roubo simples (caput).",
+      "Roubo circunstanciado pelo emprego de arma de fogo ou pelo emprego de arma de fogo de uso proibido ou restrito.",
+      "Roubo com simulação de arma.",
+      "Apenas roubo com arma de brinquedo."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, II, 'b', lista o roubo circunstanciado pelo emprego de arma de fogo (art. 157, § 2º-A, I) ou pelo emprego de arma de fogo de uso proibido ou restrito (art. 157, § 2º-B)."
+  },
+  {
+    "question": "O roubo será considerado hediondo se for qualificado pelo resultado. Quais resultados qualificam o roubo como hediondo, segundo o Art. 1º, II, alínea 'c'?",
+    "options": [
+      "Dano ao patrimônio público.",
+      "Ameaça grave ou violência.",
+      "Lesão corporal grave ou morte (latrocínio).",
+      "Invasão de domicílio.",
+      "Restrição da liberdade por tempo superior a 24 horas."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, II, 'c', considera hediondo o roubo qualificado pelo resultado lesão corporal grave ou morte (art. 157, § 3º)."
+  },
+  {
+    "question": "Qual é a modalidade de Extorsão (Art. 158) que é expressamente classificada como hedionda?",
+    "options": [
+      "Extorsão simples (caput).",
+      "Extorsão qualificada pela restrição da liberdade da vítima, ocorrência de lesão corporal ou morte.",
+      "Extorsão majorada pelo concurso de agentes.",
+      "Extorsão praticada contra idoso.",
+      "Extorsão simples, se praticada por funcionário público."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, III, inclui a extorsão qualificada pela restrição da liberdade da vítima, ocorrência de lesão corporal ou morte (art. 158, § 3º)."
+  },
+  {
+    "question": "Sobre o crime de Extorsão mediante Sequestro (Art. 159), o que a lei estabelece?",
+    "options": [
+      "Apenas a forma simples (caput) é hedionda.",
+      "Apenas a forma qualificada pela morte (§ 3º) é hedionda.",
+      "A forma simples (caput) e todas as formas qualificadas (§§ 1º, 2º e 3º) são hediondas.",
+      "O crime não é hediondo, é apenas equiparado.",
+      "Apenas o sequestro simples (Art. 148) é hediondo."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, IV, inclui a extorsão mediante sequestro e na forma qualificada (art. 159, caput, e §§ 1o, 2o e 3o)."
+  },
+  {
+    "question": "Quais crimes contra a dignidade sexual são considerados hediondos pelo Art. 1º, V e VI?",
+    "options": [
+      "Apenas o estupro simples (caput).",
+      "Apenas o estupro com resultado morte.",
+      "Estupro (caput e §§ 1º e 2º) e Estupro de vulnerável (caput e §§ 1º, 2º, 3º e 4º).",
+      "Apenas o estupro de vulnerável.",
+      "Assédio sexual."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, V e VI, lista o Estupro (art. 213, caput e §§ 1o e 2o) e o Estupro de vulnerável (art. 217-A, caput e §§ 1o, 2o, 3o e 4o)."
+  },
+  {
+    "question": "Qual crime contra a saúde pública é considerado hediondo, de acordo com o Art. 1º, VII?",
+    "options": [
+      "Infração de medida sanitária preventiva.",
+      "Epidemia com resultado morte (art. 267, § 1º).",
+      "Envenenamento de água potável simples.",
+      "Perigo para a saúde ou a vida de outrem.",
+      "Falsificação de produtos alimentícios."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, VII, inclui a epidemia com resultado morte (art. 267, § 1º)."
+  },
+  {
+    "question": "O crime de Falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (Art. 273, caput e parágrafos) é considerado hediondo?",
+    "options": [
+      "Não, é considerado um crime de perigo comum, mas não hediondo.",
+      "Sim, é considerado hediondo, conforme o Art. 1º, VII-B.",
+      "Apenas se resultar em morte de paciente.",
+      "Sim, mas apenas em sua modalidade culposa.",
+      "Apenas se for praticado por profissional da área de saúde."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, VII-B, inclui a falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e §§)."
+  },
+  {
+    "question": "O crime de Favorecimento da prostituição ou de outra forma de exploração sexual, para ser considerado hediondo (Art. 1º, VIII), deve ser cometido contra qual tipo de vítima?",
+    "options": [
+      "Contra qualquer pessoa, independentemente da idade.",
+      "Apenas contra pessoa idosa.",
+      "Criança ou adolescente ou de vulnerável.",
+      "Apenas contra pessoa com deficiência.",
+      "Apenas contra mulher adulta."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, VIII, lista o favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável (art. 218-B, caput, e §§ 1º e 2º)."
+  },
+  {
+    "question": "Qual modalidade de Furto (Art. 155) é considerada hedionda, conforme o Art. 1º, IX?",
+    "options": [
+      "Furto mediante fraude.",
+      "Furto noturno.",
+      "Furto qualificado pelo emprego de explosivo ou de artefato análogo que cause perigo comum.",
+      "Furto de veículo automotor.",
+      "Furto com escalada."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, IX, inclui o furto qualificado pelo emprego de explosivo ou de artefato análogo que cause perigo comum (art. 155, § 4º-A)."
+  },
+  {
+    "question": "O Sequestro e Cárcere Privado é considerado hediondo (Art. 1º, XI) em qual das seguintes situações?",
+    "options": [
+      "Se for cometido contra pessoa maior de 60 anos.",
+      "Se for cometido contra menor de 18 (dezoito) anos.",
+      "Se for cometido por mais de duas pessoas.",
+      "Se for cometido em razão da função da vítima.",
+      "Se a privação de liberdade durar mais de 15 dias."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, XI, considera hediondo o sequestro e cárcere privado cometido contra menor de 18 (dezoito) anos (art. 148, § 1º, inciso IV)."
+  },
+  {
+    "question": "Qual dos crimes a seguir é considerado crime EQUIPARADO a hediondo, conforme o Art. 1º, Parágrafo único, I?",
+    "options": [
+      "Latrocínio tentado.",
+      "Genocídio.",
+      "Associação criminosa.",
+      "Falsidade ideológica.",
+      "Crimes contra a honra de servidor público."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, Parágrafo único, I, considera o crime de genocídio, previsto na Lei nº 2.889/1956, como equiparado a hediondo (tentado ou consumado)."
+  },
+  {
+    "question": "O crime de posse ou porte ilegal de arma de fogo é considerado equiparado a hediondo apenas se a arma for de:",
+    "options": [
+      "Uso permitido.",
+      "Uso restrito ou permitido.",
+      "Uso proibido.",
+      "Uso permitido, desde que o agente seja reincidente.",
+      "Qualquer tipo de arma, desde que resulte em lesão."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 1º, Parágrafo único, II, lista o crime de posse ou porte ilegal de arma de fogo de uso proibido (art. 16 da Lei nº 10.826/2003)."
+  },
+  {
+    "question": "O crime de Organização Criminosa será considerado equiparado a hediondo quando:",
+    "options": [
+      "Se for composta por 4 ou mais pessoas.",
+      "Quando direcionado à prática de crime hediondo ou equiparado.",
+      "Se envolver tráfico de drogas.",
+      "Se envolver corrupção passiva.",
+      "Apenas se o lucro for superior a 100 salários mínimos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, Parágrafo único, V, considera hediondo o crime de organização criminosa, quando direcionado à prática de crime hediondo ou equiparado."
+  },
+  {
+    "question": "De acordo com o Art. 2º, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os crimes hediondos são insuscetíveis de quais institutos, conforme o inciso I?",
+    "options": [
+      "Graça, Indulto e Progressão de Regime.",
+      "Anistia, graça e indulto.",
+      "Anistia, Fiança e Livramento Condicional.",
+      "Liberdade Provisória e Suspensão Condicional da Pena (sursis)."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 2º, inciso I, lista expressamente a anistia, a graça e o indulto como insuscetíveis para esses crimes."
+  },
+  {
+    "question": "Conforme o Art. 2º, inciso II, os crimes hediondos e equiparados são insuscetíveis de:",
+    "options": [
+      "Fiança.",
+      "Multa.",
+      "Pena Privativa de Liberdade.",
+      "Ação Penal Pública Incondicionada."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 2º, inciso II, estabelece que esses crimes são insuscetíveis de fiança."
+  },
+  {
+    "question": "Qual o regime inicial de cumprimento de pena para os crimes hediondos e equiparados (tortura, tráfico e terrorismo), segundo o Art. 2º, § 1º?",
+    "options": [
+      "Regime aberto, para réus primários.",
+      "Regime semiaberto, para penas inferiores a 8 anos.",
+      "Regime fechado, como regra inicial de cumprimento da pena.",
+      "Regime a ser estabelecido pelo juiz, observando o art. 33 do Código Penal, sem regra específica."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º, § 1º, determina que a pena por crime previsto neste artigo será cumprida inicialmente em regime fechado."
+  },
+  {
+    "question": "Em caso de sentença condenatória por crime hediondo, qual a conduta do juiz em relação ao réu apelar em liberdade, conforme o Art. 2º, § 3º?",
+    "options": [
+      "O juiz sempre concederá o direito de apelar em liberdade.",
+      "O réu será sempre submetido à prisão para apelar.",
+      "O juiz decidirá fundamentadamente se o réu poderá apelar em liberdade.",
+      "A apelação só será admitida após o cumprimento de 1/3 da pena."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º, § 3º, estabelece que o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade."
+  },
+  {
+    "question": "Nos crimes hediondos e equiparados, a prisão temporária terá o prazo de:",
+    "options": [
+      "5 (cinco) dias.",
+      "10 (dez) dias.",
+      "15 (quinze) dias.",
+      "30 (trinta) dias."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 2º, § 4º, fixa o prazo da prisão temporária em 30 (trinta) dias para os crimes previstos neste artigo."
+  },
+  {
+    "question": "O prazo da prisão temporária nos crimes hediondos e equiparados é prorrogável?",
+    "options": [
+      "Não, o prazo é improrrogável.",
+      "Sim, por mais 15 dias, mediante extrema necessidade.",
+      "Sim, por igual período (30 dias), em caso de extrema e comprovada necessidade.",
+      "Sim, por até 90 dias, se o inquérito não for concluído."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º, § 4º, permite a prorrogação por igual período (30 dias) em caso de extrema e comprovada necessidade."
+  },
+  {
+    "question": "Quem deve manter estabelecimentos penais, de segurança máxima, destinados ao cumprimento de penas impostas a condenados de alta periculosidade, cuja permanência em presídios estaduais ponha em risco a ordem ou incolumidade pública, conforme o Art. 3º?",
+    "options": [
+      "Os Estados, com apoio financeiro da União.",
+      "A União.",
+      "Os Municípios, por meio de convênios.",
+      "O Distrito Federal, em parceria com o Ministério da Justiça."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 3º estabelece que a União manterá estabelecimentos penais, de segurança máxima, para esses condenados."
+  },
+  {
+    "question": "O crime de Associação para o Tráfico (Art. 35 da Lei nº 11.343) está expressamente listado no Art. 2º, *caput* da Lei nº 8.072/1990 como insuscetível dos benefícios ali previstos?",
+    "options": [
+      "Sim, por ser um crime equiparado ao hediondo, está implicitamente listado.",
+      "Não, a lista do Art. 2º é exaustiva e não inclui a associação para o tráfico.",
+      "Não, apenas o Tráfico ilícito de entorpecentes (Art. 33) está expressamente listado.",
+      "Sim, foi incluído pela Lei Anticrime (Lei nº 13.964/2019)."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º, caput, lista 'Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo', mas não a Associação para o Tráfico."
+  },
+  {
+    "question": "Para a concessão do Livramento Condicional em casos de condenação por crime hediondo e equiparados, o apenado deve ter cumprido mais de qual fração da pena, se não for reincidente específico nessa natureza de crime (Art. 83, V, CP)?",
+    "options": [
+      "Um terço (1/3).",
+      "Metade (1/2).",
+      "Dois terços (2/3).",
+      "Três quintos (3/5)."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 83, inciso V, do Código Penal, estabelece a necessidade de cumprimento de mais de dois terços da pena."
+  },
+  {
+    "question": "Qual é a condição subjetiva para o apenado por crime hediondo ou equiparado ter direito ao Livramento Condicional, conforme o Art. 83, V, do Código Penal?",
+    "options": [
+      "Ser primário em qualquer crime.",
+      "Não ser reincidente em crime doloso.",
+      "Não ser reincidente específico em crimes dessa natureza.",
+      "Ter cumprido integralmente o regime fechado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 83, V, exige que o apenado não seja 'reincidente específico em crimes dessa natureza'."
+  },
+  {
+    "question": "Conforme o Art. 157, § 3º, do Código Penal (com a redação dada pelo Art. 6º da Lei nº 8.072/1990), se da violência no crime de roubo resulta **lesão corporal grave**, a pena de reclusão é de:",
+    "options": [
+      "3 a 10 anos, além da multa.",
+      "5 a 15 anos, além da multa.",
+      "10 a 20 anos, sem prejuízo da multa.",
+      "20 a 30 anos, sem prejuízo da multa."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 157, § 3º, primeira parte, estabelece que, se da violência resulta lesão corporal grave, a pena é de reclusão, de 5 (cinco) a 15 (quinze) anos, além da multa."
+  },
+  {
+    "question": "Conforme o Art. 157, § 3º, do Código Penal (com a redação dada pelo Art. 6º da Lei nº 8.072/1990), se da violência no crime de roubo resulta **morte** (latrocínio), a pena de reclusão é de:",
+    "options": [
+      "15 a 30 anos, sem prejuízo da multa.",
+      "10 a 25 anos, além da multa.",
+      "20 a 30 anos, sem prejuízo da multa.",
+      "30 anos, se o réu for reincidente."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 157, § 3º, segunda parte, estabelece que, se resulta morte, a reclusão é de 20 (vinte) a 30 (trinta) anos, sem prejuízo da multa."
+  }
+],
+
+
 "Lei11343_33_40":[
   {
     "question": "Qual é a pena cominada para o crime de Tráfico de Drogas (Art. 33, caput), que consiste em 'Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender...' drogas sem autorização ou em desacordo com determinação legal?",
