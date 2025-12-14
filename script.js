@@ -9345,6 +9345,365 @@ const questions = {
   }
 ],
 
+
+"ConstituicaoArt137_141":[
+  {
+    "question": "Em comparação com o Estado de Defesa, para decretar o Estado de Sítio, o Presidente da República deve, após ouvir os Conselhos, tomar qual medida perante o Congresso Nacional?",
+    "options": [
+      "Submeter o decreto para ratificação.",
+      "Apenas comunicar o decreto.",
+      "Solicitar ao Congresso Nacional autorização para decretar o estado de sítio.",
+      "Decretar imediatamente, independentemente de autorização."
+    ],
+    "correct": 2,
+    "explanation": "Art. 137. O Presidente da República pode, ouvidos o Conselho da República e o Conselho de Defesa Nacional, solicitar ao Congresso Nacional autorização para decretar o estado de sítio."
+  },
+  {
+    "question": "Qual dos seguintes fatos é uma das hipóteses de decretação do Estado de Sítio (Art. 137, I)?",
+    "options": [
+      "Calimidade de grandes proporções na natureza.",
+      "Commoção grave de repercussão nacional ou ineficácia do Estado de Defesa.",
+      "Grave e iminente instabilidade institucional em locais restritos.",
+      "Crise econômica regional."
+    ],
+    "correct": 1,
+    "explanation": "Art. 137, I: 'comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa'."
+  },
+  {
+    "question": "A decretação de Estado de Sítio pode ocorrer em caso de 'declaração de estado de guerra'. Qual a outra hipótese relacionada a conflitos armados, conforme o Art. 137, II?",
+    "options": [
+      "Grave ameaça diplomática.",
+      "Resposta a agressão armada estrangeira.",
+      "Apenas após a invasão de território nacional.",
+      "Guerra civil interna."
+    ],
+    "correct": 1,
+    "explanation": "Art. 137, II: 'declaração de estado de guerra ou resposta a agressão armada estrangeira'."
+  },
+  {
+    "question": "Qual é o quórum exigido para que o Congresso Nacional decida sobre o pedido de autorização para decretar o Estado de Sítio ou sua prorrogação?",
+    "options": [
+      "Maioria simples.",
+      "Dois terços dos membros.",
+      "Maioria absoluta.",
+      "Quórum de três quintos (3/5)."
+    ],
+    "correct": 2,
+    "explanation": "Parágrafo único do Art. 137: 'devendo o Congresso Nacional decidir por maioria absoluta'."
+  },
+  {
+    "question": "O decreto do estado de sítio deve indicar, obrigatoriamente (Art. 138):",
+    "options": [
+      "Apenas as áreas abrangidas.",
+      "A duração, as normas necessárias a sua execução e as garantias constitucionais que ficarão suspensas.",
+      "Os nomes dos Conselheiros que opinaram favoravelmente.",
+      "O prazo de 60 dias para a primeira prorrogação."
+    ],
+    "correct": 1,
+    "explanation": "Art. 138. O decreto do estado de sítio indicará sua duração, as normas necessárias a sua execução e as garantias constitucionais que ficarão suspensas..."
+  },
+  {
+    "question": "Qual a duração máxima do Estado de Sítio no caso de 'comoção grave' (Art. 137, I) e o prazo de prorrogação?",
+    "options": [
+      "Sessenta dias, prorrogável por igual período.",
+      "Não mais de trinta dias, nem prorrogado, de cada vez, por prazo superior.",
+      "Cento e vinte dias, sem prorrogação.",
+      "Poderá ser decretado por todo o tempo que perdurar a crise."
+    ],
+    "correct": 1,
+    "explanation": "Art. 138, § 1º: 'O estado de sítio, no caso do art. 137, I, não poderá ser decretado por mais de trinta dias, nem prorrogado, de cada vez, por prazo superior'."
+  },
+  {
+    "question": "No caso de Estado de Sítio por 'guerra ou agressão armada estrangeira' (Art. 137, II), qual o limite de duração, conforme o Art. 138, § 1º?",
+    "options": [
+      "Trinta dias, prorrogável por mais trinta.",
+      "Poderá ser decretado por todo o tempo que perdurar a guerra ou a agressão armada estrangeira.",
+      "Noventa dias, no máximo.",
+      "Até que o Congresso Nacional decida pela paz."
+    ],
+    "correct": 1,
+    "explanation": "Art. 138, § 1º: 'no do inciso II, poderá ser decretado por todo o tempo que perdurar a guerra ou a agressão armada estrangeira'."
+  },
+  {
+    "question": "Solicitada autorização para decretar o estado de sítio durante o recesso parlamentar, qual a ação imediata do Presidente do Senado Federal, conforme o Art. 138, § 2º?",
+    "options": [
+      "Suspender a solicitação até o retorno do recesso.",
+      "De imediato, convocar extraordinariamente o Congresso Nacional para se reunir dentro de cinco dias.",
+      "Consultar o Supremo Tribunal Federal.",
+      "Transferir a decisão para o Conselho da República."
+    ],
+    "correct": 1,
+    "explanation": "Art. 138, § 2º: 'o Presidente do Senado Federal, de imediato, convocará extraordinariamente o Congresso Nacional para se reunir dentro de cinco dias, a fim de apreciar o ato'."
+  },
+  {
+    "question": "Qual das seguintes medidas coercitivas é permitida contra pessoas na vigência do Estado de Sítio decretado por 'comoção grave' (Art. 139, I)?",
+    "options": [
+      "Confisco de bens particulares.",
+      "Obrigação de permanência em localidade determinada.",
+      "Suspensão do direito à vida.",
+      "Julgamento por tribunais de exceção."
+    ],
+    "correct": 1,
+    "explanation": "Art. 139, I, lista a 'obrigação de permanência em localidade determinada'."
+  },
+  {
+    "question": "Na vigência do Estado de Sítio, quais restrições relativas à comunicação e imprensa poderão ser tomadas (Art. 139, III)?",
+    "options": [
+      "Restrições relativas ao sigilo bancário e fiscal.",
+      "Restrições relativas à inviolabilidade da correspondência, ao sigilo das comunicações, à prestação de informações e à liberdade de imprensa, radiodifusão e televisão, na forma da lei.",
+      "Restrição ao direito de ir e vir.",
+      "Suspensão do sigilo de dados."
+    ],
+    "correct": 1,
+    "explanation": "Art. 139, III, lista restrições relativas à inviolabilidade da correspondência, ao sigilo das comunicações, à prestação de informações e à liberdade de imprensa, radiodifusão e televisão, na forma da lei."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre as medidas coercitivas que só poderão ser tomadas contra as pessoas na vigência do Estado de Sítio (Art. 139):",
+    "options": [
+      "Busca e apreensão em domicílio (inciso V).",
+      "Intervenção nas empresas de serviços públicos (inciso VI).",
+      "Suspensão do direito de reunião (inciso IV).",
+      "Prisão em edifício destinado a acusados por crimes comuns (inciso II)."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 139, II, lista 'detenção em edifício **não** destinado a acusados ou condenados por crimes comuns'. Portanto, a prisão em edifício destinado a crimes comuns está incorreta."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre as restrições à liberdade de imprensa durante o Estado de Sítio (Art. 139, Parágrafo único):",
+    "options": [
+      "A difusão de pronunciamentos de parlamentares efetuados em suas Casas Legislativas pode ser restrita, mesmo se liberada pela respectiva Mesa.",
+      "As restrições do inciso III (liberdade de imprensa, etc.) aplicam-se na forma da lei.",
+      "A difusão de pronunciamentos de parlamentares não se inclui nas restrições, desde que liberada pela respectiva Mesa.",
+      "As restrições à imprensa são possíveis, mas não absolutas."
+    ],
+    "correct": 0,
+    "explanation": "O Parágrafo único do Art. 139 estabelece que a difusão de pronunciamentos de parlamentares **não** se inclui nas restrições, desde que liberada pela respectiva Mesa. Portanto, a afirmação de que ela pode ser restrita é incorreta."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o funcionamento do Congresso Nacional na vigência do Estado de Sítio (Art. 138, § 3º):",
+    "options": [
+      "O Congresso Nacional permanecerá em funcionamento até o término das medidas coercitivas.",
+      "O Congresso Nacional pode entrar em recesso durante o estado de sítio, se não houver ameaça externa.",
+      "A convocação extraordinária, se em recesso, deve ocorrer dentro de cinco dias.",
+      "A permanência visa a fiscalização das medidas."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 138, § 3º, diz que 'O Congresso Nacional permanecerá em funcionamento até o término das medidas coercitivas'. A afirmação de que pode entrar em recesso é incorreta."
+  },
+  {
+    "question": "Qual a composição da Comissão que deve ser designada para acompanhar e fiscalizar a execução das medidas referentes ao estado de defesa e ao estado de sítio (Art. 140)?",
+    "options": [
+      "Apenas líderes partidários.",
+      "Composta por todos os membros das Mesas do Congresso Nacional.",
+      "Composta de cinco membros da Mesa do Congresso Nacional.",
+      "Composta por três Ministros de Estado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 140: A Mesa do Congresso Nacional, ouvidos os líderes partidários, designará Comissão composta de cinco de seus membros para acompanhar e fiscalizar a execução das medidas..."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre as Disposições Gerais (Art. 141) após o término dos regimes excepcionais:",
+    "options": [
+      "Cessado o estado, cessarão também seus efeitos.",
+      "Não haverá responsabilidade pelos ilícitos cometidos pelos executores ou agentes.",
+      "O Presidente da República relatará as medidas aplicadas em mensagem ao Congresso Nacional.",
+      "A mensagem do Presidente deve conter a relação nominal dos atingidos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 141 estabelece que a cessação dos efeitos é 'sem prejuízo da responsabilidade pelos ilícitos cometidos por seus executores ou agentes'. A afirmação de que não haverá responsabilidade é incorreta."
+  },
+  {
+    "question": "Logo que cesse o estado de defesa ou o estado de sítio, o que o Presidente da República deve relatar em mensagem ao Congresso Nacional, conforme o Art. 141, Parágrafo único?",
+    "options": [
+      "Apenas o custo total das operações.",
+      "Apenas a justificação das providências adotadas.",
+      "As medidas aplicadas em sua vigência, com especificação e justificação das providências, relação nominal dos atingidos e indicação das restrições aplicadas.",
+      "O número de pessoas presas e soltas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 141, Parágrafo único: O Presidente relatará 'as medidas aplicadas em sua vigência... com especificação e justificação das providências adotadas, com relação nominal dos atingidos e indicação das restrições aplicadas'."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre as medidas contra as pessoas durante o Estado de Sítio por 'comoção grave' (Art. 139):",
+    "options": [
+      "É permitida a requisição de bens (inciso VII).",
+      "É permitida a detenção em edifício não destinado a acusados por crimes comuns (inciso II).",
+      "É proibida a suspensão da liberdade de reunião (inciso IV).",
+      "É permitida a obrigação de permanência em localidade determinada (inciso I)."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 139, IV, lista a 'suspensão da liberdade de reunião' como uma medida permitida. A afirmação de que ela é proibida está incorreta."
+  }
+],
+
+"ConstituicaoArt136":[
+  {
+    "question": "Quem tem a competência para decretar o estado de defesa, segundo o Art. 136 da Constituição Federal?",
+    "options": [
+      "O Congresso Nacional, por maioria simples.",
+      "O Conselho da República, com a aprovação do Presidente.",
+      "O Conselho de Defesa Nacional, por unanimidade.",
+      "O Presidente da República, ouvidos o Conselho da República e o Conselho de Defesa Nacional."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 136 atribui a competência privativa ao Presidente da República, após ouvir os dois Conselhos."
+  },
+  {
+    "question": "Qual é a finalidade do decreto de Estado de Defesa?",
+    "options": [
+      "Alterar a Constituição Federal por prazo determinado.",
+      "Promover intervenção federal em Estados da Federação.",
+      "Preservar ou prontamente restabelecer a ordem pública ou a paz social em locais restritos e determinados.",
+      "Suspender a execução de leis orçamentárias."
+    ],
+    "correct": 2,
+    "explanation": "A finalidade é preservar ou restabelecer, em locais restritos e determinados, a ordem pública ou a paz social, ameaçadas por grave instabilidade institucional ou calamidades."
+  },
+  {
+    "question": "O Estado de Defesa pode ser decretado em caso de calamidades na natureza. Qual a proporção exigida para essas calamidades, conforme o Art. 136?",
+    "options": [
+      "Pequenas proporções.",
+      "Médias proporções.",
+      "Grandes proporções.",
+      "Qualquer proporção, desde que comprovada a necessidade."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 136 prevê a decretação para situações 'atingidas por calamidades de grandes proporções na natureza'."
+  },
+  {
+    "question": "O decreto que instituir o estado de defesa deve determinar, entre outras coisas, o tempo de sua duração e as áreas a serem abrangidas. Quais medidas coercitivas o decreto deve indicar?",
+    "options": [
+      "Apenas a restrição ao sigilo de correspondência e de comunicação telefônica.",
+      "As medidas coercitivas a vigorarem, nos termos e limites da lei.",
+      "A ocupação e uso temporário de bens privados.",
+      "A suspensão dos direitos e garantias individuais."
+    ],
+    "correct": 1,
+    "explanation": "O § 1º determina que o decreto 'indicará, nos termos e limites da lei, as medidas coercitivas a vigorarem' dentre as listadas nos incisos I e II."
+  },
+  {
+    "question": "Qual o prazo máximo de duração do estado de defesa, sem prorrogação?",
+    "options": [
+      "Quinze dias.",
+      "Vinte dias.",
+      "Trinta dias.",
+      "Sessenta dias."
+    ],
+    "correct": 2,
+    "explanation": "O § 2º estabelece que 'O tempo de duração do estado de defesa não será superior a trinta dias'."
+  },
+  {
+    "question": "Por quanto tempo o estado de defesa pode ser prorrogado, se persistirem as razões que o justificaram?",
+    "options": [
+      "Não pode ser prorrogado, cessando obrigatoriamente após o prazo inicial.",
+      "Pode ser prorrogado uma vez, por igual período (30 dias).",
+      "Pode ser prorrogado ilimitadamente, desde que com autorização do Congresso Nacional.",
+      "Pode ser prorrogado por 60 dias, uma única vez."
+    ],
+    "correct": 1,
+    "explanation": "O § 2º permite que seja 'prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua decretação'."
+  },
+  {
+    "question": "Na vigência do estado de defesa, a prisão por crime contra o Estado, determinada pelo executor da medida, deve ser comunicada a quem, imediatamente?",
+    "options": [
+      "Ao Ministério Público Federal.",
+      "Ao Conselho de Defesa Nacional.",
+      "Ao juiz competente.",
+      "Ao Presidente da República."
+    ],
+    "correct": 2,
+    "explanation": "O § 3º, I, dispõe que a prisão será 'comunicada imediatamente ao juiz competente'."
+  },
+  {
+    "question": "Qual o limite máximo da prisão ou detenção de qualquer pessoa durante a vigência do estado de defesa, sem autorização do Poder Judiciário?",
+    "options": [
+      "Quarenta e oito horas.",
+      "Cinco dias.",
+      "Dez dias.",
+      "Trinta dias."
+    ],
+    "correct": 2,
+    "explanation": "O § 3º, III, estabelece que a prisão ou detenção 'não poderá ser superior a dez dias, salvo quando autorizada pelo Poder Judiciário'."
+  },
+  {
+    "question": "Qual direito ou garantia do preso é expressamente VEDADO ser suprimido durante a vigência do estado de defesa?",
+    "options": [
+      "O sigilo de correspondência.",
+      "O direito de reunião.",
+      "A incomunicabilidade do preso.",
+      "A assistência da família."
+    ],
+    "correct": 2,
+    "explanation": "O § 3º, IV, determina que 'é vedada a incomunicabilidade do preso'."
+  },
+  {
+    "question": "Quais dos direitos listados abaixo podem ser restringidos durante o Estado de Defesa, nos termos e limites da lei?",
+    "options": [
+      "Direito à vida e sigilo bancário.",
+      "Sigilo de correspondência e sigilo de comunicação telegráfica e telefônica.",
+      "Direito de propriedade e direito à saúde.",
+      "Direito à alimentação e direito ao voto."
+    ],
+    "correct": 1,
+    "explanation": "O § 1º, I, lista a restrição aos direitos de reunião, sigilo de correspondência e sigilo de comunicação telegráfica e telefônica."
+  },
+  {
+    "question": "Decretado o estado de defesa ou sua prorrogação, em qual prazo o Presidente da República deve submeter o ato ao Congresso Nacional?",
+    "options": [
+      "Em até quarenta e oito horas.",
+      "Dentro de vinte e quatro horas.",
+      "Em até cinco dias.",
+      "Imediatamente, via mensagem eletrônica."
+    ],
+    "correct": 1,
+    "explanation": "O § 4º exige a submissão do ato 'dentro de vinte e quatro horas' ao Congresso Nacional."
+  },
+  {
+    "question": "Como o Congresso Nacional deve decidir sobre o ato de decretação do Estado de Defesa?",
+    "options": [
+      "Por dois terços de seus membros.",
+      "Por maioria simples.",
+      "Por maioria absoluta.",
+      "Por quórum qualificado (3/5)."
+    ],
+    "correct": 2,
+    "explanation": "O § 4º estabelece que o Congresso Nacional 'decidirá por maioria absoluta'."
+  },
+  {
+    "question": "Se o Congresso Nacional estiver em recesso, qual o prazo para ser convocado extraordinariamente após a decretação do estado de defesa?",
+    "options": [
+      "No prazo de três dias.",
+      "No prazo de cinco dias.",
+      "Imediatamente, no ato da decretação.",
+      "No prazo de dez dias."
+    ],
+    "correct": 1,
+    "explanation": "O § 5º estabelece que, se o Congresso estiver em recesso, 'será convocado, extraordinariamente, no prazo de cinco dias'."
+  },
+  {
+    "question": "Qual o prazo para o Congresso Nacional apreciar o decreto de estado de defesa, contado de seu recebimento?",
+    "options": [
+      "Cinco dias.",
+      "Dez dias.",
+      "Quinze dias.",
+      "Vinte e quatro horas."
+    ],
+    "correct": 1,
+    "explanation": "O § 6º estabelece que 'O Congresso Nacional apreciará o decreto dentro de dez dias contados de seu recebimento'."
+  },
+  {
+    "question": "Qual a consequência imediata da rejeição do decreto do estado de defesa pelo Congresso Nacional?",
+    "options": [
+      "O Presidente da República deve expedir novo decreto de estado de sítio.",
+      "O Presidente da República deve convocar eleições gerais.",
+      "Cessa imediatamente o estado de defesa.",
+      "As restrições de direitos continuam por mais 24 horas."
+    ],
+    "correct": 2,
+    "explanation": "O § 7º é claro: 'Rejeitado o decreto, cessa imediatamente o estado de defesa'."
+  }
+],
+
 };
 
 // Elementos do DOM
