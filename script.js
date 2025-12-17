@@ -10846,8 +10846,7 @@ const questions = {
   "explanation": "O art. 9º da Lei Maria da Penha estabelece que a assistência à mulher será prestada de forma articulada com as políticas públicas previstas na LOAS, SUS, SUAS e demais sistemas de proteção."
 },
 {
-  "question": "Questão 47 (FUNCAB/DELEGADO/PC-PA/2016) Analise as afirmativas sobre violência doméstica.",
-  "options": ["II e III", "II", "I", "III", "I e II"],
+ "question": "Questão 47 (FUNCAB/DELEGADO DE POLÍCIA CIVIL/PC-PA/2016) Analise as afirmativas a seguir. I – Em razão da decisão do STF a ação penal no crime de lesão corporal, ainda que leve, no âmbito da violência doméstica contra a mulher, é pública incondicionada, não sendo possível a retratação em sede policial. Não obstante, nos demais crimes de ação penal pública condicionada, como a ameaça no âmbito da violência doméstica, é admissível a renúncia ou retratação da representação pela mulher perante a autoridade policial. II – No atendimento à mulher em situação de violência doméstica a autoridade policial deverá garantir à vítima proteção policial quando necessário, bem como fornecer transporte para a ofendida para abrigo ou local seguro. III – Por força da inviolabilidade constitucional do domicílio e dos demais princípios que asseguram um processo penal garantista, a autoridade policial não poderá acompanhar a ofendida para assegurar a retirada de seus pertences do domicílio familiar.",  "options": ["II e III", "II", "I", "III", "I e II"],
   "correct": 1,
   "explanation": "A afirmativa II está correta, conforme o art. 11 da Lei Maria da Penha. A I é incorreta porque a retratação da representação, quando cabível, só pode ocorrer perante o juiz (art. 16). A III é falsa, pois a autoridade policial pode acompanhar a vítima para retirada de pertences (art. 11, IV)."
 },
@@ -10875,7 +10874,7 @@ const questions = {
   "explanation": "A alternativa é incorreta porque calúnia, difamação e injúria configuram violência moral, nos termos do art. 7º, V, da Lei Maria da Penha, e não violência física."
 },
 {
-  "question": "Questão 50 (FMP CONCURSOS/TJ-MT/2014) Sobre medidas protetivas de urgência, assinale a alternativa correta.",
+  "question": "Ismália sofreu agressão física e, amparada pela lei que visa coibir a violência doméstica contra mulher, socorreu-se no conselho tutelar. O conselho tutelar deu entrada em termo circunstanciado para ver processado o agressor, momento em que solicitou medida protetiva de urgência. Em relação a esse pedido, observe as assertivas abaixo: I – Poderá a medida ser concedida de imediato independentemente de audiência das partes e de manifestação do Ministério Público. II – Uma vez decretada a medida protetiva, fica impedida a decretação de prisão preventiva do agressor até que a medida seja revogada. III – Recebido o pedido da ofendida, caberá ao juiz conhecer do ofendido e decidir no prazo máximo de 24 horas. IV – A determinação da medida solicitada não impede a concessão de novas medidas, desde que sejam solicitadas pelo Ministério Público. V – A ofendida não poderá entregar intimação ou notificação ao agressor.",
   "options": [
     "Apenas I e V",
     "Apenas II, IV e V",
