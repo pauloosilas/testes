@@ -9704,6 +9704,1274 @@ const questions = {
   }
 ],
 
+"CrimesContraLiberdadeSexual1":[
+  {
+    "question": "Conforme o Art. 213, § 1º, qual é a pena prevista para o crime de Estupro se a vítima é maior de 14 (catorze) e menor de 18 (dezoito) anos?",
+    "options": [
+      "Reclusão, de 6 (seis) a 10 (dez) anos.",
+      "Reclusão, de 8 (oito) a 12 (doze) anos.",
+      "Reclusão, de 10 (dez) a 15 (quinze) anos.",
+      "Detenção, de 2 (dois) a 4 (quatro) anos."
+    ],
+    "correct": 1,
+    "explanation": "O § 1º do Art. 213 determina a pena de reclusão, de 8 (oito) a 12 (doze) anos, se a vítima é menor de 18 e maior de 14 anos, ou se resulta lesão corporal grave."
+  },
+  {
+    "question": "Entre os crimes listados nos artigos 213 a 216-B, quais são punidos com pena de DETENÇÃO em vez de reclusão?",
+    "options": [
+      "Estupro (Art. 213) e Violação sexual mediante fraude (Art. 215).",
+      "Importunação sexual (Art. 215-A) e Assédio sexual (Art. 216-A).",
+      "Assédio sexual (Art. 216-A) e Registro não autorizado da intimidade sexual (Art. 216-B).",
+      "Violação sexual mediante fraude (Art. 215) e Importunação sexual (Art. 215-A)."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 216-A (Assédio sexual) prevê pena de detenção de 1 a 2 anos, e o Art. 216-B (Registro não autorizado da intimidade sexual) prevê pena de detenção de 6 meses a 1 ano. Os demais (213, 215, 215-A) são punidos com reclusão."
+  },
+  {
+    "question": "No crime de Registro não autorizado da intimidade sexual (Art. 216-B), o Parágrafo único estende a mesma pena para quem realiza qual conduta?",
+    "options": [
+      "Divulgação de cena de estupro em rede social.",
+      "Montagem em fotografia, vídeo ou áudio com o fim de incluir pessoa em cena de nudez ou ato sexual ou libidinoso de caráter íntimo.",
+      "Chantagem para não divulgar as imagens.",
+      "Venda do material registrado para sites pornográficos."
+    ],
+    "correct": 1,
+    "explanation": "O Parágrafo único do Art. 216-B afirma: 'Na mesma pena incorre quem realiza montagem em fotografia, vídeo, áudio ou qualquer outro registro com o fim de incluir pessoa em cena de nudez ou ato sexual ou libidinoso de caráter íntimo'."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Importunação Sexual (Art. 215-A):",
+    "options": [
+      "O ato deve ser praticado sem a anuência da vítima.",
+      "O objetivo deve ser satisfazer a lascívia própria ou de terceiro.",
+      "A pena é aplicada mesmo se o ato constituir crime mais grave.",
+      "A pena prevista é de reclusão, de 1 (um) a 5 (cinco) anos."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 215-A possui caráter subsidiário, estabelecendo a pena 'se o ato **não** constitui crime mais grave'. Portanto, a afirmação de que a pena é aplicada mesmo se constituir crime mais grave está incorreta."
+  },
+  {
+    "question": "Para a configuração do crime de Assédio Sexual (Art. 216-A), é necessário que o agente constranja alguém com o intuito de obter vantagem ou favorecimento sexual. Qual é a relação exigida entre o agente e a vítima?",
+    "options": [
+      "Relação doméstica e familiar.",
+      "Relação de confiança ou amizade íntima.",
+      "Condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função.",
+      "Relação de professor e aluno, independentemente de hierarquia formal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 216-A exige expressamente que o agente se prevaleça 'da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função'."
+  },
+  {
+    "question": "No crime de Violação Sexual Mediante Fraude (Art. 215), o Parágrafo único estabelece a aplicação de multa cumulativa ('aplica-se também multa') em qual hipótese?",
+    "options": [
+      "Se a vítima é menor de 18 anos.",
+      "Se o crime é cometido com o fim de obter vantagem econômica.",
+      "Se o crime resulta em gravidez.",
+      "Se o agente é reincidente."
+    ],
+    "correct": 1,
+    "explanation": "O Parágrafo único do Art. 215 diz: 'Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa'."
+  },
+  {
+    "question": "Qual é a pena máxima prevista para o crime de Estupro (Art. 213) em sua forma simples (caput), sem os resultados agravadores dos parágrafos?",
+    "options": [
+      "6 (seis) anos.",
+      "8 (oito) anos.",
+      "10 (dez) anos.",
+      "12 (doze) anos."
+    ],
+    "correct": 2,
+    "explanation": "O caput do Art. 213 prevê pena de 'reclusão, de 6 (seis) a 10 (dez) anos'. Portanto, a pena máxima na forma simples é 10 anos."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** quanto às penas de reclusão previstas para as formas qualificadas do Estupro (Art. 213):",
+    "options": [
+      "Se resulta lesão corporal grave, a pena é de 8 a 12 anos.",
+      "Se resulta morte, a pena é de 12 a 30 anos.",
+      "Se a vítima é menor de 18 e maior de 14 anos, a pena é de 8 a 12 anos.",
+      "Se resulta lesão corporal leve, a pena é de 10 a 20 anos."
+    ],
+    "correct": 3,
+    "explanation": "Não há previsão no Art. 213 de pena de 10 a 20 anos para resultado de lesão corporal leve. A lesão corporal grave qualifica para 8 a 12 anos, e a morte para 12 a 30 anos."
+  },
+  {
+    "question": "De acordo com o Art. 213 do Código Penal (Estupro), a conduta de 'Constranger alguém' deve ser realizada mediante qual meio para configurar o crime?",
+    "options": [
+      "Apenas fraude ou outro meio que impeça a livre manifestação de vontade.",
+      "Apenas grave ameaça, excluindo a violência física.",
+      "Violência ou grave ameaça.",
+      "Prevalecendo-se da condição de superior hierárquico."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 213 estabelece que o estupro ocorre ao constranger alguém 'mediante violência ou grave ameaça' a ter conjunção carnal ou praticar outro ato libidinoso."
+  },
+  {
+    "question": "No crime de Estupro (Art. 213), qual das seguintes circunstâncias implica em aumento de pena para reclusão de 8 (oito) a 12 (doze) anos, conforme o § 1º?",
+    "options": [
+      "Se o crime é cometido com o fim de obter vantagem econômica.",
+      "Se da conduta resulta lesão corporal de natureza grave ou se a vítima é menor de 18 (dezoito) ou maior de 14 (catorze) anos.",
+      "Se a vítima é menor de 14 (catorze) anos.",
+      "Se o agente mantém ou tenha mantido relação íntima de afeto com a vítima."
+    ],
+    "correct": 1,
+    "explanation": "O § 1º do Art. 213 prevê essa pena aumentada se resulta lesão corporal de natureza grave ou se a vítima é menor de 18 ou maior de 14 anos."
+  },
+  {
+    "question": "Qual é a pena cominada para o crime de Estupro (Art. 213) quando 'da conduta resulta morte', conforme o § 2º?",
+    "options": [
+      "Reclusão, de 6 (seis) a 10 (dez) anos.",
+      "Reclusão, de 10 (dez) a 18 (dezoito) anos.",
+      "Reclusão, de 12 (doze) a 30 (trinta) anos.",
+      "Reclusão, de 20 (vinte) a 40 (quarenta) anos."
+    ],
+    "correct": 2,
+    "explanation": "O § 2º do Art. 213 estabelece a pena de reclusão, de 12 (doze) a 30 (trinta) anos, se da conduta de estupro resulta morte (crime qualificado pelo resultado)."
+  },
+  {
+    "question": "O crime de Violação sexual mediante fraude (Art. 215) se caracteriza por ter conjunção carnal ou praticar outro ato libidinoso com alguém, mediante:",
+    "options": [
+      "Violência ou grave ameaça.",
+      "Fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima.",
+      "Aproveitamento da condição de vulnerabilidade da vítima menor de 14 anos.",
+      "Prevalecimento da condição de superior hierárquico."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 215 define a Violação sexual mediante fraude pelos meios de execução: 'mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima'."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Violação sexual mediante fraude (Art. 215):",
+    "options": [
+      "A pena base é de reclusão, de 2 (dois) a 6 (seis) anos.",
+      "O crime se consuma com a conjunção carnal ou a prática de outro ato libidinoso.",
+      "Se o crime é cometido com o fim de obter vantagem econômica, aplica-se apenas multa, sem aumento de pena privativa de liberdade.",
+      "O meio de execução não envolve violência ou grave ameaça."
+    ],
+    "correct": 2,
+    "explanation": "O Parágrafo único do Art. 215 estabelece que, se o crime é cometido com o fim de obter vantagem econômica, 'aplica-se **também** multa', indicando que a multa é aplicada cumulativamente, e não que não há aumento da pena privativa de liberdade, o que torna a opção incorreta ao afirmar que a multa é aplicada 'apenas'."
+  },
+  {
+    "question": "Qual o elemento subjetivo específico do crime de Importunação sexual (Art. 215-A)?",
+    "options": [
+      "Obter vantagem ou favorecimento sexual, prevalecendo-se da superioridade hierárquica.",
+      "Obrigação de permanência em localidade determinada.",
+      "Objetivo de satisfazer a própria lascívia ou a de terceiro.",
+      "Constranger alguém a ter conjunção carnal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 215-A exige que o ato libidinoso seja praticado 'com o objetivo de satisfazer a própria lascívia ou a de terceiro'."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Importunação sexual (Art. 215-A):",
+    "options": [
+      "A pena é de reclusão, de 1 (um) a 5 (cinco) anos.",
+      "O crime se caracteriza pela prática de ato libidinoso contra alguém e sem a sua anuência.",
+      "A Importunação sexual é aplicável se o ato praticado já constitui crime mais grave.",
+      "O crime tem como objeto a prática de ato libidinoso, excluindo a conjunção carnal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 215-A expressamente estabelece que a pena é aplicada 'se o ato **não** constitui crime mais grave', o que significa que se constituir crime mais grave (como estupro), o agente responderá por este e não por importunação sexual. Portanto, a afirmação é incorreta."
+  },
+  {
+    "question": "O crime de Assédio sexual (Art. 216-A) exige que o agente prevaleça-se de qual condição para constranger a vítima?",
+    "options": [
+      "De sua idade avançada ou fragilidade física.",
+      "De sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função.",
+      "De seu poder econômico ou influência política.",
+      "De sua posse ilegal de arma de fogo."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 216-A exige que o agente se prevaleça 'da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função'."
+  },
+  {
+    "question": "No crime de Assédio sexual (Art. 216-A), em que circunstância a pena é aumentada em até um terço, conforme o § 2º?",
+    "options": [
+      "Se o crime é praticado por duas ou mais pessoas.",
+      "Se a vítima é menor de 18 (dezoito) anos.",
+      "Se o crime é praticado com uso de arma branca.",
+      "Se o agente é reincidente específico em crime sexual."
+    ],
+    "correct": 1,
+    "explanation": "O § 2º do Art. 216-A estabelece o aumento de pena 'se a vítima é menor de 18 (dezoito) anos'."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Assédio sexual (Art. 216-A):",
+    "options": [
+      "O constrangimento deve ocorrer com o intuito de obter vantagem ou favorecimento sexual.",
+      "A pena é de detenção, de 1 (um) a 2 (dois) anos.",
+      "É imprescindível que o constrangimento seja cometido mediante violência ou grave ameaça.",
+      "O agente deve prevalecer-se de sua ascendência inerente ao exercício de emprego, cargo ou função."
+    ],
+    "correct": 2,
+    "explanation": "O Assédio sexual é caracterizado pelo constrangimento com o intuito sexual, prevalecendo-se da superioridade hierárquica/funcional. O uso de violência ou grave ameaça configura, em regra, o crime de Estupro (Art. 213), o que torna a afirmação incorreta para o Assédio sexual."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Registro não autorizado da intimidade sexual (Art. 216-B):",
+    "options": [
+      "A pena cominada é de detenção, de 6 (seis) meses a 1 (um) ano, e multa.",
+      "O núcleo do tipo consiste em registrar, por qualquer meio, cena de nudez ou ato libidinoso íntimo e privado.",
+      "O crime exige a autorização dos participantes.",
+      "Incorre na mesma pena quem realiza montagem para incluir pessoa em cena de nudez de caráter íntimo."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 216-B exige que a conduta seja praticada **sem** autorização dos participantes. A afirmação de que o crime exige a autorização está incorreta, pois a ausência de autorização é que configura o ilícito."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** que descreve uma diferença entre o Estupro (Art. 213) e a Violação sexual mediante fraude (Art. 215):",
+    "options": [
+      "O Estupro utiliza violência ou grave ameaça, enquanto a Violação mediante fraude utiliza fraude ou meio que dificulte a livre manifestação de vontade.",
+      "O Estupro é punido com reclusão, de 6 a 10 anos, e a Violação mediante fraude com reclusão, de 2 a 6 anos.",
+      "A Violação sexual mediante fraude pode ter a pena aumentada se houver relação íntima de afeto com o agente, enquanto no Estupro não há essa previsão.",
+      "No Estupro, a vítima é constrangida, e na Violação mediante fraude, a vítima tem a vontade viciada ou dificultada."
+    ],
+    "correct": 2,
+    "explanation": "O texto legal fornecido não prevê causa de aumento de pena por 'relação íntima de afeto com o agente' para a Violação sexual mediante fraude (Art. 215). Essa majorante está prevista em outro artigo (Art. 218-C, § 1º - Divulgação de cena de estupro ou de cena de estupro de vulnerável). Portanto, a afirmação que aplica essa majorante à Violação mediante fraude é incorreta."
+  }
+],
+
+"CrimesContraLiberdadeSexualPenas":[
+  {
+    "question": "Qual é a pena prevista para o crime de Estupro (Art. 213, caput) em sua forma simples?",
+    "options": [
+      "Reclusão, de 6 a 10 anos.",
+      "Reclusão, de 8 a 12 anos.",
+      "Reclusão, de 2 a 6 anos.",
+      "Detenção, de 1 a 2 anos."
+    ],
+    "correct": 0,
+    "explanation": "Conforme o Art. 213, a pena para constranger alguém à conjunção carnal ou ato libidinoso mediante violência ou grave ameaça é de reclusão de 6 a 10 anos."
+  },
+  {
+    "question": "Se do crime de estupro resultar lesão corporal de natureza grave, qual será a pena aplicada?",
+    "options": [
+      "Reclusão, de 6 a 10 anos.",
+      "Reclusão, de 8 a 12 anos.",
+      "Reclusão, de 12 a 30 anos.",
+      "Reclusão, de 10 a 18 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 213, § 1º, prevê que se da conduta resultar lesão corporal de natureza grave, a pena aumenta para o patamar de 8 a 12 anos de reclusão."
+  },
+  {
+    "question": "Qual a pena para o crime de Estupro (Art. 213) se a conduta resultar em morte da vítima?",
+    "options": [
+      "Reclusão, de 12 a 30 anos.",
+      "Reclusão, de 20 a 40 anos.",
+      "Reclusão, de 8 a 12 anos.",
+      "Reclusão, de 10 a 15 anos."
+    ],
+    "correct": 0,
+    "explanation": "De acordo com o Art. 213, § 2º, o resultado morte no estupro qualifica o crime com pena de reclusão de 12 a 30 anos."
+  },
+  {
+    "question": "No crime de Violação sexual mediante fraude (Art. 215), além da reclusão de 2 a 6 anos, quando a pena de multa será aplicada?",
+    "options": [
+      "Sempre que houver conjunção carnal.",
+      "Se a vítima for menor de 18 anos.",
+      "Se o crime for cometido com o fim de obter vantagem econômica.",
+      "Se houver lesão corporal leve."
+    ],
+    "correct": 2,
+    "explanation": "O parágrafo único do Art. 215 estabelece que se aplica também multa se o crime for cometido com o fim de obter vantagem econômica."
+  },
+  {
+    "question": "Qual é a natureza e o tempo da pena para o crime de Importunação Sexual (Art. 215-A)?",
+    "options": [
+      "Detenção, de 6 meses a 1 ano.",
+      "Reclusão, de 1 a 5 anos.",
+      "Reclusão, de 2 a 6 anos.",
+      "Detenção, de 1 a 2 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 215-A prevê pena de reclusão, de 1 a 5 anos, se o ato não constituir crime mais grave."
+  },
+  {
+    "question": "O crime de Assédio Sexual (Art. 216-A) possui qual previsão de pena no caput?",
+    "options": [
+      "Reclusão, de 1 a 5 anos.",
+      "Detenção, de 1 a 2 anos.",
+      "Detenção, de 6 meses a 1 ano.",
+      "Multa, apenas."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 216-A estabelece pena de detenção de 1 a 2 anos para quem constranger alguém visando vantagem sexual prevalecendo-se de superioridade hierárquica."
+  },
+  {
+    "question": "No crime de Registro não autorizado da intimidade sexual (Art. 216-B), a pena é de:",
+    "options": [
+      "Reclusão, de 1 a 3 anos, e multa.",
+      "Detenção, de 6 meses a 1 ano, e multa.",
+      "Detenção, de 1 a 2 anos, apenas.",
+      "Reclusão, de 4 a 10 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 216-B prevê pena de detenção de 6 meses a 1 ano, cumulada com multa."
+  },
+  {
+    "question": "Com a atualização da Lei nº 15.280 de 2025, qual é a pena base para o Estupro de Vulnerável (Art. 217-A)?",
+    "options": [
+      "Reclusão, de 8 a 15 anos.",
+      "Reclusão, de 10 a 18 anos, e multa.",
+      "Reclusão, de 12 a 20 anos.",
+      "Reclusão, de 6 a 14 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 217-A, com redação de 2025, estabelece reclusão de 10 a 18 anos e multa para a forma simples contra menor de 14 anos."
+  },
+  {
+    "question": "Se do Estupro de Vulnerável (Art. 217-A) resultar lesão corporal de natureza grave, qual a pena conforme a legislação de 2025?",
+    "options": [
+      "Reclusão, de 8 a 12 anos.",
+      "Reclusão, de 12 a 24 anos, e multa.",
+      "Reclusão, de 15 a 30 anos.",
+      "Reclusão, de 20 a 40 anos."
+    ],
+    "correct": 1,
+    "explanation": "O § 3º do Art. 217-A prevê reclusão de 12 a 24 anos e multa quando há resultado de lesão corporal grave."
+  },
+  {
+    "question": "Qual é a pena máxima prevista no Código Penal para o Estupro de Vulnerável seguido de morte (Art. 217-A, § 4º)?",
+    "options": [
+      "30 anos.",
+      "40 anos.",
+      "25 anos.",
+      "35 anos."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o § 4º do Art. 217-A (Lei 15.280/2025), a pena é de reclusão de 20 a 40 anos, além de multa."
+  },
+  {
+    "question": "A pena para o crime de Corrupção de Menores (Art. 218), que consiste em induzir menor de 14 anos a satisfazer lascívia de outrem, é:",
+    "options": [
+      "Reclusão, de 6 a 14 anos, e multa.",
+      "Reclusão, de 4 a 10 anos.",
+      "Detenção, de 1 a 3 anos.",
+      "Reclusão, de 5 a 12 anos."
+    ],
+    "correct": 0,
+    "explanation": "Conforme o Art. 218 atualizado, a pena é de reclusão de 6 a 14 anos e multa."
+  },
+  {
+    "question": "Qual a sanção para quem pratica conjunção carnal na presença de menor de 14 anos para satisfazer lascívia (Art. 218-A)?",
+    "options": [
+      "Reclusão, de 2 a 5 anos.",
+      "Reclusão, de 5 a 12 anos, e multa.",
+      "Detenção, de 1 a 4 anos.",
+      "Reclusão, de 7 a 16 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-A define a pena de reclusão de 5 a 12 anos e multa para a satisfação de lascívia mediante presença de criança ou adolescente."
+  },
+  {
+    "question": "No crime de Favorecimento da prostituição de vulnerável (Art. 218-B), qual a pena prevista?",
+    "options": [
+      "Reclusão, de 4 a 10 anos.",
+      "Reclusão, de 7 a 16 anos, e multa.",
+      "Reclusão, de 10 a 20 anos.",
+      "Reclusão, de 5 a 15 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-B estabelece reclusão de 7 a 16 anos e multa para quem submete ou induz menor de 18 anos ou vulnerável à prostituição."
+  },
+  {
+    "question": "Qual a pena para a Divulgação de cena de estupro ou pornografia sem consentimento (Art. 218-C)?",
+    "options": [
+      "Detenção, de 6 meses a 2 anos.",
+      "Reclusão, de 4 a 10 anos, e multa.",
+      "Reclusão, de 1 a 5 anos.",
+      "Reclusão, de 6 a 12 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-C prevê pena de reclusão de 4 a 10 anos e multa, se o fato não constituir crime mais grave."
+  },
+  {
+    "question": "No crime do Art. 218-C, qual é a fração de aumento de pena se o agente manteve relação íntima de afeto com a vítima?",
+    "options": [
+      "Aumento de 1/6 a 1/3.",
+      "Aumento de 1/3 a 2/3.",
+      "Aumento de metade.",
+      "Aumento de 2/3 fixos."
+    ],
+    "correct": 1,
+    "explanation": "O § 1º do Art. 218-C determina o aumento de 1/3 a 2/3 se houver relação íntima de afeto ou fim de vingança/humilhação."
+  }
+],
+
+"CrimesContraLiberdadeSexual2":[
+  {
+    "question": "De acordo com o § 1º do Art. 217-A, incorre na mesma pena do estupro de vulnerável quem pratica conjunção carnal ou ato libidinoso com alguém que:",
+    "options": [
+      "Seja menor de 18 anos e esteja em situação de prostituição.",
+      "Tenha entre 14 e 16 anos e não consinta com o ato.",
+      "Por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência.",
+      "Esteja sob efeito voluntário de álcool, ainda que mantenha o discernimento."
+    ],
+    "correct": 2,
+    "explanation": "O § 1º do Art. 217-A estende a punição para os casos de vulnerabilidade por enfermidade, deficiência mental ou impossibilidade de resistência."
+  },
+  {
+    "question": "Qual é a pena prevista no texto fornecido para o crime de Corrupção de Menores (Art. 218), que consiste em induzir menor de 14 anos a satisfazer a lascívia de outrem?",
+    "options": [
+      "Reclusão, de 2 a 5 anos.",
+      "Reclusão, de 5 a 10 anos.",
+      "Reclusão, de 6 a 14 anos, e multa.",
+      "Reclusão, de 10 a 20 anos."
+    ],
+    "correct": 2,
+    "explanation": "O texto atualizado (Lei nº 15.280, de 2025) define a pena do Art. 218 como reclusão, de 6 (seis) a 14 (quatorze) anos, e multa."
+  },
+  {
+    "question": "No crime de 'Satisfação de lascívia mediante presença de criança ou adolescente' (Art. 218-A), a conduta nuclear do tipo penal envolve:",
+    "options": [
+      "Ter conjunção carnal com o menor.",
+      "Tocar as partes íntimas do menor.",
+      "Praticar, na presença de menor de 14 anos, ou induzi-lo a presenciar, conjunção carnal ou outro ato libidinoso.",
+      "Fotografar o menor em cenas de nudez."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218-A descreve a conduta de praticar o ato *na presença* do menor ou induzi-lo a *presenciar*, visando satisfazer a lascívia."
+  },
+  {
+    "question": "Assinale a alternativa **INCORRETA** sobre o crime de Divulgação de cena de estupro ou pornografia (Art. 218-C):",
+    "options": [
+      "O crime pune quem oferece, troca, disponibiliza ou transmite o conteúdo.",
+      "A pena é aumentada se o agente mantém ou manteve relação íntima de afeto com a vítima.",
+      "É necessário que a divulgação tenha fins lucrativos para configurar o crime.",
+      "Aplica-se a pena se o fato não constitui crime mais grave."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218-C não exige finalidade de lucro (vantagem econômica) para a configuração do crime, bastando a divulgação sem consentimento (ou de cena de estupro)."
+  },
+  {
+    "question": "Para a configuração da exclusão de ilicitude prevista no § 2º do Art. 218-C (publicação jornalística, científica, etc.), qual requisito é imposto em relação à vítima maior de 18 anos?",
+    "options": [
+      "O pagamento de direitos de imagem.",
+      "A autorização de um juiz.",
+      "A sua prévia autorização.",
+      "A notificação posterior à publicação."
+    ],
+    "correct": 2,
+    "explanation": "O § 2º do Art. 218-C exige, para a exclusão do crime em publicações jornalísticas/acadêmicas, a adoção de recurso que impossibilite a identificação, 'ressalvada sua prévia autorização, caso seja maior de 18 (dezoito) anos'."
+  },
+  {
+    "question": "Conforme o Art. 218-B (Favorecimento da prostituição), se o crime for cometido contra alguém menor de 18 anos, a pena base prevista no texto é:",
+    "options": [
+      "Reclusão, de 4 a 10 anos.",
+      "Reclusão, de 7 a 16 anos, e multa.",
+      "Reclusão, de 10 a 20 anos.",
+      "Detenção, de 2 a 5 anos."
+    ],
+    "correct": 1,
+    "explanation": "O texto atualizado (Lei nº 15.280, de 2025) define a pena do Art. 218-B como reclusão, de 7 (sete) a 16 (dezesseis) anos, e multa."
+  },
+  {
+    "question": "No crime de Estupro de Vulnerável (Art. 217-A), a pena máxima prevista no caso de resultado morte (§ 4º) é de:",
+    "options": [
+      "30 anos.",
+      "40 anos.",
+      "25 anos.",
+      "20 anos."
+    ],
+    "correct": 1,
+    "explanation": "O § 4º do Art. 217-A, com a redação da Lei nº 15.280/2025 presente no texto, prevê pena de reclusão de 20 a 40 anos."
+  },
+  {
+    "question": "Qual dos seguintes crimes possui, no texto fornecido, a pena mínima mais alta em sua forma simples (caput)?",
+    "options": [
+      "Estupro (Art. 213) - Pena: 6 a 10 anos.",
+      "Estupro de vulnerável (Art. 217-A) - Pena: 10 a 18 anos.",
+      "Corrupção de menores (Art. 218) - Pena: 6 a 14 anos.",
+      "Favorecimento da prostituição (Art. 218-B) - Pena: 7 a 16 anos."
+    ],
+    "correct": 1,
+    "explanation": "Comparando as penas mínimas no texto fornecido: Estupro (6 anos), Estupro de Vulnerável (10 anos), Corrupção de Menores (6 anos), Favorecimento (7 anos). A maior pena mínima é a do Estupro de Vulnerável (10 anos)."
+  },
+  {
+    "question": "De acordo com o Art. 217-A, o crime de Estupro de Vulnerável se caracteriza pela conjunção carnal ou ato libidinoso com menor de:",
+    "options": [
+      "12 (doze) anos.",
+      "14 (catorze) anos.",
+      "16 (dezesseis) anos.",
+      "18 (dezoito) anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 217-A define o estupro de vulnerável como praticar o ato com menor de 14 (catorze) anos."
+  },
+  {
+    "question": "Qual é a pena prevista no texto fornecido para o crime de Estupro de Vulnerável (Art. 217-A, caput), considerando a redação da Lei nº 15.280, de 2025?",
+    "options": [
+      "Reclusão, de 8 a 15 anos.",
+      "Reclusão, de 6 a 10 anos.",
+      "Reclusão, de 10 a 18 anos, e multa.",
+      "Reclusão, de 12 a 20 anos, sem multa."
+    ],
+    "correct": 2,
+    "explanation": "O texto fornecido indica: 'Pena – reclusão, de 10 (dez) a 18 (dezoito) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)'."
+  },
+  {
+    "question": "Segundo o § 5º do Art. 217-A, o consentimento da vítima menor de 14 anos ou o fato de ela já ter mantido relações sexuais anteriores:",
+    "options": [
+      "Exclui a ilicitude do crime.",
+      "Atenua a pena em um terço.",
+      "Transforma o crime em Corrupção de Menores.",
+      "Não impede a aplicação das penas previstas, sendo irrelevante para a configuração do crime."
+    ],
+    "correct": 3,
+    "explanation": "O § 5º afirma que as penas se aplicam 'independentemente do consentimento da vítima ou do fato de ela ter mantido relações sexuais anteriormente ao crime'."
+  },
+  {
+    "question": "Se da conduta de Estupro de Vulnerável resulta morte, qual é a pena prevista no texto (Art. 217-A, § 4º)?",
+    "options": [
+      "Reclusão, de 12 a 30 anos.",
+      "Reclusão, de 15 a 30 anos.",
+      "Reclusão, de 20 a 40 anos, e multa.",
+      "Reclusão, de 30 a 50 anos."
+    ],
+    "correct": 2,
+    "explanation": "O texto atualizado pela Lei nº 15.280/2025 no Art. 217-A, § 4º, define a pena de reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa."
+  },
+  {
+    "question": "O crime de Corrupção de Menores (Art. 218) consiste em induzir alguém menor de 14 anos a:",
+    "options": [
+      "Praticar crime ou contravenção penal.",
+      "Fugir de casa.",
+      "Satisfazer a lascívia de outrem.",
+      "Presenciar ato libidinoso."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218 define o crime como 'Induzir alguém menor de 14 (catorze) anos a satisfazer a lascívia de outrem'."
+  },
+  {
+    "question": "Qual a diferença principal entre o crime do Art. 218 (Corrupção de Menores) e o Art. 218-A (Satisfação de lascívia mediante presença de criança)?",
+    "options": [
+      "O Art. 218 exige violência, o 218-A não.",
+      "O Art. 218 envolve induzir a satisfazer a lascívia, enquanto o 218-A envolve praticar o ato na presença do menor ou induzi-lo a presenciar.",
+      "O Art. 218 aplica-se a menores de 18 anos, e o 218-A a menores de 14.",
+      "Não há diferença, são o mesmo tipo penal."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218 trata de induzir o menor a satisfazer a lascívia (participar), enquanto o Art. 218-A trata de praticar o ato *na presença* do menor ou induzi-lo a *presenciar* (assistir)."
+  },
+  {
+    "question": "O crime de Favorecimento da prostituição ou outra forma de exploração sexual (Art. 218-B) tem como sujeito passivo (vítima) alguém:",
+    "options": [
+      "Apenas menor de 12 anos.",
+      "Apenas menor de 14 anos.",
+      "Menor de 18 anos ou vulnerável por enfermidade/deficiência.",
+      "Qualquer pessoa, independentemente da idade."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218-B protege 'alguém menor de 18 (dezoito) anos ou que, por enfermidade ou deficiência mental, não tem o necessário discernimento'."
+  },
+  {
+    "question": "No crime de Favorecimento da Prostituição (Art. 218-B), o proprietário ou gerente do local onde se verificam as práticas ilícitas (Art. 218-B, § 2º, II):",
+    "options": [
+      "Responde apenas por contravenção penal.",
+      "Incorre nas mesmas penas de quem submete ou induz o menor (reclusão de 7 a 16 anos).",
+      "Tem a pena reduzida pela metade.",
+      "Responde apenas administrativamente."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-B, § 2º, II afirma que 'incorre nas mesmas penas' o proprietário ou gerente do local. A pena do caput é de 7 a 16 anos."
+  },
+  {
+    "question": "Qual é o efeito obrigatório da condenação para o proprietário ou gerente de estabelecimento envolvido no crime do Art. 218-B, conforme o § 3º?",
+    "options": [
+      "A prisão perpétua.",
+      "A cassação da licença de localização e de funcionamento do estabelecimento.",
+      "A multa de 100 salários mínimos.",
+      "A proibição de contratar com o Poder Público por 5 anos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-B, § 3º estabelece como efeito obrigatório a 'cassação da licença de localização e de funcionamento do estabelecimento'."
+  },
+  {
+    "question": "O crime do Art. 218-C (Divulgação de cena de estupro ou pornografia sem consentimento) é subsidiário? O que diz o texto sobre isso?",
+    "options": [
+      "Não, é um crime autônomo e a pena é sempre somada.",
+      "Sim, a pena é aplicada 'se o fato não constitui crime mais grave'.",
+      "Sim, só é crime se houver lucro financeiro.",
+      "Não, é considerado crime hediondo em qualquer modalidade."
+    ],
+    "correct": 1,
+    "explanation": "O preceito secundário do Art. 218-C diz: 'Pena – reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se o fato não constitui crime mais grave'."
+  },
+  {
+    "question": "No crime de divulgação de cena de estupro ou sexo sem consentimento (Art. 218-C), a pena é aumentada de 1/3 a 2/3 se o crime é praticado:",
+    "options": [
+      "Por funcionário público.",
+      "Com o fim de lucro.",
+      "Por agente que mantém ou tenha mantido relação íntima de afeto com a vítima ou com o fim de vingança ou humilhação.",
+      "Utilizando inteligência artificial."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218-C, § 1º prevê o aumento se o agente 'mantém ou tenha mantido relação íntima de afeto com a vítima ou com o fim de vingança ou humilhação'."
+  },
+  {
+    "question": "Em qual situação há exclusão de ilicitude no crime do Art. 218-C (Divulgação de cena de sexo/estupro), conforme o § 2º?",
+    "options": [
+      "Quando o agente se retrata antes da denúncia.",
+      "Quando a publicação é de natureza jornalística, científica, cultural ou acadêmica, com recursos que impossibilitem a identificação da vítima.",
+      "Quando a vítima não apresenta queixa em 30 dias.",
+      "Quando o conteúdo é divulgado em grupo fechado de mensagens."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 218-C, § 2º prevê que não há crime em publicação jornalística/científica/cultural/acadêmica com a adoção de recurso que impossibilite a identificação da vítima."
+  },
+  {
+    "question": "Se do Estupro de Vulnerável resulta lesão corporal de natureza grave (Art. 217-A, § 3º), a pena prevista no texto é:",
+    "options": [
+      "Reclusão, de 8 a 12 anos.",
+      "Reclusão, de 10 a 20 anos.",
+      "Reclusão, de 12 a 24 anos, e multa.",
+      "Reclusão, de 15 a 30 anos."
+    ],
+    "correct": 2,
+    "explanation": "Conforme a redação dada pela Lei nº 15.280/2025 no texto, a pena é reclusão, de 12 (doze) a 24 (vinte e quatro) anos, e multa."
+  },
+  {
+    "question": "Quem pratica conjunção carnal com alguém menor de 18 e maior de 14 anos em situação de exploração sexual (prostituição), conforme o Art. 218-B, § 2º, I:",
+    "options": [
+      "Não comete crime, pois a vítima é maior de 14 anos.",
+      "Comete crime de Estupro de Vulnerável.",
+      "Incorre nas mesmas penas do crime de Favorecimento da Prostituição (Reclusão de 7 a 16 anos).",
+      "Responde apenas por Importunação Sexual."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 218-B, § 2º, I equipara a conduta, punindo com as mesmas penas (7 a 16 anos) quem pratica o ato com menor de 18 e maior de 14 na situação de exploração sexual."
+  }
+],
+
+"MariaDaPenha":[
+  {
+    "question": "Questão 1 (FCC/OFICIAL DE POLÍCIA CIVIL/PC-AP/2017) NÃO constitui medida protetiva de urgência prevista na Lei n. 11.340/2006 − Lei Maria da Penha",
+    "options": [
+      "a prestação de alimentos provisórios.",
+      "a proibição de contato com a ofendida.",
+      "o afastamento dos familiares da ofendida, com fixação de limite mínimo de distância.",
+      "a suspensão de visitas aos dependentes menores.",
+      "o afastamento de cargo ou função pública."
+    ],
+    "correct": 4,
+    "explanation": "As medidas protetivas de urgência estão previstas nos arts. 22, 23 e 24 da Lei nº 11.340/2006. Entre elas encontram-se a prestação de alimentos provisórios, a proibição de contato com a ofendida, a suspensão de visitas aos dependentes menores e o afastamento do agressor do lar ou local de convivência. Não há previsão legal para o afastamento do agressor de cargo ou função pública como medida protetiva de urgência, razão pela qual a alternativa indicada é a incorreta."
+  },
+  {
+    "question": "Questão 2 (FCC/PERITO MÉDICO LEGISTA/POLITEC-AP/2017) Nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres e da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher, foi aprovada, em 2006, a Lei n. 11.340/2006 (Lei Maria da Penha), que trata de mecanismos para coibir a violência doméstica e familiar contra a mulher. De acordo com a referida lei,",
+    "options": [
+      "as agressões praticadas por irmão contra irmã não se incluem dentre àquelas disciplinadas pela Lei Maria da Penha.",
+      "as agressões praticadas com violência doméstica contra a mulher devem observar o disposto na Lei n. 9.099/1995 (Lei dos Juizados Especiais Civis e Criminais) quando a pena máxima prevista não for superior a 2 anos.",
+      "configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial, independentemente da orientação sexual da ofendida.",
+      "é permitida a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa.",
+      "poderá o juiz, quando necessário, sem prejuízo de outras medidas, determinar o afastamento da ofendida do lar, sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos, determinando, de ofício, o rompimento legal do vínculo de matrimônio entre os cônjuges."
+    ],
+    "correct": 2,
+    "explanation": "O art. 5º da Lei Maria da Penha define violência doméstica e familiar contra a mulher como qualquer ação ou omissão baseada no gênero que cause morte, lesão, sofrimento físico, sexual ou psicológico, ou dano moral ou patrimonial. O parágrafo único do mesmo artigo expressamente dispõe que tais relações independem de orientação sexual, tornando correta a alternativa indicada."
+  },
+  {
+    "question": "Questão 3 (FCC/DEFENSOR PÚBLICO SUBSTITUTO/DPE-SC/2017) Em caso de violência doméstica e familiar contra a mulher,",
+    "options": [
+      "é vedada a atuação de assistente de acusação para a vítima, pois a Lei Maria da Penha já prevê a assistência jurídica à vítima em todos os atos do processo.",
+      "é incabível o uso de habeas corpus em face de decisão que concede medida protetiva de urgência em favor da mulher, pois a medida não tem natureza penal contra o acusado.",
+      "a ação penal nos crimes submetidos à Lei Maria da Penha será pública incondicionada.",
+      "a Lei Maria da Penha permite a decretação da prisão preventiva de ofício pelo juiz no curso do inquérito policial.",
+      "conforme a jurisprudência do Superior Tribunal de Justiça, as contravenções penais não se submetem ao Juizado de Violência Doméstica e Familiar contra a Mulher, aplicando-se os institutos da Lei n. 9.099/1995."
+    ],
+    "correct": 3,
+    "explanation": "O art. 20 da Lei nº 11.340/2006 autoriza expressamente o juiz a decretar a prisão preventiva do agressor, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade policial, sempre que presentes os requisitos legais. As demais alternativas contrariam a lei ou a jurisprudência dominante."
+  },
+  {
+    "question": "Questão 4 (FCC/PROMOTOR DE JUSTIÇA/MPE-PB/2018) Conforme entendimento sumulado pelo Superior Tribunal de Justiça:",
+    "options": [
+      "Para a configuração da violência doméstica e familiar, prevista na Lei Maria da Penha (Lei n. 11.340/2006), não se exige a coabitação entre autor e vítima.",
+      "A suspensão condicional do processo, prevista na Lei n. 9.099/1995, é aplicável na hipótese de delitos sujeitos ao rito da Lei Maria da Penha (Lei n. 11.340/2006).",
+      "É possível a aplicação de prestação de serviços a entidades públicas, bem como a limitação temporária de direitos ao autor de crime, com violência ou grave ameaça no ambiente doméstico, contra a mulher.",
+      "Permanece pública condicionada à representação a ação penal para o crime de lesão corporal leve, praticado contra a mulher no ambiente doméstico.",
+      "A transação penal, prevista na Lei dos Juizados Especiais Criminais, é aplicável na hipótese de delitos sujeitos ao rito da Lei Maria da Penha (Lei n. 11.340/2006)."
+    ],
+    "correct": 0,
+    "explanation": "O Superior Tribunal de Justiça consolidou entendimento no sentido de que não é exigida coabitação entre autor e vítima para a caracterização da violência doméstica e familiar, conforme a Súmula 600 do STJ. As demais alternativas contrariam súmulas ou jurisprudência pacífica da Corte."
+  },
+  {
+    "question": "Questão 5 (FCC/ANALISTA JURÍDICO/DPE-AM/2018) Sobre as medidas protetivas de urgência em favor da mulher vítima de violência doméstica e familiar,",
+    "options": [
+      "é permitido ao juiz, exclusivamente a requerimento do Ministério Público, rever as medidas já concedidas, se entender necessário à proteção da vítima.",
+      "ou a vítima, ou seu advogado ou Defensor Público, deverão ser informados sobre a saída do agressor da prisão.",
+      "não abrangerá a suspensão da visita do agressor aos dependentes menores, sob nenhuma hipótese, tendo em vista a importância da convivência familiar.",
+      "poderá ensejar a proibição temporária para a celebração de atos e contratos de compra e venda, locação de propriedade em comum, salvo expressa autorização judicial.",
+      "não inclui a possibilidade de o juiz decidir pela separação de corpos."
+    ],
+    "correct": 3,
+    "explanation": "Nos termos do art. 24 da Lei nº 11.340/2006, o juiz pode determinar a restrição ou suspensão de atos e contratos relativos a bens comuns, como compra, venda ou locação, salvo autorização judicial expressa. As demais alternativas estão em desacordo com a lei, que admite, por exemplo, a suspensão de visitas e a separação de corpos."
+  },
+  {
+    "question": "Questão 6 (FCC/ANALISTA JURÍDICO/DPE-AM/2018) A Lei Maria da Penha considera violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial,",
+    "options": [
+      "desde que ocorra em situação de coabitação com o agressor.",
+      "desde que ocorra em situação de coabitação e o agressor mantenha relação íntima de afeto com a vítima.",
+      "caso ocorrida no âmbito da família, desde que haja coabitação e exista união por laços naturais.",
+      "desde que ocorra no âmbito familiar, independentemente de coabitação, mas em razão de relação íntima com o homem agressor.",
+      "caso ocorrida no âmbito da unidade doméstica, abrange o agressor esporadicamente agregado ao espaço de convívio permanente entre as pessoas."
+    ],
+    "correct": 4,
+    "explanation": "O art. 5º, inciso I, da Lei nº 11.340/2006 define unidade doméstica como o espaço de convívio permanente de pessoas, com ou sem vínculo familiar, inclusive aquelas esporadicamente agregadas. Assim, não se exige coabitação permanente ou vínculo formal, tornando correta a alternativa indicada."
+  },
+    {
+    "question": "Questão 7 (FCC/PROMOTOR DE JUSTIÇA/MPE-PE/2014) Nas ações penais abrangidas pela chamada Lei Maria da Penha, admissível a renúncia à representação da ofendida perante o juiz, em audiência especialmente designada com tal finalidade, antes do recebimento da denúncia e ouvido o Ministério Público,",
+    "options": [
+      "nos crimes cometidos sem violência ou grave ameaça à pessoa.",
+      "em qualquer crime",
+      "apenas no crime de lesão corporal leve",
+      "nos crimes de lesão corporal leve e de ameaça.",
+      "no crime de ameaça."
+    ],
+    "correct": 4,
+    "explanation": "Nos termos do art. 16 da Lei nº 11.340/2006, a renúncia à representação somente é admitida nos crimes de ação penal pública condicionada. Após o julgamento da ADI 4.424 pelo STF, firmou-se o entendimento de que o crime de lesão corporal leve praticado em contexto de violência doméstica é de ação penal pública incondicionada, não admitindo renúncia. O crime de ameaça, contudo, permanece como ação penal pública condicionada à representação, sendo possível a renúncia nas condições legais."
+  },
+  {
+    "question": "Questão 8 (FCC/JUIZ SUBSTITUTO/TJ-CE/2014) Se praticado no contexto de violência doméstica, a ação será pública incondicionada no caso de crime de",
+    "options": [
+      "lesão corporal contra a mulher, mas apenas se grave.",
+      "ameaça, independentemente da condição da vítima.",
+      "lesão corporal leve contra pai.",
+      "ameaça contra mulher.",
+      "lesão corporal contra mulher, independentemente da extensão."
+    ],
+    "correct": 4,
+    "explanation": "O STF, no julgamento da ADI 4.424, fixou que o crime de lesão corporal praticado contra a mulher no âmbito da violência doméstica é de ação penal pública incondicionada, independentemente de sua gravidade (leve, grave ou gravíssima). Por isso, correta a alternativa que abrange qualquer extensão da lesão corporal."
+  },
+  {
+    "question": "Questão 9 (UEG/DELEGADO DE POLÍCIA/PC-GO/2018) Preenchidos os requisitos legais para concessão da benesse, é possível aplicar ao crime de lesão corporal de natureza leve praticado em situação de violência doméstica e familiar contra a mulher a",
+    "options": [
+      "Transação penal;",
+      "Suspensão condicional da pena;",
+      "Suspensão condicional do processo;",
+      "Absolvição, com base no princípio da insignificância;",
+      "Substituição da pena privativa de liberdade por restritiva de direitos."
+    ],
+    "correct": 1,
+    "explanation": "Nos crimes de violência doméstica e familiar contra a mulher, são inaplicáveis os institutos da Lei nº 9.099/1995, conforme art. 41 da Lei Maria da Penha. Contudo, após a condenação, é possível a suspensão condicional da pena (art. 77 do Código Penal), desde que preenchidos os requisitos legais, razão pela qual a alternativa correta é a indicada."
+  },
+  {
+    "question": "Questão 10 (NUCEPE/DELEGADO DE POLÍCIA/PC-PI/2018) A Lei n. 11.340/2006 cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher. São consideradas violência contra a mulher não só a física, mas também, psicológica, moral e sexual. E em todos os casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, deverá a autoridade policial adotar, de imediato, os seguintes procedimentos, sem prejuízo daqueles previstos no Código de Processo Penal, EXCETO:",
+    "options": [
+      "colher nome e idade dos dependentes e encaminhá-los a uma Casa de Abrigo;",
+      "ouvir a ofendida, lavrar o boletim de ocorrência e tomar a representação a termo, se apresentada;",
+      "colher todas as provas que servirem para o esclarecimento do fato e de suas circunstâncias;",
+      "remeter, no prazo de 48 (quarenta e oito) horas, expediente apartado ao juiz com o pedido da ofendida, para a concessão de medidas protetivas de urgência;",
+      "determinar que se proceda ao exame de corpo de delito da ofendida e requisitar outros exames periciais necessários, ouvir o agressor e as testemunhas."
+    ],
+    "correct": 0,
+    "explanation": "O art. 12 da Lei Maria da Penha elenca os procedimentos imediatos a serem adotados pela autoridade policial. O encaminhamento dos dependentes a Casa de Abrigo não é atribuição automática da autoridade policial, dependendo de avaliação e providências da rede de proteção, razão pela qual a alternativa indicada está incorreta."
+  },
+  {
+    "question": "Questão 11 (NUCEPE/AGENTE DE POLÍCIA CIVIL/PC-PI/2018) A lei denominada Maria da Penha cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a mulher. Com base na referida lei, marque a alternativa CORRETA.",
+    "options": [
+      "Constatada a prática de violência doméstica e familiar contra a mulher, nos termos da Lei, o juiz poderá aplicar, de imediato, ao agressor: o afastamento do lar, domicílio ou local de convivência com a ofendida; não podendo proibir, no entanto, o afastamento do agressor dos familiares da vítima.",
+      "Para garantir a efetividade das medidas protetivas de urgência, poderá o juiz requisitar, desde que o agressor se negue a prestar depoimento, em um prazo de 48h (quarenta e oito horas), auxílio da força policial.",
+      "Mesmo quando não for parte, o Ministério Público intervirá nas causas cíveis e criminais decorrentes da violência doméstica e familiar contra a mulher.",
+      "O juiz criminal competente para julgar a violência doméstica, quando observar que o agressor subtraiu indevidamente os bens da mulher, determinará o desmembramento do processo, e encaminhará ao juiz da Vara de Família, para que este juiz restitua os bens indevidamente subtraídos pelo agressor à ofendida.",
+      "Os Juizados de Violência Doméstica e Familiar contra a Mulher que vierem a ser criados deverão contar apenas com profissionais da área jurídica."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o art. 25 da Lei nº 11.340/2006, o Ministério Público intervirá obrigatoriamente nas causas cíveis e criminais decorrentes da violência doméstica e familiar contra a mulher, ainda que não seja parte, tornando correta a alternativa indicada."
+  },
+  {
+    "question": "Questão 12 (VUNESP/INVESTIGADOR/PC-BA/2018) Quanto à Lei Maria da Penha, Lei n. 11.340/2006, assinale a alternativa correta.",
+    "options": [
+      "Prevê como critério de interpretação da lei os fins sociais a que se destina, especialmente as condições peculiares das mulheres em situação de violência doméstica e familiar.",
+      "Considera violência doméstica e familiar contra a mulher qualquer ação ou omissão que lhe cause morte, sofrimento físico, sexual e psicológico.",
+      "Define como violência moral contra a mulher qualquer conduta que lhe cause dano emocional ou diminuição da autoestima.",
+      "Não se aplica quando o agressor também é mulher.",
+      "Prevê como medidas protetivas de urgência à ofendida o cancelamento de procurações por ela conferidas ao agressor e a proibição temporária para celebração de atos e contratos de compra e venda."
+    ],
+    "correct": 0,
+    "explanation": "O art. 4º da Lei Maria da Penha estabelece que, na interpretação da lei, devem ser considerados os fins sociais a que ela se destina e as condições peculiares das mulheres em situação de violência doméstica e familiar, o que torna correta a alternativa."
+  },
+  {
+    "question": "Questão 13 (CESPE/ANALISTA JUDICIÁRIO/STJ/2018) Em se tratando de crimes de violência doméstica e familiar contra a mulher, se a condenação for privativa de liberdade por até um ano, poderá o juiz substituí-la por pena de prestação pecuniária ou pagamento isolado de multa.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 1,
+    "explanation": "Nos termos do art. 17 da Lei nº 11.340/2006, é vedada a aplicação de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição da pena que implique o pagamento isolado de multa, nos casos de violência doméstica e familiar contra a mulher."
+  },
+  {
+    "question": "Questão 14 (CESPE/AUDITOR DO ESTADO/SEFAZ-RS/2018) Assinale a opção que apresenta medida protetiva de urgência a ser aplicada ao agressor no caso de constatação da prática de violência doméstica contra a mulher, conforme o disposto na Lei Maria da Penha — Lei n. 11.340/2006",
+    "options": [
+      "Transferência para outra comarca",
+      "Prestação de serviços em creches e asilos",
+      "Proibição de aproximação ou contato com familiares da ofendida",
+      "Pagamento de multa",
+      "Pagamento de cestas básicas"
+    ],
+    "correct": 2,
+    "explanation": "O art. 22 da Lei Maria da Penha prevê, entre as medidas protetivas de urgência, a proibição de aproximação e de contato do agressor com a ofendida, seus familiares e testemunhas, sendo correta a alternativa indicada."
+  },
+  {
+    "question": "Questão 15 (VUNESP/DELEGADO DE POLÍCIA/PC-SP/2018) Nos termos da Lei n. 11.340/2006 (Lei Maria da Penha):",
+    "options": [
+      "a mulher vítima será inquirida sempre com intermediação de profissional do sexo feminino especializado em violência doméstica e familiar designado pela autoridade judiciária ou policial.",
+      "é direito da mulher em situação de violência doméstica e familiar o atendimento pericial especializado, ininterrupto e prestado por servidores exclusivamente do sexo feminino.",
+      "é direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado, ininterrupto e prestado por servidores, preferencialmente do sexo feminino e previamente capacitados",
+      "é direito da mulher em situação de violência doméstica e familiar o atendimento policial especializado, ininterrupto e prestado por servidores exclusivamente do sexo feminino.",
+      "a mulher vítima será inquirida sempre com intermediação de profissional especializado em violência doméstica e familiar designado pela autoridade judiciária ou policial."
+    ],
+    "correct": 2,
+    "explanation": "O art. 10-A da Lei nº 11.340/2006 assegura à mulher em situação de violência doméstica o atendimento policial e pericial especializado, ininterrupto e prestado por servidores preferencialmente do sexo feminino e devidamente capacitados, razão pela qual a alternativa correta é a indicada."
+  },
+  {
+    "question": "Questão 16 (VUNESP/PROCURADOR JURÍDICO/CÂMARA DE CAMPO LIMPO PAULISTA/2018) Acerca dos mecanismos para coibir a violência doméstica e familiar contra a mulher, trazidos nos exatos termos da Lei n. 11.340/2006, é correto afirmar que",
+    "options": [
+      "a assistência à mulher em situação de violência doméstica e familiar compreenderá o acesso aos benefícios decorrentes do desenvolvimento científico e tecnológico, excluindo-se, porém, os serviços de contracepção de emergência, a profilaxia das Doenças Sexualmente Transmissíveis (DST) e da Síndrome da Imunodeficiência Adquirida (AIDS).",
+      "na hipótese da iminência ou da prática de violência doméstica e familiar contra a mulher, a autoridade policial que tomar conhecimento da ocorrência dependerá de autorização judicial para adoção das providências legais cabíveis.",
+      "nas ações penais públicas condicionadas à representação da ofendida de que trata a lei em comento só será admitida a renúncia à representação perante o juiz, em audiência especialmente designada com tal finalidade, após o recebimento da denúncia e ouvido o Ministério Público.",
+      "a violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos.",
+      "a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa, é medida autorizada pela norma sob análise."
+    ],
+    "correct": 3,
+    "explanation": "O art. 6º da Lei nº 11.340/2006 dispõe expressamente que a violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos, tornando correta a alternativa indicada."
+  },
+  {
+    "question": "Questão 17 (VUNESP/ESCRIVÃO DE POLÍCIA/PC-SP/2018) Nos termos da Lei n. 11.340/2006 (Lei Maria da Penha), é correto afirmar que",
+    "options": [
+      "é vedada a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa.",
+      "em qualquer fase do inquérito policial ou da instrução criminal, caberá a prisão temporária do agressor, decretada pelo juiz, de ofício, a requerimento do Ministério Público ou mediante representação da autoridade policial.",
+      "a ofendida deverá ser notificada dos atos processuais relativos ao agressor, especialmente dos pertinentes ao ingresso e à saída da prisão, sendo desnecessária a intimação do advogado constituído ou do defensor público",
+      "é direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado, ininterrupto e prestado por servidores – exclusivamente do sexo feminino.",
+      "as medidas protetivas de urgência somente poderão ser concedidas pelo juiz, após representação do Delegado de Polícia ou a requerimento do Ministério Público, desde que com anuência da ofendida."
+    ],
+    "correct": 0,
+    "explanation": "O art. 17 da Lei Maria da Penha veda expressamente a aplicação de penas de cesta básica, outras de prestação pecuniária e a substituição da pena por pagamento isolado de multa nos casos de violência doméstica e familiar contra a mulher, razão pela qual a alternativa correta é a indicada."
+  },
+   {
+    "question": "Questão 18 (VUNESP/DELEGADO DE POLÍCIA/PC-BA/2018) Tendo em vista a Lei n. 11.340/2006 (Lei Maria da Penha), assinale a alternativa correta.",
+    "options": [
+      "Âmbito familiar, de acordo com essa Lei, é a comunidade formada apenas por indivíduos que são aparentados, unidos por laços naturais.",
+      "A violência patrimonial contra a mulher, ainda que ocorrida no âmbito doméstico ou familiar, não está prevista nessa Lei, sendo contempladas apenas as violências física, psicológica, sexual e moral.",
+      "A violência patrimonial contra a mulher, ainda que ocorrida no âmbito doméstico ou familiar, não está prevista nessa Lei, sendo contempladas apenas as violências física, psicológica, sexual e moral.",
+      "As medidas protetivas à mulher poderão ser concedidas pela Autoridade Policial, em caso de urgência.",
+      "É garantido à mulher, vítima de violência doméstica e familiar, quando necessário, o afastamento do local do trabalho, para preservação da integridade física e psicológica, a manutenção do vínculo trabalhista, por até seis meses."
+    ],
+    "correct": 4,
+    "explanation": "O art. 9º, §2º, II, da Lei nº 11.340/2006 assegura à mulher em situação de violência doméstica e familiar, quando necessário, o afastamento do local de trabalho, com manutenção do vínculo trabalhista, pelo prazo máximo de seis meses, para preservação de sua integridade física e psicológica."
+  },
+  {
+    "question": "Questão 19 (VUNESP/PROCURADOR JURÍDICO/CÂMARA DE SUMARÉ/2017) Considerando-se servidora pública em situação de violência doméstica, para preservar sua integridade física e psicológica, o juiz assegurará a ela:",
+    "options": [
+      "manutenção do vínculo como servidora por seis meses, afastando-a do local de trabalho",
+      "encaminhamento prioritário a grupo de apoio psicológico e social fornecido por ente público.",
+      "nomeação de defensor público para atendimento no âmbito administrativo e judicial.",
+      "acesso prioritário à remoção quando integrante da Administração direta ou indireta.",
+      "atendimento especializado pela autoridade policial competente, no cumprimento de medida protetiva."
+    ],
+    "correct": 3,
+    "explanation": "Nos termos do art. 9º, §2º, I, da Lei Maria da Penha, é assegurado à mulher em situação de violência doméstica o acesso prioritário à remoção quando integrante da Administração Pública direta ou indireta, como medida de proteção à sua integridade física e psicológica."
+  },
+  {
+    "question": "Questão 20 (VUNESP/INSPETOR DE POLÍCIA/PC-CE/2015) A Lei n. 11.340/2006, conhecida como “Lei Maria da Penha”, estabelece que",
+    "options": [
+      "em qualquer fase do inquérito policial ou da ação penal cabe prisão preventiva contra o agressor.",
+      "em nenhuma hipótese o sujeito ativo dos crimes previstos nessa Lei poderá ser uma mulher.",
+      "para efeito dessa Lei são formas de violência a física e a sexual.",
+      "na ocorrência de uma briga (com agressão física) entre vizinhos, desde que envolvendo um homem e uma mulher e com residências próximas, aplicam-se as disposições da Lei Maria da Penha.",
+      "se o agressor comprovar que é o proprietário da residência conjugal, não poderá ser determinado o seu afastamento do lar."
+    ],
+    "correct": 0,
+    "explanation": "O art. 20 da Lei nº 11.340/2006 autoriza a decretação da prisão preventiva do agressor em qualquer fase do inquérito policial ou da instrução criminal, desde que presentes os requisitos legais."
+  },
+  {
+    "question": "Questão 21 (VUNESP/DEFENSOR PÚBLICO/DPE-RO/2017) No que se refere à violência doméstica e familiar contra a mulher (Lei n. 11.340/2006), assinale a alternativa correta",
+    "options": [
+      "A ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública condicionada.",
+      "Há previsão legal de ajuizamento de ação penal privada na Lei n. 11.340/2006 (Lei Maria da Penha), dependendo do interesse jurídico discutido.",
+      "A ação penal relativa ao crime de lesão corporal resultante de violência doméstica contra a mulher é pública incondicionada.",
+      "Ao processo, ao julgamento e à execução das causas cíveis e criminais decorrentes da prática de violência doméstica e familiar contra a mulher não se aplicam as normas do Código de Processo Penal.",
+      "O Ministério Público poderá em todos os atos processuais, cíveis e criminais acompanhar a mulher em situação de violência doméstica e familiar atuando como seu curador."
+    ],
+    "correct": 2,
+    "explanation": "Conforme entendimento firmado pelo STF na ADI 4.424, o crime de lesão corporal praticado contra a mulher no contexto de violência doméstica é de ação penal pública incondicionada, independentemente da gravidade da lesão."
+  },
+  {
+    "question": "Questão 22 (VUNESP/JUIZ SUBSTITUTO/TJ-MS/2015) DULCE mantém relacionamento afetivo com ANA por cerca de dez anos, sendo diariamente ofendida, por meio de palavras e gestos...",
+    "options": [
+      "foi lavrado Termo Circunstanciado pela possível prática de delito de menor potencial ofensivo, regido pela Lei dos Juizados Especiais Criminais (Lei n. 9.099/1999).",
+      "foi lavrado Boletim de Ocorrência, após notícia dos fatos, porque DULCE foi vítima de violência patrimonial e psicológica, por condição de gênero feminino.",
+      "não foi lavrado Boletim de Ocorrência, após notícia dos fatos, porque ANA, autora dos fatos, é mulher, e, portanto, DULCE não está em situação de vulnerabilidade.",
+      "não foi lavrado Boletim de Ocorrência, após notícia dos fatos, porque a violência patrimonial implica ilícito civil, não contemplado pela Lei Maria da Penha (Lei n. 11.340/2006).",
+      "recebeu notificação para entrega à companheira ANA comparecer, na condição de averiguada, perante a Autoridade Policial, para prestar esclarecimentos."
+    ],
+    "correct": 1,
+    "explanation": "O art. 5º da Lei Maria da Penha prevê a incidência da lei independentemente de orientação sexual. Os fatos narrados caracterizam violência psicológica e patrimonial (art. 7º, II e IV), devendo ser lavrado boletim de ocorrência."
+  },
+  {
+    "question": "Questão 23 (VUNESP/DESENHISTA TÉCNICO-PERICIAL/PC-SP/2014) À luz da Lei n. 11.340/2006 – Lei Maria da Penha, é correto afirmar que",
+    "options": [
+      "a violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos.",
+      "tal norma não é aplicável aos crimes praticados com violência doméstica e familiar contra crianças e adolescentes de sexo feminino.",
+      "não caracteriza violência moral a conduta que configure calúnia, difamação ou injúria contra a mulher.",
+      "é permitida a aplicação, nos casos de violência doméstica e familiar contra a mulher, de penas de cesta básica ou outras de prestação pecuniária, bem como a substituição de pena que implique o pagamento isolado de multa.",
+      "aplica-se a Lei n. 9.099/1995 – Juizados Especiais Cíveis e Criminais – aos crimes praticados com violência doméstica e familiar contra a mulher."
+    ],
+    "correct": 0,
+    "explanation": "O art. 6º da Lei nº 11.340/2006 dispõe expressamente que a violência doméstica e familiar contra a mulher constitui uma das formas de violação dos direitos humanos."
+  },
+  {
+    "question": "Questão 24 (VUNESP/INVESTIGADOR DE POLÍCIA/PC-SP/2014) Conforme a Lei Maria da Penha (Lei n. 11.340/2006), no atendimento à mulher em situação de violência doméstica e familiar, a autoridade policial deverá, entre outras providências,",
+    "options": [
+      "expedir ordem policial contra o ofensor para a imediata desocupação do imóvel, a fim de que a ofendida a entregue ao ofensor",
+      "fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver risco de vida.",
+      "verificar se algum dos funcionários da Delegacia de Polícia poderia abrigar, temporariamente, a ofendida e seus dependentes.",
+      "abrigar a ofendida e seus dependentes no Distrito Policial se houver risco de vida para alguém da família",
+      "solicitar, em 24 horas, a presença do ofensor no Distrito Policial, para uma tentativa de conciliação entre este e a ofendida"
+    ],
+    "correct": 1,
+    "explanation": "O art. 11, inciso V, da Lei Maria da Penha determina que a autoridade policial deve providenciar transporte para a ofendida e seus dependentes a abrigo ou local seguro quando houver risco de vida."
+  },
+  {
+    "question": "Questão 25 (IESES/PERITO CRIMINAL/IGP-SP/2017) De acordo com a Lei n. 11.340/2006 – Lei Maria da Penha – são formas de violência doméstica e familiar contra a mulher, dentre outras:",
+    "options": [
+      "A violência moral, entendida como qualquer conduta que lhe cause dano emocional...",
+      "A violência psicológica, entendida como qualquer conduta que ofenda sua integridade...",
+      "A violência física, entendida como qualquer conduta que a constranja a presenciar...",
+      "A violência patrimonial, entendida como qualquer conduta que configure retenção, subtração, destruição parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos, incluindo os destinados a satisfazer suas necessidades."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta reproduz fielmente o conceito de violência patrimonial previsto no art. 7º, inciso IV, da Lei Maria da Penha."
+  },
+  {
+    "question": "Questão 26 (PUC-PR/TÉCNICO DE NÍVEL SUPERIOR/TJ-MS/2017) Sobre o tema, assinale a alternativa CORRETA.",
+    "options": [
+      "Para os efeitos dessa Lei, configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero...",
+      "O alvo da Lei Maria da Penha se limita à violência praticada por maridos contra esposas...",
+      "De acordo com a Lei Maria da Penha... não podendo determinar de imediato a prestação de alimentos provisórios.",
+      "As medidas protetivas de urgência... não poderá o juiz, a pedido da ofendida, conceder novas medidas...",
+      "Não poderá o juiz determinar o afastamento da ofendida do lar..."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta reproduz o conceito do art. 5º, inciso III, da Lei Maria da Penha, que define a violência doméstica em relações íntimas de afeto, independentemente de coabitação."
+  },
+  {
+    "question": "Questão 27 (CESPE/DEFENSOR PÚBLICO/DPE-AL/2017) Considerando a Lei Maria da Penha e o entendimento dos tribunais superiores acerca de crimes contra a mulher, assinale a opção correta.",
+    "options": [
+      "A Lei Maria da Penha não estabelece medidas próprias para o descumprimento de medidas protetivas...",
+      "Em caso de violência contra mulher, para que se aplique a Lei Maria da Penha, deverá ser demonstrada a situação de vulnerabilidade ou hipossuficiência da vítima, sob a perspectiva de gênero.",
+      "As medidas protetivas de urgência têm natureza cautelar e temporária...",
+      "A agravante relativa à violência contra a mulher prevista no Código Penal...",
+      "Ato de violência física contra mulher... admitindo-se que o magistrado fixe apenas a pena pecuniária."
+    ],
+    "correct": 1,
+    "explanation": "Segundo a jurisprudência do STF e do STJ, para a incidência da Lei Maria da Penha é necessária a demonstração de violência baseada no gênero, evidenciando situação de vulnerabilidade da mulher na relação."
+  },
+  {
+    "question": "Questão 28 (FMP CONCURSOS/PROMOTOR DE JUSTIÇA SUBSTITUTO/MPE-RO) Em relação à Lei n. 11.340/2006 (Lei Maria da Penha), assinale a alternativa CORRETA.",
+    "options": [
+      "Os crimes de ameaça e de lesões corporais leves praticados no contexto de violência doméstica e familiar são de ação penal pública incondicionada.",
+      "A mulher pode ser sujeito ativo de crime praticado no contexto de violência doméstica e familiar.",
+      "A ação penal no crime de lesões corporais leves é pública condicionada...",
+      "Admite-se a aplicação da suspensão condicional do processo...",
+      "As medidas protetivas de urgência vigem durante o prazo decadencial..."
+    ],
+    "correct": 1,
+    "explanation": "A Lei Maria da Penha admite que a mulher seja sujeito ativo de violência doméstica, conforme o art. 5º, parágrafo único, que afasta distinção quanto à orientação sexual ou ao sexo do agressor."
+  },
+  {
+    "question": "Questão 29 (IBFC/ENGENHEIRO/EMBASA/2017) Assinale a alternativa correta sobre as previsões expressas da Lei Federal n. 11.340/2006 (Lei Maria da Penha).",
+    "options": [
+      "O Ministério Público atuará apenas quando for parte...",
+      "Em todos os atos processuais... deverá estar acompanhada de advogado",
+      "Os Juizados de Violência Doméstica e Familiar contra a Mulher... poderão contar com uma equipe de atendimento multidisciplinar...",
+      "A instituição dos Juizados... deverá ser acompanhada pela implantação das curadorias..."
+    ],
+    "correct": 2,
+    "explanation": "O art. 29 da Lei Maria da Penha prevê que os Juizados de Violência Doméstica e Familiar contra a Mulher poderão contar com equipe multidisciplinar composta por profissionais das áreas psicossocial, jurídica e de saúde."
+  },
+  {
+    "question": "Questão 30 (FUNDATEC/TÉCNICO EM PERÍCIAS/IGP-RS/2017) De acordo com a Lei Maria da Penha (Lei n. 11.340/2006), assinale a alternativa correta.",
+    "options": [
+      "Aos crimes praticados com violência doméstica e familiar contra a mulher... aplica-se a Lei n. 9.099/1995.",
+      "Para a proteção patrimonial... a restituição de bens indevidamente subtraídos... não é uma das medidas...",
+      "É possível a aplicação... de penas de cesta básica...",
+      "Ainda que para garantir a efetividade das medidas protetivas... não pode o juiz requisitar auxílio da força policial.",
+      "Dentre as medidas protetivas de urgência à ofendida, poderá o juiz... determinar a separação de corpos."
+    ],
+    "correct": 4,
+    "explanation": "O art. 23, inciso III, da Lei nº 11.340/2006 autoriza expressamente o juiz a determinar a separação de corpos como medida protetiva de urgência em favor da mulher."
+  },
+  {
+  "question": "Questão 31 (PUC-PR/ANALISTA JUDICIÁRIO/TJ-PR/2017) Conhecida como Lei Maria da Penha, a Lei n. 11.340/2006 criou mecanismos para coibir a violência doméstica e familiar contra a mulher. Sobre o tema, assinale a alternativa CORRETA.",
+  "options": [
+    "Para evitar represálias, em casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, a autoridade policial está expressamente proibida de ouvir o agressor e as testemunhas.",
+    "A violência doméstica prevista na Lei Maria da Penha é unicamente a violência física, na qual o homem faz uso da força para subjugar a esposa.",
+    "Para preservar a integridade física e psicológica da mulher em situação de violência doméstica, o juiz poderá assegurar, quando necessário, o afastamento da mulher do local de trabalho, por até seis meses.",
+    "As relações pessoais que podem configurar atos de violência doméstica são necessariamente aquelas derivadas da relação entre homem e mulher, não se podendo aplicá-las a eventuais relações homoafetivas entre duas mulheres.",
+    "A configuração de atos de violência doméstica depende necessariamente de haver coabitação entre cônjuges."
+  ],
+  "correct": 2,
+  "explanation": "O art. 9º, §2º, II, da Lei nº 11.340/2006 assegura à mulher em situação de violência doméstica e familiar, quando necessário, o afastamento do local de trabalho, com manutenção do vínculo trabalhista, pelo prazo máximo de seis meses, como medida para preservação de sua integridade física e psicológica."
+},
+{
+  "question": "Questão 32 (CESPE/PROMOTOR DE JUSTIÇA SUBSTITUTO/MPE-RR/2017) Tendo em vista que a violência doméstica contra a mulher ainda é um problema social grave no Brasil, apesar da sua redução com o advento da Lei Maria da Penha, assinale a opção correta com relação aos crimes advindos da prática de violência contra a mulher no âmbito doméstico e familiar.",
+  "options": [
+    "O feminicídio, homicídio praticado contra a mulher em razão do seu sexo, consiste na violência doméstica e familiar ou no menospreço ou discriminação à condição de mulher, com hipóteses de aumento de pena por circunstâncias fáticas específicas.",
+    "O processamento de crimes praticados em situação de violência doméstica se dá por meio de ação penal de iniciativa pública incondicionada, segundo entendimento do STF.",
+    "O crime de estupro é processado por meio de ação penal de iniciativa pública condicionada à representação, da qual a vítima pode retratar-se mesmo após o oferecimento da denúncia",
+    "Os crimes de violência doméstica e familiar contra a mulher estão taxativamente elencados na Lei Maria da Penha."
+  ],
+  "correct": 0,
+  "explanation": "O art. 121, §2º, VI, do Código Penal define o feminicídio como o homicídio praticado contra a mulher por razões da condição de sexo feminino, caracterizado pela violência doméstica e familiar ou pelo menosprezo ou discriminação à condição de mulher, prevendo ainda causas específicas de aumento de pena."
+},
+{
+  "question": "Questão 33 (IBADE/AGENTE DE POLÍCIA CIVIL/PC-AC/2017) Configura violência doméstica e familiar contra a mulher, atraindo, portanto, a competência do juízo especializado na matéria, qualquer ação ou omissão que lhe cause morte, lesão, sofrimento físico, sexual ou psicológico e dano moral ou patrimonial, quando:",
+  "options": [
+    "baseada no gênero, salvo nas relações homoafetivas.",
+    "baseada no gênero, em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, independentemente de coabitação ou da orientação sexual.",
+    "ocorra no âmbito da família, como. por exemplo o caso do filho agride o pai.",
+    "baseada no sexo, salvo nas relações homoafetivas.",
+    "a ocorrência se dê no âmbito da unidade doméstica envolvendo qualquer familiar independente do sexo da vítima."
+  ],
+  "correct": 1,
+  "explanation": "Nos termos do art. 5º, III, da Lei Maria da Penha, configura violência doméstica e familiar contra a mulher a ação ou omissão baseada no gênero ocorrida em qualquer relação íntima de afeto, independentemente de coabitação ou da orientação sexual das partes."
+},
+{
+  "question": "Questão 34 (IBADE/DELEGADO DE POLÍCIA CIVIL/PC-AC/2017) Em todos os casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, deverá a autoridade policial adotar, de imediato, os seguintes procedimentos...",
+  "options": [
+    "V-F-V-F-V",
+    "F-F-F-V-V",
+    "F-F-F-F-F",
+    "V-V-V-V-V",
+    "V-V-V-V-V"
+  ],
+  "correct": 3,
+  "explanation": "Todas as assertivas são verdadeiras. A autoridade policial deve adotar as providências do art. 12 da Lei Maria da Penha; o juiz pode fixar alimentos provisórios (art. 22, V); o Ministério Público intervém obrigatoriamente (art. 25); e o juiz pode relaxar ou decretar prisão conforme o CPP."
+},
+{
+  "question": "Questão 37 (NUCEPE/AGENTE PENITENCIÁRIO/SEJUS-PI/2017) Em relação à legislação especial é forma de violência doméstica e familiar contra a mulher:",
+  "options": [
+    "A violência moral e física, entendida como qualquer conduta que lhe cause dano emocional...",
+    "A violência psicológica entendida como qualquer conduta que a constranja a presenciar...",
+    "A violência física, entendida como qualquer conduta que ofenda sua integridade ou saúde corporal.",
+    "A violência moral, entendida como qualquer conduta que configure retenção...",
+    "A violência moral, entendida como qualquer conduta que configure apropriação indébita."
+  ],
+  "correct": 2,
+  "explanation": "O art. 7º, I, da Lei Maria da Penha define violência física como qualquer conduta que ofenda a integridade ou a saúde corporal da mulher, correspondendo exatamente ao conteúdo da alternativa correta."
+},
+{
+  "question": "Questão 38 (UFPA/ASSISTENTE SOCIAL/UFPA/2017) A Lei n. 11.340/2006, conhecida por Lei Maria da Penha, visa a coibir e prevenir a violência doméstica e familiar contra a mulher. Acerca do tema e com base na referida lei, é CORRETO afirmar o seguinte:",
+  "options": [
+    "nas ações penais públicas condicionadas à representação da ofendida...",
+    "a autoridade policial, no atendimento de mulher em situação de violência doméstica e familiar, deverá fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro...",
+    "poderá o Ministério Público, a requerimento da ofendida, conceder novas medidas protetivas...",
+    "é vedada a aplicação... salvo, no último caso, se houver consentimento da ofendida.",
+    "para a proteção patrimonial dos bens conjugais..."
+  ],
+  "correct": 1,
+  "explanation": "O art. 11, incisos III e V, da Lei Maria da Penha determina que a autoridade policial deve fornecer transporte à ofendida e seus dependentes para abrigo ou local seguro quando houver risco de vida, bem como informá-la sobre os serviços disponíveis."
+},
+{
+  "question": "Questão 39 (FCM/ASSISTENTE SOCIAL/IF-RJ/2017) Segundo a Lei n. 11.340, conhecida como Lei Maria da Penha, a política pública que visa a coibir a violência doméstica e familiar contra a mulher...",
+  "options": [
+    "A implementação de atendimento policial especializado...",
+    "A integração operacional do Poder Judiciário...",
+    "A divulgação interna e externa dos casos de violência doméstica...",
+    "A promoção de estudos, pesquisas, estatísticas e outras informações relevantes...",
+    "A implementação de um currículo escolar que evite discutir conteúdos..."
+  ],
+  "correct": 3,
+  "explanation": "O art. 8º, inciso II, da Lei Maria da Penha prevê como diretriz da política pública a promoção de estudos, pesquisas, estatísticas e outras informações relevantes sobre a violência doméstica e familiar contra a mulher, com perspectiva de gênero e raça ou etnia."
+},
+{
+  "question": "Questão 40 (IBADE/ASSISTENTE SOCIAL/SEJUDH-MT/2017) Visando preservar a integridade física e psicológica da mulher vítima de violência doméstica, o juiz pode assegurar, em consonância com a Lei Maria da Penha, Lei n. 11.340/2006, a manutenção do vínculo trabalhista, quando necessário o afastamento da vítima de seu local de trabalho, por até:",
+  "options": ["3 meses", "30 dias", "45 dias", "1 ano", "6 meses"],
+  "correct": 4,
+  "explanation": "Nos termos do art. 9º, §2º, II, da Lei nº 11.340/2006, o juiz pode assegurar à mulher vítima de violência doméstica a manutenção do vínculo trabalhista quando necessário o afastamento do local de trabalho, pelo prazo máximo de seis meses."
+},
+{
+  "question": "Questão 41 (IBADE/ASSISTENTE SOCIAL/SEJUDH-MT/2017) As medidas protetivas de urgência à mulher vítima de violência doméstica, de acordo com a Lei Maria da Penha, poderão ser concedidas:",
+  "options": ["de imediato", "só com a manifestação do Ministério Público", "após autorizado pelo Ministério Público", "em 48 horas", "dependendo da audiência das partes"],
+  "correct": 0,
+  "explanation": "Conforme o art. 19, §1º, da Lei Maria da Penha, as medidas protetivas de urgência podem ser concedidas de imediato, independentemente de audiência das partes e de manifestação prévia do Ministério Público, que será posteriormente comunicado."
+},
+{
+  "question": "Questão 42 (IBFC/TÉCNICO EM REGULAÇÃO/AGERBA/2017) Assinale a alternativa correta sobre a espécie de violência que a Lei Federal n. 11.340/2006 indica como qualquer conduta que cause dano emocional e diminuição da autoestima.",
+  "options": ["Violência psicológica", "Violência moral", "Violência imaterial", "Violência uxória", "Violência extracorporal"],
+  "correct": 0,
+  "explanation": "O art. 7º, II, da Lei Maria da Penha define violência psicológica como qualquer conduta que cause dano emocional, diminuição da autoestima ou vise controlar ações, comportamentos, crenças e decisões da mulher."
+},
+{
+  "question": "Questão 43 (IBFC/TÉCNICO EM REGULAÇÃO/AGERBA/2017) Assinale a alternativa INCORRETA considerando as disposições da Lei Maria da Penha sobre a assistência à mulher em situação de violência doméstica e familiar.",
+  "options": [
+    "A assistência será prestada de forma articulada conforme políticas públicas",
+    "O juiz determinará, por prazo incerto, a inclusão da mulher em programas assistenciais",
+    "O juiz assegurará acesso prioritário à remoção quando servidora pública",
+    "O juiz assegurará a manutenção do vínculo trabalhista por até seis meses",
+    "A assistência compreenderá acesso a serviços médicos em casos de violência sexual"
+  ],
+  "correct": 1,
+  "explanation": "A alternativa é incorreta porque o art. 9º, §2º, I, da Lei Maria da Penha não prevê inclusão por prazo incerto em programas assistenciais, mas sim a inclusão quando necessário, sem fixação indefinida."
+},
+{
+  "question": "Questão 44 (CESPE/DELEGADO DE POLÍCIA/PC-GO/2017) À luz do posicionamento jurisprudencial e doutrinário dominantes acerca da Lei Maria da Penha, assinale a opção correta.",
+  "options": [
+    "Descumprimento reiterado de medida protetiva configura crime de desobediência",
+    "Lesão corporal leve e ameaça são de ação penal pública incondicionada",
+    "É possível substituição da pena por multa isolada no crime de ameaça",
+    "As medidas protetivas podem ser concedidas independentemente de audiência e manifestação do MP",
+    "A Lei Maria da Penha não se aplica a relações homoafetivas femininas"
+  ],
+  "correct": 3,
+  "explanation": "O art. 19, §1º, da Lei Maria da Penha autoriza a concessão de medidas protetivas independentemente de audiência das partes e de manifestação prévia do Ministério Público, que deve ser comunicado posteriormente."
+},
+{
+  "question": "Questão 45 (CESPE/DELEGADO DE POLÍCIA/PC-GO/2017) Júlio agrediu sua mulher, causando lesão corporal leve. Nessa situação, conforme a Lei Maria da Penha e o entendimento do STJ:",
+  "options": [
+    "A ofendida poderá renunciar à representação",
+    "A ação penal será pública incondicionada",
+    "A autoridade policial deverá acompanhar a vítima em qualquer hipótese",
+    "É cabível suspensão condicional do processo",
+    "É possível transação penal"
+  ],
+  "correct": 1,
+  "explanation": "Segundo o STF (ADI 4424) e o STJ, o crime de lesão corporal leve praticado no contexto da violência doméstica é de ação penal pública incondicionada, não admitindo representação ou renúncia da vítima."
+},
+{
+  "question": "Questão 46 (IESES/TÉCNICO/BAHIAGÁS/2016) A Lei Maria da Penha cria mecanismos para coibir a violência doméstica e familiar contra a mulher. Assinale a resposta certa.",
+  "options": [
+    "A mulher deve contratar advogado desde a denúncia",
+    "A lei só se aplica a agressões entre parentes",
+    "A assistência será prestada de forma articulada conforme políticas públicas",
+    "Agressão por mulher fora do âmbito familiar não é protegida",
+    "Qualquer agressão familiar contra mulher é protegida"
+  ],
+  "correct": 2,
+  "explanation": "O art. 9º da Lei Maria da Penha estabelece que a assistência à mulher será prestada de forma articulada com as políticas públicas previstas na LOAS, SUS, SUAS e demais sistemas de proteção."
+},
+{
+  "question": "Questão 47 (FUNCAB/DELEGADO/PC-PA/2016) Analise as afirmativas sobre violência doméstica.",
+  "options": ["II e III", "II", "I", "III", "I e II"],
+  "correct": 1,
+  "explanation": "A afirmativa II está correta, conforme o art. 11 da Lei Maria da Penha. A I é incorreta porque a retratação da representação, quando cabível, só pode ocorrer perante o juiz (art. 16). A III é falsa, pois a autoridade policial pode acompanhar a vítima para retirada de pertences (art. 11, IV)."
+},
+{
+  "question": "Questão 48 (FUNCAB/DELEGADO/PC-PA/2016) Adamastor praticou vias de fato contra sua sogra, com quem coabitava.",
+  "options": [
+    "não merece prosperar",
+    "merece prosperar pelo terceiro argumento",
+    "merece prosperar pelos dois primeiros",
+    "merece prosperar pelo primeiro",
+    "merece prosperar pelo segundo"
+  ],
+  "correct": 0,
+  "explanation": "A jurisprudência dominante reconhece a aplicação da Lei Maria da Penha às relações de afinidade, às contravenções penais e afasta a alegação de inconstitucionalidade, conforme entendimento do STF."
+},
+{
+  "question": "Questão 49 (MS CONCURSOS/FARMACÊUTICO/2016) À luz da Lei Maria da Penha, analise as alternativas e marque a incorreta.",
+  "options": [
+    "Política pública articulada entre entes federativos",
+    "Violência física é calúnia, difamação ou injúria",
+    "Competência territorial pode ser escolhida pela ofendida",
+    "Renúncia à representação antes da denúncia perante o juiz"
+  ],
+  "correct": 1,
+  "explanation": "A alternativa é incorreta porque calúnia, difamação e injúria configuram violência moral, nos termos do art. 7º, V, da Lei Maria da Penha, e não violência física."
+},
+{
+  "question": "Questão 50 (FMP CONCURSOS/TJ-MT/2014) Sobre medidas protetivas de urgência, assinale a alternativa correta.",
+  "options": [
+    "Apenas I e V",
+    "Apenas II, IV e V",
+    "Apenas I, IV e V",
+    "Apenas II, III e IV",
+    "Apenas I e II"
+  ],
+  "correct": 3,
+  "explanation": "As assertivas II, III e IV estão corretas conforme os arts. 18, 19 e 22 da Lei Maria da Penha. A medida protetiva não impede prisão preventiva, o juiz decide em até 48 horas e novas medidas podem ser concedidas."
+},
+{
+  "question": "Questão 51 (CESPE/ANALISTA JUDICIÁRIO/STJ/2018) Em crimes de violência doméstica, a pena pode ser substituída por multa.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "O art. 17 da Lei Maria da Penha veda expressamente a aplicação de penas de prestação pecuniária ou pagamento isolado de multa nos casos de violência doméstica e familiar contra a mulher."
+},
+{
+  "question": "Questão 52 (CESPE/ASSISTENTE SOCIAL/DPU/2016) A violência doméstica é caracterizada por ação ou omissão ocorrida em espaço de convívio com ou sem vínculo familiar.",
+  "options": ["Certo", "Errado"],
+  "correct": 0,
+  "explanation": "A definição está de acordo com o art. 5º da Lei Maria da Penha, que caracteriza a violência doméstica e familiar independentemente de vínculo familiar, desde que baseada no gênero."
+},
+{
+  "question": "Questão 53 (CESPE/ANALISTA JUDICIÁRIO/TJ-DFT/2015) Devido à previsão legal de outras sanções para a hipótese, segundo o entendimento do STJ, não pratica o crime de desobediência o indivíduo que livre e conscientemente, descumprindo medida protetiva de urgência deferida em favor de sua ex-companheira, aproxima-se dela e com ela mantém contato.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 0,
+  "explanation": "Segundo entendimento consolidado do STJ à época da questão, o descumprimento de medida protetiva de urgência não configurava crime de desobediência (art. 330 do CP), pois a Lei Maria da Penha previa sanções próprias, como prisão preventiva e outras medidas judiciais. O crime específico de descumprimento de medida protetiva só foi tipificado posteriormente pela Lei nº 13.641/2018 (art. 24-A)."
+},
+{
+  "question": "Questão 54 (CESPE/ASSISTENTE SOCIAL/SUFRAMA/2014) De acordo com a Lei Maria da Penha, configura-se violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause dano moral ou patrimonial, e pode ocorrer em qualquer relação íntima de afeto, na qual o agressor conviva ou tenha convivido com a ofendida, independentemente de coabitação.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 0,
+  "explanation": "A assertiva está correta e reproduz o disposto no art. 5º, inciso III, da Lei nº 11.340/2006, que reconhece a violência doméstica e familiar em relações íntimas de afeto, independentemente de coabitação, desde que baseada no gênero."
+},
+{
+  "question": "Questão 55 (CESPE/ASSISTENTE SOCIAL/SUFRAMA/2014) Nos casos de comprovada prática de violência psicológica contra a mulher, a Lei Maria da Penha permite a aplicação de penas por meio de pagamento de cesta básica ou de pagamento de multa, desde que o agressor se comprometa a submeter-se a tratamento em serviço que ofereça atendimento psicológico às vítimas de violência.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 1,
+  "explanation": "A assertiva é incorreta, pois o art. 17 da Lei Maria da Penha veda expressamente a aplicação de penas de cesta básica, prestação pecuniária ou pagamento isolado de multa nos casos de violência doméstica e familiar contra a mulher, independentemente do tipo de violência praticada."
+},
+{
+  "question": "Questão 56 (CESPE/ANALISTA LEGISLATIVO/CÂMARA DOS DEPUTADOS/2014) O STF firmou o entendimento de que a ratificação da representação criminal perante o juiz de lesão corporal leve, desde que culposa, praticada no âmbito doméstico e contra a mulher é necessária para o processamento do referido crime.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 1,
+  "explanation": "O STF, ao julgar a ADI 4.424, firmou entendimento de que o crime de lesão corporal praticado contra a mulher no contexto de violência doméstica é de ação penal pública incondicionada, independentemente de ser leve ou culposa, não sendo necessária representação ou ratificação perante o juiz."
+},
+{
+  "question": "Questão 57 (CESPE/ANALISTA LEGISLATIVO/CÂMARA DOS DEPUTADOS/2014) Conforme a Lei Maria da Penha, ao condenado por crime praticado contra a mulher é vedada a aplicação de prestação pecuniária como sanção isolada.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 0,
+  "explanation": "A assertiva está correta, pois o art. 17 da Lei nº 11.340/2006 proíbe expressamente a aplicação de penas de prestação pecuniária ou pagamento isolado de multa nos crimes de violência doméstica e familiar contra a mulher."
+},
+{
+  "question": "Questão 58 (CESPE/ANALISTA LEGISLATIVO/CÂMARA DOS DEPUTADOS/2014) Cabe a aplicação das sanções previstas na lei dos juizados especiais criminais para os casos de violência doméstica contra a mulher, desde que comprovada a culpa, e não o dolo, na conduta do autor do fato.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 1,
+  "explanation": "A assertiva é incorreta, pois o art. 41 da Lei Maria da Penha afasta a aplicação da Lei nº 9.099/1995 (Juizados Especiais Criminais) a todos os crimes praticados com violência doméstica e familiar contra a mulher, independentemente de serem dolosos ou culposos."
+},
+{
+  "question": "Questão 59 (CESPE/AGENTE DE POLÍCIA/PC-DF/2013) Nos termos da Lei n. 11.340/2006 — Lei Maria da Penha —, a empregada doméstica poderá ser sujeito passivo de violência praticada por seus empregadores.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 0,
+  "explanation": "A assertiva está correta, pois o art. 5º, inciso I, da Lei Maria da Penha considera violência doméstica aquela ocorrida no âmbito da unidade doméstica, compreendida como o espaço de convívio permanente de pessoas, com ou sem vínculo familiar, incluindo empregadas domésticas."
+},
+{
+  "question": "Questão 60 (CESPE/ESCRIVÃO DE POLÍCIA/PC-DF/2013) Se duas mulheres mantiverem uma relação homoafetiva há mais de dois anos, e uma delas praticar violência moral e psicológica contra a outra, tal conduta estará sujeita à incidência da Lei Maria da Penha, ainda que elas residam em lares diferentes.",
+  "options": [
+    "Certo",
+    "Errado"
+  ],
+  "correct": 0,
+  "explanation": "A assertiva está correta, pois o art. 5º, parágrafo único, da Lei Maria da Penha afasta qualquer distinção quanto à orientação sexual, e o inciso III do mesmo artigo reconhece a violência em relações íntimas de afeto, independentemente de coabitação."
+}
+]
+,
 };
 
 // Elementos do DOM
