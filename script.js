@@ -10971,6 +10971,996 @@ const questions = {
 }
 ],
 
+"AbusoDeAutoridade":[
+{
+    "question": "Conforme o Art. 5º, inciso II, qual é o prazo de suspensão do exercício do cargo como pena restritiva de direitos e qual sua consequência financeira?",
+    "options": [
+      "1 a 3 meses, com perda de metade dos vencimentos.",
+      "1 a 6 meses, com perda dos vencimentos e vantagens.",
+      "6 meses a 1 ano, sem perda de vencimentos.",
+      "1 a 5 anos, com perda dos vencimentos.",
+      "15 a 90 dias, com perda das vantagens apenas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 5º, II: suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, com a perda dos vencimentos e das vantagens."
+  },
+  {
+    "question": "Qual é a pena prevista para o crime de 'Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais' (Art. 9º)?",
+    "options": [
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Reclusão, de 1 a 4 anos, e multa.",
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Detenção, de 2 a 5 anos, e multa.",
+      "Reclusão, de 2 a 4 anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 9º: Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "No crime de submeter a vítima de infração penal a procedimentos desnecessários ou repetitivos (revitimização), qual a pena aplicada se o AGENTE PÚBLICO intimidar a vítima?",
+    "options": [
+      "Pena aumentada de 1/3.",
+      "Pena aumentada de 2/3.",
+      "Pena aplicada em triplo.",
+      "Pena aplicada em dobro.",
+      "Pena de reclusão imediata."
+    ],
+    "correct": 3,
+    "explanation": "Art. 15-A, § 2º: Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro."
+  },
+  {
+    "question": "Qual é a pena para quem deixa de entregar ao preso a nota de culpa no prazo de 24 horas (Art. 12, III)?",
+    "options": [
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Detenção, de 3 meses a 1 ano, e multa.",
+      "Reclusão, de 1 a 2 anos, e multa.",
+      "Apenas multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, parágrafo único, III: Incorre na mesma pena [detenção, de 6 meses a 2 anos, e multa] quem deixa de entregar ao preso a nota de culpa no prazo de 24 horas."
+  },
+  {
+    "question": "Sobre os efeitos da condenação, qual é o período de inabilitação para o exercício de cargo pública previsto no Art. 4º, II?",
+    "options": [
+      "1 a 3 anos.",
+      "2 a 5 anos.",
+      "1 a 5 anos.",
+      "Até 10 anos.",
+      "8 anos, conforme a Lei Ficha Limpa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 4º, II: a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos."
+  },
+  {
+    "question": "No crime de constranger o preso a exibir-se à curiosidade pública (Art. 13), como a pena é aplicada em relação à violência eventual?",
+    "options": [
+      "A pena de detenção absorve a pena da violência.",
+      "A pena de detenção é aplicada com aumento de 1/3 pela violência.",
+      "Aplica-se a pena de detenção de 1 a 4 anos e multa, sem prejuízo da pena cominada à violência.",
+      "Aplica-se apenas a pena da violência se esta for mais grave.",
+      "A pena é convertida em reclusão se houver violência."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13, final: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência."
+  },
+  {
+    "question": "Qual das seguintes condutas possui a pena de 'detenção, de 6 meses a 2 anos, e multa'?",
+    "options": [
+      "Invadir imóvel alheio sem determinação judicial.",
+      "Manter presos de ambos os sexos na mesma cela.",
+      "Submeter o preso a interrogatório policial durante o repouso noturno (fora das exceções).",
+      "Proceder à obtenção de prova por meio manifestamente ilícito.",
+      "Decretar condução coercitiva de testemunha manifestamente descabida."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18: Submeter o preso a interrogatório policial durante o período de repouso noturno... Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Qual é a pena prevista para o crime de realizar interceptação telefônica ou quebra de segredo de Justiça sem autorização judicial (Art. 41)?",
+    "options": [
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Reclusão, de 2 a 4 anos, e multa.",
+      "Reclusão, de 1 a 4 anos, e multa.",
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Reclusão, de 4 a 10 anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 41: Altera a Lei 9.296/96 para estabelecer: Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "A conduta de violar direito ou prerrogativa de advogado (Art. 43) é punida com:",
+    "options": [
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Detenção, de 3 meses a 1 ano, e multa.",
+      "Reclusão, de 1 a 3 anos, e multa.",
+      "Apenas sanção disciplinar pela OAB."
+    ],
+    "correct": 2,
+    "explanation": "Art. 43: Acrescenta o Art. 7º-B ao Estatuto da OAB: Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa."
+  },
+  {
+    "question": "No crime de revitimização (Art. 15-A), qual o aumento de pena se o agente permitir que TERCEIRO intimide a vítima de crime violento?",
+    "options": [
+      "Aumento de 1/6.",
+      "Aumento de metade.",
+      "Aumento de 2/3.",
+      "Aumento de 1/3.",
+      "Pena em dobro."
+    ],
+    "correct": 2,
+    "explanation": "Art. 15-A, § 1º: Se o agente público permitir que terceiro intimide a vítima de crimes violentos... aplica-se a pena aumentada de 2/3 (dois terços)."
+  },
+  {
+    "question": "Qual é a pena para o magistrado que decreta a indisponibilidade de ativos financeiros em quantia exarcebada e deixa de corrigir a medida (Art. 36)?",
+    "options": [
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Reclusão, de 1 a 4 anos, e multa.",
+      "Perda imediata do cargo e multa.",
+      "Detenção, de 2 a 5 anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 36: ...deixar de corrigi-la: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "As penas restritivas de direitos substitutivas previstas no Art. 5º podem ser aplicadas de que forma?",
+    "options": [
+      "Apenas de forma isolada.",
+      "Apenas de forma cumulativa.",
+      "De forma autônoma ou cumulativa.",
+      "Somente se houver concordância do Ministério Público.",
+      "Somente se o réu não for servidor público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 5º, parágrafo único: As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente."
+  },
+  {
+    "question": "A pena de 'detenção, de 6 meses a 2 anos, e multa' aplica-se a qual das condutas abaixo?",
+    "options": [
+      "Prestar informação falsa sobre procedimento com fim de prejudicar investigado.",
+      "Inovar artificiosamente o estado de lugar ou coisa.",
+      "Constranger hospital a admitir óbito para alterar local de crime.",
+      "Dar início à persecução penal sem justa causa.",
+      "Invadir imóvel clandestinamente."
+    ],
+    "correct": 0,
+    "explanation": "Art. 29: Prestar informação falsa sobre procedimento judicial... Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Qual é a pena para o crime de 'Negar ao defensor acesso aos autos de investigação' (Art. 32)?",
+    "options": [
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Detenção, de 3 meses a 1 ano, e multa.",
+      "Reclusão, de 1 a 3 anos, e multa.",
+      "Multa simples."
+    ],
+    "correct": 1,
+    "explanation": "Art. 32: Negar ao interessado, seu defensor ou advogado acesso aos autos... Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Segundo o Art. 6º, a aplicação das penas previstas na Lei de Abuso de Autoridade ocorre de que forma em relação a outras instâncias?",
+    "options": [
+      "Dependem de prévia condenação administrativa.",
+      "Substituem as sanções civis.",
+      "São aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis.",
+      "Só podem ser aplicadas se não houver punição civil.",
+      "Ficam suspensas enquanto houver processo administrativo em curso."
+    ],
+    "correct": 2,
+    "explanation": "Art. 6º: As penas previstas nesta Lei serão aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis."
+  }
+  ,{
+    "question": "De acordo com o Art. 1º, § 1º, qual elemento é indispensável para que uma conduta seja caracterizada como crime de abuso de autoridade?",
+    "options": [
+      "A ocorrência de dano patrimonial efetivo à administração pública.",
+      "A finalidade específica de prejudicar outrem, beneficiar a si/terceiro ou mero capricho.",
+      "O exercício da função por mais de cinco anos no serviço público.",
+      "A comprovação de que o agente agiu culposamente por negligência.",
+      "A autorização prévia do superior hierárquico para a prática do ato."
+    ],
+    "correct": 1,
+    "explanation": "Art. 1º, § 1º: As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal."
+  },
+  {
+    "question": "Conforme a Lei de Abuso de Autoridade, a divergência na interpretação de lei ou na avaliação de fatos e provas:",
+    "options": [
+      "Sempre configura abuso de autoridade se causar prejuízo ao réu.",
+      "É considerada crime se praticada por membros do Poder Judiciário.",
+      "Não configura abuso de autoridade.",
+      "Configura abuso de autoridade apenas se a decisão for reformada em segunda instância.",
+      "Gera perda automática do cargo para o agente público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 1º, § 2º: A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade."
+  },
+  {
+    "question": "Quem pode ser sujeito ativo do crime de abuso de autoridade?",
+    "options": [
+      "Apenas servidores públicos estatutários concursados.",
+      "Somente agentes políticos do Poder Executivo.",
+      "Qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional.",
+      "Apenas militares e membros do Ministério Público.",
+      "Exclusivamente servidores públicos da União e dos Estados."
+    ],
+    "correct": 2,
+    "explanation": "Art. 2º: É sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes..."
+  },
+  {
+    "question": "Segundo o parágrafo único do Art. 2º, considera-se agente público para os efeitos desta Lei:",
+    "options": [
+      "Apenas quem possui vínculo permanente e remunerado com o Estado.",
+      "Somente quem exerce mandato eletivo.",
+      "Todo aquele que exerce função em órgão público, ainda que transitoriamente ou sem remuneração.",
+      "Apenas aqueles que possuem poder de decisão administrativa.",
+      "Exclusivamente os membros dos tribunais ou conselhos de contas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 2º, Parágrafo único: Reputa-se agente público, para os efeitos desta Lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura..."
+  },
+  {
+    "question": "Qual é a natureza da ação penal nos crimes previstos na Lei de Abuso de Autoridade?",
+    "options": [
+      "Ação penal pública condicionada à representação do ofendido.",
+      "Ação penal pública incondicionada.",
+      "Ação penal privada exclusiva.",
+      "Ação penal pública condicionada à requisição do Ministro da Justiça.",
+      "Ação penal privada personalíssima."
+    ],
+    "correct": 1,
+    "explanation": "Art. 3º: Os crimes previstos nesta Lei são de ação penal pública incondicionada."
+  },
+  {
+    "question": "Em que hipótese será admitida a ação penal privada nos crimes de abuso de autoridade?",
+    "options": [
+      "Sempre que a vítima preferir contratar um advogado particular.",
+      "Quando o crime for praticado contra menor de idade.",
+      "Se a ação penal pública não for intentada no prazo legal.",
+      "Somente nos casos de crimes contra a honra do servidor.",
+      "Quando o Ministério Público der o seu consentimento prévio."
+    ],
+    "correct": 2,
+    "explanation": "Art. 3º, § 1º: Será admitida ação privada se a ação penal pública não for intentada no prazo legal..."
+  },
+  {
+    "question": "Qual é o prazo para o exercício da ação privada subsidiária da pública, contado do esgotamento do prazo para a denúncia?",
+    "options": [
+      "30 (trinta) dias.",
+      "90 (noventa) dias.",
+      "6 (seis) meses.",
+      "1 (um) ano.",
+      "5 (cinco) anos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 3º, § 2º: A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia."
+  },
+  {
+    "question": "Sobre os efeitos da condenação, o juiz deve fixar o valor mínimo para reparação dos danos:",
+    "options": [
+      "De ofício, independentemente de qualquer pedido.",
+      "Apenas se o réu for reincidente.",
+      "A requerimento do ofendido, considerando os prejuízos por ele sofridos.",
+      "Somente em casos de crimes com violência ou grave ameaça.",
+      "Apenas se houver condenação à perda do cargo."
+    ],
+    "correct": 2,
+    "explanation": "Art. 4º, I: tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos..."
+  },
+  {
+    "question": "Qual é o período de inabilitação para o exercício de cargo, mandato ou função pública previsto como efeito da condenação?",
+    "options": [
+      "6 (seis) meses a 2 (dois) anos.",
+      "1 (um) a 5 (cinco) anos.",
+      "2 (dois) a 8 (oito) anos.",
+      "Até 10 (dez) anos.",
+      "De forma permanente e definitiva."
+    ],
+    "correct": 1,
+    "explanation": "Art. 4º, II: a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos."
+  },
+  {
+    "question": "A perda do cargo, do mandato ou da função pública como efeito da condenação:",
+    "options": [
+      "É automática em qualquer condenação por abuso de autoridade.",
+      "Aplica-se apenas a servidores não estáveis.",
+      "É condicionada à ocorrência de reincidência em crime de abuso de autoridade e não é automática.",
+      "Ocorre apenas em penas superiores a 4 (quatro) anos de reclusão.",
+      "Pode ser aplicada mesmo em caso de absolvição imprópria."
+    ],
+    "correct": 2,
+    "explanation": "Art. 4º, Parágrafo único: Os efeitos previstos nos incisos II e III (inabilitação e perda do cargo) são condicionados à ocorrência de reincidência em crime de abuso de autoridade e não são automáticos..."
+  },
+  {
+    "question": "O efeito de tornar certa a obrigação de indenizar o dano (Art. 4º, I):",
+    "options": [
+      "Depende de reincidência específica.",
+      "É automático e não precisa ser declarado na sentença.",
+      "É condicionado à perda do cargo.",
+      "Exige que o crime tenha sido cometido por militar.",
+      "Não se aplica se o agente público for de fundação pública."
+    ],
+    "correct": 1,
+    "explanation": "Art. 4º, Parágrafo único: Apenas os efeitos dos incisos II (inabilitação) e III (perda do cargo) não são automáticos e exigem reincidência. O inciso I (indenização) é um efeito genérico e automático da condenação."
+  },
+  {
+    "question": "A Lei de Abuso de Autoridade aplica-se a membros de quais Poderes?",
+    "options": [
+      "Apenas do Poder Executivo.",
+      "Apenas dos Poderes Executivo e Judiciário.",
+      "Da União, Estados, DF, Municípios e Territórios, abrangendo todos os Poderes.",
+      "Exclusivamente da esfera Federal (União).",
+      "Apenas de órgãos que não possuem autonomia orçamentária."
+    ],
+    "correct": 2,
+    "explanation": "Art. 2º: ...agente público... de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território..."
+  },
+  {
+    "question": "Se o Ministério Público for negligente na condução da ação privada subsidiária, o que deve ocorrer?",
+    "options": [
+      "O processo deve ser extinto sem julgamento de mérito.",
+      "O juiz deve nomear um defensor público para o réu.",
+      "O Ministério Público deve retomar a ação como parte principal.",
+      "A vítima perde o direito de prosseguir com a queixa.",
+      "O Conselho Nacional do Ministério Público assume a acusação."
+    ],
+    "correct": 2,
+    "explanation": "Art. 3º, § 1º: ...e, a todo tempo, no caso de negligência do querelante [ou na retomada], retomar a ação como parte principal."
+  },
+  {
+    "question": "Os crimes de abuso de autoridade podem ser cometidos por agentes que atuam 'a pretexto de exercer' suas funções?",
+    "options": [
+      "Não, o agente deve estar obrigatoriamente no exercício estrito da função.",
+      "Sim, a lei abrange tanto o exercício da função quanto o pretexto de exercê-la.",
+      "Apenas se o agente estiver uniformizado ou identificado.",
+      "Somente se houver autorização da autoridade judiciária.",
+      "Apenas em casos de crimes cometidos por militares."
+    ],
+    "correct": 1,
+    "explanation": "Art. 1º: Esta Lei define os crimes... cometidos por agente público... que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder..."
+  },
+  {
+    "question": "Quanto ao efeito da condenação de inabilitação para o exercício de cargo, mandato ou função pública (Art. 4º, II), qual o prazo previsto?",
+    "options": [
+      "De 1 a 3 anos.",
+      "De 6 meses a 2 anos.",
+      "De 1 a 5 anos.",
+      "De 2 a 8 anos."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 4º, inciso II, estabelece expressamente que a inabilitação para o exercício de cargo, mandato ou função pública ocorrerá pelo período de 1 a 5 anos."
+  },
+  {
+    "question": "Sobre os efeitos da condenação de perda do cargo e inabilitação para função pública (Art. 4º, parágrafo único), é correto afirmar que:",
+    "options": [
+      "São automáticos e decorrem da simples sentença condenatória.",
+      "São condicionados à reincidência em crime de abuso de autoridade e não são automáticos.",
+      "Dependem apenas de motivação na sentença, independentemente de reincidência.",
+      "Só podem ser aplicados em crimes com pena superior a 4 anos."
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 4º determina que a perda do cargo e a inabilitação são condicionados à reincidência em crime de abuso de autoridade e devem ser declarados motivadamente (não são automáticos)."
+  },
+  {
+    "question": "No que diz respeito à reparação de danos (Art. 4º, I), o que é necessário para que o juiz fixe o valor mínimo na sentença?",
+    "options": [
+      "Deve fazê-lo de ofício, obrigatoriamente.",
+      "Depende de prova pericial técnica de lucro cessante.",
+      "Deve haver requerimento do ofendido.",
+      "Apenas se o crime for de natureza violenta."
+    ],
+    "correct": 2,
+    "explanation": "Segundo o Art. 4º, inciso I, o juiz deve fixar o valor mínimo para reparação dos danos 'a requerimento do ofendido'."
+  },
+  {
+    "question": "Qual é a duração da pena restritiva de direitos de suspensão do exercício do cargo, função ou mandato (Art. 5º, II)?",
+    "options": [
+      "Pelo prazo de 1 a 6 meses.",
+      "Pelo prazo de 15 dias a 3 meses.",
+      "Pelo prazo de 1 a 5 anos.",
+      "Pelo prazo fixo de 1 ano."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 5º, inciso II, prevê a suspensão do exercício do cargo, função ou mandato pelo prazo de 1 a 6 meses."
+  },
+  {
+    "question": "Durante o cumprimento da pena restritiva de suspensão do cargo (Art. 5º, II), qual a consequência financeira para o agente?",
+    "options": [
+      "Mantém o vencimento base, perdendo apenas as gratificações.",
+      "Ocorre a perda dos vencimentos e das vantagens.",
+      "O salário é depositado em conta judicial até o fim da pena.",
+      "Não há prejuízo financeiro, apenas o afastamento físico."
+    ],
+    "correct": 1,
+    "explanation": "O inciso II do Art. 5º especifica que a suspensão ocorre 'com a perda dos vencimentos e das vantagens'."
+  },
+  {
+    "question": "As penas restritivas de direitos previstas na Lei de Abuso de Autoridade (Art. 5º, parágrafo único) podem ser aplicadas de que forma?",
+    "options": [
+      "Apenas de forma isolada (autônoma).",
+      "Apenas de forma cumulativa com multa.",
+      "De forma autônoma ou cumulativa.",
+      "Somente se a pena privativa de liberdade for superior a 2 anos."
+    ],
+    "correct": 2,
+    "explanation": "O parágrafo único do Art. 5º estabelece que 'As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente'."
+  },
+  {
+    "question": "Sobre a relação entre as esferas punitivas (Art. 6º), as penas previstas na lei são aplicadas:",
+    "options": [
+      "Somente se não houver sanção administrativa.",
+      "Independentemente das sanções de natureza civil ou administrativa cabíveis.",
+      "Sendo a esfera penal subsidiária à esfera civil.",
+      "Apenas após o trânsito em julgado do processo administrativo."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 6º deixa claro que as penas da lei serão aplicadas independentemente de sanções civis ou administrativas."
+  },
+  {
+    "question": "De acordo com o Art. 8º, a sentença penal fará coisa julgada no âmbito cível e administrativo-disciplinar quando reconhecer:",
+    "options": [
+      "A insuficiência de provas para a condenação.",
+      "A prescrição da pretensão punitiva.",
+      "Que o ato foi praticado em estrito cumprimento de dever legal.",
+      "A atipicidade da conduta por falta de dolo específico."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 8º menciona que faz coisa julgada quando reconhecido o estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito."
+  },
+  {
+    "question": "Conforme o Art. 7º, quando a existência do fato ou a autoria forem decididas no juízo criminal:",
+    "options": [
+      "Ainda podem ser questionadas no juízo civil por serem esferas independentes.",
+      "Não se pode mais questionar sobre tais questões nas esferas civil e administrativa.",
+      "O juiz cível deve obrigatoriamente repetir a instrução probatória.",
+      "A decisão penal só vincula a esfera civil se houver condenação."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 7º afirma que as esferas são independentes, 'não se podendo mais questionar sobre a existência ou a autoria do fato quando essas questões tenham sido decididas no juízo criminal'."
+  },
+  {
+    "question": "Qual das seguintes alternativas NÃO é uma pena restritiva de direitos prevista no Art. 5º da lei?",
+    "options": [
+      "Prestação de serviços à comunidade.",
+      "Suspensão do exercício do cargo com perda de vencimentos.",
+      "Prestação de serviços a entidades públicas.",
+      "Interdição temporária de direitos por 2 a 10 anos."
+    ],
+    "correct": 3,
+    "explanation": "As penas restritivas de direitos previstas no Art. 5º limitam-se à prestação de serviços (comunidade/entidades) e à suspensão do cargo (1 a 6 meses). A interdição por 2 a 10 anos não consta no rol."
+  },
+  {
+    "question": "De acordo com o Art. 9º, qual a pena prevista para a autoridade que decreta medida de privação da liberdade em manifesta desconformidade com as hipóteses legais?",
+    "options": [
+      "Detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "Reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Apenas multa e suspensão do cargo por 30 dias.",
+      "Prestação de serviços à comunidade por 1 ano."
+    ],
+    "correct": 2,
+    "explanation": "Art. 9º Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Conforme o parágrafo único do Art. 9º, incorre na mesma pena do crime de privação ilegal de liberdade a autoridade judiciária que, dentro de prazo razoável, deixar de:",
+    "options": [
+      "Realizar a audiência de instrução e julgamento.",
+      "Relaxar a prisão manifestamente ilegal.",
+      "Nomear defensor dativo ao réu preso.",
+      "Transferir o preso para regime menos gravoso.",
+      "Ouvir as testemunhas de defesa antes das de acusação."
+    ],
+    "correct": 1,
+    "explanation": "Art. 9º, Parágrafo único, I: Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de relaxar a prisão manifestamente ilegal."
+  },
+  {
+    "question": "Sobre a condução coercitiva de testemunha ou investigado (Art. 10), constitui crime de abuso de autoridade realizá-la:",
+    "options": [
+      "Sempre que o investigado for menor de idade.",
+      "Apenas se o investigado possuir foro por prerrogativa de função.",
+      "Mesmo que haja prévia intimação de comparecimento ao juízo.",
+      "Manifestamente descabida ou sem prévia intimação de comparecimento ao juízo.",
+      "Somente no período noturno, entre 21h e 5h."
+    ],
+    "correct": 3,
+    "explanation": "Art. 10. Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo."
+  },
+  {
+    "question": "Qual a pena para a autoridade que deixa de comunicar a prisão em flagrante ao juiz no prazo legal?",
+    "options": [
+      "Detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Reclusão, de 1 (um) a 3 (três) anos.",
+      "Pena de demissão a bem do serviço público.",
+      "Multa de 10 a 360 dias-multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 12. Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Segundo o Art. 12, parágrafo único, inciso III, é crime deixar de entregar ao preso a nota de culpa, assinada pela autoridade, no prazo de:",
+    "options": [
+      "12 (doze) horas.",
+      "24 (vinte e quatro) horas.",
+      "48 (quarenta e oito) horas.",
+      "5 (cinco) dias.",
+      "Imediatamente após a prisão."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, Parágrafo único, III: deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa..."
+  },
+  {
+    "question": "A autoridade que, após receber o alvará de soltura, deixa de promover a soltura do preso imediatamente sem motivo justo:",
+    "options": [
+      "Comete crime passível de detenção de 6 meses a 2 anos e multa.",
+      "Age dentro de sua discricionariedade administrativa.",
+      "Comete crime punível apenas com perda do cargo.",
+      "Incorre em crime de prevaricação, não de abuso de autoridade.",
+      "Pode manter a prisão por até 48 horas para averiguações."
+    ],
+    "correct": 0,
+    "explanation": "Art. 12, Parágrafo único, IV: Incorre na mesma pena [6 meses a 2 anos] quem prolonga a execução de pena... deixando de executar o alvará de soltura imediatamente após recebido."
+  },
+  {
+    "question": "De acordo com o Art. 13, constranger o preso a exibir-se à curiosidade pública mediante violência ou grave ameaça gera pena de detenção e:",
+    "options": [
+      "Perda imediata do mandato eletivo.",
+      "Apenas multa administrativa.",
+      "Pena correspondente à violência, se houver.",
+      "Inabilitação permanente para o serviço público.",
+      "Proibição de portar arma de fogo."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. Constranger o preso... Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência."
+  },
+  {
+    "question": "Constitui crime de abuso de autoridade (Art. 13, III) constranger o preso, mediante redução de sua capacidade de resistência, a:",
+    "options": [
+      "Alimentar-se contra sua vontade.",
+      "Produzir prova contra si mesmo ou contra terceiro.",
+      "Realizar trabalhos manuais dentro do presídio.",
+      "Fornecer seus dados biográficos básicos.",
+      "Submeter-se a exame de corpo de delito de rotina."
+    ],
+    "correct": 1,
+    "explanation": "Art. 13, III: Constranger o preso... a produzir prova contra si mesmo ou contra terceiro."
+  },
+  {
+    "question": "Segundo o Art. 15, é crime constranger a depor, sob ameaça de prisão, pessoa que deva guardar sigilo em razão de:",
+    "options": [
+      "Vínculo de amizade íntima com o réu.",
+      "Interesse econômico direto no processo.",
+      "Função, ministério, ofício ou profissão.",
+      "Ser vizinho da vítima há mais de 10 anos.",
+      "Ter presenciado o crime de forma acidental."
+    ],
+    "correct": 2,
+    "explanation": "Art. 15. Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo."
+  },
+  {
+    "question": "Incorre na mesma pena do Art. 15 o agente público que prossegue com o interrogatório de pessoa que:",
+    "options": [
+      "Não possui documentos de identificação.",
+      "Tenha decidido exercer o direito ao silêncio.",
+      "Confessou o crime espontaneamente.",
+      "Seja maior de 60 anos.",
+      "Tenha sido presa em flagrante delito."
+    ],
+    "correct": 1,
+    "explanation": "Art. 15, Parágrafo único, I: Incorre na mesma pena quem prossegue com o interrogatório de pessoa que tenha decidido exercer o direito ao silêncio."
+  },
+  {
+    "question": "Se um interrogatório prossegue sem a presença de advogado, mesmo após o interrogado optar por ser assistido, a autoridade:",
+    "options": [
+      "Age legalmente se o crime for hediondo.",
+      "Pode prosseguir se houver urgência na investigação.",
+      "Comete crime de abuso de autoridade conforme o Art. 15.",
+      "Comete apenas uma infração disciplinar leve.",
+      "Não comete crime se o interrogado assinar termo de renúncia."
+    ],
+    "correct": 2,
+    "explanation": "Art. 15, Parágrafo único, II: Incorre na mesma pena quem prossegue com o interrogatório de pessoa que tenha optado por ser assistida por advogado... sem a presença de seu patrono."
+  },
+  {
+    "question": "O Art. 15-A tipifica a conduta de submeter vítima de infração penal a procedimentos desnecessários que a façam reviver o sofrimento. Qual a pena base?",
+    "options": [
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "Reclusão, de 2 (dois) a 6 (seis) anos.",
+      "Apenas advertência escrita.",
+      "Multa de 50 salários mínimos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 15-A. Submeter a vítima... a procedimentos desnecessários... Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa."
+  },
+  {
+    "question": "De acordo com o Art. 15-A, § 1º, se o agente público permitir que TERCEIRO intimide a vítima de crimes violentos, gerando revitimização, a pena é:",
+    "options": [
+      "Aumentada de 1/3 (um terço).",
+      "Aumentada de metade.",
+      "Aumentada de 2/3 (dois terços).",
+      "Aplicada em dobro.",
+      "Convertida em reclusão."
+    ],
+    "correct": 2,
+    "explanation": "Art. 15-A, § 1º: Se o agente público permitir que terceiro intimide a vítima de crimes violentos... aplica-se a pena aumentada de 2/3 (dois terços)."
+  },
+  {
+    "question": "No crime de revitimização (Art. 15-A), se o PRÓPRIO agente público intimidar a vítima de crimes violentos, a pena será:",
+    "options": [
+      "Aumentada de 2/3.",
+      "Aplicada em dobro.",
+      "Aumentada de 1/6.",
+      "Reduzida se houver confissão.",
+      "Mantida sem agravantes."
+    ],
+    "correct": 1,
+    "explanation": "Art. 15-A, § 2º: Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro."
+  },
+  {
+    "question": "Qual das condutas abaixo NÃO é tipificada como crime no Art. 12 (omissão de comunicação ou prolongamento de prisão)?",
+    "options": [
+      "Deixar de comunicar a prisão temporária imediatamente ao juiz que a decretou.",
+      "Deixar de comunicar a prisão à família do preso imediatamente.",
+      "Deixar de entregar a nota de culpa em 24 horas.",
+      "Deixar de interrogar o preso nas primeiras 2 horas após a detenção.",
+      "Prolongar a execução de medida de segurança sem motivo justo."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 12 e seus incisos não estabelecem o prazo de 2 horas para o interrogatório como tipo penal de abuso de autoridade, focando na comunicação da prisão e prazos de soltura/nota de culpa."
+  },
+  {
+    "question": "De acordo com o Art. 16, qual a pena para a autoridade que deixa de identificar-se falsamente ao preso no momento de sua captura?",
+    "options": [
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "Reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "Apenas multa administrativa.",
+      "Detenção, de 3 (três) meses a 1 (um) ano, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 16. Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "O responsável por interrogatório em sede policial que atribui a si mesmo cargo ou função que não possui comete crime de abuso de autoridade?",
+    "options": [
+      "Não, pois a lei só pune a falta de identificação, não a falsa identidade.",
+      "Sim, e a pena é de detenção de 6 meses a 2 anos, e multa.",
+      "Sim, mas apenas se o preso for menor de idade.",
+      "Não, se o objetivo for obter a confissão de um crime hediondo.",
+      "Sim, e a pena é aumentada de um terço por ser em sede de investigação."
+    ],
+    "correct": 1,
+    "explanation": "Art. 16, Parágrafo único. Incorre na mesma pena [6 meses a 2 anos] quem, como responsável por interrogatório... atribui a si mesmo falsa identidade, cargo ou função."
+  },
+  {
+    "question": "Submeter o preso a interrogatório policial durante o repouso noturno é permitido em qual das seguintes situações?",
+    "options": [
+      "Sempre que a autoridade policial julgar urgente.",
+      "Se o preso for reincidente em crimes violentos.",
+      "Se o preso foi capturado em flagrante delito ou se ele, assistido, consentir.",
+      "Apenas se houver autorização judicial prévia por escrito.",
+      "Em nenhuma hipótese, sob pena de nulidade absoluta."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18. Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações."
+  },
+  {
+    "question": "Qual crime comete o agente que impede ou retarda, sem justificativa, o envio de pleito de preso à autoridade judiciária para apreciar a legalidade da prisão?",
+    "options": [
+      "Prevaricação.",
+      "Abuso de autoridade, com pena de detenção de 6 meses a 2 anos.",
+      "Abuso de autoridade, com pena de detenção de 1 a 4 anos, e multa.",
+      "Obstrução de justiça.",
+      "Condescendência criminosa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 19. Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente... Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "O magistrado que, ciente de que um pleito de preso está sendo retido, deixa de tomar providências para sanar a demora:",
+    "options": [
+      "Comete crime de abuso de autoridade, incorrendo na mesma pena do agente que retardou o envio.",
+      "Não comete crime, pois a responsabilidade é apenas de quem custodia o preso.",
+      "Comete apenas infração administrativa perante o CNJ.",
+      "Comete o crime apenas se o preso for comprovadamente inocente.",
+      "Incorre em pena reduzida de metade por ser autoridade judiciária."
+    ],
+    "correct": 0,
+    "explanation": "Art. 19, Parágrafo único. Incorre na mesma pena o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências tendentes a saná-lo..."
+  },
+  {
+    "question": "Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado gera qual penalidade?",
+    "options": [
+      "Detenção, de 1 (um) a 4 (quatro) anos.",
+      "Multa de 100 salários mínimos.",
+      "Detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "Perda automática do cargo público.",
+      "Suspensão do exercício da função por 1 ano."
+    ],
+    "correct": 2,
+    "explanation": "Art. 20. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Durante uma audiência judicial, é direito do réu ou investigado, sob pena de configuração de abuso de autoridade por quem o impedir:",
+    "options": [
+      "Interromper o juiz a qualquer momento para defesa oral.",
+      "Sentar-se ao lado do seu advogado e com ele comunicar-se, salvo no curso do interrogatório.",
+      "Recusar-se a participar se não houver transmissão ao vivo.",
+      "Exigir a troca do promotor de justiça.",
+      "Comunicar-se com familiares através de gestos na plateia."
+    ],
+    "correct": 1,
+    "explanation": "Art. 20, Parágrafo único. Incorre na mesma pena quem impede o preso... de sentar-se ao seu lado [do advogado] e com ele comunicar-se durante a audiência, salvo no curso de interrogatório..."
+  },
+  {
+    "question": "A conduta de manter presos de ambos os sexos na mesma cela ou espaço de confinamento é punida com:",
+    "options": [
+      "Detenção, de 6 meses a 2 anos.",
+      "Apenas multa.",
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Reclusão, de 4 a 8 anos.",
+      "Detenção de 3 meses a 1 ano."
+    ],
+    "correct": 2,
+    "explanation": "Art. 21. Manter presos de ambos os sexos na mesma cela ou espaço de confinamento: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade, infringe qual dispositivo da Lei de Abuso de Autoridade?",
+    "options": [
+      "Art. 18 (Interrogatório noturno).",
+      "Art. 21, Parágrafo único.",
+      "Art. 22 (Invasão de domicílio).",
+      "Art. 13 (Constrangimento de preso).",
+      "Art. 25 (Obtenção de prova ilícita)."
+    ],
+    "correct": 1,
+    "explanation": "Art. 21, Parágrafo único. Incorre na mesma pena [1 a 4 anos] quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado..."
+  },
+  {
+    "question": "De acordo com o Art. 22, § 1º, inciso III, cumpre mandado de busca e apreensão domiciliar em horário proibido o agente que o faz entre:",
+    "options": [
+      "18h e 6h.",
+      "22h e 7h.",
+      "21h (vinte e uma horas) e 5h (cinco horas).",
+      "20h e 8h.",
+      "00h e 6h."
+    ],
+    "correct": 2,
+    "explanation": "Art. 22, § 1º, III - cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas)."
+  },
+  {
+    "question": "O ingresso em imóvel alheio sem determinação judicial NÃO será crime de abuso de autoridade quando for para:",
+    "options": [
+      "Averiguar denúncia anônima de som alto.",
+      "Prestar socorro ou em situação de flagrante delito ou desastre.",
+      "Realizar citação judicial de réu que se esconde.",
+      "Fiscalizar o pagamento de impostos atrasados.",
+      "Verificar as condições de higiene do local a pedido de vizinhos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 22, § 2º. Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre."
+  },
+  {
+    "question": "A conduta de 'inovar artificiosamente' o estado de lugar ou coisa para eximir-se de responsabilidade no curso de uma investigação é punida com:",
+    "options": [
+      "Detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "Detenção, de 6 (seis) meses a 2 (dois) anos.",
+      "Pena de morte em caso de guerra declarada.",
+      "Apenas sanção administrativa disciplinar.",
+      "Reclusão de 2 a 6 anos."
+    ],
+    "correct": 0,
+    "explanation": "Art. 23. Inovar artificiosamente... o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade... Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Constranger funcionário de hospital a admitir pessoa já falecida para tratamento, visando alterar o local do crime, gera qual consequência?",
+    "options": [
+      "Pena de detenção de 6 meses a 2 anos.",
+      "Pena de detenção de 1 a 4 anos e multa, SEM prejuízo da pena correspondente à violência.",
+      "Apenas a pena de homicídio culposo.",
+      "Pena de detenção de 1 a 4 anos, a qual já absorve a pena da violência.",
+      "Isenção de pena se o agente for médico."
+    ],
+    "correct": 1,
+    "explanation": "Art. 24. Constranger... funcionário... de instituição hospitalar... a admitir... pessoa cujo óbito já tenha ocorrido... Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência."
+  },
+  {
+    "question": "A autoridade que procede à obtenção de prova por meio manifestamente ilícito responde por abuso de autoridade. Quem faz USO dessa prova, sabendo da ilicitude:",
+    "options": [
+      "Não responde por crime, apenas por falta ética.",
+      "Responde por crime apenas se a prova for decisiva para a condenação.",
+      "Incorre na mesma pena de detenção de 1 a 4 anos e multa.",
+      "Responde por crime de receptação de informações.",
+      "Tem a pena reduzida de um a dois terços."
+    ],
+    "correct": 2,
+    "explanation": "Art. 25, Parágrafo único. Incorre na mesma pena [1 a 4 anos] quem faz uso de prova, em desfavor do investigado ou fiscalizado, com prévio conhecimento de sua ilicitude."
+  },
+  {
+    "question": "A coação para que alguém franqueie acesso a imóvel mediante violência ou grave ameaça (Art. 22, §1º, I) possui a mesma pena que:",
+    "options": [
+      "Identificar-se falsamente ao preso.",
+      "Interrogatório noturno fora das exceções.",
+      "Invadir imóvel clandestinamente sem determinação judicial.",
+      "Impedir entrevista com advogado.",
+      "Deixar de comunicar prisão em flagrante."
+    ],
+    "correct": 2,
+    "explanation": "Art. 22, § 1º. Incorre na mesma pena [detenção de 1 a 4 anos e multa], na forma prevista no caput deste artigo [invasão de imóvel], quem: I - coage alguém... a franquear-lhe o acesso a imóvel..."
+  },
+  {
+    "question": "De acordo com o Art. 27, parágrafo único, em que situação NÃO se configura crime a instauração de procedimento investigatório sem indícios de crime?",
+    "options": [
+      "Quando o investigado for reincidente.",
+      "Quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada.",
+      "Quando houver ordem verbal de superior hierárquico.",
+      "Sempre que o procedimento for de natureza administrativa e não penal.",
+      "Quando o agente público agir por mera satisfação pessoal."
+    ],
+    "correct": 1,
+    "explanation": "Art. 27, Parágrafo único. Não há crime quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada."
+  },
+  {
+    "question": "Qual a pena prevista para o agente que divulga gravação que expõe a intimidade do investigado sem relação com a prova que se pretenda produzir?",
+    "options": [
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Reclusão, de 2 a 4 anos, e multa.",
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Apenas multa e suspensão do cargo.",
+      "Detenção, de 3 meses a 1 ano."
+    ],
+    "correct": 2,
+    "explanation": "Art. 28. Divulgar gravação ou trecho de gravação sem relação com a prova... expondo a intimidade ou a vida privada: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "O crime de dar início à persecução penal, civil ou administrativa sem justa causa fundamentada (Art. 30) possui pena de:",
+    "options": [
+      "Detenção, de 6 meses a 2 anos.",
+      "Detenção, de 1 a 4 anos, e multa.",
+      "Reclusão, de 1 a 3 anos.",
+      "Multa e perda do cargo.",
+      "Detenção, de 1 a 5 anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 30. Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Sobre o acesso aos autos de investigação (Art. 32), qual das seguintes alternativas apresenta uma exceção legal ao direito de acesso do advogado?",
+    "options": [
+      "Acesso ao inquérito policial já concluído.",
+      "Acesso ao termo circunstanciado de ocorrência.",
+      "Peças relativas a diligências em curso ou futuras, cujo sigilo seja imprescindível.",
+      "Obtenção de cópias de depoimentos já colhidos.",
+      "Informações sobre a identidade do condutor da prisão."
+    ],
+    "correct": 2,
+    "explanation": "Art. 32. ...ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível."
+  },
+  {
+    "question": "Incorre na mesma pena de quem exige obrigação sem amparo legal (Art. 33, parágrafo único) o agente público que:",
+    "options": [
+      "Deixa de prestar contas de valores apreendidos.",
+      "Utiliza o cargo para se eximir de obrigação legal ou obter privilégio indevido.",
+      "Demora no exame de processo em órgão colegiado.",
+      "Divulga trechos de interrogatório em redes sociais.",
+      "Requisita instauração de inquérito contra autoridade política."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33, Parágrafo único. Incorre na mesma pena quem se utiliza de cargo ou função pública ou invoca a condição de agente público para se eximir de obrigação legal ou para obter vantagem ou privilégio indevido."
+  },
+  {
+    "question": "Conforme o Art. 36, configura crime decretar a indisponibilidade de ativos financeiros em quantia exacerbada e:",
+    "options": [
+      "Não realizar o leilão dos bens no prazo de 30 dias.",
+      "Manter os valores em conta sem rendimentos.",
+      "Deixar de corrigir a medida após a demonstração da excessividade pela parte.",
+      "Transferir os valores para conta da própria administração pública.",
+      "Decretar a medida sem ouvir previamente o Ministério Público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 36. ...e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "O responsável por investigações que antecipa a atribuição de culpa através de rede social antes da acusação formal (Art. 38) está sujeito à pena de:",
+    "options": [
+      "Detenção, de 1 a 4 anos.",
+      "Reclusão, de 2 a 4 anos.",
+      "Detenção, de 6 meses a 2 anos, e multa.",
+      "Apenas advertência e censura pública.",
+      "Demissão a bem do serviço público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 38. Antecipar o responsável pelas investigações... atribuição de culpa, antes de concluídas as apurações... Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "No caso de prisão temporária, o que deve ocorrer quando o prazo do mandado expirar, sem notícia de prorrogação (Art. 40, § 7º)?",
+    "options": [
+      "O preso deve aguardar nova ordem judicial de soltura.",
+      "A autoridade deve manter o preso até que o oficial de justiça chegue.",
+      "A autoridade deve pôr o preso imediatamente em liberdade, independente de nova ordem.",
+      "O prazo é suspenso se houver feriado ou final de semana.",
+      "A defesa deve impetrar Habeas Corpus para garantir a soltura."
+    ],
+    "correct": 2,
+    "explanation": "Art. 40, § 7º (Lei 7.960): Decorrido o prazo contido no mandado de prisão, a autoridade... deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade..."
+  },
+  {
+    "question": "De acordo com o Art. 40, § 8º da Lei de Abuso de Autoridade (alterando a Lei 7.960), como se dá o cômputo do prazo da prisão temporária?",
+    "options": [
+      "Inicia-se no dia seguinte ao cumprimento do mandado.",
+      "Conta-se apenas os dias úteis.",
+      "Inclui-se o dia do cumprimento do mandado de prisão no cômputo do prazo.",
+      "Inicia-se apenas após a comunicação ao juiz.",
+      "O dia da prisão é excluído, contando-se apenas o dia da soltura."
+    ],
+    "correct": 2,
+    "explanation": "Art. 40, § 8º: Inclui-se o dia do cumprimento do mandado de prisão no cômputo do prazo de prisão temporária."
+  },
+  {
+    "question": "Qual a natureza da pena para o crime de realizar interceptação telefônica ou quebrar segredo da Justiça sem autorização judicial (Art. 41)?",
+    "options": [
+      "Detenção, de 6 meses a 2 anos.",
+      "Detenção, de 1 a 4 anos.",
+      "Reclusão, de 2 a 4 anos, e multa.",
+      "Reclusão, de 4 a 8 anos.",
+      "Apenas multa e perda do cargo."
+    ],
+    "correct": 2,
+    "explanation": "Art. 41 (Lei 9.296, Art. 10): Constitui crime realizar interceptação... sem autorização judicial... Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Segundo o Art. 42 (alterando o ECA), os efeitos de perda do cargo para servidores que praticam abuso contra criança/adolescente são condicionados à:",
+    "options": [
+      "Pena superior a 4 anos.",
+      "Ocorrência de reincidência.",
+      "Decisão unânime de tribunal superior.",
+      "Trânsito em julgado em menos de 1 ano.",
+      "Aprovação pela Assembleia Legislativa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 42 (ECA, Art. 227-A): Os efeitos da condenação... para os crimes previstos nesta Lei, praticados por servidores públicos com abuso de autoridade, são condicionados à ocorrência de reincidência."
+  },
+  {
+    "question": "Constitui crime violar direito ou prerrogativa de advogado (Art. 43). Qual a pena prevista para essa conduta?",
+    "options": [
+      "Detenção, de 1 a 4 anos.",
+      "Detenção, de 3 meses a 1 ano, e multa.",
+      "Reclusão, de 2 a 5 anos.",
+      "Apenas suspensão da carteira da OAB.",
+      "Multa de 10 a 50 salários mínimos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 43 (Lei 8.906, Art. 7º-B): Constitui crime violar direito ou prerrogativa de advogado... Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa."
+  },
+  {
+    "question": "O crime de estender injustificadamente a investigação, procrastinando-a (Art. 31), aplica-se também quando:",
+    "options": [
+      "O réu confessa o crime.",
+      "O processo é público e não sigiloso.",
+      "Não existe prazo fixo para a execução, mas o agente o estende de forma imotivada.",
+      "O advogado da parte concorda com o adiamento.",
+      "O crime investigado é de competência do Tribunal do Júri."
+    ],
+    "correct": 2,
+    "explanation": "Art. 31, Parágrafo único. Incorre na mesma pena quem, inexistindo prazo para execução ou conclusão de procedimento, o estende de forma imotivada..."
+  },
+  {
+    "question": "Qual é o prazo de 'vacatio legis' (tempo para entrar em vigor) estabelecido para a Lei nº 13.869/2019?",
+    "options": [
+      "45 dias.",
+      "90 dias.",
+      "120 dias.",
+      "180 dias.",
+      "Entrou em vigor na data de sua publicação."
+    ],
+    "correct": 2,
+    "explanation": "Art. 45. Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial."
+  }
+],
+
+
 "AOCPMariaDaPenha":[
   {
     "question": "Questão 1 Carla compareceu à delegacia informando que, ao longo dos últimos meses, sofreu ameaças constantes por parte de seu ex-marido, Antônio, com quem conviveu por um ano e meio, estando separados há três meses. Apesar da separação, ele a persegue nas redes sociais, envia mensagens ofensivas e já a aguardou em frente ao local de trabalho. Em uma dessas ocasiões, proferiu ofensas com conteúdo misógino, ameaçando agredi-la fisicamente caso se relacionasse com outro homem. A autoridade policial lavrou o boletim de ocorrência e encaminhou pedido de medida protetiva ao juízo competente. Considerando a situação narrada e a legislação aplicável, assinale a alternativa correta.",
