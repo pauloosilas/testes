@@ -1,6 +1,262 @@
 // Banco de questões
 const questions = {  
 
+  "RegrasMandela":[
+    {
+    "question": "De acordo com a Regra 43, o que define tecnicamente o 'confinamento solitário' e qual prática é terminantemente proibida?",
+    "options": [
+      "Confinamento por 20 horas sem contato humano; é proibido o isolamento de líderes de facção.",
+      "Confinamento por 22 horas ou mais por dia sem contato humano significativo; é proibido o confinamento solitário por tempo indeterminado.",
+      "Confinamento por 24 horas integrais; é proibido o isolamento em celas com luz natural.",
+      "Confinamento por 18 horas diárias; é proibido o isolamento de presos condenados por crimes hediondos."
+    ],
+    "correct": 1,
+    "explanation": "Regra 43: O confinamento solitário é a restrição por 22 horas ou mais sem contato humano. A mesma regra proíbe o isolamento por tempo indeterminado e o isolamento prolongado (superior a 15 dias)."
+  },
+  {
+    "question": "Sobre o uso de instrumentos de restrição física (Regra 47), assinale a alternativa que apresenta apenas instrumentos proibidos pelas Regras de Mandela:",
+    "options": [
+      "Algemas e correntes.",
+      "Camisas de força, algemas de tornozelo e grades fixas.",
+      "Correntes, ferros e camisas de força.",
+      "Algemas de metal, braçadeiras de plástico e algemas de pé."
+    ],
+    "correct": 2,
+    "explanation": "Regra 47: Proíbe expressamente o uso de correntes, ferros e camisas de força. Instrumentos de restrição nunca devem ser usados como punição."
+  },
+  {
+    "question": "No que diz respeito à saúde do preso sob sanção disciplinar, a Regra 32 estabelece que o médico ou profissional de saúde:",
+    "options": [
+      "Deve assinar o termo de punição para validar a sanção de isolamento.",
+      "Não deve ter qualquer papel na imposição de sanções, mas deve relatar ao diretor se a saúde do preso for comprometida.",
+      "Tem o poder de revogar a punição imediatamente sem consultar a direção.",
+      "Deve visitar o preso em isolamento apenas uma vez por semana."
+    ],
+    "correct": 1,
+    "explanation": "Regra 32: Para preservar a ética médica, o profissional de saúde não participa da imposição da pena, mas tem o dever de monitorar e relatar prejuízos à saúde física ou mental do detento sob sanção."
+  },
+  {
+    "question": "Quanto à revista de cavidades corporais (Regra 52), qual é o procedimento exigido pelas Regras de Mandela?",
+    "options": [
+      "Devem ser realizadas apenas por policiais do mesmo sexo do preso, em qualquer situação.",
+      "Podem ser realizadas por qualquer agente público, desde que haja suspeita fundada.",
+      "Devem ser evitadas e, se estritamente necessárias, realizadas apenas por profissionais de saúde qualificados ou pessoal treinado pelo médico.",
+      "São proibidas em qualquer circunstância, sendo substituídas por raio-X."
+    ],
+    "correct": 2,
+    "explanation": "Regra 52: Revistas de cavidades devem ser o último recurso e realizadas apenas por profissionais de saúde qualificados (ou pessoal com treinamento médico equivalente) para garantir a dignidade e higiene."
+  },
+  {
+    "question": "A Regra 44 define o 'confinamento solitário prolongado' como aquele que ultrapassa qual período consecutivo?",
+    "options": [
+      "7 dias.",
+      "10 dias.",
+      "15 dias.",
+      "30 dias."
+    ],
+    "correct": 2,
+    "explanation": "Regra 44: Considera-se isolamento prolongado o período superior a 15 dias consecutivos, o que é proibido pela Regra 43."
+  },
+  {
+    "question": "Sobre a transferência de presos (Regra 73), qual cuidado deve ser tomado quanto à exposição pública?",
+    "options": [
+      "O preso deve ser transportado em veículos abertos para garantir a ventilação.",
+      "O transporte deve ser feito preferencialmente em horários de pico para passar despercebido.",
+      "O preso deve ser protegido contra insultos, curiosidade pública e qualquer tipo de publicidade.",
+      "O uso de algemas é obrigatório e visível para demonstrar autoridade estatal."
+    ],
+    "correct": 2,
+    "explanation": "Regra 73: Durante o transporte, os presos não devem ser expostos ao olhar do público e devem ser protegidos de qualquer forma de insulto ou publicidade."
+  },
+  {
+    "question": "Segundo a Regra 104, qual a obrigatoriedade quanto à educação de presos jovens e analfabetos?",
+    "options": [
+      "A educação é facultativa e depende do comportamento do preso.",
+      "A educação deve ser obrigatória para presos jovens e analfabetos, integrando-se ao sistema de educação pública.",
+      "O Estado deve oferecer apenas cursos técnicos de curta duração.",
+      "A educação é obrigatória apenas para presos que cumprem pena em regime fechado."
+    ],
+    "correct": 1,
+    "explanation": "Regra 104: A instrução de jovens presos e de analfabetos é obrigatória e deve merecer atenção especial da administração, devendo ser equivalente ao sistema de ensino do país."
+  },
+  {
+    "question": "De acordo com a Regra 58, sobre o contato com o mundo exterior, o preso tem o direito de informar IMEDIATAMENTE sua família sobre:",
+    "options": [
+      "A alteração de sua dieta alimentar.",
+      "Sua detenção, transferência ou ocorrência de doença ou ferimento grave.",
+      "O nome de todos os agentes que trabalham no seu pavilhão.",
+      "O cronograma de banho de sol da unidade."
+    ],
+    "correct": 1,
+    "explanation": "Regras 58 e 68: O preso tem o direito de notificar imediatamente a família ou pessoa designada sobre sua prisão, transferência, ou em caso de doença ou ferimento grave."
+  },
+  {
+    "question": "Sobre o sistema de gestão de prontuários (Regra 7), qual informação NÃO é exigida obrigatoriamente no registro de entrada do preso?",
+    "options": [
+      "Motivos da detenção e autoridade competente.",
+      "Data e hora da admissão e da saída.",
+      "Opinião política e orientação religiosa para fins de separação de celas.",
+      "Nomes dos familiares e informações sobre contatos de emergência."
+    ],
+    "correct": 2,
+    "explanation": "Regra 7: O prontuário deve ser técnico. Embora a religião possa ser registrada para respeitar a dieta ou ritos (Regra 66), ela não é um critério de registro obrigatório de entrada para fins de 'separação ideológica', e opiniões políticas não são requisitos de prontuário."
+  },
+  {
+    "question": "A Regra 48 estabelece uma proibição absoluta sobre instrumentos de restrição em mulheres. Qual é essa condição?",
+    "options": [
+      "Durante o período de amamentação até o sexto mês.",
+      "Em mulheres com mais de 60 anos de idade.",
+      "Durante o trabalho de parto, durante o parto e imediatamente após o parto.",
+      "Em mulheres que possuam filhos menores de 12 anos."
+    ],
+    "correct": 2,
+    "explanation": "Regra 48: É proibido o uso de algemas ou outros instrumentos de restrição em mulheres em trabalho de parto, no momento do parto ou logo após o nascimento."
+  },
+  {
+    "question": "Conforme a Regra 61, as entrevistas entre o preso e seu advogado podem ser acompanhadas pela administração?",
+    "options": [
+      "Não podem ser acompanhadas de forma alguma.",
+      "Podem ser ouvidas, mas não visualizadas.",
+      "Podem ser visualizadas, mas não podem ser ouvidas pela equipe prisional.",
+      "Só podem ser acompanhadas se houver autorização judicial prévia."
+    ],
+    "correct": 2,
+    "explanation": "Regra 61: As entrevistas entre presos e seus consultores jurídicos podem ser observadas visualmente (pela segurança), mas o conteúdo da conversa deve ser estritamente confidencial (não pode ser ouvido)."
+  },
+  {
+    "question": "No que toca à acomodação (Regra 13), quais são as exigências mínimas para as celas noturnas?",
+    "options": [
+      "Devem ter apenas ventilação artificial e luz elétrica 24 horas.",
+      "Devem satisfazer exigências de higiene, levando em conta o volume de ar, área mínima, iluminação, aquecimento e ventilação.",
+      "Não há exigência de janelas, desde que haja ar-condicionado.",
+      "Devem ser compartilhadas por no mínimo 3 presos para evitar suicídios."
+    ],
+    "correct": 1,
+    "explanation": "Regra 13: Todas as celas devem satisfazer as exigências de saúde e higiene, com atenção especial ao volume de ar, espaço mínimo, iluminação natural e ventilação adequada."
+  }
+  ,{
+    "question": "Quanto à separação de categorias de presos estabelecida na Regra 11, é correto afirmar que:",
+    "options": [
+      "Presos preventivos (não julgados) devem ser mantidos separados de presos condenados.",
+      "Homens e mulheres podem ocupar a mesma ala, desde que em celas separadas.",
+      "Jovens presos devem ser mantidos preferencialmente com adultos para aprenderem a disciplina.",
+      "A separação por antecedentes criminais é facultativa e depende da lotação da unidade."
+    ],
+    "correct": 0,
+    "explanation": "Regra 11: As diferentes categorias de presos devem ser mantidas em estabelecimentos separados ou em partes separadas, levando em conta o sexo, idade, antecedentes, motivos da detenção e exigências de tratamento. Presos preventivos devem ser separados dos condenados."
+  },
+  {
+    "question": "Sobre a acomodação dos presos em celas ou quartos individuais, a Regra 12 determina que:",
+    "options": [
+      "A ocupação de celas individuais por dois presos durante a noite é a prática recomendada.",
+      "Onde houver dormitórios coletivos, estes devem ser ocupados por presos selecionados e submetidos à vigilância noturna regular.",
+      "O uso de celas individuais é proibido por dificultar a ressocialização.",
+      "Dormitórios coletivos não exigem vigilância se as portas estiverem trancadas."
+    ],
+    "correct": 1,
+    "explanation": "Regra 12: Quando o alojamento for em dormitórios coletivos, estes devem ser ocupados por presos cuidadosamente selecionados e deve haver vigilância noturna adequada, compatível com a natureza do estabelecimento."
+  },
+  {
+    "question": "De acordo com a Regra 27, qual a obrigação do médico ou profissional de saúde qualificado em relação aos presos?",
+    "options": [
+      "Deve atender apenas os presos que forem encaminhados pela diretoria do presídio.",
+      "Deve prestar assistência apenas em casos de emergência de vida ou morte.",
+      "Deve ter acesso a todos os presos doentes e àqueles que reclamem de problemas de saúde física ou mental.",
+      "Deve focar exclusivamente na saúde física, deixando a mental para o setor psicossocial."
+    ],
+    "correct": 2,
+    "explanation": "Regra 27: O médico ou profissional de saúde deve ver e atender todos os presos doentes, todos os que afirmem estar com a saúde física ou mental afetada e todos para os quais sua atenção seja solicitada."
+  },
+  {
+    "question": "Segundo a Regra 32, qual a conduta do profissional de saúde em relação a sanções disciplinares?",
+    "options": [
+      "O profissional de saúde não deve participar da imposição de sanções, mas deve relatar ao diretor se a saúde do preso for comprometida pela punição.",
+      "O médico deve assinar a autorização para que o isolamento comece.",
+      "Cabe ao médico decidir qual punição é mais adequada para o preso.",
+      "O profissional de saúde está dispensado de visitar presos que estejam em regime de isolamento."
+    ],
+    "correct": 0,
+    "explanation": "Regra 32: Profissionais de saúde não devem ter qualquer papel na imposição de sanções disciplinares, mas devem prestar atenção especial a presos sob tais medidas e relatar ao diretor se a saúde do preso for prejudicada."
+  },
+  {
+    "question": "A Regra 43 define 'confinamento solitário' como a restrição de contato humano pelo período mínimo diário de:",
+    "options": [
+      "12 horas.",
+      "18 horas.",
+      "22 horas.",
+      "24 horas."
+    ],
+    "correct": 2,
+    "explanation": "Regra 43: O confinamento solitário refere-se ao confinamento de presos por 22 horas ou mais por dia sem contato humano significativo."
+  },
+  {
+    "question": "Considerando a Regra 44, qual o prazo máximo permitido para o confinamento solitário para que este não seja considerado uma prática proibida (prolongado)?",
+    "options": [
+      "7 dias consecutivos.",
+      "15 dias consecutivos.",
+      "30 dias consecutivos.",
+      "45 dias consecutivos."
+    ],
+    "correct": 1,
+    "explanation": "Regra 44: O confinamento solitário prolongado refere-se ao confinamento solitário por um período superior a 15 dias consecutivos, o que é proibido pela Regra 43."
+  },
+  {
+    "question": "A Regra 45 estabelece restrições severas ao uso do isolamento. É correto afirmar que ele é proibido para:",
+    "options": [
+      "Presos condenados por crimes hediondos.",
+      "Presos que já cumpriram mais de metade da pena.",
+      "Presos com deficiências mentais ou físicas quando suas condições possam ser agravadas pelo isolamento.",
+      "Presos reincidentes."
+    ],
+    "correct": 2,
+    "explanation": "Regra 45: O isolamento não deve ser imposto a presos com deficiências mentais ou físicas quando suas condições possam ser agravadas por tais medidas."
+  },
+  {
+    "question": "No que se refere a instrumentos de restrição, a Regra 47 estabelece que:",
+    "options": [
+      "Correntes e ferros são permitidos desde que autorizados pelo juiz.",
+      "Correntes, ferros são terminantemente proibidos.",
+      "Algemas podem ser usadas como punição disciplinar.",
+      "Instrumentos de restrição podem ser aplicados de forma preventiva em todos os presos."
+    ],
+    "correct": 1,
+    "explanation": "Regra 47: É proibido o uso de correntes, ferros, Instrumentos de restrição nunca devem ser aplicados como punição."
+  },
+  {
+    "question": "A Regra 48 traz uma proteção específica à saúde da mulher presa. Qual proibição ela estabelece?",
+    "options": [
+      "Proíbe o trabalho laboral para mulheres grávidas.",
+      "Proíbe o uso de instrumentos de restrição em mulheres em trabalho de parto, durante o parto e logo após o parto.",
+      "Proíbe a visita íntima para mulheres gestantes.",
+      "Proíbe a transferência de presas grávidas."
+    ],
+    "correct": 1,
+    "explanation": "Regra 48: Instrumentos de restrição não devem ser utilizados em mulheres em trabalho de parto, durante o parto e imediatamente após o parto."
+  },
+  {
+    "question": "Sobre o contato com o mundo exterior (Regra 58), os presos têm direito a se comunicar com família e amigos sob supervisão, por meio de:",
+    "options": [
+      "Correspondência escrita e meios de telecomunicação, digitais e outros, além de visitas.",
+      "Apenas cartas físicas, sendo proibido o uso de telefone.",
+      "Apenas visitas presenciais quinzenais.",
+      "Comunicação livre e sem qualquer restrição de tempo ou frequência."
+    ],
+    "correct": 0,
+    "explanation": "Regra 58: Presos devem ser autorizados a comunicar-se com família e amigos em intervalos regulares, tanto por correspondência quanto por meios de telecomunicação (telefonia, internet), além de visitas."
+  },
+  {
+    "question": "A Regra 61 trata da comunicação com consultores jurídicos. Qual a regra sobre a privacidade desse contato?",
+    "options": [
+      "As entrevistas podem ser ouvidas pelos agentes para garantir a segurança.",
+      "As entrevistas podem ser gravadas, mas não assistidas.",
+      "As entrevistas podem ser vistas, mas não ouvidas pelo pessoal prisional.",
+      "Não pode haver qualquer tipo de vigilância, nem mesmo visual."
+    ],
+    "correct": 2,
+    "explanation": "Regra 61: As entrevistas com advogados podem ser visualizadas (vigilância visual), mas não podem ser ouvidas por funcionários da administração prisional."
+  }
+],
+
   "leideexecucao_art71a86":[
   {
     "question": "De acordo com o art. 71 da LEP, qual é a finalidade do trabalho do preso?",
