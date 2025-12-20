@@ -595,7 +595,92 @@ const questions = {
 ],
 
 
-
+"DireitosHumanosAOCP":[
+  {
+    "question": "A Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica) é um tratado internacional adotado em 1969 pela Organização dos Estados Americanos (OEA) com o objetivo de promover e proteger os direitos humanos na região das Américas. Entrou em vigor em 1978 e é um dos principais documentos internacionais de proteção dos direitos humanos, reconhecendo direitos civis e políticos, bem como direitos relacionados à integridade pessoal, à liberdade e à proteção judicial. No Brasil, foi ratificada em 1992. Considerando os termos dessa Convenção, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.\n( ) Não constituem trabalhos forçados ou obrigatórios os trabalhos ou serviços normalmente exigidos de pessoa reclusa em cumprimento de sentença ou resolução formal expedida pela autoridade judiciária competente.\n( ) Toda pessoa tem direito de ser indenizada conforme a lei, no caso de haver sido condenada em sentença passada em julgado, por erro judiciário.\n( ) Para a efetiva proteção da honra e da reputação, toda publicação ou empresa jornalística, cinematográfica, de rádio ou televisão deve ter uma pessoa responsável que não seja protegida por imunidades nem goze de foro especial.\n( ) Os Estados-Partes devem tomar medidas apropriadas no sentido de assegurar a igualdade de direitos e a adequada equivalência de responsabilidades dos cônjuges quanto ao casamento, durante o casamento e em caso de dissolução do mesmo. Em caso de dissolução, serão adotadas disposições que assegurem a proteção necessária aos filhos, com base unicamente no interesse e na conveniência dos mesmos.\n( ) Toda pessoa tem direito a ser ouvida, com as devidas garantias e dentro de um prazo razoável, por um juiz ou tribunal competente, independente e imparcial, estabelecido anteriormente por lei, na apuração de qualquer acusação penal formulada contra ela, ou para que se determinem seus direitos ou obrigações de natureza civil, trabalhista ou fiscal, ressalvadas ações relativas à disciplina e às competições desportivas.",
+    "options": [
+      "A V – V – V – V – F.",
+      "B F – V – F – F – V.",
+      "C F – V – V – V – F.",
+      "D V – F – V – F – V.",
+      "E V – V – V – F – F"
+    ],
+    "correct": 0,
+    "explanation": "Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica): 1ª afirmação: Verdadeiro (Art. 6º, item 2, 'a'). 2ª afirmação: Verdadeiro (Art. 10º). 3ª afirmação: Verdadeiro (Art. 13º, item 4). 4ª afirmação: Verdadeiro (Art. 17º, item 4 e 5). 5ª afirmação: Falso (Art. 8º, item 1 - A Convenção não faz a ressalva sobre ações desportivas)."
+  },
+  {
+    "question": "A Convenção Americana sobre Direitos Humanos (CADH) foi celebrada em San José, capital da Costa Rica, em 1969, e internalizada pelo Brasil pelo Decreto nº 678/1992. A entrada em vigor do tratado ocorreu em 18 de julho de 1978. A respeito da referida convenção, assinale a alternativa INCORRETA.",
+    "options": [
+      "A A CADH é baseada nos Pactos de Direitos Humanos de 1966 e na Convenção Europeia dos Direitos do Homem de 1950.",
+      "B De acordo com a CADH, ninguém deve ser detido por dívidas. Esse princípio não limita os mandados de autoridade judiciária competente expedidos em virtude de inadimplemento de obrigação alimentar e do depositário infiel.",
+      "C Segundo a CADH, toda pessoa acusada de delito tem direito a que se presuma sua inocência enquanto não se comprove legalmente sua culpa.",
+      "D A personalidade civil da pessoa começa no nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+      "E Uma característica importante da CADH é não se restringir a um rol de direitos dos indivíduos, trazendo também os deveres das pessoas com a família, a comunidade e toda a humanidade."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa incorreta é a B. O Artigo 7º, item 7, da CADH estabelece que ninguém deve ser detido por dívidas, mas faz uma única ressalva para os mandados expedidos em virtude de inadimplemento de obrigação alimentar. A CADH não prevê a prisão civil do depositário infiel como exceção."
+  },
+  {
+    "question": "Os direitos humanos referem-se a um conjunto de direitos considerado indispensável para uma vida humana pautada na liberdade, na igualdade e na dignidade. Acerca do conceito e da estrutura dos direitos humanos, relacione as colunas e assinale a alternativa com a sequência correta.\n1. Direito-pretensão.\n2. Direito-liberdade.\n3. Direito-poder.\n4. Direito-imunidade.\n( ) Consiste na autorização dada por uma norma a uma determinada pessoa, impedindo que outra interfira de qualquer modo.\n( ) Consiste na busca de algo, gerando a contrapartida de outrem do dever de prestar.\n( ) Implica uma relação de mando de uma pessoa de exigir determinada sujeição do Estado ou de outra pessoa.\n( ) Consiste na faculdade de agir que gera a ausência de direito de qualquer outro ente ou pessoa.",
+    "options": [
+      "A 2 – 3 – 1 – 4.",
+      "B 1 – 2 – 3 – 4.",
+      "C 4 – 1 – 3 – 2.",
+      "D 4 – 1 – 2 – 3.",
+      "E 3 – 4 – 1 – 2."
+    ],
+    "correct": 2,
+    "explanation": "Direito-pretensão: busca de algo/dever de prestar. Direito-liberdade: faculdade de agir/ausência de direito de outrem. Direto-poder: exigir sujeição do Estado/outrem. Direito-imunidade: impede interferência no direito."
+  },
+  {
+    "question": "A Declaração Universal dos Direitos Humanos foi aprovada pela Assembleia Geral da Organização das Nações Unidas (ONU), em 10 de dezembro de 1948, sob a forma de:",
+    "options": [
+      "A Resolução.",
+      "B Decreto.",
+      "C Emenda à Constituição.",
+      "D Protocolo.",
+      "E Lei ordinária."
+    ],
+    "correct": 0,
+    "explanation": "Declaração (ato unilateral) ➔ sinônimo de Resolução ou Recomendação. A DUDH tem natureza jurídica de Resolução."
+  },
+  {
+    "question": "Tiago e Lucas estão frequentando o curso de formação da Polícia Militar, e, quando abordada a temática “direitos humanos”, Lucas fez uma afirmação que Tiago entendeu estar equivocada. Levando em consideração o enunciado, assinale a alternativa INCORRETA que corresponde à afirmação de Lucas.",
+    "options": [
+      "A A proteção dos direitos humanos é mais ampla do que a dos chamados direitos fundamentais.",
+      "B O rol de direitos humanos não é exaustivo/exaurível.",
+      "C Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+      "D De acordo com a doutrina, há duas gerações/dimensões dos direitos humanos.",
+      "E Imprescritibilidade e universalidade são características/especificidades dos direitos humanos."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D está incorreta pois a doutrina reconhece mais de duas gerações: 1a (civis/políticos), 2a (sociais/econômicos), 3a (fraternidade/meio ambiente), 4a (democracia/informação) e 5a (paz)."
+  },
+  {
+    "question": "O Decreto nº 98.386/1989 promulga a Convenção Interamericana para Prevenir e Punir a Tortura. Considere um caso no qual um servidor/funcionário público da área da segurança alega que praticou o delito de tortura por ordens superiores e pugna pelo afastamento da responsabilidade penal. Com base na referida Convenção, assinale a alternativa correta.",
+    "options": [
+      "A Assim como o estado de guerra, a ameaça de guerra e o estado de sítio ou emergência, o fato de que o servidor/funcionário atendeu ordens dos seus superiores hierárquicos afasta a punibilidade.",
+      "B Se o superior hierárquico for autoridade militar e houver ordem escrita para a tortura, o servidor/funcionário não pode se eximir de cumpri-la, responsabilizando penalmente aquele que exarou a ordem.",
+      "C O cumprimento de ordens não é capaz de justificar a tortura, mas sim a periculosidade do detido ou condenado e a insegurança do estabelecimento carcerário ou penitenciário.",
+      "D O fato de haver agido por ordens superiores não eximirá o servidor/funcionário público da responsabilidade penal correspondente.",
+      "E Se o ato de tortura for em decorrência de cumprimento de ordem hierárquica superior e restar evidenciado ausência de danos permanentes à vítima, a responsabilidade penal será mitigada."
+    ],
+    "correct": 3,
+    "explanation": "Conforme o ARTIGO 4 do Decreto No 98.386/1989: O fato de haver agido por ordens superiores não eximirá da responsabilidade penal correspondente."
+  },
+  {
+    "question": "Em relação aos direitos humanos e aos direitos fundamentais, analise as assertivas e assinale a alternativa que aponta a(s) correta(s).\nI. A imposição legal de manutenção de exemplares de Bíblias em escolas e bibliotecas públicas estaduais configura contrariedade à laicidade estatal e à liberdade religiosa consagrada pela Constituição da República de 1988.\nII. A plena proteção constitucional à liberdade de imprensa é consagrada pelo binômio liberdade com responsabilidade, vedada qualquer espécie de censura prévia. Admite-se a possibilidade posterior de análise e responsabilização, inclusive com remoção de conteúdo, por informações comprovadamente injuriosas, difamantes, caluniosas, mentirosas, e em relação a eventuais danos materiais e morais. Isso porque os direitos à honra, intimidade, vida privada e à própria imagem formam a proteção constitucional à dignidade da pessoa humana, salvaguardando um espaço íntimo intransponível por intromissões ilícitas externas.\nIII. A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas “a posteriori”, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.\nIV. Considere que determinado tratado internacional de direitos humanos foi aprovado pelo Congresso Nacional, mediante rito ordinário. Nesse caso, é correto afirmar que tal tratado será incorporado ao ordenamento jurídico pátrio com status de emenda constitucional.",
+    "options": [
+      "A Apenas III.",
+      "B Apenas II e III.",
+      "C Apenas I e IV.",
+      "D Apenas I, II e III.",
+      "E Apenas I, II e IV."
+    ],
+    "correct": 3,
+    "explanation": "I, II e III estão corretas. A IV está incorreta porque, para ter status de emenda constitucional, o tratado deve ser aprovado em dois turnos, por 3/5 dos votos (Art. 5°, § 3º), e não por rito ordinário."
+  }
+],
 
 "leideexecucao_art16a30":[
   {
