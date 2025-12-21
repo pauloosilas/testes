@@ -594,6 +594,504 @@ const questions = {
   }
 ],
 
+"PP14695":[
+  {
+    "question": "O que caracteriza a progressão na carreira de Policial Penal, segundo o Art. 10?",
+    "options": [
+      "A passagem para outro nível da carreira",
+      "A mudança de cargo para outra carreira",
+      "A passagem para o grau imediatamente subsequente do mesmo nível",
+      "A nomeação para cargo em comissão"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 10 define progressão como a passagem do servidor ocupante de cargo efetivo para o grau imediatamente subsequente dentro do mesmo nível da carreira."
+  },
+  {
+    "question": "Como são identificados os graus da carreira de Policial Penal?",
+    "options": [
+      "Por números romanos",
+      "Por números arábicos",
+      "Por letras de A até J",
+      "Por níveis I a X"
+    ],
+    "correct": 2,
+    "explanation": "Conforme o § 1º do Art. 10, os graus da carreira são identificados por letras de \"A\" até \"J\"."
+  },
+  {
+    "question": "Qual é o intervalo mínimo para ocorrer a progressão na carreira de Policial Penal?",
+    "options": [
+      "Um ano",
+      "Dois anos",
+      "Três anos",
+      "Cinco anos"
+    ],
+    "correct": 1,
+    "explanation": "O § 2º do Art. 10 estabelece que a progressão ocorrerá a cada dois anos, desde que cumpridos os requisitos legais."
+  },
+  {
+    "question": "Qual condição impede a progressão na carreira de Policial Penal?",
+    "options": [
+      "Falta de curso de aperfeiçoamento",
+      "Não estar em cargo comissionado",
+      "Ter sofrido punição disciplinar no período",
+      "Não possuir ensino superior"
+    ],
+    "correct": 2,
+    "explanation": "Segundo o § 2º do Art. 10, o servidor não pode ter sofrido punição disciplinar no período para ter direito à progressão."
+  },
+  {
+    "question": "Quantas avaliações satisfatórias são exigidas para a progressão na carreira?",
+    "options": [
+      "Uma avaliação",
+      "Duas avaliações",
+      "Três avaliações",
+      "Cinco avaliações"
+    ],
+    "correct": 1,
+    "explanation": "O inciso II do § 2º do Art. 10 exige que o servidor tenha recebido duas avaliações periódicas de desempenho individual satisfatórias."
+  },
+  {
+    "question": "O que é promoção na carreira de Policial Penal?",
+    "options": [
+      "A passagem para outro cargo público",
+      "A passagem para o nível subsequente da carreira",
+      "A mudança de grau dentro do mesmo nível",
+      "A concessão de gratificação"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 11 define promoção como a passagem do servidor do nível em que se encontra para o nível subsequente na carreira."
+  },
+  {
+    "question": "Qual é o interstício mínimo exigido para a promoção?",
+    "options": [
+      "Dois anos no mesmo nível",
+      "Três anos no mesmo nível",
+      "Cinco anos no mesmo nível",
+      "Dez anos de carreira"
+    ],
+    "correct": 2,
+    "explanation": "O inciso II do § 1º do Art. 11 exige o cumprimento de cinco anos de efetivo exercício no mesmo nível para a promoção."
+  },
+  {
+    "question": "Quantas avaliações satisfatórias são exigidas para a promoção?",
+    "options": [
+      "Duas avaliações",
+      "Três avaliações",
+      "Cinco avaliações",
+      "Dez avaliações"
+    ],
+    "correct": 2,
+    "explanation": "O inciso III do § 1º do Art. 11 determina a exigência de cinco avaliações periódicas de desempenho satisfatórias."
+  },
+  {
+    "question": "Qual requisito relacionado à escolaridade é exigido para a promoção?",
+    "options": [
+      "Ensino médio completo",
+      "Ensino superior completo",
+      "Escolaridade mínima exigida para o nível pretendido",
+      "Curso técnico específico"
+    ],
+    "correct": 2,
+    "explanation": "O inciso IV do § 1º do Art. 11 exige a comprovação da escolaridade mínima exigida para o nível ao qual o servidor pretende ser promovido."
+  },
+  {
+    "question": "O que permite a progressão ou promoção por escolaridade adicional?",
+    "options": [
+      "Apenas a existência de cargos vagos",
+      "A aprovação em concurso interno",
+      "A redução ou supressão do interstício e das avaliações",
+      "A substituição do estágio probatório"
+    ],
+    "correct": 2,
+    "explanation": "O § 3º do Art. 11 permite progressão ou promoção por escolaridade adicional com redução ou supressão do interstício e do número de avaliações, conforme decreto."
+  },
+  {
+    "question": "Quantas vezes os títulos de escolaridade adicional podem ser utilizados para progressão ou promoção?",
+    "options": [
+      "Duas vezes",
+      "Uma única vez",
+      "Sempre que houver promoção",
+      "Sem limite de utilização"
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o § 4º do Art. 11, os títulos apresentados poderão ser utilizados uma única vez."
+  },
+  {
+    "question": "Qual critério NÃO está entre os utilizados na avaliação de desempenho individual?",
+    "options": [
+      "Produtividade no trabalho",
+      "Pontualidade",
+      "Capacidade financeira do servidor",
+      "Trabalho em equipe"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 12 lista critérios como produtividade, pontualidade e trabalho em equipe, não incluindo capacidade financeira do servidor."
+  },
+  {
+    "question": "Quem preside a comissão de avaliação de desempenho individual?",
+    "options": [
+      "O Secretário de Estado",
+      "O Diretor do estabelecimento penal",
+      "O chefe imediato do servidor",
+      "O presidente da Comissão de Promoções"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o § 2º do Art. 12, a comissão de avaliação de desempenho será presidida pelo Diretor do estabelecimento penal."
+  },
+  {
+    "question": "Qual é a finalidade da Comissão de Promoções?",
+    "options": [
+      "Aplicar sanções disciplinares",
+      "Analisar a progressão funcional",
+      "Analisar a promoção na carreira de Policial Penal",
+      "Avaliar o estágio probatório"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 13 cria a Comissão de Promoções com a finalidade de analisar a promoção na carreira de Policial Penal."
+  },
+  {
+    "question": "Quem preside a Comissão de Promoções?",
+    "options": [
+      "O Diretor do estabelecimento penal",
+      "Um representante da entidade de classe",
+      "O Secretário de Estado de Administração Prisional",
+      "O Governador do Estado"
+    ],
+    "correct": 2,
+    "explanation": "O § 2º do Art. 13 determina que a Comissão de Promoções será presidida pelo Secretário de Estado de Administração Prisional."
+  }, {
+    "question": "De acordo com o Art. 10, qual a definição correta de 'Progressão' e como são identificados os seus graus?",
+    "options": [
+      "É a passagem para o nível subsequente, identificada por números romanos de I a X.",
+      "É a passagem para o grau imediatamente subsequente do mesmo nível, identificada por letras de 'A' até 'J'.",
+      "É a mudança de cargo efetivo para cargo em comissão, identificada por letras de 'A' até 'E'.",
+      "É a promoção por escolaridade adicional, identificada por numeração decimal."
+    ],
+    "correct": 1,
+    "explanation": "Art. 10 e § 1º: Progressão é a passagem para o grau subsequente do mesmo nível, e os graus são identificados por letras de 'A' até 'J'."
+  },
+  {
+    "question": "Para que o Policial Penal faça jus à progressão (Art. 10), qual o interstício (tempo) necessário e qual o requisito sobre avaliações de desempenho?",
+    "options": [
+      "A cada 3 anos; ter recebido três avaliações periódicas satisfatórias.",
+      "A cada 5 anos; ter recebido cinco avaliações periódicas satisfatórias.",
+      "A cada 2 anos; ter recebido duas avaliações periódicas satisfatórias desde a progressão anterior.",
+      "A cada 1 ano; ter recebido uma avaliação periódica satisfatória."
+    ],
+    "correct": 2,
+    "explanation": "Art. 10, § 2º, II: A progressão ocorre a cada dois anos, exigindo-se duas avaliações de desempenho individual satisfatórias desde a progressão anterior."
+  },
+  {
+    "question": "Sobre a 'Promoção' (Art. 11), assinale a alternativa que indica o tempo de efetivo exercício no mesmo nível e o número de avaliações satisfatórias exigidas:",
+    "options": [
+      "5 anos de exercício e 5 avaliações satisfatórias.",
+      "2 anos de exercício e 2 avaliações satisfatórias.",
+      "10 anos de exercício e 10 avaliações satisfatórias.",
+      "3 anos de exercício e 3 avaliações satisfatórias."
+    ],
+    "correct": 0,
+    "explanation": "Art. 11, § 1º, II e III: Para a promoção, exige-se o cumprimento do interstício de cinco anos no mesmo nível e cinco avaliações satisfatórias."
+  },
+  {
+    "question": "O Policial Penal pode ter o tempo de interstício e o número de avaliações reduzidos ou suprimidos para fins de progressão ou promoção (Art. 11, § 3º)?",
+    "options": [
+      "Não, os prazos de 2 e 5 anos são improrrogáveis e insuscetíveis de redução.",
+      "Sim, na hipótese de formação complementar ou superior à exigida para o nível em que se encontra, nos termos de decreto.",
+      "Sim, mas apenas em caso de bravura ou ato de serviço relevante.",
+      "Sim, se o servidor não tiver nenhuma falta injustificada em 10 anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 11, § 3º: Poderá haver progressão ou promoção por escolaridade adicional, aplicando-se fator de redução ou supressão do interstício e avaliações em caso de formação superior à exigida."
+  },
+  {
+    "question": "Sobre a utilização de títulos para fins de escolaridade adicional (Art. 11, § 4º), é correto afirmar que:",
+    "options": [
+      "Os títulos podem ser reutilizados a cada nova promoção de nível.",
+      "Os títulos podem ser utilizados uma única vez, sendo vedado seu aproveitamento para qualquer vantagem, salvo para o ADE.",
+      "Não há limites para o uso de títulos, desde que sejam na área de segurança pública.",
+      "Títulos de pós-graduação só servem para progressão, nunca para promoção."
+    ],
+    "correct": 1,
+    "explanation": "Art. 11, § 4º: Os títulos para escolaridade adicional poderão ser utilizados uma única vez, vedado aproveitamento para outras vantagens pecuniárias, exceto para o Adicional de Desempenho – ADE."
+  },
+  {
+    "question": "Dentre os critérios de avaliação de desempenho individual citados no Art. 12, qual destes NÃO faz parte da lista legal?",
+    "options": [
+      "Uso adequado dos equipamentos e instalações de serviço.",
+      "Capacidade de trabalho em equipe e produtividade.",
+      "Contribuição para redução de despesas.",
+      "Exercício de atividade política e representação sindical."
+    ],
+    "correct": 3,
+    "explanation": "Art. 12: A lista de critérios inclui qualidade, produtividade, iniciativa, presteza, assiduidade, pontualidade, entre outros, mas não menciona atividade política."
+  },
+  {
+    "question": "Quem deve presidir a comissão de avaliação de desempenho individual, conforme o Art. 12, § 2º?",
+    "options": [
+      "O Secretário de Estado de Administração Prisional.",
+      "O Diretor do estabelecimento penal.",
+      "O representante da entidade de classe dos Policiais Penais.",
+      "O Corregedor da Secretaria."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, § 2º: A comissão de avaliação de desempenho será presidida pelo Diretor do estabelecimento penal."
+  },
+  {
+    "question": "A Comissão de Promoções, criada pelo Art. 13, tem uma composição específica. Quem a preside?",
+    "options": [
+      "O Diretor-Geral da Polícia Penal.",
+      "O Policial Penal com maior tempo de serviço na carreira.",
+      "O Secretário de Estado de Administração Prisional.",
+      "O Governador do Estado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13, § 2º: A Comissão de Promoções será presidida pelo Secretário de Estado de Administração Prisional."
+  },
+  {
+    "question": "Sobre a jornada de trabalho do Policial Penal (Art. 15), assinale a regra geral e sua exceção prevista no parágrafo único:",
+    "options": [
+      "6 horas diárias; podendo ser 12 horas em regime de sobreaviso.",
+      "8 horas diárias; podendo ser cumprida em escala de plantão na forma de regulamento.",
+      "40 horas semanais; sem previsão de regime de plantão.",
+      "7 horas diárias; podendo ser reduzida para 6 horas em caso de escolta."
+    ],
+    "correct": 1,
+    "explanation": "Art. 15 e Parágrafo Único: A jornada é de 8 horas diárias, podendo ser cumprida em escala de plantão conforme regulamento."
+  },
+  {
+    "question": "A Escola de Justiça e Cidadania passou a ter qual denominação conforme o Art. 17 da Lei?",
+    "options": [
+      "Academia de Polícia Penal (APP).",
+      "Escola de Formação e Aperfeiçoamento Penitenciário.",
+      "Centro de Instrução Especializada Prisional.",
+      "Instituto de Estudos de Segurança Pública."
+    ],
+    "correct": 1,
+    "explanation": "Art. 17: A Escola de Justiça e Cidadania passa a denominar-se Escola de Formação e Aperfeiçoamento Penitenciário."
+  },
+  {
+    "question": "Conforme as Disposições Transitórias (Art. 18), os servidores absorvidos na nova carreira foram posicionados, excepcionalmente, em qual grau?",
+    "options": [
+      "Grau A.",
+      "Grau J.",
+      "Grau correspondente ao tempo de serviço anterior.",
+      "Grau E, no meio da carreira."
+    ],
+    "correct": 0,
+    "explanation": "Art. 18: Os servidores [...] serão posicionados, excepcionalmente, no grau A, no nível correspondente da Classe de Policial Penal."
+  },
+  {
+    "question": "Segundo o Art. 18, § 1º, quais os requisitos obrigatórios para que o servidor posicionado na transição possa evoluir na carreira?",
+    "options": [
+      "Apenas o tempo de serviço de 10 anos.",
+      "Apenas a indicação do Diretor do presídio.",
+      "Formação em ensino médio e aprovação no curso de formação técnico-profissional, além dos requisitos de desempenho e tempo.",
+      "Não há requisitos adicionais, a evolução é automática por antiguidade."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18, § 1º: O servidor somente poderá evoluir após a formação em ensino médio e aprovação no curso de formação técnico-profissional, além de cumprir os requisitos de progressão (Art. 10) e promoção (Art. 11)."
+  },
+  {
+    "question": "No caso de a remuneração do servidor na data da lei ser superior ao valor do vencimento do cargo em que foi posicionado (Art. 18, § 3º), o que ocorre com a diferença?",
+    "options": [
+      "O servidor sofre redução salarial para se adequar à tabela.",
+      "A diferença é paga como bônus de produtividade variável.",
+      "A diferença integrará a composição remuneratória a título de vantagem pessoal nominalmente identificada (VPNI).",
+      "O servidor é promovido antecipadamente para o nível superior para compensar."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18, § 3º: A diferença passará a integrar a composição remuneratória do servidor a título de vantagem pessoal nominalmente identificada."
+  },
+  {
+    "question": "O Art. 18, § 4º trata da classe de cargos de Policial Penal referente aos servidores absorvidos. O que acontecerá com essa classe específica?",
+    "options": [
+      "Será mantida permanentemente para novos concursos.",
+      "Extinguir-se-á com a vacância e não se confunde com a nova carreira criada pela Lei.",
+      "Será unificada com a carreira de Delegado de Polícia.",
+      "Será transformada em cargo de nível superior imediatamente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 18, § 4º: A classe de cargos a que se refere o caput extinguir-se-á com a vacância, não se confundindo com a carreira de Policial Penal criada pela Lei."
+  },
+  {
+    "question": "Sobre a Comissão de Promoções (Art. 13, § 1º), quem são os membros que obrigatoriamente a compõem além do Secretário?",
+    "options": [
+      "Três representantes do Poder Judiciário e um do Ministério Público.",
+      "Dois representantes da entidade de classe dos Policiais Penais e gestores da Seap indicados em regulamento.",
+      "Apenas diretores de unidades prisionais da capital.",
+      "Representantes da Assembleia Legislativa e da Secretaria de Fazenda."
+    ],
+    "correct": 1,
+    "explanation": "Art. 13, § 1º: Compõem a comissão o Secretário, dois representantes da entidade de classe dos Policiais Penais e outros membros gestores da Seap indicados em regulamento."
+  }
+ ,
+  {
+    "question": "O que foi criado pelo Art. 1º da Lei na estrutura da Subsecretaria de Administração Penitenciária?",
+    "options": [
+      "A Diretoria de Segurança Pública e a Corregedoria Geral",
+      "A Superintendência de Coordenação da Guarda Penitenciária e a Diretoria de Inteligência Penitenciária",
+      "A Secretaria de Administração Prisional e a Guarda Civil",
+      "A Diretoria de Gestão e a Superintendência de Custódia"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º da Lei determina a criação da Superintendência de Coordenação da Guarda Penitenciária e da Diretoria de Inteligência Penitenciária na estrutura da Subsecretaria de Administração Penitenciária da Secretaria de Estado de Defesa Social."
+  },
+  {
+    "question": "Qual das alternativas representa uma competência da Superintendência de Coordenação da Guarda Penitenciária?",
+    "options": [
+      "Julgar processos administrativos disciplinares",
+      "Normatizar, coordenar e controlar a segurança interna e externa dos estabelecimentos penais",
+      "Realizar atividades exclusivas de inteligência policial",
+      "Administrar recursos humanos da Secretaria de Defesa Social"
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o Art. 2º, inciso I, compete à Superintendência normatizar, coordenar e controlar as atividades relacionadas à segurança e vigilância interna e externa dos estabelecimentos penais."
+  },
+  {
+    "question": "Quantas diretorias compõem a Superintendência de Coordenação da Guarda Penitenciária?",
+    "options": [
+      "Uma diretoria",
+      "Duas diretorias",
+      "Três diretorias",
+      "Quatro diretorias"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 3º estabelece que a Superintendência de Coordenação da Guarda Penitenciária é composta por duas diretorias."
+  },
+  {
+    "question": "Quem definirá a denominação e competência das unidades administrativas da Superintendência?",
+    "options": [
+      "A Assembleia Legislativa",
+      "A Secretaria de Defesa Social",
+      "Um decreto",
+      "O Conselho Penitenciário"
+    ],
+    "correct": 2,
+    "explanation": "Conforme o parágrafo único do Art. 3º, a denominação, a competência e a descrição das unidades administrativas serão estabelecidas em decreto."
+  },
+  {
+    "question": "Qual cargo em comissão foi criado com o símbolo DR-05?",
+    "options": [
+      "Diretor I",
+      "Diretor II",
+      "Comandante de Avião",
+      "Piloto de Helicóptero"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 4º, inciso I, cria um cargo de Diretor II, código MG-05, símbolo DR-05."
+  },
+  {
+    "question": "Quem deve ocupar preferencialmente os cargos em comissão da Superintendência?",
+    "options": [
+      "Servidores administrativos",
+      "Policiais Civis",
+      "Policiais Penais dos níveis III, IV e V",
+      "Militares da reserva"
+    ],
+    "correct": 2,
+    "explanation": "O § 1º do Art. 4º determina que os cargos em comissão sejam ocupados preferencialmente por Policiais Penais posicionados nos níveis III, IV e V, com formação superior relacionada às atividades-fim."
+  },
+  {
+    "question": "A carreira de Policial Penal integra qual grupo de atividades?",
+    "options": [
+      "Grupo de Segurança Pública",
+      "Grupo de Administração Geral",
+      "Grupo de Atividades de Defesa Social",
+      "Grupo de Atividades Jurídicas"
+    ],
+    "correct": 2,
+    "explanation": "O parágrafo único do Art. 5º dispõe que a carreira de Policial Penal integra o Grupo de Atividades de Defesa Social do Poder Executivo."
+  },
+  {
+    "question": "Qual é uma das competências do Policial Penal previstas no Art. 6º?",
+    "options": [
+      "Atuar como perito criminal",
+      "Garantir a ordem e a segurança nos estabelecimentos penais",
+      "Julgar faltas disciplinares",
+      "Exercer funções administrativas externas"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 6º, inciso I, estabelece como competência do Policial Penal garantir a ordem e a segurança no interior dos estabelecimentos penais."
+  },
+  {
+    "question": "O Policial Penal pode portar arma de fogo em quais condições?",
+    "options": [
+      "Em qualquer local e horário",
+      "Somente fora do serviço",
+      "Quando em serviço, exceto nas dependências internas do estabelecimento penal",
+      "Apenas durante escoltas externas"
+    ],
+    "correct": 2,
+    "explanation": "Segundo o § 1º do Art. 6º, o Policial Penal pode portar arma de fogo fornecida pela administração pública quando em serviço, exceto nas dependências internas do estabelecimento penal."
+  },
+  {
+    "question": "Qual é o regime de trabalho do cargo de Policial Penal?",
+    "options": [
+      "Regime parcial",
+      "Regime de plantão eventual",
+      "Regime de dedicação exclusiva",
+      "Regime administrativo comum"
+    ],
+    "correct": 2,
+    "explanation": "O § 3º do Art. 6º determina que o cargo de Policial Penal será exercido em regime de dedicação exclusiva."
+  },
+  {
+    "question": "O que é a GAPEP?",
+    "options": [
+      "Uma gratificação por produtividade",
+      "Uma gratificação de risco de vida",
+      "A Gratificação de Policial Penal em Estabelecimento Penal",
+      "Um adicional por tempo de serviço"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º cria a Gratificação de Policial Penal em Estabelecimento Penal – GAPEP –, destinada aos servidores da carreira de Policial Penal."
+  },
+  {
+    "question": "Qual é a base de cálculo da GAPEP?",
+    "options": [
+      "100% do vencimento básico",
+      "70% do vencimento básico",
+      "85% do vencimento básico do grau J",
+      "50% do vencimento básico inicial"
+    ],
+    "correct": 2,
+    "explanation": "O § 1º do Art. 7º fixa a base de cálculo da GAPEP em 85% do vencimento básico correspondente ao grau J da faixa de vencimento."
+  },
+  {
+    "question": "Quais são as fases da carreira de Policial Penal?",
+    "options": [
+      "Ingresso, estágio e estabilidade",
+      "Ingresso, promoção e progressão",
+      "Concurso, nomeação e posse",
+      "Formação, avaliação e promoção"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 8º define como fases da carreira de Policial Penal o ingresso, a promoção e a progressão."
+  },
+  {
+    "question": "Em qual grau ocorre o ingresso na carreira de Policial Penal?",
+    "options": [
+      "Último grau do nível inicial",
+      "Primeiro grau do nível inicial",
+      "Grau intermediário da carreira",
+      "Grau definido em regulamento"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 9º estabelece que o ingresso na carreira ocorre no primeiro grau do nível inicial, mediante aprovação em concurso público."
+  },
+  {
+    "question": "Qual é o intervalo mínimo para a progressão na carreira de Policial Penal?",
+    "options": [
+      "Um ano",
+      "Dois anos",
+      "Três anos",
+      "Cinco anos"
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o Art. 10, § 2º, a progressão na carreira de Policial Penal ocorre a cada dois anos, desde que atendidos os requisitos legais."
+  }
+]
+,
 
 "DireitosHumanosAOCP":[
   {
