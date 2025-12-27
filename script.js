@@ -3494,7 +3494,461 @@ const questions = {
 ]
 ,
 
-
+"AbusoDeAutoridade1":[
+{
+    "question": "De acordo com a lei 13.869 de setembro de 2019, quem coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 22, § 1º, inciso I: Incorre na mesma pena (detenção, de 1 a 4 anos, e multa) quem coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, quem cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas), sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 22, § 1º, inciso III: Incorre na mesma pena (detenção, de 1 a 4 anos, e multa) quem cumpre mandado de busca e apreensão domiciliar após as 21h ou antes das 5h. É o chamado 'crime de busca e apreensão noturna'."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade judiciária que, inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade ou de responsabilizar criminalmente alguém ou agravar-lhe a responsabilidade, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23: Inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa... Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade judiciária que omitir dados ou informações ou divulgar dados ou informações incompletos para desviar o curso da investigação, da diligência ou do processo, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 23, parágrafo único: Incorre na mesma pena (1 a 4 anos) quem omite dados ou informações ou divulga dados incompletos para desviar o curso da investigação."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente que, constranger, sob violência ou grave ameaça, funcionário ou empregado de instituição hospitalar pública ou privada a admitir para tratamento pessoa cujo óbito já tenha ocorrido, com o fim de alterar local ou momento de crime, prejudicando sua apuração, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa, além da pena correspondente à violência.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência."
+    ],
+    "correct": 3,
+    "explanation": "Art. 24: Constranger funcionário de hospital a admitir pessoa morta para alterar local de crime. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente que proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 25: Proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 27: Requisitar instauração ou instaurar procedimento investigatório sem qualquer indício. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 28: Divulgar gravação sem relação com a prova expondo a intimidade do investigado. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que prestar informação falsa sobre procedimento judicial, policial, fiscal ou administrativo com o fim de prejudicar interesse de investigado, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 29: Prestar informação falsa sobre procedimento para prejudicar o investigado. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 30: Dar início ou proceder à persecução sem justa causa ou contra quem sabe inocente. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que estender injustificadamente a investigação, procrastinando-a em prejuízo do investigado ou fiscalizado, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 31: Estender injustificadamente a investigação em prejuízo do investigado. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar (...) ressalvado o acesso a peças relativas a diligências em curso (...) sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 32: Negar ao interessado ou defensor acesso aos autos de investigação (salvo diligências em curso). Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que exigir informação ou cumprimento de obrigação, inclusive o dever de fazer ou de não fazer, sem expresso amparo legal, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33: Exigir informação ou obrigação sem amparo legal. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida (...) e deixar de corrigi-la, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 36: Decretar indisponibilidade de ativos em excesso e deixar de corrigir a medida. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que demorar demasiada e injustificadamente no exame de processo de que tenha requerido vista em órgão colegiado, com o intuito de procrastinar seu andamento, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 37: Demorar demasiadamente no exame de processo com pedido de vista para procrastinar. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente/autoridade que antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 38: Antecipar atribuição de culpa em redes sociais ou comunicação antes de concluída a apuração. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  }
+  ,{
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 2 (dois) anos e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 12, inciso IV: Deixar de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, parágrafo único: Nas mesmas penas (6 meses a 2 anos) incorre quem deixa de entregar ao preso, no prazo de 24 horas, a nota de culpa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 2 (dois) anos e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 12, inciso III: Prolongar a execução de pena, prisão ou medida de segurança (...) deixando de executar o alvará de soltura imediatamente. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência a produzir prova contra si mesmo ou contra terceiro, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 1 (um) a 3 (três) anos, e multa",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa",
+      "detenção, de 3 (três) a 5 (quatro) anos, e multa, sem prejuízo da pena cominada à violência."
+    ],
+    "correct": 1,
+    "explanation": "Art. 13, inciso III: Constranger o preso (...) a produzir prova contra si mesmo ou contra terceiro. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo, fica sujeito à penalidade de:",
+    "options": [
+      "detenção, de 1 (um) a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 3 (três) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa"
+    ],
+    "correct": 3,
+    "explanation": "Art. 15, parágrafo único: Incorre na mesma pena (1 a 4 anos) quem constrange a depor, sob ameaça de prisão, pessoa que deva guardar segredo ou sigilo profissional."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 16: Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 16, parágrafo único: Nas mesmas penas (6 meses a 2 anos) incorre quem, como responsável por interrogatório, deixa de identificar-se ao preso."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18: Submeter o preso a interrogatório policial durante o repouso noturno (...). Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 6 (seis) meses 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 3 (três) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 19: Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade competente. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 20: Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois) anos, e multa.",
+      "detenção, de 2 (dois) anos a 4 (quatro) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 20, parágrafo único: Incorre na mesma pena (6 meses a 2 anos) quem impede o preso (...) de entrevistar-se com seu advogado antes de audiência."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, manter presos de ambos os sexos na mesma cela ou espaço de confinamento, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 6 (seis) meses 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 3 (três) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 21: Manter presos de ambos os sexos na mesma cela ou espaço de confinamento. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado, fica sujeito à pena de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 3 (três) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 21, parágrafo único: Incorre na mesma pena (1 a 4 anos) quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente público/autoridade judiciária que, invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "detenção, de 2 (dois) a 5 (cinco) anos, e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 22: Invadir ou adentrar imóvel alheio (...) sem determinação judicial ou fora das condições estabelecidas em lei. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente que decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais, incorre na penalidade de detenção de:",
+    "options": [
+      "1 (um) a 3 (três) anos e multa.",
+      "1 (um) a 6 (seis) anos e multa.",
+      "1 (um) a 4 (quatro) anos e multa.",
+      "2 (dois) a 6 (seis) anos e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 9º: Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, dentro de prazo razoável, deixar de relaxar a prisão manifestamente ilegal, incorre na penalidade de detenção de:",
+    "options": [
+      "1 (um) a 4 (quatro) anos e multa.",
+      "2 (dois) a 3 (três) anos e multa.",
+      "1 (um) a 6 (seis) anos e multa.",
+      "2 (dois) a 6 (seis) anos e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 9º, parágrafo único, inciso I: Nas mesmas penas (1 a 4 anos) incorre a autoridade judiciária que, dentro de prazo razoável, deixar de relaxar a prisão manifestamente ilegal."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível, incorre na penalidade de detenção de:",
+    "options": [
+      "2 (dois) a 3 (três) anos e multa.",
+      "1 (um) a 6 (seis) anos e multa.",
+      "2 (dois) a 6 (seis) anos e multa.",
+      "1 (um) a 4 (quatro) anos e multa."
+    ],
+    "correct": 3,
+    "explanation": "Art. 9º, parágrafo único, inciso II: Incorre na mesma pena (1 a 4 anos) a autoridade que deixar de substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo, sujeita-se à penalidade de:",
+    "options": [
+      "1 (um) a 4 (quatro) anos e multa.",
+      "2 (dois) a 3 (três) anos e multa.",
+      "1 (um) a 6 (seis) anos e multa.",
+      "2 (dois) a 6 (seis) anos e multa."
+    ],
+    "correct": 0,
+    "explanation": "Art. 10: Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que, deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois)anos, e multa.",
+      "detenção, de 2 (dois) anos e multa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, inciso I: Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a autoridade judiciária que deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou, sujeita-se à penalidade de:",
+    "options": [
+      "detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "detenção, de 2 (dois) anos e multa.",
+      "detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "detenção, de 1 (um) ano a 2 (dois)anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 12, inciso II: Deixar de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou. Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa."
+  }
+  ,{
+    "question": "De acordo com a lei 13.869 de setembro de 2019, é sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, mas não se limitando a: <br/>I - servidores públicos e militares ou pessoas a eles equiparadas. <br/>II - membros dos Poderes Legislativo, Executivo e Judiciário <br/>III - membros do Ministério Público. <br/>IV - membros dos tribunais ou conselhos de contas. <br/>V - membros de sindicatos patronais. <br/>Está correto o que se afirma APENAS em:",
+    "options": [
+      "I, III e V.",
+      "I e III.",
+      "I, II, III e IV",
+      "II, IV e V.",
+      "III."
+    ],
+    "correct": 2,
+    "explanation": "Art. 2º: Reputa-se agente público todo aquele que exerce mandato, cargo, emprego ou função nas entidades referidas. O parágrafo único especifica que compreende servidores, militares, membros dos Poderes Legislativo, Executivo, Judiciário, MP e Tribunais de Contas. Membros de sindicatos patronais (V) não se enquadram no conceito de agentes públicos para esta lei."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, a ação privada subsidiária será exercida no prazo de __________, contado da data em que se esgotar o prazo para oferecimento da denúncia.",
+    "options": [
+      "2 (dois) meses",
+      "3 (três) meses",
+      "5 (cinco) meses",
+      "6 (seis) meses"
+    ],
+    "correct": 3,
+    "explanation": "Art. 3º, § 2º: A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para o oferecimento da denúncia."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, são efeitos da condenação: <br/>I - tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos por ele sofridos. <br/>II - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos. <br/>III - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 2 (dois) a 4 (quatro) anos. <br/>IV - a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 3 (três) a 5 (cinco) anos. <br/>V - a perda do cargo, do mandato ou da função pública. <br/>Está correto o que se afirma APENAS em:",
+    "options": [
+      "I, III e V.",
+      "I e III.",
+      "I, II, III e IV",
+      "I, II e V.",
+      "III."
+    ],
+    "correct": 3,
+    "explanation": "Art. 4º: São efeitos da condenação: I- tornar certa a obrigação de indenizar; II- a inabilitação para o exercício de cargo (...) pelo período de 1 a 5 anos; III- a perda do cargo, do mandato ou da função pública. Os itens III e IV da questão trazem prazos que não constam na lei."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, as penas restritivas de direitos substitutivas das privativas de liberdade prevê suspensão do exercício do cargo, da função ou do mandato, pelo prazo de __________, com a perda dos vencimentos e das vantagens.",
+    "options": [
+      "1 (um) a 3 (três) meses",
+      "1 (um) a 4 (quatro) meses",
+      "1 (um) a 6 (seis) meses",
+      "2 (dois) a 6 (seis) meses"
+    ],
+    "correct": 2,
+    "explanation": "Art. 5º, II: As penas restritivas de direitos substituem as privativas de liberdade e incluem a suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 a 6 meses, com a perda de vencimentos."
+  },
+  {
+    "question": "De acordo com a lei 13.869 de setembro de 2019, o agente que decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais, incorre na penalidade de detenção de:",
+    "options": [
+      "1 (um) a 3 (três) anos e multa.",
+      "1 (um) a 4 (quatro) anos e multa.",
+      "1 (um) a 6 (seis) anos e multa.",
+      "2 (dois) a 6 (seis) anos e multa"
+    ],
+    "correct": 1,
+    "explanation": "Art. 9º: Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais. Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa."
+  }
+],
 
 
 "DireitosHumanosCAmericana":[
