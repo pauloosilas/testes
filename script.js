@@ -10308,6 +10308,510 @@ const questions = {
   }
 ],
 
+"Lei11343_60_63":[
+  {
+    "question": "De acordo com o Art. 60, quem pode requerer ao juiz a apreensão de bens, direitos ou valores que sejam produto de crime?",
+    "options": [
+      "Apenas o Ministério Público.",
+      "O Ministério Público, o assistente de acusação ou a autoridade de polícia judiciária (mediante representação).",
+      "Apenas o Conselho Nacional Antidrogas (CONAD).",
+      "Qualquer cidadão que presenciar o crime."
+    ],
+    "correct": 1,
+    "explanation": "Art. 60. O juiz, a requerimento do Ministério Público ou do assistente de acusação, ou mediante representação da autoridade de polícia judiciária, poderá decretar a apreensão."
+  },
+  {
+    "question": "O juiz pode suspender a execução imediata de uma ordem de apreensão de bens?",
+    "options": [
+      "Não, a apreensão deve ser sempre imediata.",
+      "Sim, desde que o réu confesse o crime.",
+      "Sim, ouvido o Ministério Público, quando a execução imediata puder comprometer as investigações.",
+      "Sim, mas apenas se o valor do bem for superior a 1 milhão de reais."
+    ],
+    "correct": 2,
+    "explanation": "Art. 60, § 4º. A ordem de apreensão ou sequestro poderá ser suspensa pelo juiz, ouvido o MP, quando a execução imediata puder comprometer as investigações."
+  },
+  {
+    "question": "Qual é o prazo para o acusado apresentar provas da origem lícita do bem apreendido, segundo o Art. 60, § 5º?",
+    "options": [
+      "5 dias.",
+      "10 dias.",
+      "15 dias.",
+      "30 dias."
+    ],
+    "correct": 0,
+    "explanation": "Art. 60, § 5º. O juiz facultará ao acusado que, no prazo de 5 (cinco) dias, apresente provas acerca da origem lícita do bem."
+  },
+  {
+    "question": "Se as medidas assecuratórias recaírem sobre moeda estrangeira, qual deve ser o procedimento imediato?",
+    "options": [
+      "Guardar em cofre na delegacia até o fim do processo.",
+      "Sua conversão imediata em moeda nacional.",
+      "Doação imediata para instituições de caridade.",
+      "Transferência direta para o país de origem da moeda."
+    ],
+    "correct": 1,
+    "explanation": "Art. 60-A. Se as medidas recaírem sobre moeda estrangeira (...), será determinada, imediatamente, a sua conversão em moeda nacional."
+  },
+  {
+    "question": "Conforme o Art. 61, § 1º, qual é o prazo para o juiz determinar a alienação (venda) dos bens apreendidos?",
+    "options": [
+      "Em até 15 dias da comunicação.",
+      "Em até 60 dias da comunicação.",
+      "Em até 30 dias contado da comunicação.",
+      "Apenas após o trânsito em julgado da sentença."
+    ],
+    "correct": 2,
+    "explanation": "Art. 61, § 1º. O juiz, no prazo de 30 (trinta) dias contado da comunicação, determinará a alienação dos bens apreendidos."
+  },
+  {
+    "question": "Qual é o valor mínimo pelo qual um bem móvel ou imóvel pode ser vendido em hasta pública?",
+    "options": [
+      "Qualquer valor oferecido pelo maior lance.",
+      "Preço não inferior a 70% do valor da avaliação.",
+      "Preço não inferior a 50% do valor da avaliação judicial.",
+      "Valor idêntico ao da avaliação judicial, sem descontos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 61, § 11. Os bens (...) devem ser vendidos por preço não inferior a 50% (cinquenta por cento) do valor da avaliação judicial."
+  },
+  {
+    "question": "Na alienação de veículos, quem fica responsável pelo pagamento de multas e tributos anteriores à arrematação?",
+    "options": [
+      "O arrematante (comprador).",
+      "O arrematante fica isento, sem prejuízo de execução fiscal contra o antigo proprietário.",
+      "A Secretaria de Segurança Pública.",
+      "O Poder Judiciário."
+    ],
+    "correct": 1,
+    "explanation": "Art. 61, § 13. (...) ficando o arrematante isento do pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário."
+  },
+  {
+    "question": "Órgãos de polícia judiciária podem utilizar bens apreendidos antes do fim do processo?",
+    "options": [
+      "Sim, comprovado o interesse público e mediante autorização judicial, ouvido o MP.",
+      "Sim, mas apenas se o bem for uma arma de fogo.",
+      "Não, o uso por órgãos públicos é vedado pela lei.",
+      "Sim, mas apenas se o acusado concordar expressamente."
+    ],
+    "correct": 0,
+    "explanation": "Art. 62. Comprovado o interesse público na utilização (...) os órgãos de polícia (...) poderão deles fazer uso, sob sua responsabilidade, mediante autorização judicial."
+  },
+  {
+    "question": "Qual órgão tem prioridade para receber o uso de bens apreendidos?",
+    "options": [
+      "A Defensoria Pública.",
+      "Os órgãos de segurança pública que participaram da investigação ou repressão ao crime.",
+      "O Ministério da Educação.",
+      "As prefeituras dos municípios onde o crime ocorreu."
+    ],
+    "correct": 1,
+    "explanation": "Art. 62, § 1º-B. Têm prioridade (...) os órgãos de segurança pública que participaram das ações de investigação ou repressão ao crime."
+  },
+  {
+    "question": "Se um bem utilizado pela polícia sofrer depreciação superior à esperada e for devolvido ao proprietário posteriormente, quem deve indenizar?",
+    "options": [
+      "O delegado que assinou o auto.",
+      "O Ministério Público.",
+      "O ente federado ou a entidade que utilizou o bem.",
+      "O proprietário não tem direito a indenização."
+    ],
+    "correct": 2,
+    "explanation": "Art. 62, § 6º. Constatada a depreciação (...), o ente federado ou a entidade que utilizou o bem indenizará o detentor ou proprietário."
+  },
+  {
+    "question": "Os depósitos em dinheiro feitos na Caixa Econômica Federal devem ser transferidos para a conta única do Tesouro Nacional em qual prazo?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "5 dias.",
+      "No final de cada mês."
+    ],
+    "correct": 0,
+    "explanation": "Art. 62-A, § 1º. Os depósitos (...) devem ser transferidos (...) para a conta única do Tesouro Nacional (...) no prazo de 24 (vinte e quatro) horas."
+  },
+  {
+    "question": "Após decretado o perdimento de bens em favor da União, para onde são revertidos os valores?",
+    "options": [
+      "Diretamente ao Fundo Nacional de Saúde.",
+      "Diretamente ao Funad (Fundo Nacional Antidrogas).",
+      "Para a conta bancária da vítima do crime.",
+      "Para o fundo de pensão dos magistrados."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63, § 1º. Os bens (...) após decretado seu perdimento em favor da União, serão revertidos diretamente ao Funad."
+  },
+  {
+    "question": "No caso de imóveis perdidos em favor da União, o que o juiz deve determinar antes de encaminhar ao órgão gestor do Funad?",
+    "options": [
+      "A demolição imediata da construção.",
+      "O registro de propriedade em favor da União no cartório de registro de imóveis competente.",
+      "O aluguel para terceiros até o leilão.",
+      "A transferência da posse para o estado federado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63, § 4º-A, II. (...) determinar, no caso de imóveis, o registro de propriedade em favor da União no cartório de registro de imóveis competente."
+  },
+  {
+    "question": "Qual é o prazo para um interessado reclamar bens ou valores depositados antes que eles sejam revertidos definitivamente ao Funad?",
+    "options": [
+      "180 dias do trânsito em julgado.",
+      "90 dias do trânsito em julgado.",
+      "360 dias do trânsito em julgado e do conhecimento da sentença.",
+      "2 anos da data da apreensão."
+    ],
+    "correct": 2,
+    "explanation": "Art. 63, § 6º. Decorridos 360 (trezentos e sessenta) dias do trânsito em julgado (...) os valores depositados que não forem reclamados serão revertidos ao Funad."
+  },
+  {
+    "question": "Na hipótese de suspensão do processo (Art. 366 do CPP), o que o juiz pode fazer em relação aos bens?",
+    "options": [
+      "Nada, os bens devem ficar parados até o réu aparecer.",
+      "Determinar a prática de atos necessários à conservação dos bens, direitos ou valores.",
+      "Leiloar imediatamente e ficar com o dinheiro.",
+      "Devolver à família do acusado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 60, § 3º. Na hipótese do art. 366 do CPP, o juiz poderá determinar a prática de atos necessários à conservação dos bens."
+  }
+],
+
+"Lei11343_63_64":[
+  {
+    "question": "De acordo com o Art. 63-A, qual é a condição obrigatória para que um pedido de restituição de bens seja conhecido pelo juiz?",
+    "options": [
+      "O comparecimento pessoal do acusado.",
+      "A apresentação de procuração com poderes específicos.",
+      "O pagamento prévio de uma caução em dinheiro.",
+      "A comprovação de residência fixa do réu."
+    ],
+    "correct": 0,
+    "explanation": "Art. 63-A. Nenhum pedido de restituição será conhecido sem o comparecimento pessoal do acusado."
+  },
+  {
+    "question": "Comprovada a licitude da origem de um bem sob medida assecuratória, o juiz deve liberá-lo, mas o Art. 63-B prevê que a constrição deve ser mantida para:",
+    "options": [
+      "Manutenção do pátio da delegacia.",
+      "Reparação de danos, pagamento de prestações pecuniárias, multas e custas.",
+      "Garantir a apreensão de outros bens ilícitos no futuro.",
+      "Apenas para o pagamento de honorários do perito."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63-B. Mantendo-se a constrição dos bens (...) necessários e suficientes à reparação dos danos e ao pagamento de prestações pecuniárias, multas e custas."
+  },
+  {
+    "question": "A quem compete proceder à destinação dos bens apreendidos e não leiloados em caráter cautelar cujo perdimento seja decretado em favor da União?",
+    "options": [
+      "Ao Conselho Nacional de Justiça (CNJ).",
+      "Ao Ministério Público Federal (MPF).",
+      "À Senad (Secretaria Nacional de Políticas sobre Drogas).",
+      "Ao Juiz da Vara de Execuções Penais."
+    ],
+    "correct": 2,
+    "explanation": "Art. 63-C. Compete à Senad, do Ministério da Justiça e Segurança Pública, proceder à destinação dos bens apreendidos."
+  },
+  {
+    "question": "Segundo o Art. 63-C, a alienação por licitação de bens móveis e imóveis deve ser realizada em qual modalidade?",
+    "options": [
+      "Convite.",
+      "Leilão.",
+      "Concorrência pública.",
+      "Tomada de preços."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63-C, § 1º. A alienação por meio de licitação deve ser realizada na modalidade leilão, para bens móveis e imóveis."
+  },
+  {
+    "question": "No leilão de bens confiscados, qual é o valor mínimo aceitável para a venda, conforme o Art. 63-C, § 1º?",
+    "options": [
+      "70% do valor da avaliação.",
+      "100% do valor da avaliação.",
+      "Qualquer lance, independentemente do valor.",
+      "Preço não inferior a 50% do valor da avaliação."
+    ],
+    "correct": 3,
+    "explanation": "Art. 63-C, § 1º. Assegurada a venda pelo maior lance, por preço não inferior a 50% (cinquenta por cento) do valor da avaliação."
+  },
+  {
+    "question": "Sobre a publicidade dos editais de leilão físico (não eletrônico), a Lei 11.343 estabelece que:",
+    "options": [
+      "É dispensada a publicação em diário oficial, focando em jornais de grande circulação e sites oficiais.",
+      "A publicação em Diário Oficial da União é obrigatória e insubstituível.",
+      "Basta a fixação do edital no átrio do fórum local.",
+      "É proibida a divulgação em redes sociais e sítios eletrônicos."
+    ],
+    "correct": 0,
+    "explanation": "Art. 63-C, § 2º. O edital do leilão (...) será amplamente divulgado (...), dispensada a publicação em diário oficial."
+  },
+  {
+    "question": "Na alienação de imóveis confiscados pela Lei de Drogas, o arrematante:",
+    "options": [
+      "Assume todas as dívidas de IPTU e condomínio do antigo proprietário.",
+      "Deve pagar 10% do valor para o fundo de assistência judiciária.",
+      "Fica livre do pagamento de encargos e tributos anteriores.",
+      "Torna-se fiel depositário até o fim da execução fiscal."
+    ],
+    "correct": 2,
+    "explanation": "Art. 63-C, § 4º. Na alienação de imóveis, o arrematante fica livre do pagamento de encargos e tributos anteriores."
+  },
+  {
+    "question": "A Lei permite a contratação da iniciativa privada para quais ações relacionadas aos bens apreendidos?",
+    "options": [
+      "Apenas para a destruição de entorpecentes.",
+      "Avaliação, administração e alienação dos bens.",
+      "Investigação de campo e prisões em flagrante.",
+      "Apenas para transporte de veículos apreendidos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63-C, § 8º. Fica autorizada a contratação da iniciativa privada para a execução das ações de avaliação, de administração e de alienação dos bens."
+  },
+  {
+    "question": "Para onde deve ser revertido integralmente o produto da alienação dos bens apreendidos ou confiscados?",
+    "options": [
+      "Tesouro Nacional para pagamento da dívida pública.",
+      "Polícia Federal para compra de armamentos.",
+      "Secretaria da Fazenda estadual.",
+      "Funad (Fundo Nacional Antidrogas)."
+    ],
+    "correct": 3,
+    "explanation": "Art. 63-E. O produto da alienação dos bens apreendidos ou confiscados será revertido integralmente ao Funad."
+  },
+  {
+    "question": "O 'confisco alargado' previsto no Art. 63-F pode ser aplicado em condenações cujas infrações tenham pena máxima superior a:",
+    "options": [
+      "6 (seis) anos de reclusão.",
+      "4 (quatro) anos de reclusão.",
+      "10 (dez) anos de reclusão.",
+      "2 (dois) anos de detenção."
+    ],
+    "correct": 0,
+    "explanation": "Art. 63-F. Na hipótese de condenação por infrações às quais esta Lei comine pena máxima superior a 6 (seis) anos de reclusão..."
+  },
+  {
+    "question": "A decretação da perda de bens pela incompatibilidade patrimonial (Art. 63-F) exige prova de:",
+    "options": [
+      "Que o réu possui mais de três imóveis em seu nome.",
+      "Conduta criminosa habitual, reiterada ou profissional, ou vinculação a organização criminosa.",
+      "Que o réu nunca declarou imposto de renda.",
+      "Que o réu viajou para o exterior nos últimos seis meses."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63-F, § 1º. Fica condicionada à existência de elementos probatórios que indiquem conduta criminosa habitual, reiterada ou profissional ou sua vinculação a organização criminosa."
+  },
+  {
+    "question": "No contexto do perdimento de bens, o patrimônio do condenado inclui bens transferidos a terceiros quando:",
+    "options": [
+      "A transferência ocorreu há mais de 20 anos.",
+      "Foram vendidos pelo preço de mercado para compradores de boa-fé.",
+      "Transferidos a título gratuito ou por contraprestação irrisória a partir do início da atividade criminal.",
+      "Transferidos apenas para parentes de primeiro grau."
+    ],
+    "correct": 2,
+    "explanation": "Art. 63-F, § 2º, II. Bens transferidos a terceiros a título gratuito ou mediante contraprestação irrisória, a partir do início da atividade criminal."
+  },
+  {
+    "question": "Diante da alegação de incompatibilidade patrimonial no processo, o que o condenado pode fazer segundo o § 3º do Art. 63-F?",
+    "options": [
+      "Demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio.",
+      "Pedir a suspensão do processo por tempo indeterminado.",
+      "Substituir os bens por prestação de serviços à comunidade.",
+      "Não há previsão de defesa para este caso específico."
+    ],
+    "correct": 0,
+    "explanation": "Art. 63-F, § 3º. O condenado poderá demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio."
+  },
+  {
+    "question": "Quem regulamenta os procedimentos de administração e estabelece os valores mínimos para destruição de bens de baixo valor?",
+    "options": [
+      "O Conselho Federal de Medicina.",
+      "O Ministério da Justiça e Segurança Pública.",
+      "O Banco Central do Brasil.",
+      "A Secretaria de Segurança Pública Estadual."
+    ],
+    "correct": 1,
+    "explanation": "Art. 63-D. Compete ao Ministério da Justiça e Segurança Pública regulamentar os procedimentos relativos à administração (...) e estabelecer os valores abaixo dos quais se deve proceder à sua destruição."
+  },
+  {
+    "question": "O Art. 64 autoriza a União, via Senad, a firmar convênios com Estados e DF com o objetivo de:",
+    "options": [
+      "Privatizar o sistema carcerário.",
+      "Aumentar o salário dos policiais federais.",
+      "Liberar equipamentos e recursos para programas de prevenção, atenção e repressão às drogas.",
+      "Construir novas rodovias para facilitar o escoamento de insumos químicos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 64. A União (...) poderá firmar convênio (...) com vistas na liberação de equipamentos e de recursos por ela arrecadados, para a implantação e execução de programas relacionados à questão das drogas."
+  }
+],
+
+"Lei11343_65_75":[
+  {
+    "question": "De acordo com o Art. 65, a cooperação internacional do Brasil na questão das drogas deve observar quais princípios?",
+    "options": [
+      "Intervenção humanitária e soberania compartilhada.",
+      "Não-intervenção em assuntos internos, igualdade jurídica e respeito à integridade territorial.",
+      "Supremacia do interesse internacional sobre as leis nacionais.",
+      "Unificação de legislações penais entre os países do Mercosul."
+    ],
+    "correct": 1,
+    "explanation": "Art. 65. De conformidade com os princípios da não-intervenção em assuntos internos, da igualdade jurídica e do respeito à integridade territorial dos Estados."
+  },
+  {
+    "question": "O intercâmbio de inteligência policial previsto no Art. 65 abrange, além do tráfico de drogas, quais delitos conexos?",
+    "options": [
+      "Apenas crimes ambientais em áreas de fronteira.",
+      "Crimes contra a honra e crimes eleitorais.",
+      "Tráfico de armas, lavagem de dinheiro e desvio de precursores químicos.",
+      "Crimes de trânsito e falsificação de documentos civis."
+    ],
+    "correct": 2,
+    "explanation": "Art. 65, II. Intercâmbio de inteligência policial sobre produção e tráfico de drogas e delitos conexos, em especial o tráfico de armas, a lavagem de dinheiro e o desvio de precursores químicos."
+  },
+  {
+    "question": "Para fins da Lei 11.343, enquanto não houver atualização terminológica, o que se denomina 'drogas'?",
+    "options": [
+      "Qualquer substância que cause dependência física ou psíquica.",
+      "As substâncias constantes da Portaria SVS/MS nº 344/1998.",
+      "Apenas as substâncias produzidas em laboratórios oficiais do governo.",
+      "Substâncias definidas exclusivamente pelo Código Penal brasileiro."
+    ],
+    "correct": 1,
+    "explanation": "Art. 66. Denominam-se drogas substâncias entorpecentes, psicotrópicas, precursoras e outras sob controle especial, da Portaria SVS/MS nº 344, de 12 de maio de 1998."
+  },
+  {
+    "question": "A liberação de recursos em favor de Estados e do DF, conforme o Art. 67, depende de qual condição pelas polícias judiciárias?",
+    "options": [
+      "Aumento anual do número de prisões em flagrante.",
+      "Fornecimento de dados necessários à atualização do sistema previsto no art. 17 da Lei.",
+      "Aprovação de contas pelo Tribunal de Contas da União obrigatoriamente.",
+      "Extinção de todas as delegacias especializadas em narcóticos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 67. Dependerá da adesão e respeito às diretrizes básicas (...) e do fornecimento de dados necessários à atualização do sistema previsto no art. 17 desta Lei."
+  },
+  {
+    "question": "Qual é o dever das entidades que recebem recursos públicos para execução das políticas sobre drogas (Art. 67-A)?",
+    "options": [
+      "Contratar apenas funcionários com curso superior em assistência social.",
+      "Garantir acesso às instalações e documentação para fiscalização pelos órgãos competentes.",
+      "Publicar edital de gastos mensalmente em jornal de circulação nacional.",
+      "Reverter 10% do lucro para o fundo partidário do governo vigente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 67-A. Deverão garantir o acesso às suas instalações, à documentação e a todos os elementos necessários à efetiva fiscalização."
+  },
+  {
+    "question": "Os estímulos fiscais mencionados no Art. 68 podem ser criados por quais entes?",
+    "options": [
+      "Apenas pela União.",
+      "Apenas pelos Estados e Distrito Federal.",
+      "A União, os Estados, o Distrito Federal e os Municípios.",
+      "Apenas pelos Municípios com mais de 100 mil habitantes."
+    ],
+    "correct": 2,
+    "explanation": "Art. 68. A União, os Estados, o Distrito Federal e os Municípios poderão criar estímulos fiscais e outros..."
+  },
+  {
+    "question": "Em caso de falência de um hospital que possua drogas em estoque, qual a primeira medida do juízo (Art. 69, I)?",
+    "options": [
+      "Vender as drogas imediatamente para pagar os credores.",
+      "Doar as substâncias para instituições de caridade.",
+      "Determinar, imediatamente à ciência, que as instalações sejam lacradas.",
+      "Nomear um síndico para continuar a venda das substâncias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 69, I. Determinar, imediatamente à ciência da falência ou liquidação, sejam lacradas suas instalações."
+  },
+  {
+    "question": "Quem pode participar da licitação para alienação de substâncias não proscritas de empresas falidas (Art. 69, § 1º)?",
+    "options": [
+      "Qualquer cidadão interessado com CPF regular.",
+      "Pessoas jurídicas habilitadas na área de saúde ou pesquisa científica com comprovação de destinação lícita.",
+      "Apenas órgãos públicos da administração direta.",
+      "Empresas de logística e transporte de cargas perigosas."
+    ],
+    "correct": 1,
+    "explanation": "Art. 69, § 1º. Só podem participar pessoas jurídicas regularmente habilitadas na área de saúde ou de pesquisa científica que comprovem a destinação lícita."
+  },
+  {
+    "question": "O que ocorre com especialidades farmacêuticas em condições de emprego terapêutico que não foram arrematadas em leilão (Art. 69, § 3º)?",
+    "options": [
+      "Devem ser incineradas em até 24 horas.",
+      "Ficam sob guarda do Ministério da Saúde para destinação à rede pública de saúde.",
+      "São devolvidas aos antigos proprietários da empresa falida.",
+      "Podem ser vendidas com 90% de desconto para funcionários da justiça."
+    ],
+    "correct": 1,
+    "explanation": "Art. 69, § 3º. Ficarão elas depositadas sob a guarda do Ministério da Saúde, que as destinará à rede pública de saúde."
+  },
+  {
+    "question": "Qual é a competência para julgar crimes de tráfico (Arts. 33 a 37) se caracterizado ilícito transnacional?",
+    "options": [
+      "Justiça Estadual da capital do Estado.",
+      "Tribunal do Júri.",
+      "Justiça Federal.",
+      "Superior Tribunal de Justiça."
+    ],
+    "correct": 2,
+    "explanation": "Art. 70. O processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal."
+  },
+  {
+    "question": "Se um crime de tráfico transnacional ocorrer em um município que NÃO é sede de vara federal, onde será processado (Art. 70, P.Ú.)?",
+    "options": [
+      "Na Vara Federal da circunscrição respectiva.",
+      "Na Justiça Comum Estadual (Vara Criminal local).",
+      "No Supremo Tribunal Federal.",
+      "No Juizado Especial Criminal mais próximo."
+    ],
+    "correct": 0,
+    "explanation": "Art. 70, Parágrafo único. Os crimes praticados nos Municípios que não sejam sede de vara federal serão processados e julgados na vara federal da circunscrição respectiva."
+  },
+  {
+    "question": "Quando o juiz deve determinar a destruição das amostras guardadas para contraprova (Art. 72)?",
+    "options": [
+      "Imediatamente após a prisão em flagrante.",
+      "Assim que o réu confessar o crime.",
+      "Encerrado o processo criminal ou arquivado o inquérito policial.",
+      "Dez anos após a sentença definitiva."
+    ],
+    "correct": 2,
+    "explanation": "Art. 72. Encerrado o processo criminal ou arquivado o inquérito policial, o juiz (...) determinará a destruição das amostras guardadas para contraprova."
+  },
+  {
+    "question": "Quem pode requerer ou representar pela destruição das amostras de contraprova ao juiz?",
+    "options": [
+      "Apenas o réu ou seu advogado.",
+      "A autoridade de polícia judiciária ou o Ministério Público (além do juiz agir de ofício).",
+      "Qualquer agente penitenciário.",
+      "O Conselho Tutelar local."
+    ],
+    "correct": 1,
+    "explanation": "Art. 72. O juiz, de ofício, mediante representação da autoridade de polícia judiciária, ou a requerimento do Ministério Público..."
+  },
+  {
+    "question": "De acordo com o Art. 73, qual é o objetivo principal dos convênios entre União e Municípios?",
+    "options": [
+      "Repressão armada ao tráfico de drogas internacional.",
+      "Prevenir o uso indevido e possibilitar atenção e reinserção social de usuários e dependentes.",
+      "Construção de presídios de segurança máxima municipais.",
+      "Formação de milícias civis para vigilância de bairros."
+    ],
+    "correct": 1,
+    "explanation": "Art. 73. (...) e com os Municípios, com o objetivo de prevenir o uso indevido delas e de possibilitar a atenção e reinserção social de usuários e dependentes de drogas."
+  },
+  {
+    "question": "Qual foi a 'vacatio legis' (prazo para entrar em vigor) da Lei 11.343/2006?",
+    "options": [
+      "Vigência imediata na data da publicação.",
+      "15 dias após a publicação.",
+      "90 dias após a publicação.",
+      "45 dias após a publicação."
+    ],
+    "correct": 3,
+    "explanation": "Art. 74. Esta Lei entra em vigor 45 (quarenta e cinco) dias após a sua publicação."
+  }
+],
+
 "LepMonitoramentoEletronico":[
   {
     "question": "De acordo com o Art. 146-B da Lei de Execução Penal, o juiz poderá definir a fiscalização por meio da monitoração eletrônica quando:",
