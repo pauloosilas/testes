@@ -13757,6 +13757,710 @@ const questions = {
   }
 ],
 
+"RENP_1_5":[
+  {
+    "question": "De acordo com o Art. 1º do ReNP, qual é o principal objetivo deste regulamento?",
+    "options": [
+      "Definir as penas criminais aplicáveis aos detentos.",
+      "Regulamentar atividades da SUAPI e padronizar procedimentos de rotina e segurança.",
+      "Substituir o Código Penal no âmbito das unidades prisionais mineiras.",
+      "Criar leis de execução penal exclusivas para o estado de Minas Gerais."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º estabelece que o ReNP visa regulamentar atividades da SUAPI e padronizar procedimentos da rotina diária e segurança."
+  },
+  {
+    "question": "A quais unidades prisionais de Perícia e Atendimento Médico o ReNP deve ser aplicado, conforme o Art. 2º?",
+    "options": [
+      "Apenas ao Hospital Psiquiátrico e Judiciário Jorge Vaz.",
+      "Apenas ao Centro de Referência da Gestante Privada de Liberdade.",
+      "A todas as Unidades Prisionais de Perícia e Atendimento Médico assumidas pela SUAPI.",
+      "Apenas às unidades situadas na capital, Belo Horizonte."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o Art. 2º e seu parágrafo único, o ReNP aplica-se às unidades listadas e a outras que venham a ser assumidas pela SUAPI."
+  },
+  {
+    "question": "A Subsecretaria de Administração Prisional (SUAPI) subordina-se diretamente a qual órgão?",
+    "options": [
+      "Secretaria de Estado de Defesa Social (SEDS-MG).",
+      "Ministério da Justiça.",
+      "Tribunal de Justiça de Minas Gerais.",
+      "Governadoria do Estado."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 2º especifica que a SUAPI se subordina à Secretaria de Estado de Defesa Social do Estado de Minas Gerais – SEDS – MG."
+  },
+  {
+    "question": "Compete à SUAPI, nos termos do Art. 3º, inciso IV:",
+    "options": [
+      "Realizar o julgamento de recursos de presos em regime fechado.",
+      "Contratar advogados particulares para os sentenciados.",
+      "Proceder ao registro dos presos e à sua movimentação entre as Unidades Prisionais.",
+      "Alterar a sentença judicial dos indivíduos privados de liberdade."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º, inciso IV, atribui à SUAPI a responsabilidade pelo registro e movimentação dos presos."
+  },
+  {
+    "question": "Quem define, em conjunto com a SUAPI, as diretrizes para seleção, formação e capacitação de pessoal (Art. 3º, XI)?",
+    "options": [
+      "A Polícia Militar de Minas Gerais.",
+      "A Escola de Formação da SEDS.",
+      "O Sindicato dos Agentes Penitenciários.",
+      "A Secretaria de Planejamento e Gestão."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 3º, XI, essa definição é feita em conjunto com a Escola de Formação da SEDS."
+  },
+  {
+    "question": "Qual destas NÃO é uma Diretoria integrante da Superintendência de Segurança Prisional, conforme o Art. 4º?",
+    "options": [
+      "Diretoria de Segurança Interna.",
+      "Diretoria de Segurança Externa.",
+      "Diretoria de Apoio Logístico do Sistema Prisional.",
+      "Diretoria de Saúde e Atendimento Psicossocial."
+    ],
+    "correct": 3,
+    "explanation": "A Diretoria de Saúde e Atendimento Psicossocial pertence à Superintendência de Atendimento ao Preso (Art. 4º, IV, 'b')."
+  },
+  {
+    "question": "De acordo com a estrutura orgânica (Art. 4º), o Comando de Operações Especiais (COE) está vinculado a:",
+    "options": [
+      "Assessoria de Informação e Inteligência.",
+      "Superintendência de Atendimento ao Preso.",
+      "Superintendência de Segurança Prisional.",
+      "Unidade Gestora de Monitoração Eletrônica."
+    ],
+    "correct": 2,
+    "explanation": "O Comando de Operações Especiais é uma das alíneas da Superintendência de Segurança Prisional (Art. 4º, III, 'd')."
+  },
+  {
+    "question": "O Núcleo de Assistência à Família do Preso (NAF) funciona no âmbito de qual superintendência?",
+    "options": [
+      "Superintendência de Articulação Institucional e Gestão de Vagas.",
+      "Superintendência de Segurança Prisional.",
+      "Superintendência de Atendimento ao Preso.",
+      "Assessoria de Informação e Inteligência."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 4º, Parágrafo Único, inciso II, vincula o NAF à Superintendência de Atendimento ao Preso."
+  },
+  {
+    "question": "Qual o limite de Unidades Prisionais de Grande Porte II e Segurança Máxima previsto no Art. 4º?",
+    "options": [
+      "Até o limite de oito Unidades.",
+      "Até o limite de quatro Unidades.",
+      "Até o limite de trinta e três Unidades.",
+      "Não há limite definido."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 4º, inciso XI, limita essas unidades a oito."
+  },
+  {
+    "question": "Qual é a finalidade da Assessoria de Informação e Inteligência (AII), segundo o Art. 5º?",
+    "options": [
+      "Realizar a segurança interna das celas.",
+      "Realizar atividade de inteligência prisional, produzir e salvaguardar conhecimentos.",
+      "Gerenciar a folha de pagamento dos servidores.",
+      "Prestar assistência jurídica direta aos presos."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 5º, a AII tem por finalidade a atividade de inteligência, obtenção de subsídios e salvaguarda de informações."
+  },
+  {
+    "question": "Compete à AII, no que se refere aos profissionais do Sistema de Inteligência Prisional (Art. 5º, XI):",
+    "options": [
+      "Realizar o pagamento de bônus por produtividade.",
+      "Incumbir-se da seleção, treinamento, qualificação e aperfeiçoamento.",
+      "Fiscalizar o horário de entrada e saída dos agentes.",
+      "Definir a escala de férias de todos os servidores da SUAPI."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 5º, XI, define que a AII é responsável pela seleção, treinamento e aperfeiçoamento desses profissionais."
+  },
+  {
+    "question": "Sobre a integração da AII com outros órgãos, o Art. 5º, III menciona:",
+    "options": [
+      "A subordinação total da inteligência prisional à Polícia Federal.",
+      "A proibição de compartilhar dados com agências externas.",
+      "Promover a integração e interoperabilidade entre agências de Inteligência.",
+      "O compartilhamento de senhas de sistemas restritos com o público."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º, III, compete à AII promover a integração e interoperabilidade entre as agências de inteligência."
+  },
+  {
+    "question": "A Unidade Gestora de Monitoração Eletrônica (UGME) faz parte de qual estrutura, segundo o Art. 4º?",
+    "options": [
+      "Estrutura orgânica da Subsecretaria de Administração Prisional.",
+      "Subordinada à Diretoria de Ensino.",
+      "Parte integrante do Canil Central.",
+      "Órgão externo convidado para consultoria."
+    ],
+    "correct": 0,
+    "explanation": "A UGME é listada no inciso II do Art. 4º como parte da estrutura orgânica da SUAPI."
+  },
+  {
+    "question": "O Canil Central funciona sob a administração da SUAPI no âmbito de qual diretoria?",
+    "options": [
+      "Diretoria de Segurança Externa.",
+      "Diretoria de Segurança Interna.",
+      "Diretoria de Apoio Logístico.",
+      "Diretoria de Saúde."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 4º, Parágrafo único, VI, estabelece que o Canil Central está no âmbito da Diretoria de Segurança Interna."
+  },
+  {
+    "question": "Segundo o Art. 3º, inciso VI, a SUAPI deve disponibilizar informações estatísticas acerca de:",
+    "options": [
+      "Apenas o custo das refeições das unidades.",
+      "As atividades de sua competência e dados sobre indivíduos privados de liberdade.",
+      "A vida privada de todos os servidores da SEDS.",
+      "Processos judiciais que ainda correm em segredo de justiça."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 3º, VI, exige a disponibilização de estatísticas sobre a área de competência e os indivíduos privados de liberdade."
+  }
+],
+
+"RENP_6_10":[
+  {
+    "question": "De acordo com o Art. 6º, a quem a UGME deve encaminhar relatórios circunstanciados sobre a pessoa monitorada?",
+    "options": [
+      "Ao Diretor-Geral da Unidade Prisional.",
+      "Ao Juiz competente.",
+      "À Secretaria de Estado de Saúde.",
+      "Apenas ao Conselho Penitenciário."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 6º, inciso II, compete à UGME encaminhar relatório circunstanciado ao juiz competente na periodicidade estabelecida ou quando exigido."
+  },
+  {
+    "question": "Onde devem ser registradas as informações de admissão, descumprimento e desligamento da monitoração eletrônica?",
+    "options": [
+      "Apenas em livros físicos de registro.",
+      "No Sistema de Defesa Social (SDS).",
+      "No Sistema Integrado de Informações Penitenciárias – INFOPEN.",
+      "No Diário Oficial do Estado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 6º, inciso VIII, determina o registro obrigatório de todas as informações pertinentes à monitoração eletrônica no INFOPEN."
+  },
+  {
+    "question": "Qual é a finalidade da Superintendência de Segurança Prisional (SSPI) segundo o Art. 7º?",
+    "options": [
+      "Gerenciar a saúde e o atendimento psicossocial dos presos.",
+      "Estabelecer diretrizes e normas para vigilância interna, externa e escolta.",
+      "Coordenar a educação e profissionalização dos detentos.",
+      "Fiscalizar exclusivamente os contratos de alimentação das unidades."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 7º define que a SSPI tem por finalidade estabelecer diretrizes, normas, coordenar e controlar as atividades de vigilância interna, externa e escolta."
+  },
+  {
+    "question": "Qual órgão é responsável por gerir a Central de Suprimentos do Sistema Prisional (material bélico e operacional)?",
+    "options": [
+      "Diretoria de Segurança Interna (DSI).",
+      "Assessoria de Inteligência (AII).",
+      "Superintendência de Segurança Prisional (SSPI).",
+      "Núcleo de Tecnologia e Segurança Eletrônica."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º, inciso VII, atribui à SSPI a competência de gerir a Central de Suprimentos que recebe e distribui material bélico e operacional."
+  },
+  {
+    "question": "Segundo o Art. 8º, a Diretoria de Segurança Interna (DSI) tem a competência de captar dados de quais eventos para fins estatísticos?",
+    "options": [
+      "Fugas, motins, rebeliões e apreensões de materiais ilícitos.",
+      "Apenas o número de visitantes por unidade.",
+      "Quantidade de atendimentos médicos realizados.",
+      "Número de alvarás de soltura expedidos mensalmente."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 8º, inciso II, detalha que a DSI deve captar dados de fugas, motins, rebeliões e apreensões de ilícitos."
+  },
+  {
+    "question": "A quem compete ditar diretrizes e fiscalizar as atividades dos Grupos de Intervenção Rápida (GIR)?",
+    "options": [
+      "Ao Comando de Operações Especiais diretamente.",
+      "À Diretoria de Segurança Interna (DSI).",
+      "À Unidade Gestora de Monitoração Eletrônica.",
+      "À Superintendência de Atendimento ao Preso."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 8º, inciso IV, compete à DSI definir diretrizes e fiscalizar as atividades de intervenção e atuação dos GIR."
+  },
+  {
+    "question": "O Núcleo Central de Tecnologia e Segurança Eletrônica (NCTSE) é subordinado a qual órgão?",
+    "options": [
+      "Diretoria de Segurança Externa.",
+      "Subsecretaria de Inovação e Logística.",
+      "Diretoria de Segurança Interna (DSI).",
+      "Assessoria de Informação e Inteligência."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 9º estabelece que o NCTSE é subordinado à DSI/SSPI."
+  },
+  {
+    "question": "Qual é a composição exigida para a Equipe de Assessoramento Técnico do NCTSE (Art. 10)?",
+    "options": [
+      "Funcionários terceirizados especializados em TI.",
+      "Agentes de Segurança Penitenciários efetivos.",
+      "Qualquer servidor da Secretaria de Defesa Social.",
+      "Exclusivamente por Diretores de Unidades Prisionais."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 10 determina que a equipe será constituída por Agentes de Segurança Penitenciários efetivos."
+  },
+  {
+    "question": "É atribuição da Equipe de Assessoramento Técnico do NCTSE, quanto aos softwares de segurança:",
+    "options": [
+      "Instalar e configurar, gerenciando níveis de acesso e senhas.",
+      "Vender os softwares para empresas de segurança privada.",
+      "Delegação total da criação de senhas aos próprios presos monitorados.",
+      "Apenas observar a instalação feita por empresas terceirizadas."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 10, inciso IV, prevê a instalação, configuração e gerenciamento de níveis de acesso e senhas pela equipe técnica."
+  },
+  {
+    "question": "Conforme o Art. 6º, inciso V, se ocorrer um fato que possa revogar a monitoração eletrônica, a UGME deve:",
+    "options": [
+      "Aguardar o relatório mensal para informar o ocorrido.",
+      "Comunicar imediatamente ao juiz competente.",
+      "Tentar resolver o problema diretamente com o monitorado antes de avisar a justiça.",
+      "Solicitar autorização da SEDS para realizar a comunicação."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 6º, inciso V, impõe a comunicação imediata ao juiz sobre fatos que possam causar revogação ou modificação das condições da monitoração."
+  },
+  {
+    "question": "De quem é a competência de realizar visitas ao monitorado quando necessário (Art. 6º, VII)?",
+    "options": [
+      "Da Polícia Militar local.",
+      "Da Unidade Gestora de Monitoração Eletrônica (UGME).",
+      "Do Oficial de Justiça exclusivamente.",
+      "Da Assessoria de Inteligência."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 6º, inciso VII, atribui à UGME a competência de realizar visitas ao monitorado conforme a Lei Federal nº 12.258/2010."
+  },
+  {
+    "question": "Qual superintendência deve articular ações emergenciais em caso de rebeliões e motins com outros órgãos de Defesa Social?",
+    "options": [
+      "Superintendência de Atendimento ao Preso.",
+      "Superintendência de Gestão de Vagas.",
+      "Superintendência de Segurança Prisional (SSPI).",
+      "Superintendência de Infraestrutura."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º, inciso III, define que a SSPI deve articular ações emergenciais em caso de rebeliões e motins."
+  },
+  {
+    "question": "Compete à DSI, em relação aos Agentes de Segurança Penitenciários (Art. 8º, V):",
+    "options": [
+      "Proibir o uso de equipamentos de proteção individual.",
+      "Orientar quanto ao uso adequado de materiais e equipamentos de segurança interna.",
+      "Realizar a venda de equipamentos para os agentes.",
+      "Definir a escala de férias de todos os agentes do Estado."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 8º, inciso V, estabelece a orientação dos Agentes quanto ao uso adequado de materiais e equipamentos de segurança interna."
+  },
+  {
+    "question": "Quem compõe a estrutura do NCTSE conforme o parágrafo único do Art. 10?",
+    "options": [
+      "Apenas um Coordenador Geral.",
+      "Um Coordenador Geral e equipe de Assessores Técnicos.",
+      "Um Diretor de Segurança e dez estagiários.",
+      "Três Coordenadores de diferentes áreas da SEDS."
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 10 diz que o NCTSE terá 01 Coordenador Geral e equipe formada por Assessores Técnicos de Segurança Eletrônica."
+  },
+  {
+    "question": "Sobre os canis das unidades prisionais, cabe à DSI (Art. 8º, III):",
+    "options": [
+      "Ditar diretrizes, estabelecer normas e fiscalizar as atividades.",
+      "Apenas realizar a compra de ração para os animais.",
+      "Treinar os cães para exibições em feiras agropecuárias.",
+      "Delegar a fiscalização dos canis para ONGs locais."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 8º, inciso III, afirma que a DSI deve ditar diretrizes, estabelecer normas e fiscalizar as atividades dos canis e do Canil Central."
+  }
+],
+
+"RENP_90_94":[
+  {
+    "question": "De acordo com o Art. 90, qual das alternativas abaixo representa uma finalidade das Unidades Prisionais vinculadas à SEDS?",
+    "options": [
+      "Legislar sobre crimes hediondos no âmbito estadual.",
+      "Garantir a alimentação de dados em sistemas informatizados conforme requerido.",
+      "Substituir o Poder Judiciário na análise de progressão de regime.",
+      "Contratar advogados particulares para a defesa dos custodiados."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 90, inciso V, estabelece expressamente que uma das finalidades é garantir a alimentação de dados em sistemas informatizados."
+  },
+  {
+    "question": "Sobre a classificação das Unidades Prisionais (Art. 91), assinale a alternativa INCORRETA:",
+    "options": [
+      "CERESP são unidades próprias para a custódia de presos que serão remanejados.",
+      "Presídios são destinados a presos provisórios, mas podem acolher condenados em caráter excepcional.",
+      "Casas de Albergado são unidades próprias para a custódia de presos no regime semiaberto.",
+      "Penitenciárias destinam-se a presos condenados nos regimes fechado ou semiaberto."
+    ],
+    "correct": 2,
+    "explanation": "De acordo com o Art. 91, inciso VI, as Casas de Albergado são para o regime ABERTO, e não semiaberto."
+  },
+  {
+    "question": "Com base no Art. 91, parágrafo 4º, sobre o Centro de Referência da Gestante, assinale a opção INCORRETA:",
+    "options": [
+      "A unidade é estruturada para possibilitar a permanência da presa gestante.",
+      "A criança pode permanecer com a mãe até completar 06 (seis) anos de idade na unidade.",
+      "A permanência do filho com a mãe na unidade é garantida até 01 (um) ano após o parto.",
+      "A unidade é equipada especificamente para o atendimento de puérperas."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 91, § 4º, limita a permanência dos filhos junto às mães no Centro de Referência até 01 (um) ano após o parto."
+  },
+  {
+    "question": "Sobre os Hospitais de Custódia e Centros de Apoio Médico (Art. 91), assinale a alternativa INCORRETA:",
+    "options": [
+      "Destinam-se ao tratamento de indivíduos inimputáveis ou semi-imputáveis.",
+      "São responsáveis pela realização de exames criminológicos e de sanidade mental.",
+      "O tratamento ambulatorial é exclusivo destas unidades, sendo proibido em qualquer outra unidade prisional.",
+      "Podem realizar exames de cessação de periculosidade."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 91, § 2º, afirma que o tratamento ambulatorial PODERÁ ser realizado em outras unidades que disponham de instalações e pessoal qualificado."
+  },
+  {
+    "question": "No que tange à 'Área Interna Restrita' (Art. 92, inciso II), assinale a alternativa INCORRETA:",
+    "options": [
+      "É a área destinada à custódia e convivência dos presos.",
+      "Qualquer funcionário da unidade tem livre acesso e circulação sem necessidade de autorização.",
+      "É constituída pelos prédios no interior da unidade e espaço delimitado por muros.",
+      "Somente a equipe de segurança tem autorização automática para circular nesta área."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 92, II, alíneas 'b' e 'c', somente a equipe de segurança tem autorização; demais funcionários precisam de autorização da segurança."
+  },
+  {
+    "question": "Sobre os elementos da infraestrutura (Art. 92), assinale a alternativa INCORRETA:",
+    "options": [
+      "Muralha: contém guaritas para vigilância e passadiços.",
+      "Passadiço: corredor de acesso entre as guaritas situado sobre a muralha.",
+      "Guarita: destinada ao abrigo dos Agentes de Segurança Penitenciários.",
+      "Alambrado: circunda exclusivamente as celas de segurança máxima."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 92, VIII, alínea 'b', explica que o alambrado circunda prédios administrativos e pavilhões de regime semiaberto e aberto."
+  },
+  {
+    "question": "Sobre a 'Intendência' (Art. 92, inciso XIII), assinale a opção INCORRETA:",
+    "options": [
+      "É o espaço destinado à guarda de armamento e munições.",
+      "É o setor responsável pelo acautelamento de equipamentos de proteção individual (EPI).",
+      "É o local onde os presos realizam o trabalho de produção de uniformes.",
+      "Destina-se à guarda de rádios HT e detectores de metais."
+    ],
+    "correct": 2,
+    "explanation": "A Intendência é voltada para material bélico e operacional (Art. 92, XIII). O trabalho de produção ocorre no Núcleo de Trabalho e Produção."
+  },
+  {
+    "question": "Em relação aos parlatórios (Art. 92, XIV), assinale a alternativa INCORRETA:",
+    "options": [
+      "São espaços para conversas reservadas com Defensores Públicos e Advogados.",
+      "Devem ser utilizados obrigatoriamente para visitas íntimas na ausência de celas específicas.",
+      "Podem ser utilizados por outros profissionais para atendimento aos presos, se necessário.",
+      "Fazem parte da infraestrutura das Unidades Prisionais."
+    ],
+    "correct": 1,
+    "explanation": "Parlatórios são para atendimento jurídico/profissional (Art. 92, XIV). Visitas íntimas ocorrem na 'Cela Íntima' (Art. 92, XIX)."
+  },
+  {
+    "question": "Sobre a 'Sala de Censura' (Art. 92, XII), assinale a alternativa INCORRETA:",
+    "options": [
+      "Nela são vistoriados os pertences que o preso portava no ato do ingresso.",
+      "É o setor destinado ao procedimento de censura das correspondências dos presos.",
+      "Nela são realizados os procedimentos de revista corporal nos visitantes.",
+      "Nela são vistoriados pertences encaminhados ao preso."
+    ],
+    "correct": 2,
+    "explanation": "A revista corporal em visitantes ocorre na 'Sala de Revista' (Art. 92, XI), não na Sala de Censura."
+  },
+  {
+    "question": "Sobre a organização da Diretoria Geral (Art. 93, I), assinale a alternativa INCORRETA:",
+    "options": [
+      "Inclui a Diretoria Adjunta.",
+      "Inclui a Assessoria de Inteligência.",
+      "Inclui o Núcleo de Finanças e Almoxarifado.",
+      "Inclui a Coordenação de INFOPEN."
+    ],
+    "correct": 2,
+    "explanation": "Os Núcleos de Finanças e Almoxarifado pertencem à 'Diretoria Administrativa' (Art. 93, II), não à Diretoria Geral."
+  },
+  {
+    "question": "Quanto à Diretoria de Atendimento ao Preso (Art. 93, III), assinale a opção INCORRETA:",
+    "options": [
+      "Possui o Núcleo de Saúde e Atendimento Psicossocial.",
+      "Possui o Núcleo Jurídico.",
+      "Possui o Núcleo de Segurança Externa (NSE).",
+      "Possui o Núcleo de Trabalho e Produção."
+    ],
+    "correct": 2,
+    "explanation": "O Núcleo de Segurança Externa (NSE) pertence à 'Diretoria de Segurança' (Art. 93, IV)."
+  },
+  {
+    "question": "Conforme o Art. 92, XV, a 'Sala de Monitoramento' é o setor destinado a:",
+    "options": [
+      "Realização de audiências por videoconferência.",
+      "Observação e gravação das imagens das câmeras de segurança.",
+      "Monitoração exclusiva de tornozeleiras eletrônicas de presos em regime aberto.",
+      "Gravação de depoimentos de servidores em processos administrativos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 92, XV, define a Sala de Monitoramento como setor para observação e gravação de imagens de segurança da unidade."
+  },
+  {
+    "question": "Segundo o Art. 92, XVIII, a 'Cela de Segurança' caracteriza-se por:",
+    "options": [
+      "Ser o local oficial para o cumprimento de sanções disciplinares de isolamento por 30 dias.",
+      "Estar localizada obrigatoriamente dentro de todos os pavilhões habitacionais.",
+      "Destinar-se à permanência temporária de presos em prol da segurança da unidade ou do próprio preso.",
+      "Ser o local destinado ao banho de sol dos presos de segurança máxima."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 92, XVIII, afirma que ela fica fora dos pavilhões e serve para permanência temporária por questões de segurança."
+  },
+  {
+    "question": "De acordo com o Art. 93, quais órgãos também estarão presentes na organização das unidades além das diretorias?",
+    "options": [
+      "Apenas o Conselho Comunitário.",
+      "O Conselho Disciplinar e a Comissão Técnica de Classificação.",
+      "A Corregedoria Geral e o Ministério Público.",
+      "O Sindicato dos Servidores e a Ouvidoria."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 93, inciso V, determina que as unidades terão em sua organização o Conselho Disciplinar (CD) e a CTC."
+  },
+  {
+    "question": "O Perímetro de Segurança, conforme o Art. 92, III, permite a circulação de:",
+    "options": [
+      "Qualquer pessoa que esteja visitando a unidade.",
+      "Apenas presos que exercem atividades laborais externas.",
+      "Somente funcionários da Unidade Prisional de acordo com sua função.",
+      "Exclusivamente o Diretor Geral e o Diretor de Segurança."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 92, III, 'b', estabelece que a circulação no perímetro de segurança é permitida apenas a funcionários, conforme a função."
+  }
+],
+
+"RENP_249_266":[
+  {
+    "question": "Conforme o Art. 250, os postos de trabalho que compõem a segurança física da Unidade Prisional podem ficar desguarnecidos?",
+    "options": [
+      "Sim, desde que haja monitoramento por câmeras.",
+      "Não deverão ficar desguarnecidos, salvo excepcionalmente em casos fortuitos ou de força maior.",
+      "Sim, durante o horário de almoço dos agentes.",
+      "Apenas se a unidade estiver com menos de 50% da capacidade."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 250 veda que os postos fiquem desguarnecidos, permitindo a exceção apenas em casos fortuitos ou de força maior, com ciência imediata à SSPI."
+  },
+  {
+    "question": "Qual a diretriz do Art. 253 (§ 2º) sobre o uso do Sistema de Vídeo Monitoramento nas muralhas?",
+    "options": [
+      "O monitoramento substitui o ASP em períodos noturnos.",
+      "O monitoramento pode suprir a presença física em unidades de pequeno porte.",
+      "Em hipótese alguma o vídeo monitoramento suprirá o trabalho e a presença física do ASP.",
+      "O monitoramento só substitui o ASP se autorizado pelo Diretor Geral."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 253, § 2º, é categórico ao afirmar que a tecnologia não substitui a presença física do Agente de Segurança Penitenciário."
+  },
+  {
+    "question": "Na troca de plantão, se o ASP que está assumindo o posto constatar irregularidades nos equipamentos, ele deve:",
+    "options": [
+      "Assumir o posto e relatar no final do plantão.",
+      "Não assumir o posto e informar imediatamente ao superior imediato.",
+      "Tentar consertar o equipamento antes de assumir.",
+      "Assumir o posto e solicitar ao colega que sai que resolva o problema."
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o Art. 254, § 2º, diante de irregularidades, o ASP não deve assumir o posto e deve informar ao superior para providências."
+  },
+  {
+    "question": "Quais equipamentos, conforme o Art. 255, o ASP das muralhas deve ter à disposição?",
+    "options": [
+      "Apenas rádio HT e arma de fogo.",
+      "Rádio HT, lanterna, binóculo, tonfa, colete balístico e arma de fogo.",
+      "Apenas colete balístico e algemas.",
+      "Rádio HT, celular funcional e escudo de proteção."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 255 lista os itens obrigatórios: rádio HT, lanterna, binóculo, tonfa, colete balístico e arma de fogo."
+  },
+  {
+    "question": "Sobre o manuseio de armas nas guaritas, qual item é obrigatório para segurança, segundo o Art. 256?",
+    "options": [
+      "Um suporte de madeira para descanso da arma.",
+      "Uma caixa de areia com dimensão mínima de 50 x 50 cm.",
+      "Um coldre fixado na parede da guarita.",
+      "Uma pia com água corrente para limpeza."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 256 exige uma caixa de areia de no mínimo 50 x 50 cm para segurança durante o manuseio de arma de fogo."
+  },
+  {
+    "question": "Quem é o principal responsável pela realização da escolta externa de presos (Art. 257)?",
+    "options": [
+      "A Polícia Militar de Minas Gerais.",
+      "O Grupo de Intervenção Rápida (GIR).",
+      "O Grupo de Escolta Tático Prisional (GETAP).",
+      "A Polícia Civil."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 257 estabelece que a escolta externa será realizada, preferencialmente, pelo GETAP."
+  },
+  {
+    "question": "Qual o quantitativo mínimo de ASPs para compor uma equipe de escolta do GETAP (Art. 257, § 3º)?",
+    "options": [
+      "No mínimo 02 ASPs.",
+      "No mínimo 05 ASPs.",
+      "No mínimo 03 ASPs.",
+      "No mínimo 04 ASPs."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o Art. 257, § 3º, a equipe deve ser composta por no mínimo 03 Agentes, respeitando a Supremacia de Força."
+  },
+  {
+    "question": "A escolta de presos de ALTA PERICULOSIDADE compete a qual grupo (Art. 257, § 4º)?",
+    "options": [
+      "GETAP da unidade de origem.",
+      "Comando de Operações Especiais (COPE).",
+      "Poder Judiciário.",
+      "Agentes de Inteligência (AII)."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 257, § 4º, define que o COPE é o responsável pela escolta de presos de alta periculosidade."
+  },
+  {
+    "question": "Sobre a escolta para velórios, assinale a alternativa correta (Art. 259, IV e § 2º):",
+    "options": [
+      "É permitida a escolta para velório em residência particular.",
+      "A escolta só pode ocorrer em cemitérios ou velórios municipais.",
+      "O preso pode ir ao velório de qualquer amigo ou vizinho.",
+      "Não é necessário apresentar atestado de óbito para a escolta."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 259 proíbe velórios em residências, limitando a escolta a cemitérios ou velórios municipais para parentes específicos."
+  },
+  {
+    "question": "Quem concede a permissão de saída para a realização de uma escolta (Art. 259, § 1º)?",
+    "options": [
+      "O Juiz de Execução Penal.",
+      "O Diretor Geral da Unidade Prisional.",
+      "O Secretário de Defesa Social.",
+      "O Comandante da Polícia Militar."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 259, § 1º, a permissão de saída é concedida pelo Diretor Geral da unidade onde o preso se encontra."
+  },
+  {
+    "question": "Em escoltas interestaduais, qual a exigência mínima sobre a composição da equipe (Art. 259, § 4º, IV)?",
+    "options": [
+      "Todos os membros devem ser ocupantes de cargo de chefia.",
+      "A equipe deve ser composta por pelo menos um ASP efetivo.",
+      "A equipe deve ter obrigatoriamente um médico.",
+      "A equipe deve ser composta apenas por estagiários e contratos temporários."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 259, § 4º, inciso IV, exige que pelo menos um Agente da equipe de escolta interestadual seja efetivo."
+  },
+  {
+    "question": "No caso de transferência entre unidades, quais itens devem ser encaminhados obrigatoriamente com o preso (Art. 264)?",
+    "options": [
+      "Apenas o prontuário de saúde.",
+      "Documentos, prontuários, medicamentos e objetos de higiene pessoal.",
+      "Todos os móveis e eletrodomésticos que o preso possuía.",
+      "Nenhum objeto pode ser levado, tudo deve ser entregue à família."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 264 obriga o encaminhamento de documentos, prontuários, medicamentos e itens de higiene. O restante fica com a família."
+  },
+  {
+    "question": "Na realização de escolta coletiva, o que deve ser observado prioritariamente (Art. 263)?",
+    "options": [
+      "Apenas o tempo de pena de cada preso.",
+      "O estado de saúde, gênero e a existência de inimigos ou comparsas entre os presos.",
+      "A ordem alfabética dos nomes dos custodiados.",
+      "A proximidade da residência dos presos para otimizar o caminho."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 263 exige atenção à saúde, gênero, e relações de inimizade ou comparsaria para preservar a integridade física e moral."
+  },
+  {
+    "question": "O que acontece se um ASP abandonar o posto de serviço na guarita sem autorização (Art. 254)?",
+    "options": [
+      "Receberá apenas uma advertência verbal.",
+      "Responderá pelo abandono do posto e eventuais consequências administrativas/penais.",
+      "Poderá compensar as horas em outro dia.",
+      "Não há previsão de punição se o posto ficar vazio por menos de 30 minutos."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 254 determina que o ASP deve aguardar rendimento no posto, sob pena de responder por abandono de posto."
+  },
+  {
+    "question": "Sobre o armamento do ASP nas muralhas, o Art. 255 recomenda que:",
+    "options": [
+      "O agente utilize apenas armamento letal.",
+      "O agente utilize apenas armamento de pressão.",
+      "O agente acutele, sempre que possível, uma arma com munição letal e outra não letal.",
+      "O agente não porte arma de fogo dentro da guarita."
+    ],
+    "correct": 2,
+    "explanation": "O Parágrafo Único do Art. 255 recomenda o acautelamento de ambos os tipos de munição (letal e não letal) devido às peculiaridades do setor."
+  },
+  {
+    "question": "As informações sobre o planejamento de uma escolta devem ser tratadas entre quem (Art. 261)?",
+    "options": [
+      "Entre o Diretor Geral e o Preso.",
+      "Entre o responsável pelo GETAP e o Diretor de Segurança.",
+      "Entre o Agente e os familiares do preso.",
+      "Publicadas no quadro de avisos da unidade."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 261 define que o sigilo e planejamento devem ser tratados pelo responsável do GETAP diretamente com o Diretor de Segurança."
+  },
+  {
+    "question": "No caso de escolta de presas mulheres, o Art. 263 (parágrafo único) exige atenção especial a:",
+    "options": [
+      "Quantidade de maquiagem permitida.",
+      "Existência de grávidas e suas respectivas condições.",
+      "O tipo de calçado utilizado pela detenta.",
+      "A cor da farda da equipe de escolta."
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 263 destaca a necessidade de observar a condição de grávidas para estabelecer procedimentos apropriados."
+  },
+  {
+    "question": "O que a Unidade Prisional deve fazer se for impossível realizar uma escolta externa programada (Art. 266)?",
+    "options": [
+      "Cancelar o procedimento e não avisar ninguém.",
+      "Comunicar imediatamente o fato para que a DSE providencie apoio em tempo hábil.",
+      "Solicitar que o preso vá por conta própria.",
+      "Deixar para realizar a escolta no dia seguinte sem aviso prévio."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 266 exige a comunicação imediata da impossibilidade para que a Diretoria de Segurança Externa (DSE) busque apoio em outras unidades."
+  }
+],
 
 "AOCPMariaDaPenha":[
   {
