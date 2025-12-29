@@ -14093,6 +14093,229 @@ const questions = {
   }
 ],
 
+"Lei9455_tortura":[
+  {
+    "question": "Conforme previsto na Lei Federal nº 9.455/1997, NÃO é considerada uma causa de aumento de pena para o crime de tortura, se o cometimento do delito for:",
+    "options": [
+      "Contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos de idade.",
+      "Por agente público.",
+      "Contra pessoa presa ou sujeita a medida de segurança, impondo-lhe sofrimento físico ou mental, por intermédio da prática de ato não previsto em lei ou não resultante de medida legal.",
+      "Mediante sequestro."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C descreve uma modalidade autônoma de crime de tortura (Art. 1º, § 1º) e não uma causa de aumento. As causas de aumento (1/6 a 1/3) estão no Art. 1º, § 4º."
+  },
+  {
+    "question": "Nos termos da Lei nº 9.455, que define os crimes de tortura, aquele que for condenado por crime de tortura, iniciará o cumprimento da pena em regime fechado em algumas hipóteses, marque a alternativa que NÃO corresponde a uma das hipóteses:",
+    "options": [
+      "Condenado por constranger alguém com emprego de violência ou grave ameaça com o fim de obter informação ou confissão de terceira pessoa.",
+      "O condenado por omissão, quando tinha o dever de evitar ou apurar condutas criminosas.",
+      "Condenado por constranger alguém com emprego de violência ou grave ameaça para provocar ação de natureza criminosa.",
+      "O condenado por constranger alguém com emprego de violência ou grave ameaça em razão de discriminação racial ou religiosa."
+    ],
+    "correct": 1,
+    "explanation": "A tortura por omissão (Art. 1º, § 2º) tem pena de detenção (1 a 4 anos), sendo a única modalidade que não exige o regime inicial fechado obrigatório mencionado no § 7º."
+  },
+  {
+    "question": "Sobre o crime de tortura previsto na Lei nº 9.455/97, assinale a afirmativa que está correta.",
+    "options": [
+      "Aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a vítima brasileira ou encontrando-se o agente em local sob jurisdição brasileira.",
+      "A condenação acarretará a perda do cargo, função ou emprego público e a interdição definitiva para seu exercício.",
+      "O crime de tortura é afiançável e insuscetível de indulto",
+      "Aumenta-se a pena de um sexto até um terço, se o crime é cometido contra agente público."
+    ],
+    "correct": 0,
+    "explanation": "Conforme o Art. 2º, a lei brasileira de tortura aplica-se a crimes cometidos fora do território nacional se a vítima for brasileira ou o agente estiver em local sob jurisdição brasileira (Extraterritorialidade)."
+  },
+  {
+    "question": "De acordo com a Lei 9.455 de 07 de abril de 1997 que define os crimes de tortura, é correto afirmar que:",
+    "options": [
+      "Será afiançável quando da prisão em situação de flagrante.",
+      "É cometido apenas por agentes de segurança pública.",
+      "Caracteriza o crime de tortura somente o sofrimento físico.",
+      "O constrangimento de alguém com o emprego de grave ameaça, causando-lhe sofrimento mental, em razão e discriminação religiosa constitui crime de tortura."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º, inciso I, alínea 'c', tipifica a tortura discriminatória, que pode ser motivada por discriminação racial ou religiosa, envolvendo sofrimento físico ou mental."
+  },
+  {
+    "question": "Em relação ao crime de tortura, é correto afirmar que:",
+    "options": [
+      "o crime praticado contra prima ou primo é causa especial de aumento de pena.",
+      "a tortura-prova, a tortura-meio e a tortura-discriminatória são algumas das formas que caracterizam o referido crime.",
+      "a forma omissiva não se configura como tortura.",
+      "a condenação a uma pena de 04 (quatro) anos de reclusão pelo crime de tortura acarretará, se fundamentado na sentença, a perda do cargo, função ou emprego público e a interdição para o exercício de um novo cargo pelo mesmo período da pena privativa de liberdade aplicada."
+    ],
+    "correct": 1,
+    "explanation": "A doutrina classifica as condutas do Art. 1º, I, como tortura-prova (alínea a), tortura-crime/meio (alínea b) e tortura-discriminatória (alínea c)."
+  },
+  {
+    "question": "De acordo com a Lei nº 9455, que define os crimes de tortura, marque a alternativa CORRETA.",
+    "options": [
+      "A condenação ao crime de tortura acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+      "O crime de tortura é imprescritível e insuscetível de graça ou anistia.",
+      "Aumenta-se a pena para o crime de tortura de um sexto até um terço se o crime é cometido contra o agente público.",
+      "O condenado por crime de tortura iniciará o cumprimento da pena sempre em regime semiaberto."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 1º, § 5º determina que a perda do cargo é efeito automático da condenação e a interdição para o exercício terá duração do dobro da pena aplicada."
+  },
+  {
+    "question": "Em relação ao previsto na Lei n. 9.455/97, analise as assertivas abaixo:\nI. O crime de tortura é imprescritível, não podendo ser arbitrado fiança e insuscetível de graça ou anistia.\nII. A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.\nIII. Incorre no crime de tortura aquele que se omite em face das condutas previstas na lei, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de detenção de um a quatro anos.\nIV. Não constitui crime de tortura submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico, como forma de aplicar castigo de caráter preventivo.\nSão INCORRETAS as assertivas:",
+    "options": [
+      "I, III e IV, apenas.",
+      "I e III, apenas.",
+      "I e IV, apenas.",
+      "Todas estão incorretas"
+    ],
+    "correct": 2,
+    "explanation": "A assertiva I está incorreta porque a tortura é prescritível (a Constituição só define racismo e grupos armados como imprescritíveis). A IV está incorreta pois submeter alguém sob guarda a sofrimento como castigo É crime de tortura (Art. 1º, II)."
+  },
+  {
+    "question": "São causas de aumento de pena nos crimes de tortura:",
+    "options": [
+      "Crime cometido contra portador de deficiência, adolescente e maior de 50 anos.",
+      "Crime cometido contra a gestante; cometido por particular e contra adolescente.",
+      "Crime cometido contra maior de 55 anos; contra criança e contra agente público.",
+      "Crime cometido mediante sequestro; contra portador de deficiência e cometido por agente público."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º, § 4º prevê aumento se o crime é cometido por agente público, contra criança, gestante, deficiente, adolescente ou maior de 60 anos, ou mediante sequestro."
+  },
+  {
+    "question": "Conforme a lei Federal nº 9.455/1997, que define os crimes de tortura:",
+    "options": [
+      "A pena prevista para o crime de tortura é aumentada de um sexto até um terço se houver resultado morte.",
+      "Aplica-se a lei dos crimes de tortura mesmo que o delito tenha sido praticado fora do Brasil, desde que a vítima seja brasileira.",
+      "Se da conduta resulta lesão de natureza grave, a pena será de reclusão, de dois a oito anos; se resulta em lesão de natureza gravíssima, a pena será de reclusão de quatro a dez anos.",
+      "O crime de tortura é imprescritível, inafiançável e insuscetível de graça ou anistia"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 2º estabelece o princípio da extraterritorialidade incondicionada para o crime de tortura quando a vítima for brasileira."
+  },
+  {
+    "question": "Com relação às assertivas abaixo, assinale a resposta CORRETA em relação ao crime de tortura:",
+    "options": [
+      "Configura-se o crime de tortura quando o agente provoca, por violência ou grave ameaça, sofrimento físico ou mental, mesmo se inexistentes circunstâncias elementares dos tipos previstos na lei especial.",
+      "O crime de tortura não se consuma com o sofrimento físico ou mental provocado na vítima",
+      "O elemento subjetivo do crime de tortura, em regra, é a culpa.",
+      "A tortura que ocorre na hipótese legal “para provocar ação ou omissão de natureza criminosa” estará consumada, independente da ocorrência do crime pretendido pelo agente."
+    ],
+    "correct": 3,
+    "explanation": "A tortura é um crime formal ou de consumação antecipada. No caso da tortura-crime (Art. 1º, I, 'b'), o delito se consuma com a imposição do sofrimento, não dependendo da prática do crime visado pelo torturador."
+  },
+  {
+    "question": "No tocante à Lei Federal nº 9.455/97, que define os crimes de tortura, assinale a alternativa CORRETA:",
+    "options": [
+      "O condenado por crime de tortura sempre iniciará o cumprimento da pena em regime fechado.",
+      "A pena será aplicada em dobro se o crime for cometido por funcionário público.",
+      "A condenação por crime de tortura nem sempre acarretará a perda do cargo, função ou emprego público.",
+      "Se o crime de tortura é cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos, a pena é aumentada de um sexto até um terço."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º, § 4º, inciso II da Lei 9.455/97 estabelece expressamente o aumento de pena de 1/6 até 1/3 para vítimas vulneráveis (criança, gestante, deficiente, adolescente ou idoso)."
+  },
+  {
+    "question": "Nos termos da legislação que trata acerca do crime de tortura, marque a alternativa CORRETA:",
+    "options": [
+      "O crime de tortura é suscetível de anistia.",
+      "O crime de tortura é suscetível de graça.",
+      "O condenado pelo crime de tortura iniciará o cumprimento da pena no regime semiaberto, considerando que o crime em questão é afiançável.",
+      "O policial penal que for condenado por crime nela previsto perderá, automaticamente, o cargo público."
+    ],
+    "correct": 3,
+    "explanation": "Conforme o Art. 1º, § 5º, a condenação acarretará a perda do cargo, função ou emprego público. Esse efeito é automático, não necessitando de motivação específica na sentença para ocorrer."
+  },
+  {
+    "question": "Em relação a legislação que define os crimes de tortura, marque a alternativa CORRETA.",
+    "options": [
+      "Constitui crime de tortura, constranger alguém, mediante violência ou grave ameaça, ou depois de lhe haver reduzido, por qualquer meio, a capacidade de resistência, a não fazer o que a lei permite, ou a fazer ou a tolerar que se faça, o que a lei não manda.",
+      "Constitui crime de tortura, ameaçar alguém, por palavras, escrito ou gesto.",
+      "Constitui crime de tortura, matar alguém com o emprego de fogo.",
+      "Constitui crime de tortura, constranger alguém com emprego de violência ou grave ameaça, causando-lhe intenso sofrimento físico ou mental."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D descreve o núcleo do tipo penal de tortura (Art. 1º). As outras opções descrevem crimes de constrangimento ilegal, ameaça e homicídio qualificado, previstos no Código Penal."
+  },
+  {
+    "question": "Sobre o crime de tortura, marque a alternativa CORRETA.",
+    "options": [
+      "Aumenta-se a pena pelo crime de tortura de um terço até a metade se o crime for cometido por agente público.",
+      "O condenado por crime de tortura, em regra, iniciará o cumprimento da pena em regime fechado.",
+      "A condenação pelo crime de tortura não acarretará, de imediato, a perda do cargo, função ou emprego público.",
+      "O crime de tortura é afiançável, porém insuscetível de graça ou anistia."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º, § 7º determina que o condenado por crime de tortura (salvo na hipótese de omissão) iniciará o cumprimento da pena em regime fechado."
+  },
+  {
+    "question": "Em relação ao crime de tortura é CORRETO afirmar:",
+    "options": [
+      "comete o crime de tortura quem constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico, mental e psicosocial.",
+      "a pena do crime de tortura será aumentada em até um terço se o autor for policial independente da condição da vítima.",
+      "o condenado pelo crime de tortura poderá iniciar o cumprimento da pena em regime aberto.",
+      "o crime de tortura é inafiançável e insuscetível de graça ou anistia."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º, § 6º da Lei 9.455/97 replica o mandado constitucional de criminalização, tornando o crime inafiançável e insuscetível de graça ou anistia."
+  },
+  {
+    "question": "A condenação de um policial penal pelo crime de tortura, acarretará:",
+    "options": [
+      "somente a perda de seu cargo.",
+      "somente a interdição para o exercício de cargo público.",
+      "apenas a pena privativa de liberdade.",
+      "perda de seu cargo e a interdição para o seu exercício pelo dobro do prazo da pena."
+    ],
+    "correct": 3,
+    "explanation": "De acordo com o Art. 1º, § 5º, os efeitos da condenação são: a perda do cargo/função e a interdição para seu exercício pelo dobro do prazo da pena aplicada."
+  },
+  {
+    "question": "Sobre o crime de tortura é CORRETO afirmar que:",
+    "options": [
+      "é afiançável e insuscetível de graça ou anistia.",
+      "é inafiançável e suscetível de graça ou anistia.",
+      "é afiançável e suscetível de graça ou anistia.",
+      "é inafiançável e insuscetível de graça ou anistia."
+    ],
+    "correct": 3,
+    "explanation": "O crime de tortura é classificado como equiparado a hediondo, sendo, portanto, inafiançável e proibido de receber benefícios como graça ou anistia."
+  },
+  {
+    "question": "Em relação ao crime de tortura, quando o crime for cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos a pena é aumentada:",
+    "options": [
+      "de um terço até a metade.",
+      "apenas a metade.",
+      "o dobro.",
+      "de um sexto até um terço."
+    ],
+    "correct": 3,
+    "explanation": "O Art. 1º, § 4º prevê o aumento de pena de 1/6 (um sexto) até 1/3 (um terço) para essas causas de aumento."
+  },
+  {
+    "question": "Marque a alternativa INCORRETA quanto às circunstâncias de aumento da pena nos casos de crime de tortura:",
+    "options": [
+      "Crime for cometido por agente público.",
+      "Crime for cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos.",
+      "O crime for cometido contra agente público.",
+      "Crime for cometido mediante sequestro."
+    ],
+    "correct": 2,
+    "explanation": "A lei prevê aumento se o crime é cometido POR agente público (Art. 1º, § 4º, I). Não existe previsão legal de aumento de pena pelo simples fato de a vítima ser um agente público."
+  },
+  {
+    "question": "De acordo com a Lei nº 9.455/97, é CORRETA a afirmativa:",
+    "options": [
+      "O disposto na Lei nº 9.455/97 se aplica ainda quando o crime não tenha sido cometido em território nacional, sendo a vítima brasileira ou encontrando-se o agente em local sob jurisdição brasileira.",
+      "A condenação pelo crime de tortura acarretará a perda do cargo, função, comissão ou emprego público e a interdição para seu exercício pelo mesmo prazo da pena aplicada.",
+      "A pena a ser aplicada ao agente é a mesma se resultar lesão corporal de natureza grave ou gravíssima, ou morte, hipóteses estas em que o agente iniciará o cumprimento da pena em regime fechado.",
+      "Na mesma pena prevista para o crime de tortura incorre quem submete pessoa presa ou sujeita a medida de segurança a sofrimento físico ou mental, por intermédio da prática de ato previsto em lei ou resultante de medida legal."
+    ],
+    "correct": 0,
+    "explanation": "Trata-se do princípio da extraterritorialidade incondicionada previsto no Art. 2º da Lei de Tortura."
+  }
+],
+
 "RENP_90_94":[
   {
     "question": "De acordo com o Art. 90, qual das alternativas abaixo representa uma finalidade das Unidades Prisionais vinculadas à SEDS?",
