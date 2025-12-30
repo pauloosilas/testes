@@ -14161,7 +14161,7 @@ const questions = {
     "explanation": "O Art. 1º, § 5º determina que a perda do cargo é efeito automático da condenação e a interdição para o exercício terá duração do dobro da pena aplicada."
   },
   {
-    "question": "Em relação ao previsto na Lei n. 9.455/97, analise as assertivas abaixo:\nI. O crime de tortura é imprescritível, não podendo ser arbitrado fiança e insuscetível de graça ou anistia.\nII. A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.\nIII. Incorre no crime de tortura aquele que se omite em face das condutas previstas na lei, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de detenção de um a quatro anos.\nIV. Não constitui crime de tortura submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico, como forma de aplicar castigo de caráter preventivo.\nSão INCORRETAS as assertivas:",
+    "question": "Em relação ao previsto na Lei n. 9.455/97, analise as assertivas abaixo:<br />I. O crime de tortura é imprescritível, não podendo ser arbitrado fiança e insuscetível de graça ou anistia.<br />II. A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.<br />III. Incorre no crime de tortura aquele que se omite em face das condutas previstas na lei, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de detenção de um a quatro anos.<br />IV. Não constitui crime de tortura submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico, como forma de aplicar castigo de caráter preventivo.<br />São INCORRETAS as assertivas:",
     "options": [
       "I, III e IV, apenas.",
       "I e III, apenas.",
@@ -14315,6 +14315,481 @@ const questions = {
     "explanation": "Trata-se do princípio da extraterritorialidade incondicionada previsto no Art. 2º da Lei de Tortura."
   }
 ],
+
+"LeiDeExecucao":[
+  {
+    "question": "1ª QUESTÃO De acordo com a Lei de Execução Penal, quais das alternativas abaixo apresentam exemplos de penas restritivas de direitos?",
+    "options": [
+      "prisão simples e banimento.",
+      "prestação de serviços à comunidade e limitação de fim de semana.",
+      "reclusão e detenção.",
+      "interdição temporária de direitos e trabalhos forçados.",
+      "pagamento de cesta básica e multa."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Código Penal e a Lei de Execução Penal, penas restritivas de direitos incluem, entre outras, a prestação de serviços à comunidade e a limitação de fim de semana."
+  },
+  {
+    "question": "2ª QUESTÃO Qual das seguintes condutas não é considerada uma falta grave, conforme a Lei de Execução Penal (LEP), quando praticada por um indivíduo que cumpre pena privativa de liberdade?",
+    "options": [
+      "Descumprir, no regime aberto, as condições impostas.",
+      "Fugir.",
+      "Provocar acidente de trabalho.",
+      "Retardar, injustificadamente, o cumprimento da obrigação imposta."
+    ],
+    "correct": 3,
+    "explanation": "Retardar, injustificadamente, o cumprimento da obrigação imposta configura falta média, e não falta grave, segundo a Lei de Execução Penal."
+  },
+  {
+    "question": "3ª QUESTÃO Qual das seguintes condutas não configura falta grave cometida pelo condenado à pena privativa de liberdade?",
+    "options": [
+      "incitar ou participar de movimento para subverter a ordem ou a disciplina.",
+      "provocar acidente de trabalho.",
+      "possuir, indevidamente, instrumento capaz de ofendera integridade física de outrem.",
+      "praticar fato previsto como crime culposo.",
+      "tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo."
+    ],
+    "correct": 3,
+    "explanation": "A prática de fato previsto como crime culposo não é considerada falta grave, conforme o artigo 52 da Lei de Execução Penal."
+  },
+  {
+    "question": "4ª QUESTÃO Indique a opção que não corresponde a um dos órgãos da execução penal:",
+    "options": [
+      "Os Departamentos Penitenciários.",
+      "O Ministério Público.",
+      "A Ordem dos Advogados do Brasil.",
+      "A Defensoria Pública."
+    ],
+    "correct": 2,
+    "explanation": "A Ordem dos Advogados do Brasil não integra o rol dos órgãos da execução penal previstos na Lei de Execução Penal."
+  },
+  {
+    "question": "5ª QUESTÃO O trabalho do preso, considerado um dever social e condição de dignidade humana, possui finalidade educativa e produtiva. Nesse contexto, qual das seguintes afirmações sobre o trabalho do preso é correta?",
+    "options": [
+      "O preso condenado à pena privativa de liberdade não está obrigado ao trabalho.",
+      "As tarefas executadas como prestação de serviço à comunidade também serão remuneradas.",
+      "Os doentes ou deficientes físicos não trabalharão em nenhuma hipótese.",
+      "O produto da remuneração pelo trabalho deverá atender, dentre outros objetivos, ao ressarcimento ao Estado das despesas realizadas com a manutenção do condenado.",
+      "O trabalho do preso está sujeito ao regime da Consolidação das Leis do Trabalho."
+    ],
+    "correct": 3,
+    "explanation": "A Lei de Execução Penal prevê que a remuneração do trabalho do preso deve atender, entre outros fins, ao ressarcimento ao Estado pelas despesas com sua manutenção."
+  },
+  {
+    "question": "6ª QUESTÃO O Regime Disciplinar Diferenciado (RDD), implementado na Lei de Execuções Penais a partir de 2003, constitui uma modalidade mais rigorosa do regime fechado. Sobre este tema, qual das seguintes assertivas é correta?",
+    "options": [
+      "Estará sujeito a este regime o preso provisório ou o condenado sob o qual recaiam fundadas suspeitas de envolvimento ou participação em crimes hediondos ou de caráter transnacional.",
+      "É característica desse regime a duração máxima de trezentos e sessenta e cinco dias, sem possibilidade de repetição da sanção.",
+      "A prática de fato previsto como crime doloso constitui falta grave e, quando ocasione subversão da ordem ou disciplina internas, sujeita o preso provisório, ou condenado, a este regime, sem prejuízo da sanção penal.",
+      "O preso terá direito à saída da cela por 1 (uma) hora diária para banho de sol.",
+      "É característica desse regime o recolhimento em cela coletiva com, no máximo, cinco detentos."
+    ],
+    "correct": 2,
+    "explanation": "O RDD pode ser aplicado quando o preso pratica fato previsto como crime doloso que cause subversão da ordem ou disciplina internas, conforme a Lei de Execução Penal."
+  },
+  {
+    "question": "7ª QUESTÃO Qual é o objetivo da execução penal, conforme estabelecido pela Lei nº 7.210/1984?",
+    "options": [
+      "ordenar o pleno desenvolvimento das funções sociais da comunidade e garantir o bem-estar de seus habitantes.",
+      "prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de objetivo igual ao de uma condenação.",
+      "viabilizar os resultados de projetos restritos às funções penitenciárias, mediante ato do Poder Executivo, após autorização legislativa prévia.",
+      "separar do meio social os indivíduos inaptos ao convívio em sociedade, selecionados após análise criteriosa baseada nas teorias criminológicas de Lombroso.",
+      "efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado."
+    ],
+    "correct": 4,
+    "explanation": "O artigo 1º da Lei de Execução Penal estabelece que a execução penal visa efetivar a sentença ou decisão criminal e proporcionar a reintegração social do condenado e do internado."
+  },
+  {
+    "question": "8ª QUESTÃO Em relação ao uso da monitoração eletrônica na execução penal, qual das seguintes afirmações está correta?",
+    "options": [
+      "é um direito do preso que foi condenado ao regime aberto de cumprimento de pena.",
+      "é dever do condenado receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações.",
+      "o juiz deverá definir a fiscalização por meio da monitoração eletrônica nos casos de cumprimento de pena restritiva de direitos ou livramento condicional.",
+      "poderá ser revogada se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta média.",
+      "trata-se de dever do magistrado e direito subjetivo do condenado a sua utilização."
+    ],
+    "correct": 1,
+    "explanation": "A Lei de Execução Penal impõe ao condenado o dever de atender o servidor responsável pela monitoração eletrônica e cumprir suas orientações."
+  },
+   {
+    "question": "9ª QUESTÃO Considerando as recentes mudanças trazidas na LEP a respeito da autorização para saída temporária concedida a condenados em regime semiaberto, qual afirmativa está correta?",
+    "options": [
+      "Será concedida por prazo não superior a 07 (sete) dias, podendo ser renovada por mais 04 (quatro) vezes durante o ano.",
+      "A recuperação do direito à saída temporária dependerá da absolvição no processo civil, do cancelamento da punição disciplinar ou da demonstração do merecimento do condenado.",
+      "Não encontra respaldo na Lei de Execução Penal.",
+      "Não terá direito à saída temporária ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa."
+    ],
+    "correct": 3,
+    "explanation": "Após as alterações legislativas, a LEP passou a vedar a saída temporária e o trabalho externo sem vigilância direta aos condenados por crime hediondo ou cometido com violência ou grave ameaça contra pessoa."
+  },
+  {
+    "question": "10ª QUESTÃO Qual das seguintes alternativas está correta sobre assistência ao condenado, remição de pena, progressão de regime e saída temporária?",
+    "options": [
+      "O condenado que cumpre a pena em regime fechado, semiaberto ou aberto poderá remir, apenas por trabalho, parte do tempo de execução da pena.",
+      "A assistência material e à saúde, ao preso e ao internado, consiste no fornecimento de alimentação e atendimento médico, não abrangendo vestuário, medicamentos e atendimento odontológico.",
+      "A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinado pelo juiz, quando o preso tiver cumprido ao menos metade da pena no regime anterior.",
+      "Os condenados que cumprem pena em regime fechado ou semiaberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta.",
+      "Não terá direito à saída temporária a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa."
+    ],
+    "correct": 4,
+    "explanation": "A legislação atual veda a saída temporária e o trabalho externo sem vigilância direta aos condenados por crimes hediondos ou praticados com violência ou grave ameaça."
+  },
+  {
+    "question": "11ª QUESTÃO Qual é o objetivo da execução penal, conforme estabelecido pela Lei nº 7.210/1984?",
+    "options": [
+      "ordenar o pleno desenvolvimento das funções sociais da comunidade e garantir o bem-estar de seus habitantes.",
+      "prevenir desequilíbrios da concorrência, sem prejuízo da competência de a União, por lei, estabelecer normas de objetivo igual ao de uma condenação.",
+      "viabilizar os resultados de projetos restritos às funções penitenciárias, mediante ato do Poder Executivo, após autorização legislativa prévia.",
+      "separar do meio social os indivíduos inaptos ao convívio em sociedade, selecionados após análise criteriosa baseada nas teorias criminológicas de Lombroso.",
+      "efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado."
+    ],
+    "correct": 4,
+    "explanation": "O artigo 1º da Lei de Execução Penal define como objetivo da execução penal o cumprimento da sentença e a reintegração social do condenado e do internado."
+  },
+  {
+    "question": "12ª QUESTÃO O trabalho do preso deve estar em conformidade com os normativos vigentes. Nesse contexto, a gestão do trabalho prisional deve observar qual das seguintes premissas?",
+    "options": [
+      "as tarefas executadas como prestação de serviço à comunidade serão remuneradas",
+      "o trabalho do preso será remunerado, mediante prévia tabela, não podendo ser superior a 3/4 (três quartos) do salário mínimo",
+      "o produto da remuneração pelo trabalho deverá atender a todas as suas despesas pessoais",
+      "o trabalho do preso não está sujeito ao regime da Consolidação das Leis do Trabalho",
+      "não se exigirá do condenado o ressarcimento ao Estado das despesas realizadas com a sua manutenção"
+    ],
+    "correct": 3,
+    "explanation": "A Lei de Execução Penal estabelece expressamente que o trabalho do preso não se submete ao regime da Consolidação das Leis do Trabalho."
+  },
+  {
+    "question": "13ª QUESTÃO Em um estabelecimento penal feminino, o trabalho de pessoal do sexo feminino é a regra. Qual é a exceção a essa regra?",
+    "options": [
+      "ocupante do cargo de diretor.",
+      "pessoal técnico especializado.",
+      "portador de diploma de nível superior em Psicologia.",
+      "portador de diploma de nível superior em Direito.",
+      "ocupante do cargo de vistoriador."
+    ],
+    "correct": 1,
+    "explanation": "A Lei de Execução Penal admite como exceção à regra do trabalho feminino nos estabelecimentos femininos o pessoal técnico especializado."
+  },
+  {
+    "question": "14ª QUESTÃO Em relação aos estabelecimentos penais, segundo a Lei Federal nº 7.210/84, assinale a afirmativa incorreta:",
+    "options": [
+      "Haverá instalação destinada à Defensoria Pública.",
+      "O preso provisório ficará separado do condenado por sentença transitada em julgado.",
+      "Haverá instalação destinada a estágio de estudantes universitários.",
+      "Serão instaladas salas de aulas destinadas a cursos de ensino básico e profissionalizante.",
+      "O preso primário não cumprirá pena em seção distinta daquela reservada para os reincidentes."
+    ],
+    "correct": 4,
+    "explanation": "A LEP determina que o preso primário deve cumprir pena em seção distinta da reservada aos reincidentes, tornando incorreta a alternativa."
+  },
+  {
+    "question": "15ª QUESTÃO Qual das seguintes alternativas está correta sobre assistência ao condenado, remição de pena, progressão de regime e saída temporária?",
+    "options": [
+      "O condenado que cumpre a pena em regime fechado, semiaberto ou aberto poderá remir, apenas por trabalho, parte do tempo de execução da pena.",
+      "A assistência material e à saúde, ao preso e ao internado, consiste no fornecimento de alimentação e atendimento médico, não abrangendo vestuário, medicamentos e atendimento odontológico.",
+      "A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinado pelo juiz, quando o preso tiver cumprido ao menos metade da pena no regime anterior.",
+      "Os condenados que cumprem pena em regime fechado ou semiaberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta.",
+      "Os condenados que cumprem pena em regime semiaberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta."
+    ],
+    "correct": 4,
+    "explanation": "A saída temporária é prevista pela LEP apenas para condenados que cumprem pena em regime semiaberto."
+  },
+  {
+    "question": "16ª QUESTÃO De acordo com a Lei de Execuções Penais, Lei Federal nº 7.210/84, qual dos seguintes não é considerado um órgão da execução penal?",
+    "options": [
+      "Juízo da Execução.",
+      "Defensoria Pública.",
+      "Conselho Penitenciário.",
+      "Comissão de Constituição e Justiça.",
+      "Conselho da Comunidade."
+    ],
+    "correct": 3,
+    "explanation": "A Comissão de Constituição e Justiça é órgão do Poder Legislativo, não integrando o rol de órgãos da execução penal previsto na LEP."
+  },
+  {
+    "question": "17ª QUESTÃO Analisando as disposições sobre a execução penal na Lei nº 7.210/84, assinale a afirmativa incorreta.",
+    "options": [
+      "Os condenados por qualquer crime, doloso ou culposo, serão submetidos, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA, por técnica adequada e indolor.",
+      "O Estado deverá recorrer à cooperação da comunidade nas atividades de execução da pena e da medida de segurança.",
+      "A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.",
+      "Ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei.",
+      "Os condenados serão classificados, segundo os seus antecedentes e personalidade, para orientar a individualização da execução penal."
+    ],
+    "correct": 0,
+    "explanation": "A identificação do perfil genético não é obrigatória para condenados por qualquer crime, mas apenas nos casos previstos em lei."
+  },
+  {
+    "question": "18ª QUESTÃO Sobre o regime disciplinar diferenciado, conforme o art. 52 da Lei nº 7.210/1984, qual das seguintes afirmações é correta?",
+    "options": [
+      "o regime disciplinar diferenciado tem duração máxima e improrrogável de trezentos e sessenta e cinco dias.",
+      "a prática de crime doloso pelo preso condenado, além de implicar falta grave, automaticamente determina sujeição ao regime disciplinar diferenciado.",
+      "caso a conduta do preso implique sujeição ao regime disciplinar diferenciado, será relevada a caracterização de falta grave, para que não haja dupla punição pelo mesmo fato.",
+      "as visitas durante o RDD ocorerrão quinzenalmente, de 2 (duas) pessoas por vez e serão realizadas em instalações equipadas para impedir o contato físico.",
+      "o preso condenado, caso apresente alto risco para a segurança do estabelecimento penal, poderá ser encaminhado ao regime disciplinar diferenciado, o que não ocorre com o preso provisório."
+    ],
+    "correct": 3,
+    "explanation": "A Lei de Execução Penal prevê que, no RDD, as visitas serão quinzenais, limitadas a duas pessoas e sem contato físico."
+  },
+  {
+    "question": "19ª QUESTÃO Qual alternativa apresenta corretamente sanções disciplinares previstas pela Lei nº 7.210/1984?",
+    "options": [
+      "Isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo; repreensão; incomunicabilidade absoluta do preso e advertência verbal.",
+      "Repreensão; incomunicabilidade absoluta do preso; isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo e suspensão ou restrição de direitos.",
+      "Incomunicabilidade absoluta do preso; isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo; advertência verbal e suspensão ou restrição de direitos.",
+      "Advertência verbal; repreensão; suspensão ou restrição de direitos e isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo.",
+      "Advertência verbal; repreensão; suspensão ou restrição de direitos e incomunicabilidade absoluta do preso."
+    ],
+    "correct": 3,
+    "explanation": "As sanções disciplinares previstas na LEP são: advertência verbal, repreensão, suspensão ou restrição de direitos e isolamento."
+  },
+  {
+    "question": "20ª QUESTÃO A quem compete a supervisão dos patronatos e a assistência aos egressos?",
+    "options": [
+      "Departamento Penitenciário Nacional.",
+      "juízo da execução penal.",
+      "Conselho Penitenciário.",
+      "Ministério Público.",
+      "direção do estabelecimento penal."
+    ],
+    "correct": 2,
+    "explanation": "A supervisão dos patronatos e a assistência aos egressos competem ao Conselho Penitenciário, conforme a Lei de Execução Penal."
+  },
+  {
+    "question": "21ª QUESTÃO Consoante a Lei de Execução Penal, o que é correto afirmar sobre a remição?",
+    "options": [
+      "é afetada pela prática de falta grave, hipótese em que o juiz poderá revogar até um terço do tempo remido.",
+      "será declarada pelo juiz da execução independentemente de serem ouvidos Ministério Público e defesa.",
+      "não é computada durante o período em que o preso se recupera de acidente de trabalho.",
+      "não se aplica ao condenado submetido ao regime fechado.",
+      "se dará apenas em virtude do trabalho, mas não do estudo."
+    ],
+    "correct": 0,
+    "explanation": "A prática de falta grave pode acarretar a perda de até um terço do tempo remido, conforme previsão legal."
+  },
+  {
+    "question": "22ª QUESTÃO Sobre a progressão e regressão de regime prisional, qual afirmação é correta?",
+    "options": [
+      "a regressão de regime pode se dar do regime aberto diretamente para fechado.",
+      "o bom comportamento carcerário deverá ser atestado por uma equipe técnica multidisciplinar.",
+      "a progressão é condicionada unicamente ao cumprimento de parcela da pena.",
+      "é vedada a existência de exame criminológico para a progressão.",
+      "proíbe-se a progressão de regime na condenação por delito classificado como hediondo."
+    ],
+    "correct": 0,
+    "explanation": "A Lei de Execução Penal admite a regressão direta do regime aberto para o fechado, conforme o caso concreto."
+  },
+  {
+    "question": "23ª QUESTÃO Assinale a alternativa que apresenta corretamente um requisito para a concessão da saída temporária.",
+    "options": [
+      "Manifestação favorável do Ministério Público.",
+      "Cumprimento mínimo de um sexto da pena, ou, em caso de crime hediondo, de dois quintos da sanção penal, ou de três quintos, em caso de reincidência.",
+      "Compatibilidade do benefício com os objetivos da pena.",
+      "Comportamento carcerário avaliado como ótimo.",
+      "Decisão judicial, ainda que imotivada."
+    ],
+    "correct": 2,
+    "explanation": "A compatibilidade da saída temporária com os objetivos da pena é requisito expresso previsto na Lei de Execução Penal."
+  },
+  {
+    "question": "24ª QUESTÃO Acerca da monitoração eletrônica, assinale a resposta correta.",
+    "options": [
+      "A violação dos deveres impostos ao monitorado implicará obrigatoriamente a regressão de regime prisional.",
+      "O dano culposo causado ao equipamento de monitoração implicará revogação de prisão domiciliar, com retorno do condenado ao sistema prisional.",
+      "Tem por objetivos exclusivos monitorar o preso encaminhado ao regime aberto, ou o preso ao qual se concede prisão domiciliar.",
+      "Entre os deveres do monitorado, não se inclui o de responder contatos do servidor responsável pela monitoração eletrônica.",
+      "A monitoração eletrônica poderá ser revogada quando se tornar desnecessária ou inadequada."
+    ],
+    "correct": 4,
+    "explanation": "A monitoração eletrônica pode ser revogada quando se mostrar desnecessária ou inadequada, conforme previsão legal."
+  },
+  {
+    "question": "25ª QUESTÃO Os estabelecimentos penais se destinam a condenados, indivíduos submetidos a medida de segurança, presos provisórios e egressos. A penitenciária, um tipo de estabelecimento penal, destina-se especificamente ao condenado à pena de reclusão, em qual regime?",
+    "options": [
+      "aberto",
+      "fechado",
+      "semiaberto",
+      "provisório",
+      "pensão alimentícia"
+    ],
+    "correct": 1,
+    "explanation": "A penitenciária é o estabelecimento penal destinado ao cumprimento da pena de reclusão em regime fechado."
+  },
+   {
+    "question": "26ª QUESTÃO O recolhimento de um beneficiário de regime aberto em residência particular será admitido apenas nas seguintes circunstâncias:<br />I. condenado maior de 70 (setenta) anos;<br />II. condenado acometido de doença grave;<br />III. condenada com filho menor ou deficiente físico ou mental;<br />IV. condenada gestante;<br />V. apresentar, pelos seus antecedentes ou pelo resultado dos exames a que foi submetido, fundados indícios de que irá ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime;<br />Está CORRETO apenas o que se afirma em:",
+    "options": [
+      "I, III e V",
+      "II, III e IV",
+      "I, II, III e IV",
+      "I, II e IV",
+      "II, IV e V"
+    ],
+    "correct": 2,
+    "explanation": "Nos termos do art. 117 da Lei de Execução Penal, admite-se o recolhimento em residência particular no regime aberto apenas nas hipóteses de condenado maior de 70 anos, acometido de doença grave, condenada com filho menor ou deficiente e condenada gestante. O inciso V não é hipótese legal."
+  },
+  {
+    "question": "27ª QUESTÃO Um condenado em regime fechado ou semiaberto tem a possibilidade de remir parte de sua pena por trabalho ou estudo. No que diz respeito à remição pelo trabalho, qual é a proporção de contagem de tempo estabelecida?",
+    "options": [
+      "3 (três) dias de pena a cada 5 (cinco) dias de trabalho.",
+      "2 (dois) dias de pena a cada 4 (quatro) dias de trabalho.",
+      "5 (cinco) dias de pena a cada 7 (sete) dias de trabalho.",
+      "4 (quatro) dias de pena a cada 6 (seis) dias de trabalho.",
+      "1 (um) dia de pena a cada 3 (três) dias de trabalho."
+    ],
+    "correct": 4,
+    "explanation": "De acordo com o art. 126 da LEP, a cada 3 dias de trabalho o preso tem direito à remição de 1 dia de pena, desde que comprovada a atividade laboral."
+  },
+  {
+    "question": "28ª QUESTÃO Além de sua função punitiva, o sistema jurídico brasileiro visa proporcionar ao apenado condições para sua reestruturação, a fim de evitar a reincidência ao retornar ao convívio social. Como é denominada essa prática?",
+    "options": [
+      "ressocialização.",
+      "mediação.",
+      "humanização.",
+      "responsabilização."
+    ],
+    "correct": 0,
+    "explanation": "A ressocialização é um dos objetivos centrais da execução penal, buscando reintegrar o condenado à sociedade de forma digna e reduzindo a reincidência criminal."
+  },
+  {
+    "question": "29ª QUESTÃO Conforme a Lei de Execução Penal, a assistência ao egresso consiste em orientação e apoio para qual finalidade?",
+    "options": [
+      "reintegrá-lo à vida em liberdade.",
+      "promover a sua reeducação.",
+      "inseri-lo no sistema educacional.",
+      "propiciar-lhe atividades religiosas."
+    ],
+    "correct": 0,
+    "explanation": "Nos termos do art. 25 da LEP, a assistência ao egresso tem como finalidade orientá-lo e apoiá-lo para sua reintegração à vida em liberdade."
+  },
+  {
+    "question": "30ª QUESTÃO A assistência ao preso e ao internado é uma obrigação do Estado, com o objetivo de prevenir o crime e auxiliar no retorno desses indivíduos à sociedade. De acordo com a Lei de Execução Penal, qual a natureza dessa assistência?",
+    "options": [
+      "previdenciária, orçamentária, jurídica, preventiva, social e familiar.",
+      "material, à saúde, jurídica, educacional, social e religiosa.",
+      "familiar, sexual, médica, previdenciária, educacional e laborativa.",
+      "médica, odontológica, psicológica, sexual, preventiva e curativa."
+    ],
+    "correct": 1,
+    "explanation": "O art. 11 da LEP define que a assistência ao preso e ao internado é material, à saúde, jurídica, educacional, social e religiosa, compondo um sistema amplo de proteção."
+  },
+  {
+    "question": "31ª QUESTÃO A Lei de Execução Penal permite o trabalho externo somente em serviços ou obras públicas (realizadas por órgãos da Administração Direta ou Indireta) ou por entidades privadas, desde que sejam observadas as cautelas contra a fuga e em favor da disciplina. Para qual grupo de presos essa possibilidade é aplicável?",
+    "options": [
+      "para os presos que cumprem a pena em regime fechado.",
+      "independentemente do consentimento ou concordância do preso.",
+      "como medida punitiva por atos indisciplinares.",
+      "exclusivamente para os apenados em regime semiaberto."
+    ],
+    "correct": 0,
+    "explanation": "Conforme o art. 36 da LEP, o trabalho externo é admitido para presos em regime fechado, desde que em serviços ou obras públicas e observadas cautelas contra fuga e indisciplina."
+  },
+  {
+    "question": "32ª QUESTÃO Dentre as sanções disciplinares previstas na Lei de Execução Penal, qual delas requer um despacho prévio e fundamentado do juiz competente para ser aplicada?",
+    "options": [
+      "suspensão ou restrição de direitos.",
+      "inclusão no regime disciplinar diferenciado.",
+      "repreensão.",
+      "advertência verbal."
+    ],
+    "correct": 1,
+    "explanation": "A inclusão do preso no Regime Disciplinar Diferenciado depende de decisão judicial fundamentada, conforme o art. 52 da LEP."
+  },
+  {
+    "question": "33ª QUESTÃO Sobre as formas de assistência ao preso, conforme a Lei Federal nº 7.210, de 11 de julho de 1984, qual afirmação descreve corretamente uma de suas funções e características?",
+    "options": [
+      "social não tem por finalidade promover, no estabelecimento, pelos meios disponíveis, a recreação",
+      "à saúde será prestada no estabelecimento penal mesmo quando este não estiver aparelhado para prover a assistência médica necessária, sendo vedada sua prestação em outro local",
+      "jurídica é destinada aos presos e aos internados sem recursos financeiros para constituir advogado",
+      "educacional compreenderá a instrução escolar, o trabalho interno, o treinamento e a formação profissional do preso e do internado",
+      "à saúde do internado consistirá no fornecimento de alimentação, vestuário e instalações higiênicas"
+    ],
+    "correct": 2,
+    "explanation": "A assistência jurídica, conforme a LEP, é destinada aos presos e internados que não possuem recursos para constituir advogado, assegurando o direito de defesa."
+  },
+  {
+    "question": "34ª QUESTÃO De acordo com a Lei de Execução Penal (Lei Federal nº 7.210/84), para qual categoria de preso o trabalho interno não é obrigatório?",
+    "options": [
+      "em regime de internato",
+      "que exercer atividades complementares",
+      "em regime fechado",
+      "provisório",
+      "que possuir a respectiva capacitação"
+    ],
+    "correct": 3,
+    "explanation": "O preso provisório não está obrigado ao trabalho, conforme o art. 31 da LEP, diferentemente do condenado definitivo."
+  },
+  {
+    "question": "35ª QUESTÃO Nos termos da Lei de Execuções Penais, Lei Federal nº 7.210, de 11 de julho de 1984, a assistência ao preso terá, dentre outras, a seguinte natureza:",
+    "options": [
+      "religiosa, desde que não contrarie a religião praticada pela diretoria do presídio",
+      "à saúde, que terá caráter somente curativo",
+      "material, que não inclui o direito a vestimentas e alimentação",
+      "educacional, que compreenderá a instrução básica e a formação profissional do preso e do internado",
+      "jurídica, destinada a qualquer preso ou internado que necessitar de advogado"
+    ],
+    "correct": 3,
+    "explanation": "A assistência educacional prevista na LEP compreende tanto a instrução escolar básica quanto a formação profissional do preso e do internado."
+  },
+  {
+    "question": "36ª QUESTÃO Para os efeitos da Lei de Execução Penal, por qual prazo o liberado definitivo é considerado egresso, a contar de sua saída do estabelecimento?",
+    "options": [
+      "2 anos.",
+      "6 meses.",
+      "1 ano.",
+      "1 ano e 6 meses.",
+      "3 meses."
+    ],
+    "correct": 0,
+    "explanation": "O art. 26 da LEP estabelece que o liberado definitivo será considerado egresso pelo prazo de 2 anos, contados da saída do estabelecimento."
+  },
+  {
+    "question": "37ª QUESTÃO Com exceção da hipótese do regime disciplinar diferenciado, qual é o limite máximo de duração para o isolamento, a suspensão e a restrição de direitos?",
+    "options": [
+      "15 dias.",
+      "30 dias.",
+      "60 dias.",
+      "45 dias.",
+      "90 dias."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o art. 53, inciso IV, da LEP, o limite máximo para isolamento, suspensão ou restrição de direitos é de 30 dias, salvo no RDD."
+  },
+  {
+    "question": "38ª QUESTÃO As recompensas são concedidas em reconhecimento ao bom comportamento do condenado, sua colaboração com a disciplina e sua dedicação ao trabalho. Qual das opções a seguir representa uma forma de recompensa?",
+    "options": [
+      "o recolhimento em cela individual ou abrigo.",
+      "o direito à saída da cela por 2 horas diárias para banho de sol.",
+      "o elogio e a concessão de regalias.",
+      "as visitas semanais de duas pessoas além de crianças.",
+      "a inclusão no regime disciplinar diferenciado e multidisciplinar."
+    ],
+    "correct": 2,
+    "explanation": "A Lei de Execução Penal prevê como recompensas o elogio e a concessão de regalias, como forma de incentivo ao bom comportamento."
+  },
+  {
+    "question": "39ª QUESTÃO Considerando as disposições gerais que regulamentam o trabalho do preso, qual alternativa apresenta uma afirmação verdadeira?",
+    "options": [
+      "O trabalho do condenado, como dever social e condição de dignidade humana, terá finalidade educativa e produtiva.",
+      "As tarefas executadas como prestação de serviço à comunidade serão remuneradas.",
+      "Ressalvadas outras aplicações legais, será depositada a parte restante para constituição do pecúlio, em Caderneta de Poupança, que será entregue à família do preso, visando sua subsistência.",
+      "O trabalho do preso está sujeito ao regime da Consolidação das Leis do Trabalho."
+    ],
+    "correct": 0,
+    "explanation": "O art. 28 da LEP dispõe que o trabalho do condenado é dever social e condição de dignidade humana, possuindo finalidade educativa e produtiva."
+  },
+  {
+    "question": "40ª QUESTÃO No que se refere às condições de tratamento do preso, qual previsão é encontrada na Constituição Federal?",
+    "options": [
+      "os presos poderão ser privados de água e refeição caso cometam transgressões disciplinares graves.",
+      "não é assegurado aos presos o respeito à integridade física e moral.",
+      "em caso de transgressão disciplinar, o preso poderá ser obrigado a realizar trabalhos forçados.",
+      "às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação.",
+      "a pena será cumprida em estabelecimentos semelhantes entre si, de acordo com a natureza do delito e a quantidade de pena a que o preso foi condenado."
+    ],
+    "correct": 3,
+    "explanation": "A Constituição Federal, em seu art. 5º, inciso L, assegura às presidiárias condições para permanecerem com seus filhos durante o período de amamentação, garantindo proteção à maternidade."
+  }
+]
+,
 
 "RENP_90_94":[
   {
