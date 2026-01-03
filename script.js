@@ -1,6 +1,581 @@
 // Banco de questões
 const questions = {  
 
+  "crimescontrapatrimonio":[
+    {
+  "question": "163ª Atanásio Aparecido ocultou um veículo de sua propriedade e lavrou um boletim de ocorrência com o relato de que fora furtado, com o objetivo de receber o seguro, o que de fato ocorreu. O delito praticado por Atanásio é definido como:",
+  "options": [
+    "Estelionato.",
+    "Fraude para recebimento de indenização ou valor de seguro.",
+    "Simulação para recebimento de valor de seguro.",
+    "Estelionato qualificado."
+  ],
+  "correct": 1,
+  "explanation": "O delito praticado por Atanásio é definido como fraude para recebimento de indenização ou valor de seguro, segundo previsão do art. 171, §2º, V do CP:\nEstelionato\nArt. 171 - Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:\n(...)\n§ 2º - Nas mesmas penas incorre quem:\nFraude para recebimento de indenização ou valor de seguro\nV - destrói, total ou parcialmente, ou oculta coisa própria, ou lesa o próprio corpo ou a saúde, ou agrava as consequências da lesão ou doença, com o intuito de haver indenização ou valor de seguro.\nNo caso descrito, Atanásio ocultou o veículo de sua propriedade e registrou um boletim de ocorrência falso de furto, com o objetivo de receber o valor do seguro, configurando a fraude para recebimento de indenização ou valor de seguro.\nPortanto, a alternativa correta é a letra b) fraude para recebimento de indenização ou valor de seguro."
+}
+,
+{
+  "question": "164ª Tício, usuário de maconha, porém imputável e lúcido naquele momento, subtrai dinheiro deixado por sua avó, com mais de 60 anos de idade, visando adquirir entorpecente para uso próprio. Assinale a alternativa correta.",
+  "options": [
+    "Tício é isento de pena, por ter praticado o furto contra ascendente.",
+    "Tício responderá pelo furto, mas a ação penal estará condicionada à representação por parte da avó.",
+    "Tício responderá pelo furto, independentemente de representação por parte da avó, pois a ação penal é pública incondicionada.",
+    "Tício não praticou crime, pois agiu em estado de necessidade."
+  ],
+  "correct": 2,
+  "explanation": "Nessa situação hipotética, Tício praticou o crime de furto, previsto no art. 155 do CP. Não há aplicação da causa de isenção de pena do art. 181, II do CP (crime contra ascendente), pois a vítima tinha mais de 60 anos de idade, na forma do art. 183, III do Código Penal."
+},
+{
+  "question": "165ª Nessa situação, o agente responderá pelo roubo na forma simples, sendo indispensável a apreensão da arma de fogo pela autoridade policial para a caracterização da correspondente majorante do crime.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "A assertiva está incorreta, isso porque o STF tem entendimento pacífico no sentido de que é desnecessária a apreensão e perícia da arma, se for possível comprovar o efetivo emprego por outros meios.\nInformativo 536, STF - não é obrigatório que a arma de fogo seja periciada ou apreendida, desde que, outros meios de prova demonstrem seu potencial lesivo."
+}
+,
+{
+  "question": "166ª Caio subtraiu dinheiro de seu pai e o aparelho celular de seu tio. Nessa situação, Caio será processado, mediante ação penal pública, por apenas um crime de furto.",
+  "options": ["Certo", "Errado"],
+  "correct": 0,
+  "explanation": "Isso mesmo, pois em relação ao furto praticado contra o próprio pai, Caio será isento de pena, não respondendo pelo crime, segundo dispõe o art. 181, II do Código Penal. Com relação ao furto praticado contra o tio, Caio responderá pelo delito. Ademais, o crime praticado contra o tio será de ação penal pública incondicionada, uma vez que não se aplica a previsão do art. 182, III do Código Penal, já que a vítima era pessoa idosa, na forma do art. 183, III do Código Penal."
+}
+,
+{
+  "question": "167ª Os crimes de furto e de roubo só se consumam quando o agente detém a posse tranquila do bem subtraído.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "A afirmativa está incorreta. Segundo a jurisprudência consolidada do Superior Tribunal de Justiça (STJ), o crime de furto se consuma com a inversão da posse do bem, ou seja, quando o bem sai da esfera de disponibilidade da vítima e passa para a do agente, ainda que por breve espaço de tempo e sem que haja a posse tranquila do bem subtraído."
+}
+,
+{
+  "question": "168ª O crime de extorsão se consuma no momento em que o sujeito ativo obtém o proveito econômico almejado.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "De acordo com a Súmula 96 do STJ; “O crime de extorsão consuma-se independentemente da obtenção da vantagem indevida”. Ademais, o crime de extorsão é um crime formal, que se consuma no momento em que a vítima sofre o constrangimento realizado pelo agente. Não é necessário, para a consumação do delito, que o agente obtenha o resultado pretendido."
+}
+,
+{
+  "question": "169ª A extorsão é considerada pelo STJ como crime material, pois se consuma no momento da obtenção da vantagem indevida.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "A extorsão é considerada um crime formal pelo Superior Tribunal de Justiça (STJ), pois sua consumação independe da obtenção da vantagem indevida. Em outras palavras, a extorsão se consuma no momento em que o agente constrange a vítima, mediante violência ou grave ameaça, com o objetivo de obter para si ou para outrem indevida vantagem econômica, independentemente do êxito ou não na obtenção dessa vantagem. Portanto, a afirmativa em questão está incorreta."
+}
+,
+{
+  "question": "170ª O reconhecimento do privilégio previsto para o furto simples nos casos de crime de furto qualificado é inadmissível.",
+  "options": ["Certo", "Errado"],
+  "correct": 1,
+  "explanation": "A afirmativa está incorreta. O Superior Tribunal de Justiça (STJ) tem entendimento consolidado no sentido de que, nos casos de furto qualificado, é possível reconhecer o privilégio previsto para o furto simples se o agente é primário, a coisa furtada é de pequeno valor e a qualificadora é de ordem objetiva, como é o caso de uma porta arrombada."
+}
+,
+
+      {
+    "question": "152ª Fernanda, funcionária pública vinculada à Defensoria Pública do Estado do Mato Grosso, no ponto de ônibus em frente ao prédio da administração da Defensoria, após deixar seu trabalho na companhia de uma colega de serviço, aproveitando-se da distração desta, subtraiu sua carteira, que estava dentro da bolsa. Descoberta por meio de câmeras de segurança, Fernanda deverá ser denunciada pela prática do crime de:",
+    "options": [
+      "peculato-furto",
+      "estelionato",
+      "peculato-desvio",
+      "furto",
+      "peculato-apropriação"
+    ],
+    "correct": 3,
+    "explanation": "Nessa situação hipotética, teremos o crime de furo, visto que, Fernanda subtraiu, para si, coisa alheia móvel, na forma do art. 155 do CP. Não há que se falar em peculato-furto, pois a subtração não teve qualquer relação com o cargo exercido pelo agente."
+  },
+  {
+    "question": "153ª A respeito de crimes contra o patrimônio, é correto afirmar que:",
+    "options": [
+      "dano simples praticado pelo agente contra seu tio, com quem não coabita, este com cinquenta e um anos de idade, somente se procederá mediante representação.",
+      "apropriação indébita praticado pelo agente contra seu cônjuge, este com cinquenta e nove anos de idade, separado judicialmente, somente se procederá mediante representação.",
+      "estelionato praticado pelo agente contra seu irmão, este com cinquenta e cinco anos de idade, somente se procederá mediante queixa.",
+      "alteração de limites praticado pelo agente contra seu sobrinho, com quem coabita, este com cinquenta anos de idade, será isento de pena.",
+      "extorsão praticado pelo agente contra seu pai, este com cinquenta e oito anos de idade, será isento de pena."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa (b) vai de encontro com a redação do art. 182, I do CP:<br />Art. 182 - Somente se procede mediante representação, se o crime previsto neste título é cometido em prejuízo:<br />I - do cônjuge desquitado ou judicialmente separado;<br />Logo, a situação hipotética apresentada não é causa de isenção de pena, isso porque o agente e a vítima estavam separados judicialmente."
+  },
+  {
+    "question": "154ª João, de 30 anos, em concurso com a amiga Maria, de 25 anos, cometem apropriação indébita contra o pai de João, de 50 anos. Os três moram na mesma casa. É correto afirmar que João",
+    "options": [
+      "e Maria são isentos de pena.",
+      "é isento de pena e Maria somente será processada mediante representação.",
+      "e Maria somente serão processados mediante representação.",
+      "é isento de pena, mas a Maria não socorre semelhante benefício.",
+      "somente será processado mediante representação e Maria é isenta de pena."
+    ],
+    "correct": 3,
+    "explanation": "Nessa situação hipotética, João será isento de pena, pois praticou o crime patrimonial (sem violência ou grave ameaça) contra seu ascendente (seu pai), que não tinha idade igual ou superior a 60 anos, segundo prevê o art. 181, II do CP.<br />Art. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />(...)<br />II - de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, seja civil ou natural.<br />Por outro lado, Maria, não receberá o mesmo benefício, visto que, não possui vínculo com a vítima, segundo redação do art. 183, II do CP.<br />Art. 183 - Não se aplica o disposto nos dois artigos anteriores:<br />(...)<br />II - ao estranho que participa do crime."
+  },
+  {
+    "question": "155ª Entre outras possibilidades, o crime de dano do art. 163 do CP é qualificado se cometido",
+    "options": [
+      "por motivo fútil.",
+      "por duas ou mais pessoas.",
+      "durante o repouso noturno.",
+      "em situação de calamidade pública.",
+      "contra o patrimônio da União, Estado ou Município."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa correta é a letra E. O crime de dano na sua forma qualificada encontra-se previsto no artigo 163, parágrafo único do Código Penal, que prevê diversas possibilidades em seus incisos, incluindo o inciso III, que considera qualificado o dano contra o patrimônio da União, Estado, Município ou de entidades públicas.<br />Dano<br />Art. 163 - Destruir, inutilizar ou deteriorar coisa alheia:<br />Pena - detenção, de um a seis meses, ou multa.<br />Dano qualificado<br />Parágrafo único - Se o crime é cometido:<br />I - com violência à pessoa ou grave ameaça;<br />II - com emprego de substância inflamável ou explosiva, se o fato não constitui crime mais grave<br />III - contra o patrimônio da União, de Estado, do Distrito Federal, de Município ou de autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa concessionária de serviços públicos."
+  },
+  {
+    "question": "156ª Não há crime de latrocínio, quando o homicídio se consuma, mas o agente não realiza a subtração de bens da vítima.",
+    "options": [
+      "Certo",
+      "Errado"
+    ],
+    "correct": 1,
+    "explanation": "A luz da Súmula 610 do STF, o latrocínio se configura mesmo que não ocorra a subtração de bens da vítima, desde que o agente, com o objetivo de realizá-la, provoque a morte mediante violência ou grave ameaça. Nesse caso, a subtração é considerada tentada, ainda que não tenha sido efetivada por circunstâncias alheias à vontade do agente. Assim, é possível que o crime de latrocínio seja caracterizado mesmo que a subtração não se concretize."
+  },
+  {
+    "question": "157ª Aquele que com prévia intenção de vantagem patrimonial seduz outra pessoa, convidando-a à prática de ato sexual e, durante o coito, amarra a vítima ao leito, impossibilitando sua reação, a fim de que possa subtrair-lhe os pertences pessoais (dinheiro, telefone celular e automóvel), comete crime de:",
+    "options": [
+      "extorsão mediante sequestro",
+      "extorsão",
+      "roubo",
+      "furto",
+      "estelionato"
+    ],
+    "correct": 2,
+    "explanation": "O crime descrito na questão se enquadra no tipo penal de roubo, previsto no artigo 157 do Código Penal brasileiro.<br />Roubo<br />Art. 157 - Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência:<br />Pena - reclusão, de quatro a dez anos, e multa.<br />No caso apresentado, o agente amarrou a vítima ao leito para reduzir sua capacidade de resistência e subtrair seus pertences pessoais, configurando assim o roubo."
+  },
+  {
+    "question": "158ª No crime de furto, caracteriza-se como causa de aumento de pena, mas não qualificadora do crime:",
+    "options": [
+      "a prática do crime mediante concurso de duas ou mais pessoas.",
+      "a prática do crime durante o repouso noturno",
+      "a prática do crime com abuso de confiança, ou mediante fraude, escalada ou destreza.",
+      "a prática do crime com emprego de chave falsa.",
+      "a prática do crime com destruição ou rompimento de obstáculo à subtração da coisa."
+    ],
+    "correct": 1,
+    "explanation": "Em se tratando do crime de furto, a causa de aumento de pena está prevista no art. 155, §1º, e se dá quando o crime é praticado durante o repouso noturno. Veja:<br />Furto<br />Art. 155 - Subtrair, para si ou para outrem, coisa alheia móvel:<br />(...)<br />§ 1º - A pena aumenta-se de um terço, se o crime é praticado durante o repouso noturno."
+  },
+  {
+    "question": "159ª Nos termos do art. 155, § 4.º do CP, o crime de furto é qualificado quando cometido:",
+    "options": [
+      "em local ermo.",
+      "durante o repouso noturno.",
+      "em situação de calamidade pública.",
+      "mediante concurso de duas ou mais pessoas.",
+      "contra órgão da Administração Pública direta ou indireta."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra (d) mediante concurso de duas ou mais pessoas.<br />O artigo 155, § 4º, do Código Penal, prevê que o crime de furto é qualificado quando cometido mediante concurso de duas ou mais pessoas. Isso significa que, quando duas ou mais pessoas se unem para praticar o furto, a pena aplicada será mais grave do que se o crime fosse cometido por apenas uma pessoa. As demais alternativas não se enquadram na qualificação do crime de furto."
+  },
+  {
+    "question": "160ª “Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência”. O Código Penal Brasileiro intitula o tipo penal ora transcrito de:",
+    "options": [
+      "extorsão",
+      "furto de coisa comum",
+      "roubo",
+      "furto qualificado",
+      "furto"
+    ],
+    "correct": 2,
+    "explanation": "O tipo penal transcrito se refere ao crime de roubo, que é previsto no artigo 157 do Código Penal Brasileiro. O roubo é a subtração de coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência."
+  },
+  {
+    "question": "161ª Baco, cliente de uma vídeolocadora, aluga 4 filmes e os leva para casa. Passado o período de locação, Baco decide devolver somente 3 filmes e retém um deles com a intenção de ficar definitivamente com o filme de propriedade da locadora. Essa conduta de Baco configura o crime de",
+    "options": [
+      "apropriação indébita",
+      "furto",
+      "roubo",
+      "receptação",
+      "peculato"
+    ],
+    "correct": 0,
+    "explanation": "A conduta de Baco configura o crime de apropriação indébita, que é definido como a conduta de quem recebeu um bem móvel de outra pessoa para guardá-lo, devolvê-lo ou entregá-lo a alguém, mas se apropria do bem em benefício próprio, sem a autorização do proprietário. Nesse caso, Baco tinha a obrigação de devolver todos os filmes à locadora, mas se apropriou indevidamente de um deles, configurando o crime de apropriação indébita.<br />Apropriação indébita<br />Art. 168 - Apropriar-se de coisa alheia móvel, de que tem a posse ou a detenção:<br />Pena - reclusão, de um a quatro anos, e multa."
+  },
+  {
+    "question": "162ª A conduta de constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar fazer alguma coisa caracteriza o crime de:",
+    "options": [
+      "extorsão",
+      "abuso de poder",
+      "exercício arbitrário",
+      "coação no curso do processo",
+      "roubo"
+    ],
+    "correct": 0,
+    "explanation": "A conduta descrita caracteriza o crime de extorsão, que é definido como a ação de constranger alguém, mediante violência ou grave ameaça, com o intuito de obter para si ou para outrem indevida vantagem econômica, nos termos do artigo 158 do CP:<br />Extorsão<br />Art. 158 - Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa:<br />Pena - reclusão, de quatro a dez anos, e multa. Portanto, a alternativa correta é a letra a) extorsão."
+  },
+  {
+    "question": "141ª Conforme o ditado popular, “achado não é roubado”. De acordo com o Direito Penal brasileiro, é correto afirmar que a pessoa que acha coisa alheia perdida e dela se apropria pratica",
+    "options": [
+      "o delito de apropriação de coisa havida por erro.",
+      "o delito de apropriação de coisa achada apenas se o agente deixar de restituir o bem ao dono ou legítimo possuidor ou de entregá-lo à autoridade competente dentro do prazo de 15 (quinze) dias.",
+      "fato atípico.",
+      "o delito de apropriação indébita.",
+      "o delito de furto."
+    ],
+    "correct": 1,
+    "explanation": "A pessoa que acha coisa alheia perdida e dela se apropria pratica o delito de apropriação de coisa achada apenas se o agente deixar de restituir o bem ao dono ou legítimo possuidor ou de entregá-lo à autoridade competente dentro do prazo de 15 (quinze) dias. Portanto, a alternativa correta é a letra B.\nDe acordo com o artigo 169 do Código Penal, a pessoa que acha coisa alheia perdida e dela se apropria, deixando de restituí-la ao dono ou legítimo possuidor ou de entregá-la à autoridade competente, comete o crime de apropriação de coisa achada. O prazo para a restituição ou entrega é de 15 dias, a contar da data em que o agente tomou conhecimento de quem seja o dono ou legítimo possuidor da coisa."
+  },
+  {
+    "question": "142ª Sobre as disposições gerais aplicáveis aos crimes contra o patrimônio, previstas nos artigos 181 a 183 do Código Penal, assinale a alternativa correta.",
+    "options": [
+      "Maria, apesar de divorciada de José, com este mantém amizade, e constantemente se encontram para jantar. Em um desses encontros, Maria furtou o relógio e as abotoaduras de ouro pertencentes a José. Nesse caso, por ter sido casada com José, Maria estará isenta de pena, nos temos do art. 181, I, do Código Penal.",
+      "Se o crime for cometido em prejuízo de irmão, legítimo ou ilegítimo, a ação penal será pública incondicionada.",
+      "Manoel, para sustentar o vício em jogos, furtou R$ 70.000,00 de seu pai, referente a todo o dinheiro economizado durante a vida do genitor, um senhor de 65 anos de idade à época do fato. Por ter praticado crime sem violência contra seu genitor, Manoel ficará isento de pena.",
+      "As causas de isenção de pena previstas nos artigos 181 e 182 também se estendem ao estranho que participa do crime.",
+      "Se o crime for cometido em prejuízo de tio ou sobrinho com quem o agente coabita, a ação penal será pública condicionada à representação."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa correta é letra (e). Vamos analisar abaixo todas as alternativas da questão.\nAlternativa A: Errado. Segundo previsão do art. 181, inciso I do Código Penal, a isenção de pena só é válida ao cônjuge na constância da sociedade conjugal.\nAlternativa B: Errado. Conforme disposição do art. 182, inciso II do Código Penal, a ação penal será pública condicionada à representação.\nAlternativa C: Errado. Conforme previsão do art. 183, inciso III do Código Penal, caso a vítima seja pessoa com idade igual ou superior à 60 (sessenta) anos, não se aplica a isenção de pena e o crime será de ação penal pública incondicionada.\nAlternativa D: Errado. Por previsão expressa do art. 183, inciso II do Código Penal, não se aplicam as disposições dos arts. 181 e 182 do CP ao estranho que participa do crime.\nAlternativa E: Correto. De acordo com redação expressa no art. 183, 182, inciso III do Código Penal."
+  },
+  {
+    "question": "143ª Por estar com problemas financeiros, Lara convidou um colega para subtrair bens do patrimônio de Jair. O colega aceitou o convite e o ilícito foi cometido. Nessa situação, haverá isenção de pena se",
+    "options": [
+      "Jair for genitor de Lara, ainda que não tenha reconhecido formalmente a paternidade.",
+      "Jair for avô de Lara e tiver idade superior a sessenta anos.",
+      "Lara for mãe dos filhos de Jair, mesmo que ambos estejam divorciados.",
+      "o crime tiver sido praticado sem violência física, mesmo que sob grave ameaça.",
+      "o colega dela não tiver vínculo familiar com Jair, ainda que saiba da existência de parentesco entre este e aquela."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A: Jair sendo genitor de Lara, ainda que não tenha reconhecido formalmente a paternidade, é possível a aplicação da isenção de pena prevista no artigo 181, II, do Código Penal.\n\nArt. 181 – É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />II – de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, seja civil ou natural.\nO colega de Lara, por outro lado, não terá direito à isenção de pena, pois a previsão do artigo 183, II, do Código Penal, estabelece que as disposições dos artigos 181 e 182 não se aplicam ao estranho que participa do crime.\nArt. 183 - Não se aplica o disposto nos dois artigos anteriores:<br />II - ao estranho que participa do crime."
+  },
+  {
+    "question": "144ª Nos termos preconizados pelo Código Penal, em relação às escusas absolutórias, estará isento de pena:",
+    "options": [
+      "Pedro, co-autor de um crime de furto qualificado juntamente com seu amigo Italo, praticado contra o genitor deste último.",
+      "Rodrigo, que invade a chácara de sua família e comete um crime de roubo contra seus ascendentes, subtraindo bens que guarneciam o imóvel.",
+      "Paulo, que pratica um crime de furto contra empresa de seu tio.",
+      "Micaela, que pratica um crime de estelionato contra seu filho, utilizando os documentos pessoais e cartão de crédito deste para fazer compras em estabelecimentos comerciais de uma determinada cidade.",
+      "Flávia, que pratica crime de apropriação indébita contra o seu avô de 70 anos de idade."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra (d) “Micaela, que pratica um crime de estelionato contra seu filho, utilizando os documentos pessoais e cartão de crédito deste para fazer compras em estabelecimentos comerciais de uma determinada cidade”.\nNesse caso, há isenção de pena, pois o filho de Micaela é seu descendente, o que se enquadra na escusa absolutória prevista no art. 181, II, do Código Penal.\nArt. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />II - de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, seja civil ou natural."
+  },
+  {
+    "question": "145ª Diante da situação narrada envolvendo Maurício, é correto afirmar que:",
+    "options": [
+      "Maurício é isento de pena pela prática dos dois crimes, em razão da escusa absolutória pelo fato de as vítimas serem seus genitores;",
+      "Maurício é isento de pena pela prática da conduta engendrada contra o pai, mas não contra a mãe;",
+      "as condutas praticadas por Maurício são atípicas, pois os bens subtraídos também podem ser considerados de sua propriedade;",
+      "Maurício é isento de pena pela prática da conduta engendrada em desfavor de sua mãe, mas não pela conduta praticada contra seu pai;",
+      "Maurício deverá responder pela prática de ambos os crimes, não havendo que se falar em aplicação de escusas absolutórias."
+    ],
+    "correct": 4,
+    "explanation": "A escusa absolutória prevista no Código Penal brasileiro se aplica somente a determinados casos específicos. No caso apresentado, Maurício praticou um furto em prejuízo de seu pai e, em seguida, um roubo com ameaça em prejuízo de sua mãe, o que não se enquadra nas hipóteses de escusa absolutória previstas em lei, conforme prevê os arts. 181, 182 e 183 do Código Penal.\nArt. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />I - do cônjuge, na constância da sociedade conjugal;<br />II - de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, seja civil ou natural.\nArt. 182 - Somente se procede mediante representação, se o crime previsto neste título é cometido em prejuízo:<br />I - do cônjuge desquitado ou judicialmente separado;<br />II - de irmão, legítimo ou ilegítimo;<br />III - de tio ou sobrinho, com quem o agente coabita.\nArt. 183 - Não se aplica o disposto nos dois artigos anteriores:<br />I - se o crime é de roubo ou de extorsão, ou, em geral, quando haja emprego de grave ameaça ou violência à pessoa;<br />II - ao estranho que participa do crime;<br />III – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos."
+  },
+  {
+    "question": "146ª Considere que Marcos, penalmente imputável, subtraia de seu genitor de sessenta e oito anos de idade, um relógio de alto valor. Nessa situação, o autor não pode beneficiar-se da escusa penal absolutória, em razão da idade da vítima.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "A assertiva está correta segundo previsão do artigo 183, inciso III, do Código Penal.\nArt. 183 - Não se aplica o disposto nos dois artigos anteriores:<br />III – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos."
+  },
+  {
+    "question": "147ª Em relação aos crimes contra o patrimônio, é correto afirmar que:",
+    "options": [
+      "constitui causa de aumento de pena do furto simples a subtração de semovente domesticável de produção, ainda que abatido ou dividido em partes no local da subtração.",
+      "é isento de pena quem comete furto em prejuízo de ascendente, independentemente da idade da vítima.",
+      "não incide a agravante de crime praticado contra maior de sessenta anos no caso de estelionato contra idoso.",
+      "admitem a figura privilegiada os crimes de furto, dano, apropriação indébita, estelionato e receptação."
+    ],
+    "correct": 2,
+    "explanation": "A afirmativa correta é a letra C: não incide a agravante de crime praticado contra maior de sessenta anos no caso de estelionato contra idoso, visto que no estelionato tal circunstância já é considerada como causa de aumento de pena, na forma do art. 171, §4º do CP, sob pena de bis in idem."
+  },
+  {
+    "question": "148ª O furto praticado por um irmão em desfavor do outro deve ser considerado isento de pena, por expressa previsão legal.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está incorreto. O Código Penal brasileiro não prevê isenção de pena para o crime de furto praticado por irmãos em desfavor um do outro."
+  },
+  {
+    "question": "149ª É correto afirmar que é isento de pena a esposa que pratica crime de furto qualificado com emprego de chave falsa contra seu marido na constância do casamento.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "Item correto, nos termos do Art. 181, I, do Código Penal.\nArt. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />I - do cônjuge, na constância da sociedade conjugal."
+  },
+  {
+    "question": "150ª É isento de pena quem comete crime de usurpação em prejuízo do cônjuge, na constância da sociedade conjugal.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto, de acordo com previsão expressa do inciso I do art. 181 do Código Penal.\nArt. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:<br />I - do cônjuge, na constância da sociedade conjugal."
+  },
+  {
+    "question": "151ª Considerando apenas as informações narradas, é correto afirmar que Tício responderá pelo crime de:",
+    "options": [
+      "peculato-desvio;",
+      "apropriação indébita;",
+      "peculato-apropriação;",
+      "furto;",
+      "peculato-furto."
+    ],
+    "correct": 3,
+    "explanation": "De acordo com as informações narradas, Tício cometeu o crime de furto, previsto no artigo 155 do Código Penal brasileiro. O furto consiste na subtração de coisa alheia móvel, sem o consentimento do proprietário, para si ou para outrem."
+  }
+]
+,
+
+"desarmamento":[
+  {
+    "question": "1. De acordo com o entendimento da doutrina e dos tribunais superiores sobre o Estatuto do Desarmamento, especialmente quanto às armas de fogo,",
+    "options": [
+      "Crime de tráfico internacional de arma de fogo é insuscetível de liberdade provisória.",
+      "majora-se a pena em caso de crime de comércio ilegal de arma de fogo mesmo que se trate de armamento de uso permitido.",
+      "a arma de fogo desmuniciada afasta as figuras criminosas da posse ou do porte ilegal, considerando-se que o objeto jurídico tutelado é a incolumidade física.",
+      "o porte de arma de fogo de uso permitido com a numeração raspada equivale penalmente ao porte de arma de fogo de uso restrito.",
+      "o disparo de arma de fogo em via pública e o porte ilegal de arma de fogo de uso permitido configuram"
+    ],
+    "correct": 3,
+    "explanation": "A) ✅ Correta (pela literalidade da lei)\n\nO tráfico internacional de arma de fogo (art. 18) era, pelo art. 21, inafiançável e insuscetível de liberdade provisória.\n\nB) ❌ Incorreta\n\nO art. 17, parágrafo único, prevê majoração apenas se a arma for de uso restrito ou proibido.\nLogo, uso permitido não majora.\n\nC) ❌ Incorreta\n\nA lei não exige que a arma esteja municiada para configurar os crimes de posse ou porte ilegal.\nPortanto, a arma desmuniciada não afasta o crime, mesmo pela leitura literal.\n\nD) ✅ Correta\n\nO art. 16, parágrafo único, IV, equipara à arma de uso restrito aquela com numeração, marca ou outro sinal de identificação raspado, suprimido ou adulterado.\n\nE) ✅ Correta (pela literalidade da lei)\n\nO art. 21 estabelece que os crimes dos arts. 14 (porte ilegal de uso permitido) e 15 (disparo de arma de fogo) são inafiançáveis."
+  },
+  {
+    "question": "2. (IESES/Perito Criminal de Santa Catarina/2017). De acordo com a Lei 10.826/03, que dispõe sobre registro, posse e comercialização de armas de fogo e munição e sobre o Sistema Nacional de Armas – Sinarm compete ao Sinarm, dentre outras atribuições:",
+    "options": [
+      "Apenas I e II estão corretas",
+      "Todas estão corretas",
+      "Apenas I e IV estão corretas",
+      "Apenas II e IV estão corretas"
+    ],
+    "correct": 2,
+    "explanation": "I.<br/> Identificar as características e a propriedade de armas de fogo, mediante cadastro.<br/>\nII.<br/> Cadastrar as armas de fogo das Forças Armadas e Auxiliares, mantendo registro próprio.<br/>\nIII.<br/> Cadastrar as apreensões de armas de fogo, exceto as vinculadas a procedimentos policiais e judiciais.<br/>\nIV.<br/> Cadastrar os armeiros em atividade no País, bem como conceder licença para exercer a atividade.\n\nA alternativa I está correta, pois é competência do SINARM identificar as características e a propriedade de armas de fogo, mediante cadastro (art. 2º, I, da Lei 10826/03).\nA alternativa II está errada, pois é competência do SIGMA cadastrar as armas de fogo das Forças Armadas e Auxiliares, mantendo registro próprio.\nA alternativa III está errada, pois é competência do SINARM cadastrar as apreensões de armas de fogo, inclusive as vinculadas a procedimentos policiais e judiciais (art. 2º, VII, da Lei 10826/03).\nA alternativa IV está correta, pois é competência do SINARM cadastrar os armeiros em atividade no País, bem como conceder licença para exercer a atividade (art. 2º, VIII, da Lei 10826/03).\nComentário: A alternativa correta é a letra C."
+  },
+  {
+    "question": "3. (VUNESP/Promotor de Justiça de São Paulo/2017) A guarda de arma desmuniciada, de uso permitido, em sua própria residência, constituirá crime",
+    "options": [
+      "na hipótese de a arma, em exame pericial, se mostrar apta a efetuar disparo.",
+      "na hipótese em que, na residência, houver disponibilidade de munição compatível com a arma apreendida.",
+      "se o implicado não possuir licença para o porte da arma apreendida.",
+      "caso o implicado não possua o registro de propriedade válido da arma.",
+      "se a residência estiver situada em área urbana."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. A posse ilegal de arma de fogo de uso permitido consiste em manter a arma intra muros, ou seja, no interior da residência ou local de trabalho. Esse crime ocorrerá quando o agente possui ou mantém a guarda da arma de fogo de uso permitido, no interior de residência ou dependência desta, ou no local de trabalho, na condição de titular ou responsável legal do estabelecimento ou empresa, sem o devido registro.\nAlternativa A está errada: A apreensão e o exame pericial não são necessários para a configuração do delito do art. 12 do Estatuto do Desarmamento. Cuida-se de crime de perigo abstrato.\nAlternativa B está errada: Segundo os Tribunais Superiores, a arma não precisa estar municiada para a caracterização do delito do art. 12 do Estatuto do Desarmamento.\nAlternativa C está errada: A licença para o porte da arma apreendida é imprescindível para o delito do art. 14 do Estatuto do Desarmamento, ao passo que para o art. 12 da citada lei é necessário o registro da arma.\nA alternativa E está errada: O tipo penal do art. 12 da Lei nº 10826/03 não faz qualquer diferenciação entre a zona (urbana ou rural) que deve situar essa residência, ou seja, basta que a arma de uso permitido sem registro esteja no interior da residência ou dependência desta."
+  },
+  {
+    "question": "4. (CESPE/Delegado de Polícia do Mato Grosso/2017) João, ao trafegar com sua moto, foi surpreendido por policiais que encontraram em seu poder arma de fogo — revólver — de uso permitido. João trafegava com a arma sem autorização e em desacordo com determinação legal ou regulamentar.A partir dessa situação hipotética, assinale a opção correta de acordo com o Estatuto do Desarmamento e com o entendimento jurisprudencial dos tribunais superiores.",
+    "options": [
+      "O simples fato de João carregar consigo o revólver, por si só, não caracteriza crime, uma vez que o perigo de dano não é presumido pelo tipo penal.",
+      "Se o revólver estiver com a numeração raspada, João estará sujeito à sanção prevista para o delito de posse ou porte ilegal de arma de fogo de uso proibido ou restrito.",
+      "O crime de porte ilegal de arma de fogo de uso permitido é inafiançável.",
+      "O simples fato de João carregar consigo o revólver caracteriza o crime de posse ilegal de arma de fogo de uso permitido.",
+      "Se o revólver estiver desmuniciado, o fato será atípico."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra B, pois se a arma, ainda que de uso permitido, tiver numeração raspada, tal situação será equiparada ao porte de arma de uso restrito ou proibido, nos termos do art. 16, parágrafo único, IV, da Lei 10826/03.\nAlternativa A está errada: O delito de porte ilegal de arma de fogo de uso permitido é crime de perigo abstrato, que dispensa a demonstração de perigo no caso concreto.\nAlternativa C está errada, pois o parágrafo único do art. 14 da Lei 10826/03 foi declarado inconstitucional pelo Supremo Tribunal Federal na ADI 3112.\nAlternativa D está errada, pois o fato de João carregar arma de fogo de uso permitido na via pública caracteriza o delito do art. 14 do Estatuto do Desarmamento.\nA alternativa E está errada: Segundo os Tribunais Superiores, arma desmuniciada também merece censura penal, pois o delito em comento é crime de perigo abstrato, dispensando a necessidade de demonstração de qualquer perigo à incolumidade pública."
+  },
+  {
+    "question": "5. (IBADE/Juiz Substituto do Acre/2017) Acerca do Estatuto do Desarmamento (Lei 10.826/2003), assinale a alternativa correta.",
+    "options": [
+      "O crime de porte ilegal de arma de fogo de uso permitido é inafiançável.",
+      "O proprietário responsável de empresa de segurança e transporte de valores que deixar de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio de arma de fogo que esteja sob sua guarda, nas primeiras 24 (vinte quatro) horas depois de ocorrido o fato, incorrerá no crime de omissão de cautela.",
+      "De acordo com a recente decisão do Superior Tribunal de Justiça, aquele que mantiver em seu poder uma arma de fogo de calibre permitido com registro vencido, incorrerá na prática do crime de porte ilegal de arma de fogo.",
+      "No crime de comércio ilegal de arma de fogo, a pena é aumentada em um terço se a arma de fogo, acessório ou munição forem de uso proibido ou restrito.",
+      "O crime de omissão de cautela consiste em deixar de observar as cautelas necessárias para impedir que menor de 14 (catorze) anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra B, conforme se infere do art. 13, parágrafo único, do Estatuto do Desarmamento. Esse delito também é conhecido como omissão de comunicação de perda ou subtração de arma de fogo.\nAlternativa A está errada: O Supremo Tribunal Federal na ADI 3112 declarou a inconstitucionalidade do parágrafo único do art. 14 do Estatuto do Desarmamento, por entendê-lo desarrazoado, sob o fundamento de que o porte ilegal de arma de fogo de uso permitido não poderia ser equiparado a terrorismo, tortura, tráfico ilícito de entorpecentes e crimes hediondos (art. 5º, XLII, da CF). Entendeu ainda que por estarmos diante de um crime de mera conduta não poderia esse ser igualado aos delitos que causam lesão ou ameaça de lesão à vida ou à propriedade.\nAlternativa C está errada: A Corte Especial do Superior Tribunal de Justiça nos Autos da Ação Penal Originária nº 686, julgada em 21/10/2015, firmou o entendimento de que se o agente já procedeu ao registro da arma, a expiração do prazo é mera irregularidade administrativa que autoriza a apreensão do artefato e aplicação de multa. A conduta, no entanto, não caracteriza ilícito penal.\nAlternativa D está errada: De acordo com o art. 19 do Estatuto do Desarmamento, no crime de comércio ilegal de arma de fogo apena é aumentada da metade se a arma de fogo, acessório ou munição for de uso proibido ou restrito\nAlternativa E está errada: O crime de omissão de cautela (art. 13, caput, do Estatuto do Desarmamento) consiste em deixar de observar as cautelas necessárias para impedir que menor de 18 (dezoito) anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade."
+  },
+  {
+    "question": "7. (VUNESP/ Promotor de Justiça de São Paulo/2010) Assinale a alternativa correta:",
+    "options": [
+      "constitui causa de aumento de pena, nos crimes de disparo de arma de fogo e porte ilegal de arma de fogo, sua prática por parte de integrantes das empresas de segurança privada e de transporte de valores.",
+      "o crime de omissão de cautela (art. 13 da Lei n. 10.826/03 — Lei do Desarmamento) sujeita o autor às penas de um a dois anos de detenção, na hipótese de deixar de observar as cautelas necessárias para impedir que qualquer cidadão se apodere de arma de fogo, acessório ou munição que estejam sob sua posse ou que sejam de sua propriedade.",
+      "o crime de posse irregular de arma de fogo (art. 12 da Lei n. 10.826/03) não distingue, no seu apenamento, se a arma, acessório ou munição são de uso permitido ou restrito.",
+      "com o advento da Lei n. 10.826/03, a contravenção de porte ilegal de arma, prevista no art. 19 da Lei das Contravenções Penais, passou a ter como objeto apenas munições em geral e armas brancas.",
+      "acionar munição em lugar habitado ou em via pública, desde que essa conduta não tenha como finalidade a prática de outro crime, constitui a contravenção penal descrita no art. 28 da Lei das Contravenções Penais."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A, pois constitui causa de aumento de pena, nos crimes de disparo de arma de fogo e porte ilegal de arma de fogo, sua prática por parte de integrantes das empresas de segurança privada e de transporte de valores (art.20 do Estatuto dos Militares).\nA alternativa B está errada, pois os destinatários do delito de omissão de cautela são os deficientes mentais e os menores de 18 (dezoito) anos.\nA alternativa C está errada, pois o crime será do art. 16 do Estatuto do Desarmamento se a arma, acessório ou munição for de uso restrito.\nA alternativa D está errada. A contravenção penal do art. 19 da Lei das Contravenções somente tem aplicabilidade no tocante às armas brancas. O porte de munição é regulado pelo Estatuto do Desarmamento.\nA alternativa E está errada, pois acionar munição em lugar habitado ou em via pública constitui o delito de disparo de arma de fogo (art. 15 do Estatuto do Desarmamento)."
+  },
+  {
+    "question": "8. (VUNESP/ Promotor de Justiça do Espírito Santo/2013) Com relação ao Estatuto do Desarmamento, é correto afirmar que",
+    "options": [
+      "constitui crime a utilização de arma de brinquedo ou simulacro capaz de atemorizar ninguém;",
+      "para a tipificação do crime de disparo de arma de fogo é necessário provar que determinada pessoa tenha sido exposta a risco.",
+      "não poderá ser concedida liberdade provisória ao crime de comércio ilegal de arma de fogo.",
+      "para a tipificação do crime de porte ilegal de arma de fogo de uso permitido não é necessário que o armamento esteja municiado.",
+      "o crime de tráfico internacional de arma de fogo não admite liberdade provisória."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. Como já vimos, o delito de porte ilegal de arma de fogo é crime de perigo abstrato, bastando apenas a prática do ato de levar consigo para a consumação do delito. Dessa forma, eventual nulidade do laudo pericial, ou até mesmo a sua ausência, não impede o enquadramento da conduta.\nA alternativa A está errada. Embora o art. 26 do Estatuto do Desarmamento proíba a comercialização e a importação de brinquedos, réplicas e simulacros de armas de fogo, que com estas se possam confundir, a lei 10826/03 não tipificou como delituosa essa conduta.\nA alternativa B está errada. O delito de disparo de arma de fogo é crime de perigo abstrato, ou seja, não necessita demonstrar a ocorrência de perigo para a sua caracterização.\nA alternativa C está errada. O art. 21 do Estatuto do Desarmamento foi declarado inconstitucional pelo STF na ADI 3112, razão pela qual não há que se falar numa vedação legal apriorística de liberdade provisória ao crime de comércio ilegal de arma de fogo.\nA alternativa E está errada. O art. 21 do Estatuto do Desarmamento foi declarado inconstitucional pelo STF na ADI 3112, razão pela qual não há que se falar numa vedação legal apriorística de liberdade provisória ao crime de tráfico internacional de arma de fogo."
+  },
+  {
+    "question": "9. (CESPE/Juiz de Direito do Distrito Federal e Territórios/ 2014-Adaptada) Analise o item a seguir: Jeremias foi abordado na via pública portando arma branca na cintura. Nessa situação dada a ausência de tipificação penal na legislação específica para porte de arma branca, a conduta de Jeremias deve ser considerada atípica, não configurando qualquer fato punível.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. Embora a conduta de Jeremias não tenha correspondência no Estatuto do Desarmamento, vale destacar que o caso em concreto está tipificado como contravenção penal no art. 19 do Dec-Lei 3688/41."
+  },
+  {
+    "question": "10. (VUNESP/Defensor Público de Alagoas/2008) Com relação aos crimes definidos na Lei nº 10826/03, não admite a figura do artigo 14, II, do Código Penal, o de",
+    "options": [
+      "omissão de cautela (art. 13, caput)",
+      "comércio ilegal de arma de fogo (art. 17, caput)",
+      "tráfico internacional de arma de fogo (art. 18)",
+      "produzir munição sem autorização legal (art. 16, parágrafo único, VI)."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A. O delito de omissão de cautela não admite tentativa. Afinal de contas, estamos diante de um crime culposo e omissivo próprio, delitos incompatíveis com a figura tentada. Se o menor ou deficiente mental se apossar da arma, o delito estará consumado; se não o fizer, a conduta será atípica.\nAs alternativas B, C, D estão erradas, porquanto os crimes dos artigos 16, parágrafo único, IV, 17 e 18, todos da Lei 10826/03 admitem a tentativa."
+  },
+  {
+    "question": "11. (FUNDEP/ Juiz de Direito de Minas Gerais/2009-Adaptada) Sobre o Estatuto do Desarmamento (Lei 10826, de 2003), analise o item a seguir: O crime de posse ilegal de arma de fogo de uso permitido, tipificado no art. 12 da Lei 10826, de 2003, com pena privativa de liberdade, abstratamente cominada em detenção de 01 a 03 anos, não comporta a substituição por pena restritiva de direitos, consoante as regras do art. 44 do CP, em face da violência intrinsecamente ligada ao comércio e utilização de armas de fogo em nosso país.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. O delito de posse irregular de arma de fogo de uso permitido (art. 12 do Estatuto do Desarmamento) não contém em seu tipo penal qualquer dado atinente a violência e grave ameaça. Sobremais, o quantum da pena cominada, por não ser superior a 4 anos, autoriza a substituição da pena privativa de liberdade por restritivas de direitos, desde que presentes os demais requisitos do art. 44 do Código Penal."
+  },
+  {
+    "question": "12. (VUNESP/Promotor de Justiça de São Paulo/2011) No crime de comércio ilegal de arma de fogo, a natureza jurídica do fato de ser a arma ou munição de uso proibido ou restrito constitui:",
+    "options": [
+      "circunstância agravante genérica.",
+      "circunstância judicial.",
+      "causa especial de aumento de pena.",
+      "circunstância qualificadora.",
+      "circunstância agravante específica."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa correta é a letra C. Incidirá a causa de aumento (majorante) em metade se o crime do art. 17 do Estatuto do Desarmamento tiver como objeto material arma de fogo, acessório ou munição de uso restrito (art. 19 do Estatuto do Desarmamento).\nAs alternativas A, B, D e E estão erradas, porquanto destoam do art. 19 da Lei 10826/03."
+  },
+   {
+    "question": "31. (MPE-SC/Promotor de Justiça de Santa Catarina/2014) Comete crime de posse irregular de arma de fogo de uso permitido cidadão que é pego mantendo sob sua guarda, no interior do quarto de sua residência, embaixo da cama, uma pistola .40, de uso restrito e com numeração suprimida.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. A situação narrada no problema configura o delito de posse irregular de arma de uso restrito (art. 16 do Estatuto do Desarmamento)."
+  },
+  {
+    "question": "32. (CESPE/Técnico Legislativo da Câmara dos Deputados/2014). Analise o item a seguir: As armas de fogo apreendidas e periciadas e que não mais forem necessárias à persecução penal deverão ser remetidas pelo juiz competente à autoridade policial que as apreendeu, para fins de destruição e reciclagem.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. De acordo com o art. 25 do Estatuto do Desarmamento, as armas de fogo apreendidas e periciadas e que não mais forem necessárias à persecução penal deverão ser remetidas pelo juiz competente ao Comando do Exército (e não à autoridade policial)."
+  },
+  {
+    "question": "33. (CESPE/Técnico Legislativo da Câmara dos Deputados/2014) Analise o item a seguir: A autorização de porte de arma aos responsáveis pela segurança de cidadãos estrangeiros em visita ao Brasil ou aqui sediados é da competência do Ministério da Justiça.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está correto. De acordo com o art. 9º do Estatuto do Desarmamento, compete ao Ministério da Justiça a autorização do porte de arma para os responsáveis pela segurança de cidadãos estrangeiros em visita ou sediados no Brasil e, ao Comando do Exército, nos termos do regulamento desta Lei, o registro e a concessão de porte de trânsito de arma de fogo para colecionadores, atiradores e caçadores e de representantes estrangeiros em competição internacional oficial de tiro realizada no território nacional."
+  },
+  {
+    "question": "34. (FCC/Analista Judiciário do TRF da 3ª Região/2007-Adaptada) A comercialização de armas de fogo acessórios e munições entre pessoas físicas também necessitará de autorização do SINARM.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. A comercialização de armas de fogo acessórios e munições entre pessoas físicas também necessitará de autorização do SINARM (art. 4º, §5º, da Lei 10826/03)."
+  },
+  {
+    "question": "35. (CESPE/Defensor Público do Espírito Santo/2012) Suponha que Tobias, maior, capaz, tenha sido abordado por policiais militares quando trafegava em sua moto, tendo sido encontradas com ele duas armas de uso restrito e munições, e atestada, em exame pericial, a impossibilidade de as armas efetuarem disparos. Nessa situação hipotética, resta caracterizado o delito de porte de arma de uso restrito, devendo Tobias responder por crime único.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está certo. De acordo com o STJ, para a caracterização do delito de porte de arma não há necessidade da realização de exame pericial que ateste a eficácia do artefato, pois cuida-se de crime de perigo abstrato. Todavia, se for realizado exame pericial que ateste a ineficácia da arma para efetuar disparos, a conduta se torna atípica. No caso em apreço, Tobias responderá pelo porte das munições de uso restrito (art. 16, caput, da Lei 10826/03)."
+  },
+  {
+    "question": "36. MPE-SC/Promotor de Justiça de Santa Catarina/2019 Se o objeto mediante o qual for praticado o crime de posse de arma de fogo for uma arma de fogo com numeração suprimida pelo sujeito, ocorrerá um concurso formal de delitos entre a posse e a supressão (Lei n. 10.826/2003).",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. A situação em tela configura o crime único estampado no art. 16, §1º, IV, do Estatuto do Desarmamento. Contudo, se o objeto material for arma de fogo de uso proibido, o delito será qualificado, nos termos do art. 16, §2º, do citado diploma legal."
+  },
+  {
+    "question": "37. MPE-SC/Promotor de Justiça de Santa Catarina/2019 O crime de porte de arma de fogo (art. 14 da Lei n. 10.826/2003) é um crime de perigo concreto.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 1,
+    "explanation": "O item está errado. Por ser um crime de perigo abstrato, o delito de porte de arma (de uso permitido e de uso restrito) não necessita da apreensão do artefato e de sua perícia para a edição do édito condenatório, pois presume-se, de modo absoluto, o risco à coletividade pelo simples fato de alguém portar arma, acessório ou munição, sem autorização. Todavia, se a arma for apreendida, ela deve ser periciada (art. 25, caput, do Estatuto do Desarmamento50) e caso o resultado pericial conclua pela ausência de potencialidade lesiva, a conduta será considerada atípica."
+  },
+  {
+    "question": "38. CESPE/Defensor Público do Distrito Federal/2019 O porte de arma de fogo sem autorização e em desacordo com determinação legal ou regulamentar, ainda que a arma esteja desmuniciada ou comprovadamente inapta a realizar disparos, configura delito de porte ilegal de arma de fogo.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está certo. A apreensão e o exame pericial não são necessários para a configuração do delito do art. 14 do Estatuto do Desarmamento. Cuida-se de crime de perigo abstrato."
+  },
+  {
+    "question": "39. CESPE/Delegado Federal/2018 O registro de arma de fogo na PF, mesmo após prévia autorização do SINARM, não assegura ao seu proprietário o direito de portá-la.",
+    "options": [
+      "certo",
+      "errado"
+    ],
+    "correct": 0,
+    "explanation": "O item está certo. Autorizar o titular (proprietário) a manter a arma de fogo exclusivamente no interior de sua residência ou domicilio, ou dependência desses, ainda, no seu local de trabalho, desde que seja o proprietário ou responsável legal pelo estabelecimento ou empresa (art. 5º, caput, da Lei nº 10826/03)."
+  },
+  {
+    "question": "40. FCC/Promotor de Justiça da Paraíba/2018 Nos termos do Estatuto do Desarmamento (Lei nº 10.826/2003), a conduta de emprestar a terceiro arma de fogo, sem autorização e em desacordo com determinação legal ou regulamentar, configura o crime de",
+    "options": [
+      "empréstimo ilegal de arma de fogo.",
+      "omissão de cautela.",
+      "porte ilegal de arma de fogo.",
+      "comércio ilegal de arma de fogo.",
+      "posse irregular de arma de fogo."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa correta é a letra C. O fato em tela configura o delito de porte ilegal de arma, nos exatos termos do art. 14 do Estatuto do Desamamento: Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar: As alternativas A, B, D e E estão erradas, eis que destoam do art. 14 do Estatuto do Desarmamento."
+  },
+   {
+    "question": "25. (UFPR/Defensor Público do Paraná/2014) A respeito do Estatuto do Desarmamento (Lei nº 10.826/2003), assinale a alternativa correta.",
+    "options": [
+      "O delito de disparo de arma de fogo (art. 15) é um crime culposo.",
+      "O crime de omissão de cautela (art. 13) se configura quando o possuidor ou proprietário deixa de observar as cautelas necessárias para impedir que menor de 14 (quatorze) anos se apodere de arma de fogo.",
+      "O porte compartilhado de arma de fogo é circunstância legalmente prevista como agravante da pena.",
+      "Para efeito de tipificação dos crimes do Estatuto do Desarmamento, as réplicas e simulacros de armas de fogo nunca se equiparam às armas de fogo.",
+      "É constitucional a insuscetibilidade de liberdade provisória no delito de posse ou porte ilegal de arma de fogo de uso estrito (art. 16)."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. É certo que o art. 26 do Estatuto do Desarmamento veda a fabricação, a venda, a comercialização e a importação dos simulacros e réplicas de armas de fogo, porém, em nenhum momento, a lei os equipara às armas de fogo.\nA alternativa A está errada, pois o disparo de arma de fogo é crime doloso. Lembre-se que a figura culposa deve constar expressamente na lei, conforme determina o art. 18, parágrafo único, do Código Penal.\n\nA alternativa B está errada. De acordo com o art. 13 da Lei 10826/03 tipifica a conduta omissiva de deixar de observar as cautelas necessárias para impedir que menor de 18 (dezoito) anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade.\nA alternativa C está errada. Não existe agravante de pena para o porte compartilhado de arma de arma de fogo.\nA alternativa E está errada. Na ADI de nº 3112, o STF declarou a inconstitucionalidade do art. 21 do Estatuto do Desarmamento."
+  },
+  {
+    "question": "24. (FCC/Defensor Público da Paraíba/2014) Segundo o Superior Tribunal de Justiça, tratando-se de arma de fogo de uso permitido, com numeração íntegra ou raspada, a chamada abolitio criminis temporária teve seu prazo temporal respectivamente findo em",
+    "options": [
+      "31 de dezembro de 2010 e 23 de junho de 2004.",
+      "31 de dezembro de 2010 e 23 de junho de 2005.",
+      "31 de dezembro de 2010 e 23 de junho de 2006.",
+      "31 de dezembro de 2009 e 23 de outubro de 2005.",
+      "31 de dezembro de 2009 e 23 de outubro de 2006."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. Com o advento do Estatuto do Desarmamento, diversas foram as leis e medidas provisórias publicadas com o condão de prorrogar o prazo para que os possuidores de armas de fogo sem registro pudessem promovê-los ou realizar entrega dos artefatos, impedindo a aplicação do delito descrito no art. 12 do Estatuto do Desarmamento. O período referente ao abolitio criminis temporária deve ser analisado em 2 enfoques: a) posse de armas de fogo de uso permitido, sem qualquer alteração nos sinais de sua identificação, que perdurou até 31/12/2009; b) posse de armas de fogo de uso permitido com numeração suprimida ou de uso restrito, que perdura até 23/10/2005. Aliás, sobre o tema destaca-se a súmula 513 do STJ: “A abolitio criminis temporária prevista na Lei nº 10826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.”\nAs alternativa A, B, C e E estão erradas, vez que destoam da súmula 513 do STJ."
+  },
+  {
+    "question": "26. (FCC/Promotor de Justiça do Pará/2014) Com relação à legislação das armas de fogo,",
+    "options": [
+      "a chamada abolitio criminis temporária, no entender hoje pacificado do Superior Tribunal de Justiça, teve como ·limite a data de 23 de outubro de 2005, após o que não ampara mais a conduta do possuidor de qualquer arma de fogo.",
+      "a chamada abolitio criminis temporária, no entender hoje pacificado do Superior Tribunal de Justiça, abrangeu as condutas de posse e de porte ilegal de arma de fogo.",
+      "a chamada abolitio criminis temporária, no entender hoje pacificado do Superior Tribunal de Justiça, aplica-se aos ilícitos de posse ilegal de arma de fogo, inclusive de uso restrito, que tenham sido cometidos até 31 de dezembro de 2010.",
+      "a chamada abolitio criminis temporária, no entender hoje pacificado do Superior Tribunal de Justiça, aplica-se aos ilícitos de posse ilegal de arma de fogo, desde que de uso permitido e de numeração, marca ou outro sinal de identificação não raspado, nem suprimido ou alterado que tenham sido cometidos até 31 de dezembro de 2011.",
+      "o desmuniciamento da arma não afasta os crimes do Estatuto do Desarmamento, no entender hoje pacificado do Supremo Tribunal Federal."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa correta é a letra E. De acordo com a posição dos Tribunais Superiores, o porte ilegal de arma de fogo de uso permitido é crime de mera conduta e de perigo abstrato. O objeto jurídico tutelado não é a incolumidade física, mas a segurança pública e a paz social, mas a segurança pública e a paz social, sendo irrelevante estar a arma de fogo desmuniciada.\nAs alternativas A, B, C e D estão erradas. Com o advento do Estatuto do Desarmamento, diversas foram as leis e medidas provisórias publicadas com o condão de prorrogar o prazo para que os possuidores de armas de fogo sem registro pudessem promovê-los ou realizar entrega dos artefatos, impedindo a aplicação do delito descrito no art. 12 do Estatuto do Desarmamento. O período referente ao abolitio criminis temporária\n\ndeve ser analisado em 2 enfoques: a) posse de armas de fogo de uso permitido, sem qualquer alteração nos sinais de sua identificação, que perdurou até 31/12/2009; b) posse de armas de fogo de uso permitido com numeração suprimida ou de uso restrito, que perdura até 23/10/2005. Aliás, sobre o tema destaca-se a súmula 513 do STJ: “A abolitio criminis temporária prevista na Lei nº 10826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado somente até 23/10/2005.” Registre-se ainda que a abolitio criminis temporária não se aplica ao crime de porte irregular de arma de fogo, mas apenas à posse."
+  },
+  {
+    "question": "22.(TJ-RS/Juiz de Direito do Rio Grande do Sul/2012) Considere as assertivas abaixo sobre os crimes definidos na Lei no 10.826/2003 (Estatuto do Desarmamento).<br/>I - O Estatuto do Desarmamento faz distinção entre portar e possuir ilegalmente arma de fogo de uso permitido, sendo que o primeiro possui pena mais severa.<br/>II. O crime de posse ou porte Ilegal de arma de fogo de uso restrito é classificado como de perigo abstrato.<br/>III. O Estatuto do Desarmamento descriminalizou temporariamente a posse e o porte irregulares de arma de fogo.<br/>Quais são corretas?",
+    "options": [
+      "Apenas I;",
+      "Apenas II",
+      "Apenas III",
+      "Apenas I e II",
+      "I, ll e lll"
+    ],
+    "correct": 3,
+    "explanation": "Item I está correto, pois o delito de posse irregular de arma de fogo de uso permitido é tratado no artigo 12 do Estatuto do Desarmamento, com pena de 1 a 3 anos de detenção, além da multa. Já o crime de porte ilegal de arma de fogo de uso permitido é regulado no art. 14 do Estatuto do Desarmamento, com pena de reclusão de 2 a 4 anos, e multa.\nItem II está correto, os crimes dos arts. 12 e 14 do Estatuto do Desarmamento são classificados como crimes de perigo abstrato (presumido), isto é, delitos que dispensam a efetiva demonstração de dano à integridade física de alguém, porquanto a lei presume de forma absoluta.\nItem III está errado. De fato, após a entrada em vigor da Lei 10826/03 várias medidas provisórias e leis foram editadas para impedir a punição dos possuidores de arma de fogo de uso permitido pela conduta delineada no art. 12 da citada lei. Todavia, em nenhum momento, houve qualquer tipo de restrição à conduta de porte ilegal de arma de fogo (art. 14 do Estatuto do Desarmamento).\nComentário: A alternativa correta é a letra D."
+  }
+]
+,
+
   "RegrasMandela":[
     {
     "question": "De acordo com a Regra 43, o que define tecnicamente o 'confinamento solitário' e qual prática é terminantemente proibida?",
