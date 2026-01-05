@@ -13223,7 +13223,7 @@ const questions = {
   "explanation": "A afirmativa II está correta, conforme o art. 11 da Lei Maria da Penha. A I é incorreta porque a retratação da representação, quando cabível, só pode ocorrer perante o juiz (art. 16). A III é falsa, pois a autoridade policial pode acompanhar a vítima para retirada de pertences (art. 11, IV)."
 },
 {
-  "question": "Questão 48 (FUNCAB/DELEGADO/PC-PA/2016) Adamastor praticou vias de fato contra sua sogra, com quem coabitava.",
+  "question": "Questão 48 (FUNCAB/DELEGADO/PC-PA/2016) Adamastor, em ação baseada no gênero, praticou vias de fato contra sua sogra Carmelita, com quem coabitava, razão pela qual foram deferidas pelo juízo competente medidas protetivas que obrigaram o agressor a afastar-se do lar e a manter certa distância em relação à ofendida. Adamastor, no entanto, manifestou sua irresignação judicialmente, pleiteando a revogação das medidas com esteio nos seguintes argumentos: <br />(I) a Lei n° 11.340 não se aplicaria às relações de parentesco por afinidade; <br />(II) igualmente, o diploma não teria incidência sobre as contravenções penais, por força de seu art. 41; e <br />(III) a Lei n° 11.340 seria inconstitucional, por criar situação de desigualdade entre os gêneros masculino e feminino. Assim, com esteio na jurisprudência dominante nos tribunais superiores, a irresignação de Adamastor:",
   "options": [
     "não merece prosperar",
     "merece prosperar pelo terceiro argumento",
