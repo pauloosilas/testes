@@ -11717,6 +11717,1395 @@ const questions = {
   }
 ],
 
+"MariaDaPenha1_7":[
+  {
+    "question": "De acordo com o Art. 1º, a Lei Maria da Penha criou mecanismos para coibir e prevenir a violência doméstica nos termos de qual dispositivo da Constituição Federal?",
+    "options": [
+      "Art. 5º, inciso I",
+      "Art. 226, § 8º",
+      "Art. 144, caput",
+      "Art. 196, parágrafo único"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º da Lei 11.340 cita expressamente o § 8º do art. 226 da Constituição Federal como base para coibir a violência no âmbito das relações familiares."
+  },
+  {
+    "question": "Segundo o Art. 2º, quais mulheres gozam dos direitos fundamentais inerentes à pessoa humana?",
+    "options": [
+      "Apenas mulheres com renda comprovada",
+      "Apenas mulheres casadas ou em união estável",
+      "Toda mulher, independente de classe, raça, orientação sexual ou religião",
+      "Apenas mulheres brasileiras natas"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º estabelece a universalidade da proteção, independentemente de classe, raça, etnia, orientação sexual, renda, cultura, idade ou religião."
+  },
+  {
+    "question": "A quem cabe criar as condições necessárias para o efetivo exercício dos direitos das mulheres, conforme o Art. 3º, § 2º?",
+    "options": [
+      "Exclusivamente ao Estado",
+      "À família, à sociedade e ao poder público",
+      "Apenas às delegacias especializadas",
+      "Somente à própria mulher vítima de violência"
+    ],
+    "correct": 1,
+    "explanation": "A lei divide a responsabilidade entre a tríade: família, sociedade e poder público (Art. 3º, § 2º)."
+  },
+  {
+    "question": "Na interpretação da Lei Maria da Penha, o que deve ser considerado prioritariamente segundo o Art. 4º?",
+    "options": [
+      "A preservação do patrimônio do agressor",
+      "A manutenção compulsória do vínculo matrimonial",
+      "Os fins sociais e as condições peculiares das mulheres em situação de violência",
+      "Apenas os critérios estritamente jurídicos e processuais"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 4º orienta que a interpretação considere os fins sociais e a vulnerabilidade peculiar da mulher nessa situação."
+  },
+  {
+    "question": "Como o Art. 5º define a violência doméstica e familiar contra a mulher?",
+    "options": [
+      "Qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento ou dano",
+      "Apenas agressões físicas que resultem em marcas visíveis",
+      "Somente crimes cometidos por maridos contra esposas no domicílio",
+      "Agressões que ocorram exclusivamente em locais públicos"
+    ],
+    "correct": 0,
+    "explanation": "A definição do Art. 5º é ampla, abrangendo ação ou omissão baseada no gênero que cause dano físico, psicológico, sexual, moral ou patrimonial."
+  },
+  {
+    "question": "O que compreende o 'âmbito da unidade doméstica' segundo o Art. 5º, inciso I?",
+    "options": [
+      "Apenas o local onde residem parentes de primeiro grau",
+      "O espaço de convívio permanente de pessoas, com ou sem vínculo familiar",
+      "Exclusivamente a residência oficial do casal",
+      "Locais de trabalho onde a mulher exerce suas funções"
+    ],
+    "correct": 1,
+    "explanation": "A unidade doméstica é o espaço de convívio permanente, incluindo pessoas sem vínculo familiar e agregados esporádicos (Art. 5º, I)."
+  },
+  {
+    "question": "De acordo com o Art. 5º, inciso II, como é compreendida a 'família'?",
+    "options": [
+      "Apenas pessoas unidas por laços de sangue",
+      "Somente o casal e seus filhos biológicos",
+      "Comunidade formada por indivíduos aparentados por laços naturais, afinidade ou vontade expressa",
+      "Pessoas que vivem sob o mesmo teto há mais de dez anos"
+    ],
+    "correct": 2,
+    "explanation": "A lei adota um conceito amplo de família, incluindo laços naturais, de afinidade ou por vontade expressa (Art. 5º, II)."
+  },
+  {
+    "question": "Para configurar violência em relação íntima de afeto (Art. 5º, III), é necessária a coabitação?",
+    "options": [
+      "Sim, o agressor deve morar com a vítima",
+      "Não, a lei se aplica independentemente de coabitação",
+      "Apenas se houver filhos em comum",
+      "Somente se o relacionamento durar mais de dois anos"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 5º, III, afirma explicitamente que a proteção ocorre 'independentemente de coabitação'."
+  },
+  {
+    "question": "As relações pessoais protegidas pela Lei Maria da Penha dependem da orientação sexual da mulher?",
+    "options": [
+      "Sim, a lei protege apenas mulheres heterossexuais",
+      "Não, as relações enunciadas independem de orientação sexual",
+      "Depende se o casal possui contrato de união estável",
+      "A lei só se aplica a relações entre homem e mulher"
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 5º deixa claro que a proteção independe da orientação sexual da mulher."
+  },
+  {
+    "question": "O Art. 6º da Lei 11.340 estabelece que a violência doméstica contra a mulher constitui:",
+    "options": [
+      "Um problema de esfera estritamente privada",
+      "Uma contravenção penal irrelevante",
+      "Uma das formas de violação dos direitos humanos",
+      "Um crime que depende sempre de queixa-crime para investigação"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 6º eleva a violência doméstica ao status de violação dos direitos humanos."
+  },
+  {
+    "question": "Qual conduta define a violência física, conforme o Art. 7º, inciso I?",
+    "options": [
+      "Qualquer conduta que ofenda a integridade ou saúde corporal da mulher",
+      "Apenas agressões que causem fraturas ósseas",
+      "Ameaças verbais de agressão futura",
+      "Subtração de documentos pessoais da vítima"
+    ],
+    "correct": 0,
+    "explanation": "A violência física é qualquer ofensa à integridade física ou à saúde do corpo (Art. 7º, I)."
+  },
+  {
+    "question": "Humilhação, isolamento e vigilância constante são exemplos de qual tipo de violência (Art. 7º, II)?",
+    "options": [
+      "Violência Moral",
+      "Violência Patrimonial",
+      "Violência Psicológica",
+      "Violência Sexual"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º, II, define a violência psicológica como condutas que causem dano emocional, diminuição da autoestima ou controle de comportamentos."
+  },
+  {
+    "question": "O que caracteriza a violência sexual segundo o Art. 7º, inciso III?",
+    "options": [
+      "Apenas o estupro consumado",
+      "Qualquer conduta que a constranja a presenciar, manter ou participar de relação não desejada",
+      "Somente a proibição de trabalhar fora de casa",
+      "A divulgação de fotos íntimas sem consentimento"
+    ],
+    "correct": 1,
+    "explanation": "A violência sexual inclui o constrangimento para presenciar ou participar de atos sexuais indesejados mediante coação ou força (Art. 7º, III)."
+  },
+  {
+    "question": "A retenção ou destruição de instrumentos de trabalho e documentos pessoais configura qual forma de violência?",
+    "options": [
+      "Violência Física",
+      "Violência Moral",
+      "Violência Patrimonial",
+      "Violência Psicológica"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º, IV, define a violência patrimonial como a retenção, subtração ou destruição de objetos, instrumentos de trabalho e bens."
+  },
+  {
+    "question": "A violência moral é entendida como qualquer conduta que configure (Art. 7º, V):",
+    "options": [
+      "Calúnia, difamação ou injúria",
+      "Ameaça e constrangimento",
+      "Dano emocional e isolamento",
+      "Limitação do direito de ir e vir"
+    ],
+    "correct": 0,
+    "explanation": "A violência moral está ligada aos crimes contra a honra: calúnia, difamação ou injúria (Art. 7º, V)."
+  },
+  
+],
+
+"MariaDaPenha8_10":[
+  {
+    "question": "De acordo com o Art. 8º, a política pública para coibir a violência doméstica será feita por meio de ações articuladas entre quais entes?",
+    "options": [
+      "Apenas pela União e Estados",
+      "União, Estados, Distrito Federal, Municípios e ações não-governamentais",
+      "Exclusivamente pelo Poder Judiciário e Ministério Público",
+      "Apenas por órgãos federais e organismos internacionais"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 8º estabelece que as ações devem ser articuladas entre todos os entes federados (União, Estados, DF e Municípios) e o setor não-governamental."
+  },
+  {
+    "question": "Conforme o Art. 8º, inciso II, as pesquisas e estatísticas sobre a violência doméstica devem ter quais perspectivas específicas?",
+    "options": [
+      "Perspectiva de gênero e de raça ou etnia",
+      "Perspectiva econômica e de escolaridade",
+      "Perspectiva de idade e localização geográfica",
+      "Perspectiva religiosa e cultural"
+    ],
+    "correct": 0,
+    "explanation": "O inciso II do Art. 8º destaca a necessidade de considerar as perspectivas de gênero e de raça ou etnia na sistematização de dados."
+  },
+  {
+    "question": "Segundo o Art. 8º, inciso IX, o que deve ser destacado nos currículos escolares de todos os níveis de ensino?",
+    "options": [
+      "Técnicas de defesa pessoal para mulheres",
+      "História das leis brasileiras de família",
+      "Direitos humanos, equidade de gênero, raça/etnia e o problema da violência doméstica",
+      "Apenas as penas previstas para os agressores"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 8º, IX, define que os temas de direitos humanos e equidade devem ser incluídos transversalmente nos currículos escolares."
+  },
+  {
+    "question": "Conforme o Art. 9º, em quais sistemas a assistência à mulher será prestada em caráter prioritário?",
+    "options": [
+      "Sistema de Previdência Social e Cartórios",
+      "Sistema Único de Saúde (SUS) e Sistema Único de Segurança Pública (Susp)",
+      "Sistema Bancário Nacional e Receita Federal",
+      "Apenas no Sistema Judiciário Estadual"
+    ],
+    "correct": 1,
+    "explanation": "O caput do Art. 9º estabelece prioridade no SUS e no Susp, de forma articulada com a assistência social."
+  },
+  {
+    "question": "Qual é o prazo máximo de manutenção do vínculo trabalhista assegurado pelo juiz quando for necessário o afastamento da mulher do local de trabalho?",
+    "options": [
+      "Até três meses",
+      "Até um ano",
+      "Até seis meses",
+      "Por tempo indeterminado enquanto durar o processo"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 9º, § 2º, inciso II, prevê a manutenção do vínculo trabalhista por até seis meses para preservar a integridade da mulher."
+  },
+  {
+    "question": "Se a mulher vítima de violência for servidora pública da administração direta ou indireta, o que o juiz deve assegurar conforme o Art. 9º, § 2º, I?",
+    "options": [
+      "Aumento salarial temporário",
+      "Acesso prioritário à remoção",
+      "Aposentadoria compulsória imediata",
+      "Licença-prêmio dobrada"
+    ],
+    "correct": 1,
+    "explanation": "O inciso I do § 2º do Art. 9º garante o acesso prioritário à remoção para servidoras públicas visando sua proteção."
+  },
+  {
+    "question": "Em casos de violência sexual, a assistência à mulher compreende, segundo o Art. 9º, § 3º:",
+    "options": [
+      "Apenas o exame de corpo de delito",
+      "Contracepção de emergência e profilaxia de DST/AIDS",
+      "Apenas apoio psicológico pós-trauma",
+      "Cirurgia plástica reparadora obrigatória"
+    ],
+    "correct": 1,
+    "explanation": "O § 3º do Art. 9º detalha que a assistência inclui contracepção de emergência e profilaxia de doenças sexualmente transmissíveis e AIDS."
+  },
+  {
+    "question": "O agressor que causar lesão ou dano à mulher é obrigado a ressarcir quais custos ao Estado, conforme o Art. 9º, § 4º?",
+    "options": [
+      "Apenas as custas do processo judicial",
+      "Os custos relativos aos serviços de saúde prestados pelo SUS para o tratamento da vítima",
+      "Metade do salário mínimo mensal",
+      "Apenas o conserto de bens materiais destruídos"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 9º, § 4º, obriga o agressor a ressarcir o SUS pelos custos do tratamento da vítima, conforme a tabela do sistema."
+  },
+  {
+    "question": "O ressarcimento dos custos de dispositivos de segurança (como tornozeleiras ou botões do pânico) pelo agressor pode atenuar sua pena?",
+    "options": [
+      "Sim, se o pagamento for feito à vista",
+      "Sim, funciona como uma reparação de danos que reduz a pena",
+      "Não, o ressarcimento não pode configurar atenuante nem possibilidade de substituição da pena",
+      "Depende da decisão do Ministério Público"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 9º, § 6º, veda expressamente que o ressarcimento financeiro sirva como atenuante ou substituição da pena aplicada."
+  },
+  {
+    "question": "Onde a mulher em situação de violência tem prioridade para matricular seus dependentes (Art. 9º, § 7º)?",
+    "options": [
+      "Em qualquer escola do estado",
+      "Em instituições de ensino superior privadas",
+      "Na instituição de educação básica mais próxima de seu domicílio",
+      "Apenas em creches comunitárias"
+    ],
+    "correct": 2,
+    "explanation": "A lei garante a matrícula ou transferência de dependentes na instituição de educação básica mais próxima do domicílio da vítima."
+  },
+  {
+    "question": "Segundo o Art. 10-A, por quem deve ser prestado, preferencialmente, o atendimento policial e pericial especializado?",
+    "options": [
+      "Por servidores do sexo masculino",
+      "Por servidores - preferencialmente do sexo feminino - previamente capacitados",
+      "Por estagiários de direito",
+      "Apenas por delegados de carreira com mais de 10 anos de serviço"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 10-A determina que o atendimento deve ser especializado, ininterrupto e prestado preferencialmente por mulheres capacitadas."
+  },
+  {
+    "question": "Qual diretriz deve ser observada na inquirição da mulher para evitar a 'revitimização' (Art. 10-A, § 1º, III)?",
+    "options": [
+      "Obrigação de repetir o depoimento em todas as instâncias",
+      "Evitar sucessivas inquirições sobre o mesmo fato e questionamentos sobre a vida privada",
+      "Permitir que o agressor faça perguntas diretamente à vítima",
+      "Realizar o depoimento em praça pública"
+    ],
+    "correct": 1,
+    "explanation": "A não revitimização visa proteger a mulher de repetir o trauma desnecessariamente e de ter sua vida privada exposta."
+  },
+  {
+    "question": "É garantido à mulher, familiares e testemunhas que, em nenhuma hipótese, tenham contato direto com quem?",
+    "options": [
+      "Com o juiz do caso",
+      "Com advogados de defesa",
+      "Com investigados, suspeitos ou pessoas a eles relacionadas",
+      "Com a imprensa"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 10-A, § 1º, inciso II, garante que não haja contato direto entre a vítima/testemunhas e os investigados para evitar intimidação."
+  },
+  {
+    "question": "Como deve ser o recinto onde ocorre a inquirição da mulher em situação de violência (Art. 10-A, § 2º, I)?",
+    "options": [
+      "Qualquer sala disponível na delegacia",
+      "Recinto especialmente projetado para esse fim, com equipamentos adequados à idade e tipo de violência",
+      "Um pátio aberto para garantir a transparência",
+      "A própria residência da vítima"
+    ],
+    "correct": 1,
+    "explanation": "A lei exige um local apropriado e acolhedor, adequado à condição da vítima e à gravidade do ocorrido."
+  },
+  {
+    "question": "De que forma o depoimento da mulher deve ser registrado, conforme o Art. 10-A, § 2º, III?",
+    "options": [
+      "Apenas por escrito (manuscrito)",
+      "Não precisa ser registrado, apenas ouvido",
+      "Em meio eletrônico ou magnético, devendo a degravação e a mídia integrar o inquérito",
+      "Apenas por meio de fotos"
+    ],
+    "correct": 2,
+    "explanation": "O registro em meio eletrônico ou magnético garante a fidedignidade do depoimento e evita a necessidade de repetições (revitimização)."
+  }
+],
+
+"MariaDaPenha11_15":[
+  {
+    "question": "Conforme o Art. 11, inciso III, quando houver risco de vida, qual é o dever da autoridade policial em relação à ofendida e seus dependentes?",
+    "options": [
+      "Fornecer transporte para abrigo ou local seguro",
+      "Apenas orientar a procurar um táxi ou aplicativo",
+      "Solicitar que a família da vítima providencie o deslocamento",
+      "Aguardar autorização judicial para o transporte"
+    ],
+    "correct": 0,
+    "explanation": "O Art. 11, III, determina que a autoridade policial deve fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro quando houver risco de vida."
+  },
+  {
+    "question": "Segundo o Art. 11, inciso IV, para garantir a retirada de pertences do local da ocorrência, a autoridade policial deve:",
+    "options": [
+      "Entregar uma chave reserva para a vítima",
+      "Acompanhar a ofendida, se necessário, para assegurar a retirada",
+      "Pedir que o agressor entregue os pertences na delegacia",
+      "Aguardar a nomeação de um oficial de justiça"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 11, IV, estabelece que a polícia deve acompanhar a ofendida para assegurar a retirada de seus pertences do local ou domicílio familiar."
+  },
+  {
+    "question": "De acordo com o Art. 12, inciso III, qual é o prazo para a autoridade policial remeter o pedido de medidas protetivas ao juiz?",
+    "options": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "5 dias"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 12, III, estipula o prazo de 48 (quarenta e oito) horas para remeter o expediente apartado ao juiz com o pedido da ofendida."
+  },
+  {
+    "question": "Conforme o Art. 12, inciso VI-A, o que a autoridade policial deve verificar em relação ao agressor?",
+    "options": [
+      "Se possui registro de porte ou posse de arma de fogo",
+      "Se possui conta bancária no exterior",
+      "Se possui diploma de ensino superior",
+      "Se possui veículos em seu nome"
+    ],
+    "correct": 0,
+    "explanation": "O Art. 12, VI-A, exige que se verifique a existência de registro de porte ou posse de arma de fogo e notifique a instituição responsável."
+  },
+  {
+    "question": "Sobre os meios de prova, o Art. 12, § 3º, estabelece que serão admitidos:",
+    "options": [
+      "Apenas vídeos da agressão",
+      "Somente laudos do IML",
+      "Laudos ou prontuários médicos fornecidos por hospitais e postos de saúde",
+      "Exclusivamente depoimentos de parentes próximos"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 12, § 3º, permite que laudos ou prontuários médicos de hospitais/postos de saúde sirvam como meio de prova."
+  },
+  {
+    "question": "O Art. 12-A estabelece que os Estados e o DF darão prioridade, na Polícia Civil, à criação de:",
+    "options": [
+      "Batalhões de choque especializados",
+      "Delegacias Especializadas de Atendimento à Mulher (Deams) e Núcleos de Feminicídio",
+      "Juizados de pequenas causas",
+      "Conselhos tutelares"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 12-A determina prioridade para a criação de Deams, Núcleos Investigativos de Feminicídio e equipes especializadas."
+  },
+  {
+    "question": "Segundo o Art. 12-C, em caso de risco iminente, quem pode afastar o agressor do lar quando o Município NÃO for sede de comarca e NÃO houver delegado disponível?",
+    "options": [
+      "O próprio vizinho da vítima",
+      "Qualquer policial",
+      "O prefeito da cidade",
+      "Somente o juiz, por telefone"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 12-C, III, permite o afastamento pelo policial quando o município não for sede de comarca e não houver delegado disponível."
+  },
+  {
+    "question": "Nos casos de afastamento do agressor por autoridade policial (Art. 12-C, § 1º), em quanto tempo o juiz deve ser comunicado?",
+    "options": [
+      "Imediatamente (em até 1 hora)",
+      "No prazo máximo de 24 horas",
+      "No prazo máximo de 48 horas",
+      "Em até 5 dias úteis"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 12-C, § 1º, exige que o juiz seja comunicado em até 24 horas para decidir sobre a manutenção ou revogação da medida."
+  },
+  {
+    "question": "De acordo com o Art. 12-C, § 2º, quando NÃO será concedida liberdade provisória ao preso?",
+    "options": [
+      "Sempre que o agressor for reincidente",
+      "Sempre que houver risco à integridade física da ofendida ou à efetividade da medida protetiva",
+      "Sempre que o crime for de violência patrimonial",
+      "Sempre que o agressor confessar o crime"
+    ],
+    "correct": 1,
+    "explanation": "O § 2º do Art. 12-C veda a liberdade provisória se houver risco à integridade da vítima ou à eficácia da medida protetiva."
+  },
+  {
+    "question": "O Art. 14 define que os Juizados de Violência Doméstica e Familiar contra a Mulher possuem competência:",
+    "options": [
+      "Exclusivamente criminal",
+      "Exclusivamente cível",
+      "Cível e Criminal",
+      "Apenas administrativa"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 14 define os Juizados como órgãos da Justiça Ordinária com competência híbrida: cível e criminal."
+  },
+  {
+    "question": "Segundo o Art. 14-A, qual ação a ofendida tem a OPÇÃO de propor no Juizado de Violência Doméstica?",
+    "options": [
+      "Ação de danos morais contra terceiros",
+      "Ação de divórcio ou de dissolução de união estável",
+      "Ação de inventário",
+      "Ação de despejo contra o agressor"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 14-A permite que a vítima opte por processar o divórcio ou a dissolução da união estável no próprio Juizado especializado."
+  },
+  {
+    "question": "Conforme o Art. 14-A, § 1º, o que se exclui da competência dos Juizados de Violência Doméstica?",
+    "options": [
+      "O pedido de guarda dos filhos",
+      "A pretensão relacionada à partilha de bens",
+      "O pedido de pensão alimentícia",
+      "O julgamento de crimes de lesão corporal"
+    ],
+    "correct": 1,
+    "explanation": "Embora o Juizado possa julgar o divórcio, o § 1º do Art. 14-A exclui expressamente a partilha de bens de sua competência."
+  },
+  {
+    "question": "Se a violência doméstica ocorrer após o ajuizamento de uma ação de divórcio que já tramita em outra vara (Art. 14-A, § 2º):",
+    "options": [
+      "O processo deve ser anulado",
+      "A ação de divórcio terá preferência no juízo onde estiver",
+      "O processo deve obrigatoriamente ser transferido para o Juizado da Mulher",
+      "A vítima perde o direito à assistência judiciária"
+    ],
+    "correct": 1,
+    "explanation": "O § 2º do Art. 14-A estabelece que se a violência ocorrer após o início da ação, esta terá preferência de tramitação no juízo onde já se encontra."
+  },
+  {
+    "question": "Para os processos CÍVEIS regidos pela Lei Maria da Penha, qual foro é competente por opção da ofendida (Art. 15)?",
+    "options": [
+      "Apenas o domicílio do agressor",
+      "Apenas o lugar onde o crime ocorreu",
+      "Do seu domicílio/residência, do lugar do fato ou do domicílio do agressor",
+      "Onde a vítima trabalha, obrigatoriamente"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 15 estabelece uma competência concorrente, dando à mulher três opções de foro para facilitar seu acesso à justiça."
+  },
+  {
+    "question": "Com base no Artigo 15 da Lei 11.340, a escolha do juizado competente para as causas cíveis cabe a quem?",
+    "options": [
+      "Ao Ministério Público",
+      "Ao Juiz, mediante sorteio",
+      "À ofendida, por sua opção",
+      "Ao agressor, se ele for o réu"
+    ],
+    "correct": 2,
+    "explanation": "O caput do Artigo 15 é claro ao afirmar que a competência é definida 'por opção da ofendida', garantindo-lhe essa prerrogativa processual."
+  }
+],
+
+"MariaDaPenha16_21":[
+  {
+    "question": "Conforme o Art. 16 e o entendimento jurisprudencial consolidado (ADI 7267), a renúncia à representação da ofendida exige solenidade específica. Assinale a alternativa correta sobre esse ato:",
+    "options": [
+      "Pode ser feita perante a autoridade policial, desde que ratificada posteriormente por escrito antes da denúncia.",
+      "Deve ocorrer perante o juiz, em audiência especialmente designada, obrigatoriamente antes do recebimento da denúncia e ouvido o Ministério Público.",
+      "É admitida a qualquer tempo do processo, desde que a instrução criminal não tenha sido encerrada.",
+      "A audiência do Art. 16 é facultativa caso a vítima já tenha manifestado desinteresse em petição assinada por advogado constituído."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 16 exige que a renúncia seja um ato solene: perante o juiz, em audiência própria, antes do recebimento da denúncia e com a oitiva do Ministério Público. Manifestações na delegacia ou apenas por petição não suprem essa exigência legal."
+  },
+  {
+    "question": "Sobre a audiência de renúncia prevista no Art. 16, no âmbito das ações penais públicas condicionadas, é correto afirmar que:",
+    "options": [
+      "Sua finalidade é permitir que o agressor peça perdão à vítima para extinguir a punibilidade.",
+      "O marco interruptivo para a realização desta audiência é o oferecimento da denúncia pelo Ministério Público.",
+      "A renúncia à representação é um ato irretratável após a lavratura do boletim de ocorrência na sede policial.",
+      "O magistrado deve verificar o livre convencimento da ofendida, sendo o recebimento da denúncia o limite temporal preclusivo para tal ato."
+    ],
+    "correct": 3,
+    "explanation": "A questão aborda a diferença técnica entre o oferecimento (pelo MP) e o recebimento (pelo Juiz). A lei é clara ao definir o 'recebimento da denúncia' como o limite final. A audiência serve para garantir que a vontade da mulher não seja fruto de coação."
+  },
+  {
+    "question": "De acordo com o Art. 17 da Lei 11.340/2006, é expressamente vedada a aplicação de qual modalidade de pena?",
+    "options": [
+      "Pena restritiva de direitos na modalidade de prestação de serviços à comunidade.",
+      "Pena privativa de liberdade em regime aberto.",
+      "Penas de cesta básica ou outras de prestação pecuniária, bem como pagamento isolado de multa.",
+      "Suspensão condicional do processo."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 17 veda penas que tenham caráter puramente financeiro ou de doação de alimentos (cestas básicas), visando evitar a sensação de impunidade e a 'comercialização' da violência contra a mulher."
+  },
+  {
+    "question": "Considerando a inclusão do Art. 17-A pela Lei nº 14.857/2024, como funciona o sigilo nos processos de violência doméstica?",
+    "options": [
+      "Todo o processo e o nome de todos os envolvidos tornam-se sigilosos para o público geral.",
+      "O nome da ofendida ficará sob sigilo, mas este não abrange o nome do autor do fato nem os demais dados do processo.",
+      "O sigilo é aplicado apenas se a vítima for menor de idade ou pessoa com deficiência.",
+      "O nome do agressor também fica sob sigilo para preservar o princípio da presunção de inocência."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 17-A (incluído em 2024) garante o sigilo do nome da ofendida, mas o parágrafo único deixa claro que o nome do autor do fato e os demais dados processuais permanecem acessíveis/públicos, salvo outras hipóteses legais de segredo de justiça."
+  },
+  {
+    "question": "Ao receber o expediente com o pedido de medidas protetivas da ofendida, qual o prazo legal para o juiz decidir, segundo o Art. 18?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "5 dias úteis."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 18 estabelece o prazo de 48 horas para que o juiz conheça do expediente e decida sobre as medidas protetivas de urgência."
+  },
+  {
+    "question": "Dentre as providências do juiz ao receber o pedido da ofendida (Art. 18), qual medida foi incluída para reforçar a segurança física imediata?",
+    "options": [
+      "A retenção do passaporte do agressor em todos os casos.",
+      "A determinação da apreensão imediata de arma de fogo sob a posse do agressor.",
+      "O bloqueio imediato de todas as contas bancárias do agressor.",
+      "A internação compulsória do agressor para tratamento de fúria."
+    ],
+    "correct": 1,
+    "explanation": "O inciso IV do Art. 18 (incluído pela Lei 13.880/2019) determina que o juiz deve ordenar a apreensão imediata de arma de fogo em posse do agressor."
+  },
+  {
+    "question": "Sobre a concessão de medidas protetivas de urgência (Art. 19, § 1º), é correto afirmar:",
+    "options": [
+      "Só podem ser concedidas após a oitiva prévia do agressor.",
+      "Dependem de manifestação favorável do Ministério Público para serem válidas.",
+      "Podem ser concedidas de imediato, independentemente de audiência das partes e de manifestação do Ministério Público.",
+      "Exigem a conclusão do inquérito policial para que o juiz tenha materialidade."
+    ],
+    "correct": 2,
+    "explanation": "Pelo princípio da urgência, o Art. 19, § 1º, permite a concessão 'inaudita altera parte' (sem ouvir a outra parte) e antes mesmo de ouvir o MP, que será comunicado a posteriori."
+  },
+  {
+    "question": "Conforme as alterações recentes (Art. 19, § 5º), as medidas protetivas de urgência serão concedidas:",
+    "options": [
+      "Somente se houver inquérito policial instaurado.",
+      "Apenas se houver registro de boletim de ocorrência prévio.",
+      "Independentemente da tipificação penal, do ajuizamento de ação ou da existência de inquérito/BO.",
+      "Apenas em casos de crimes punidos com reclusão."
+    ],
+    "correct": 2,
+    "explanation": "O § 5º do Art. 19 (incluído em 2023) reforça a natureza autônoma das medidas protetivas, que independem de boletim de ocorrência ou processo penal em curso."
+  },
+  {
+    "question": "Qual é o critério para a manutenção/vigência das medidas protetivas de urgência segundo o Art. 19, § 6º?",
+    "options": [
+      "Vigoram pelo prazo fixo de 90 dias, renováveis uma única vez.",
+      "Vigoram enquanto persistir o risco à integridade física, psicológica, sexual, patrimonial ou moral da ofendida ou dependentes.",
+      "Cessam automaticamente se o agressor for absolvido em primeira instância.",
+      "Têm validade máxima de 6 meses a contar da data da concessão."
+    ],
+    "correct": 1,
+    "explanation": "O § 6º do Art. 19 estabelece que as medidas não têm prazo de validade pré-fixado, durando o tempo que durar a situação de risco."
+  },
+  {
+    "question": "As medidas protetivas de urgência são concedidas em qual juízo de cognição, conforme o Art. 19, § 4º?",
+    "options": [
+      "Cognição exauriente, exigindo provas cabais e incontestáveis.",
+      "Cognição sumária, baseada no depoimento da ofendida ou alegações escritas.",
+      "Apenas mediante perícia psicológica realizada por perito oficial.",
+      "Cognição incidental, dependente de ação principal de divórcio."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 19, § 4º (incluído em 2023), define que o juízo é de cognição sumária, valorando a palavra da vítima dada a urgência da proteção."
+  },
+  {
+    "question": "Sobre a prisão preventiva do agressor (Art. 20), em qual fase ela pode ser decretada?",
+    "options": [
+      "Somente após o trânsito em julgado da sentença condenatória.",
+      "Apenas durante a instrução criminal (fase judicial).",
+      "Em qualquer fase do inquérito policial ou da instrução criminal.",
+      "Somente se o crime envolver violência física grave."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 20 permite o decreto da prisão preventiva tanto na fase investigativa (inquérito) quanto na fase processual (instrução)."
+  },
+  {
+    "question": "Quem tem legitimidade para solicitar ou decretar a prisão preventiva do agressor conforme o Art. 20?",
+    "options": [
+      "O juiz (de ofício), o Ministério Público (requerimento) ou a autoridade policial (representação).",
+      "Apenas o Ministério Público.",
+      "Apenas o juiz, vedada a atuação de ofício.",
+      "Somente a autoridade policial."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 20 prevê as três formas de iniciativa: de ofício pelo magistrado, a pedido do MP ou por representação do Delegado."
+  },
+  {
+    "question": "O que ocorre se os motivos que justificaram a prisão preventiva deixarem de existir durante o processo (Art. 20, Parágrafo Único)?",
+    "options": [
+      "O agressor deve cumprir o prazo mínimo de 30 dias de prisão.",
+      "O juiz poderá revogá-la, mas não poderá decretá-la novamente no mesmo processo.",
+      "O juiz poderá revogá-la e, se surgirem novas razões, poderá decretá-la novamente.",
+      "A prisão converte-se automaticamente em multa pecuniária."
+    ],
+    "correct": 2,
+    "explanation": "O parágrafo único do Art. 20 autoriza a revogação da prisão por falta de motivo e a sua eventual re-decretação se surgirem fatos novos que a justifiquem."
+  },
+  {
+    "question": "De acordo com o Art. 21, sobre quais atos do agressor a ofendida DEVE ser obrigatoriamente notificada?",
+    "options": [
+      "Apenas sobre a mudança de endereço do agressor.",
+      "Sobre todos os atos processuais, especialmente o ingresso e a saída do agressor da prisão.",
+      "Apenas sobre a data do julgamento final.",
+      "Somente se o agressor for condenado a regime fechado."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 21 garante o direito à informação da vítima para que ela possa se precaver, sendo notificada quando o agressor entra ou sai do sistema prisional."
+  },
+  {
+    "question": "No que diz respeito à entrega de intimações ou notificações processuais ao agressor (Art. 21, Parágrafo Único):",
+    "options": [
+      "A ofendida pode entregar, desde que acompanhada de duas testemunhas.",
+      "A ofendida não poderá entregar intimação ou notificação ao agressor.",
+      "É dever da ofendida levar a notificação ao agressor para acelerar o processo.",
+      "A ofendida só pode entregar se o agressor morar no mesmo condomínio."
+    ],
+    "correct": 1,
+    "explanation": "Para evitar o contato direto, confrontos e riscos desnecessários à integridade da mulher, a lei proíbe expressamente que ela seja encarregada de notificar seu agressor."
+  }
+],
+
+"MariaDaPenha_22":[
+  {
+    "question": "Se o agressor for militar ou integrante de corporação policial e tiver suspensa sua posse ou restrição do porte de armas, qual a consequência jurídica para seu superior imediato caso este não colabore com a determinação judicial?",
+    "options": [
+      "Responderá administrativamente perante a corregedoria, sem prejuízo de multa civil.",
+      "Incorrerá nos crimes de prevaricação ou de desobediência, conforme o caso.",
+      "Será coautor do crime de violência doméstica praticado pelo subordinado.",
+      "Responderá apenas por omissão de cautela nos termos do Estatuto do Desarmamento."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 22, § 2º, o superior imediato do agressor é responsável pelo cumprimento da determinação de restrição de armas, sob pena de incorrer nos crimes de prevaricação ou de desobediência."
+  },
+  {
+    "question": "Sobre a medida protetiva de restrição ou suspensão de visitas aos dependentes menores (Art. 22, IV), qual o requisito procedimental obrigatório previsto na Lei?",
+    "options": [
+      "A oitiva prévia do Ministério Público é o único requisito exigido.",
+      "A manifestação expressa da vontade dos dependentes menores de idade.",
+      "A oitiva da equipe de atendimento multidisciplinar ou serviço similar.",
+      "A comprovação de agressão física direta contra os menores."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 22, inciso IV, determina que a restrição ou suspensão de visitas ocorre 'ouvida a equipe de atendimento multidisciplinar ou serviço similar'."
+  },
+  {
+    "question": "Considerando a atualização trazida pela Lei nº 15.125/2025 ao Art. 22, assinale a alternativa correta sobre a monitoração eletrônica:",
+    "options": [
+      "O agressor só poderá ser monitorado se houver condenação criminal transitada em julgado.",
+      "A monitoração é exclusiva para casos de cárcere privado ou tentativa de feminicídio.",
+      "A medida poderá ser cumulada com a disponibilização à vítima de dispositivo de segurança que alerte sobre a aproximação do agressor.",
+      "O uso da tornozeleira eletrônica impede a aplicação de qualquer outra medida protetiva em conjunto."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 22, § 5º (incluído em 2025), permite a cumulação da medida protetiva com monitoração eletrônica do agressor e o uso de dispositivo de alerta (conhecido como botão do pânico ou similar) pela vítima."
+  },
+  {
+    "question": "No tocante à prestação de alimentos decorrente de violência doméstica, a Lei Maria da Penha especifica que o juiz poderá fixar:",
+    "options": [
+      "Alimentos compensatórios para manutenção do padrão de vida.",
+      "Alimentos provisionais ou provisórios.",
+      "Alimentos definitivos, independentemente de ação de família posterior.",
+      "Apenas o pagamento de pensão alimentícia se houver filhos menores."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 22, inciso V, prevê a 'prestação de alimentos provisionais ou provisórios' como uma medida protetiva de urgência."
+  },
+  {
+    "question": "A proibição de contato com a ofendida, seus familiares e testemunhas, como medida protetiva de urgência, abrange:",
+    "options": [
+      "Apenas o contato presencial e telefônico.",
+      "Qualquer meio de comunicação.",
+      "Apenas meios de comunicação oficiais e redes sociais.",
+      "Qualquer meio, exceto através de advogados constituídos para tratar de bens."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 22, III, 'b', proíbe o contato com a ofendida, familiares e testemunhas por 'qualquer meio de comunicação'."
+  },
+  {
+    "question": "Para garantir a efetividade das medidas protetivas de urgência que obrigam o agressor, o magistrado possui a seguinte prerrogativa:",
+    "options": [
+      "Pode requisitar auxílio da força policial a qualquer momento.",
+      "Depende de autorização prévia da Secretaria de Segurança Pública para usar força policial.",
+      "Pode decretar a prisão administrativa do agressor por até 30 dias sem ordem judicial.",
+      "Está limitado às medidas expressamente listadas no Art. 22, sendo vedada a aplicação de outras normas."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 22, § 3º, estabelece que o juiz pode requisitar auxílio da força policial a qualquer momento para garantir a efetividade das medidas."
+  },
+  {
+    "question": "O Art. 22, § 4º da Lei 11.340/2006 faz remissão ao Código de Processo Civil. Qual o objetivo dessa aplicação subsidiária?",
+    "options": [
+      "Permitir a prisão civil por dívida de alimentos.",
+      "Possibilitar a imposição de multa (astreintes) e o uso de força para o cumprimento de obrigações de fazer ou não fazer.",
+      "Garantir o benefício da justiça gratuita em todos os casos de violência.",
+      "Permitir o julgamento antecipado do mérito da ação penal."
+    ],
+    "correct": 1,
+    "explanation": "A remissão ao CPC (Art. 461 da época, hoje Arts. 536 e 537) visa permitir que o juiz utilize multas diárias e outras medidas de apoio para forçar o agressor a cumprir as restrições impostas."
+  },
+  {
+    "question": "As medidas de comparecimento a programas de recuperação/reeducação e o acompanhamento psicossocial (Art. 22, VI e VII) possuem natureza de:",
+    "options": [
+      "Pena restritiva de direitos aplicada somente após a sentença.",
+      "Condição para o regime aberto de cumprimento de pena.",
+      "Medidas protetivas de urgência que podem ser aplicadas de imediato pelo juiz.",
+      "Substitutivo penal para crimes de lesão corporal leve."
+    ],
+    "correct": 2,
+    "explanation": "Incluídas pela Lei nº 13.984/2020, estas são agora medidas protetivas de urgência (Art. 22, VI e VII) que o juiz pode aplicar imediatamente após a constatação da violência."
+  },
+  {
+    "question": "Em relação à aplicação das medidas protetivas do Art. 22, o juiz deve observar que:",
+    "options": [
+      "Elas são taxativas, não podendo o magistrado criar novas restrições.",
+      "Podem ser aplicadas somente de forma isolada para evitar excesso de execução.",
+      "Podem ser aplicadas em conjunto ou separadamente, e não impedem a aplicação de outras previstas na legislação em vigor.",
+      "Sua aplicação depende obrigatoriamente de inquérito policial concluído."
+    ],
+    "correct": 2,
+    "explanation": "O caput do Art. 22 e seu § 1º deixam claro que as medidas podem ser aplicadas cumulativamente e não excluem outras medidas previstas em leis diversas."
+  },
+  {
+    "question": "Caso o juiz aplique a suspensão da posse de arma como medida protetiva, a quem deve ser feita a comunicação oficial?",
+    "options": [
+      "Apenas ao Conselho Nacional de Justiça.",
+      "Ao órgão competente, nos termos do Estatuto do Desarmamento (Lei 10.826/2003).",
+      "Ao Ministério da Defesa, exclusivamente.",
+      "À prefeitura do município onde reside o agressor."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 22, inciso I, determina a comunicação ao órgão competente (como SINARM ou SIGMA), conforme as regras da Lei nº 10.826/2003."
+  }
+],
+
+"MariaDaPenha_23_26":[
+  {
+    "question": "Sobre a medida protetiva de auxílio-aluguel incluída pela Lei nº 14.674/2023, assinale a alternativa que descreve corretamente suas condições legais:",
+    "options": [
+      "O benefício é vitalício enquanto durar o processo judicial contra o agressor.",
+      "O valor é fixo para todas as regiões do país, independentemente da vulnerabilidade.",
+      "O auxílio é concedido por período não superior a 6 (seis) meses.",
+      "A concessão depende obrigatoriamente da prévia condenação do agressor em primeira instância."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o Art. 23, inciso VI, o auxílio-aluguel é fixado em função da vulnerabilidade social e econômica da ofendida, por período não superior a 6 (seis) meses."
+  },
+  {
+    "question": "No que tange aos dependentes da ofendida, a Lei nº 13.882/2019 introduziu uma garantia específica no Art. 23. Qual é essa garantia?",
+    "options": [
+      "Reserva de 10% das vagas em universidades públicas estaduais.",
+      "Matrícula ou transferência em instituição de educação básica próxima ao domicílio, independentemente da existência de vaga.",
+      "Isenção total de mensalidades em instituições privadas de ensino fundamental.",
+      "Transporte escolar gratuito apenas em caso de mudança para abrigo oficial."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 23, inciso V, determina que o juiz pode determinar a matrícula ou transferência dos dependentes na instituição mais próxima do domicílio, independentemente da existência de vaga."
+  },
+  {
+    "question": "Caso o juiz determine o afastamento da ofendida do lar como medida de proteção (Art. 23, III), qual a consequência jurídica para seus direitos civis?",
+    "options": [
+      "A ofendida perde o direito à guarda dos filhos por abandono de lar.",
+      "A medida implica a renúncia tácita ao direito de alimentos provisionais.",
+      "O afastamento ocorre sem prejuízo dos direitos relativos a bens, guarda dos filhos e alimentos.",
+      "Os bens da sociedade conjugal passam automaticamente à administração exclusiva do agressor."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 23, inciso III, protege a mulher que precisa sair de casa por segurança, garantindo que ela não sofra prejuízos patrimoniais ou no direito de família."
+  },
+  {
+    "question": "Para a proteção patrimonial dos bens (Art. 24), o juiz pode determinar a suspensão de procurações conferidas pela ofendida ao agressor. Qual procedimento adicional o juiz deve adotar?",
+    "options": [
+      "Aguardar a manifestação do agressor em 15 dias.",
+      "Oficiar ao cartório competente para os fins previstos na medida.",
+      "Exigir que a ofendida publique o cancelamento em jornal de grande circulação.",
+      "Determinar que o Ministério Público assuma a gestão dos bens."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o parágrafo único do Art. 24, o juiz deve oficiar ao cartório competente para garantir a publicidade e eficácia da suspensão das procurações e proibição de venda de bens."
+  },
+  {
+    "question": "O Art. 24 prevê a prestação de caução provisória mediante depósito judicial. Qual a finalidade específica desta medida?",
+    "options": [
+      "Garantir o pagamento das custas processuais do agressor.",
+      "Servir como fundo de reserva para o auxílio-aluguel da vítima.",
+      "Cobrir perdas e danos materiais decorrentes da prática de violência doméstica.",
+      "Antecipar o pagamento de multas penais ao Estado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 24, inciso IV, estabelece que a caução provisória serve para garantir a reparação de danos materiais causados pelo agressor ao patrimônio da ofendida."
+  },
+  {
+    "question": "A Lei nº 14.994/2024 alterou significativamente a pena para o crime de descumprimento de medidas protetivas (Art. 24-A). Qual é a nova pena prevista?",
+    "options": [
+      "Detenção, de 3 meses a 2 anos.",
+      "Reclusão, de 2 a 5 anos, e multa.",
+      "Reclusão, de 1 a 4 anos, apenas.",
+      "Prisão simples, de 15 dias a 3 meses."
+    ],
+    "correct": 1,
+    "explanation": "Com a redação dada pela Lei nº 14.994 de 2024, a pena para o descumprimento do Art. 24-A passou a ser de reclusão, de 2 a 5 anos, e multa (tornando-se um crime muito mais grave)."
+  },
+  {
+    "question": "Na hipótese de prisão em flagrante pelo crime de descumprimento de medidas protetivas (Art. 24-A), quem tem competência para conceder fiança?",
+    "options": [
+      "A autoridade policial (Delegado), em qualquer caso.",
+      "Apenas o representante do Ministério Público.",
+      "Apenas a autoridade judicial (Juiz).",
+      "O Delegado, desde que o crime não envolva violência física."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 24-A, § 2º, estabelece uma exceção à regra geral do CPP: no crime de descumprimento de medida protetiva, apenas o juiz pode conceder fiança."
+  },
+  {
+    "question": "A configuração do crime previsto no Art. 24-A (descumprimento de medida):",
+    "options": [
+      "Depende de o juiz prolator da medida ser da esfera criminal.",
+      "Independe da competência civil ou criminal do juiz que deferiu as medidas.",
+      "Exige que a medida protetiva tenha sido ratificada por um colegiado.",
+      "Ocorre apenas se houver contato físico entre agressor e vítima."
+    ],
+    "correct": 1,
+    "explanation": "De acordo com o Art. 24-A, § 1º, o crime se configura mesmo que a medida tenha sido deferida por um juiz cível (ex: Vara de Família) ou criminal."
+  },
+  {
+    "question": "Sobre a intervenção do Ministério Público nas causas decorrentes de violência doméstica (Art. 25), assinale a correta:",
+    "options": [
+      "O MP intervém apenas em processos criminais, sendo vedada sua atuação em causas cíveis.",
+      "O MP intervirá, quando não for parte, nas causas cíveis e criminais.",
+      "A atuação do MP é facultativa e depende de convocação do magistrado.",
+      "O MP atua exclusivamente como assistente da defesa do agressor para garantir o devido processo."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 25 estabelece a atuação obrigatória do Ministério Público como 'custos legis' (fiscal da lei) em todas as causas decorrentes da Lei Maria da Penha."
+  },
+  {
+    "question": "Dentre as atribuições do Ministério Público previstas no Art. 26, qual medida administrativa é autorizada para combater irregularidades no atendimento à mulher?",
+    "options": [
+      "Decretar o fechamento imediato de delegacias especializadas.",
+      "Fiscalizar estabelecimentos públicos e particulares e adotar medidas imediatas quanto a irregularidades.",
+      "Nomear diretores para hospitais que atendem vítimas de violência.",
+      "Substituir o juiz em audiências de conciliação patrimonial."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 26, inciso II, dá ao MP o poder-dever de fiscalizar os estabelecimentos de atendimento (públicos ou privados) e agir contra irregularidades constatadas."
+  },
+  {
+    "question": "Pode o Ministério Público requisitar força policial para auxiliar em casos de violência doméstica?",
+    "options": [
+      "Não, pois a requisição de força policial é exclusiva do Poder Judiciário.",
+      "Sim, conforme atribuição prevista no Art. 26, inciso I.",
+      "Apenas se houver autorização prévia da Secretaria de Segurança Pública.",
+      "Sim, mas somente se o agressor for funcionário público."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 26, inciso I, autoriza expressamente o Ministério Público a requisitar força policial e serviços públicos de saúde, educação, entre outros."
+  },
+  {
+    "question": "O Art. 24 permite que o juiz proíba temporariamente a celebração de atos de compra, venda e locação de propriedade em comum. Essa medida é considerada:",
+    "options": [
+      "Uma medida de proteção patrimonial que pode ser determinada liminarmente.",
+      "Uma sanção penal aplicada após o trânsito em julgado.",
+      "Um ato administrativo de competência exclusiva do cartório de imóveis.",
+      "Uma medida inconstitucional por ferir o direito de propriedade do agressor."
+    ],
+    "correct": 0,
+    "explanation": "O Art. 24 define medidas de proteção patrimonial que o juiz pode aplicar 'liminarmente' (logo no início) para evitar a dilapidação de bens pelo agressor."
+  },
+  {
+    "question": "Em relação ao cadastro dos casos de violência doméstica (Art. 26, III), a competência cabe ao:",
+    "options": [
+      "Conselho Tutelar.",
+      "Ministério Público.",
+      "Ministério da Justiça.",
+      "Cartório de Registro Civil."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 26, inciso III, coloca como atribuição do Ministério Público o cadastramento dos casos de violência doméstica e familiar contra a mulher."
+  },
+  {
+    "question": "Considere que um agressor descumpriu uma medida protetiva e foi punido pelo Art. 24-A. Essa punição impede a aplicação de outras sanções (como multa ou prisão preventiva)?",
+    "options": [
+      "Sim, pelo princípio do 'non bis in idem' (não punir duas vezes pelo mesmo fato).",
+      "Não, pois o Art. 24-A, § 3º, diz que o disposto não exclui a aplicação de outras sanções cabíveis.",
+      "Sim, a pena de reclusão absorve todas as outras infrações civis e criminais.",
+      "Apenas se a vítima concordar com a cumulação das penas."
+    ],
+    "correct": 1,
+    "explanation": "O § 3º do Art. 24-A deixa claro que a punição pelo crime de descumprimento pode ser acumulada com outras sanções, como a decretação da prisão preventiva ou multas."
+  },
+  {
+    "question": "O Art. 23, inciso IV, prevê que o juiz poderá determinar a 'separação de corpos'. No contexto da Lei Maria da Penha, essa medida visa prioritariamente:",
+    "options": [
+      "Agilizar o processo de divórcio direto sem partilha de bens.",
+      "Cessar o dever de coabitação e proteger a integridade física/psíquica da ofendida.",
+      "Garantir que o agressor pague as dívidas do casal antes da separação.",
+      "Substituir a prisão preventiva em casos de ameaça leve."
+    ],
+    "correct": 1,
+    "explanation": "A separação de corpos é uma medida cautelar que visa afastar legalmente os cônjuges/companheiros para cessar o risco de agressões dentro do domicílio comum."
+  }
+],
+
+"MariaDaPenha_27_40":[
+  {
+    "question": "Conforme o Art. 27 da Lei Maria da Penha, a mulher em situação de violência doméstica deve estar acompanhada de advogado em todos os atos processuais. Qual a exceção expressa a essa regra?",
+    "options": [
+      "Atos realizados exclusivamente em sede policial durante o inquérito.",
+      "A oitiva perante a equipe de atendimento multidisciplinar.",
+      "O pedido de medidas protetivas de urgência, nos termos do art. 19 da referida lei.",
+      "Audiências de conciliação que versem exclusivamente sobre bens."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 27 estabelece a obrigatoriedade de advogado em atos cíveis e criminais, mas ressalva o Art. 19, que permite que a ofendida peça medidas protetivas por meio de petição ou redução a termo perante a autoridade policial ou judicial sem assistência técnica imediata."
+  },
+  {
+    "question": "Sobre a garantia de acesso aos serviços de Defensoria Pública ou Assistência Judiciária Gratuita (Art. 28), é correto afirmar que:",
+    "options": [
+      "É garantido apenas na fase judicial do processo.",
+      "A garantia abrange tanto a sede policial quanto a judicial, mediante atendimento específico e humanizado.",
+      "Depende de prévia comprovação de hipossuficiência econômica extrema perante o Ministério Público.",
+      "A assistência é restrita aos crimes de lesão corporal grave e tentativa de feminicídio."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 28 garante o acesso à assistência jurídica gratuita em sede policial e judicial, reforçando a necessidade de um atendimento especializado para as vítimas de violência doméstica."
+  },
+  {
+    "question": "A equipe de atendimento multidisciplinar, nos termos do Art. 29, deve ser integrada por profissionais especializados de quais áreas?",
+    "options": [
+      "Criminal, Cível e Administrativa.",
+      "Psicossocial, Jurídica e de Saúde.",
+      "Segurança Pública, Assistência Social e Educação.",
+      "Médica, Policial e Pedagógica."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 29, a equipe multidisciplinar é composta por profissionais das áreas psicossocial, jurídica e de saúde."
+  },
+  {
+    "question": "Compete à equipe de atendimento multidisciplinar fornecer subsídios ao juiz, MP e Defensoria. Segundo o Art. 30, esses subsídios podem ser entregues:",
+    "options": [
+      "Exclusivamente por escrito, mediante laudos técnicos.",
+      "Apenas verbalmente em audiência pública.",
+      "Por escrito, mediante laudos, ou verbalmente em audiência.",
+      "Somente após a prolação da sentença definitiva."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 30 prevê expressamente que os subsídios podem ser fornecidos por escrito (laudos) ou verbalmente em audiência."
+  },
+  {
+    "question": "O Art. 33 traz uma regra de transição fundamental para comarcas que ainda não possuem Juizados de Violência Doméstica instalados. Qual é essa regra?",
+    "options": [
+      "As causas devem ser remetidas obrigatoriamente para a capital do Estado.",
+      "As varas criminais acumularão as competências cível e criminal para julgar essas causas.",
+      "O julgamento caberá exclusivamente ao Tribunal de Justiça local.",
+      "As varas de família passam a ter competência criminal sobre os agressores."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 33 determina que, enquanto não houver Juizados estruturados, as varas criminais detêm competência híbrida (cível e criminal) para casos de violência doméstica."
+  },
+  {
+    "question": "Nas varas criminais que acumulam competência por força do Art. 33, qual direito é garantido aos processos de violência doméstica?",
+    "options": [
+      "Direito de sigilo absoluto, vedado acesso inclusive ao réu.",
+      "Direito de preferência para o processo e o julgamento das causas.",
+      "Direito de suspensão do prazo prescricional por tempo indeterminado.",
+      "Direito de conversão automática em ação penal pública incondicionada."
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 33 garante o direito de preferência na tramitação e julgamento dessas causas nas varas criminais."
+  },
+  {
+    "question": "A respeito da defesa de interesses transindividuais previstos na Lei (Art. 37), quem detém legitimidade concorrente para exercê-la?",
+    "options": [
+      "O Ministério Público e qualquer cidadão no gozo de seus direitos políticos.",
+      "O Ministério Público e associações atuantes na área, constituídas há pelo menos um ano.",
+      "A Defensoria Pública e partidos políticos com representação no Congresso.",
+      "Apenas o Ministério Público, em razão da natureza indisponível do direito."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 37 prevê legitimidade concorrente entre o MP e associações com atuação na área e pré-constituição de no mínimo um ano."
+  },
+  {
+    "question": "Em que situação o requisito da pré-constituição de um ano para associações pode ser dispensado (Art. 37, parágrafo único)?",
+    "options": [
+      "Sempre que o agressor for autoridade pública.",
+      "Quando o juiz entender que não há outra entidade com representatividade adequada.",
+      "Se a associação for declarada de utilidade pública federal.",
+      "A pedido exclusivo do Ministério Público Estadual."
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 37 autoriza o juiz a dispensar o prazo de um ano de constituição caso falte outra entidade representativa para a demanda coletiva."
+  },
+  {
+    "question": "Sobre o registro das medidas protetivas de urgência (Art. 38-A), quem deve manter e regulamentar o banco de dados, segundo atualização de 2022?",
+    "options": [
+      "Ministério da Justiça e Segurança Pública.",
+      "Conselho Nacional de Justiça (CNJ).",
+      "Conselho Nacional do Ministério Público (CNMP).",
+      "Secretaria Nacional de Políticas para as Mulheres."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 38-A, parágrafo único, determina que o banco de dados deve ser mantido e regulamentado pelo Conselho Nacional de Justiça."
+  },
+  {
+    "question": "A quem deve ser garantido o acesso instantâneo ao banco de dados de medidas protetivas (Art. 38-A, parágrafo único)?",
+    "options": [
+      "Somente ao juiz e ao agressor.",
+      "Ao Ministério Público, à Defensoria Pública, aos órgãos de segurança pública e de assistência social.",
+      "Ao público em geral, em homenagem ao princípio da publicidade.",
+      "Apenas à vítima e seu advogado constituído."
+    ],
+    "correct": 1,
+    "explanation": "O objetivo do registro instantâneo é permitir a fiscalização e efetividade por parte do MP, Defensoria, Segurança Pública e Assistência Social."
+  },
+  {
+    "question": "O Art. 40-A, incluído pela Lei nº 14.550/2023, estabelece que a Lei Maria da Penha será aplicada:",
+    "options": [
+      "Somente se houver coabitação entre ofensor e ofendida.",
+      "Apenas quando a motivação for baseada em ódio explícito ao gênero feminino.",
+      "Independentemente da causa ou da motivação dos atos e da condição do ofensor ou da ofendida.",
+      "Sempre que o agressor possuir condenação criminal anterior."
+    ],
+    "correct": 2,
+    "explanation": "A alteração de 2023 reforça a aplicação objetiva da lei, independentemente de motivações subjetivas ou condições pessoais, desde que configurada a violência no âmbito do Art. 5º."
+  },
+  {
+    "question": "Qual a regra estabelecida pelo Art. 41 quanto aos crimes praticados com violência doméstica e familiar contra a mulher?",
+    "options": [
+      "Aplica-se a Lei 9.099/95 para crimes com pena máxima inferior a 2 anos.",
+      "Não se aplica a Lei nº 9.099/95, independentemente da pena prevista.",
+      "Permite-se a transação penal, mas veda-se a suspensão condicional do processo.",
+      "A aplicação da Lei 9.099/95 é facultativa ao juiz após ouvir a vítima."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 41 é taxativo: veda a aplicação da Lei dos Juizados Especiais (Lei 9.099/95) a qualquer crime de violência doméstica e familiar contra a mulher, o que impede institutos como transação penal e composição de danos."
+  },
+  {
+    "question": "Segundo o Art. 31, quando a complexidade do caso exigir avaliação aprofundada, quem o juiz deve consultar para indicar um profissional especializado?",
+    "options": [
+      "A Ordem dos Advogados do Brasil (OAB).",
+      "O Ministério Público.",
+      "A equipe de atendimento multidisciplinar.",
+      "O perito oficial do Instituto Médico Legal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 31 prevê que o juiz agirá mediante a indicação da equipe de atendimento multidisciplinar nesses casos de alta complexidade."
+  },
+  {
+    "question": "A instituição dos Juizados pode ser acompanhada pela implantação de quais outros serviços, segundo o Art. 34?",
+    "options": [
+      "Promotorias e delegacias genéricas.",
+      "Curadorias necessárias e serviço de assistência judiciária.",
+      "Tribunais do Júri especializados em feminicídio.",
+      "Conselhos tutelares e centros de internação."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 34 menciona especificamente a implantação de curadorias e do serviço de assistência judiciária."
+  },
+  {
+    "question": "O Art. 35 faculta aos entes federados a criação de centros de reabilitação. Qual o foco dessas instituições?",
+    "options": [
+      "Atendimento exclusivo a mulheres dependentes químicas.",
+      "Educação e reabilitação para os agressores.",
+      "Acolhimento temporário para familiares de vítimas fatais.",
+      "Capacitação profissional para policiais civis."
+    ],
+    "correct": 1,
+    "explanation": "O inciso V do Art. 35 prevê a criação de centros de educação e de reabilitação para os agressores, como medida de prevenção à reincidência."
+  },
+  {
+    "question": "Sobre o envio de informações estatísticas para a base de dados do Ministério da Justiça (Art. 38, parágrafo único):",
+    "options": [
+      "É obrigatório para todos os municípios mensalmente.",
+      "As Secretarias de Segurança Pública dos Estados e do DF poderão remeter suas informações criminais.",
+      "Somente o Poder Judiciário Federal tem autorização para realizar o envio.",
+      "É vedado o envio de dados que identifiquem a raça ou cor da vítima."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 38, parágrafo único, faculta às Secretarias de Segurança Pública o envio de dados criminais à base do Ministério da Justiça."
+  },
+  {
+    "question": "Conforme o Art. 32, a criação e manutenção da equipe multidisciplinar deve observar:",
+    "options": [
+      "Os limites previstos pela Lei de Improbidade Administrativa.",
+      "A proposta orçamentária do Judiciário nos termos da Lei de Diretrizes Orçamentárias (LDO).",
+      "O superávit financeiro do Ministério da Saúde.",
+      "A arrecadação exclusiva de multas aplicadas aos agressores."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 32 vincula a criação e manutenção das equipes multidisciplinares à previsão de recursos na proposta orçamentária do Judiciário e à LDO."
+  }
+],
+
+"tortura":[
+  {
+    "question": "1. (MPE-MS/Promotor de Justiça de Mato Grosso do Sul/2018-Adaptada) É crime de tortura (Lei n.\n9.455/1997) a conduta de constranger alguém com emprego de grave ameaça, causando-lhe\nsofrimento mental, em razão de discriminação religiosa.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Trata-se da tortura discriminatória, também conhecida como tortura preconceituosa ou tortura racismo (art. 1º, I, “a”, da Lei 9455/97). A discriminação (racial ou religiosa) é a razão determinante para a prática da tortura. Se a discriminação tiver natureza sexual ou política não há que se falar em tortura, mas a situação pode caracterizar outra prática delitiva (ex: lesão corporal)"
+  },
+  {
+    "question": "2. (CONSULPLAN/Titular de Serviços de Notas e de Registro de Minais Gerais/2016) Segundo a Lei nº\n9.455/1997, que define os crimes de tortura e dá outras providências, aumenta-se a pena de um sexto\naté um terço, se o crime é cometido contra maior de",
+    "options": ["45 anos.", "50 anos.", "55 anos.", "60 anos."],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. A lei de Tortura, em seu art. 1º, 4º, inciso II, prevê uma causa de aumento de 1/6 até 1/3 se o crime é cometido contra maior de 60 anos de idade.\nAs alternativas A, B e C estão erradas, pois divergem do art. 1º, §4º, II, da Lei 9455/97."
+  },
+  {
+    "question": "3. (lnstituto Cidades/Defensor Público de Goiás/2010). Ao prender em flagrante delito autor de\nhomicídio, Capitão Nascimento obrigou-o a abraçar e beijar o cadáver da vítima, causando-lhe\nsofrimento físico e mental. Penalmente, a conduta do Capitão Nascimento tipifica",
+    "options": [
+      "tortura (Lei nº 9.455/97, art. 1º, §1º).",
+      "constrangimento ilegal (Código Penal, art. 146).",
+      "excesso de exação (Código Penal, art. 316, § 1º).",
+      "maus-tratos (Código Penal, art. 136).",
+      "estrito cumprimento de dever legal (Código Penal, art. 23, III)."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A. Estamos diante da tortura ao preso ou de pessoa sujeita a medida de segurança (art. 1º, §1º, da Lei 9455/97). Observe que nesse delito há necessariamente uma relação de custódia entre o sujeito ativo entre o sujeito ativo e o sujeito passivo. Trata-se de crime próprio, pois o agente deve ser pessoa encarregada de zelar pelo preso ou pelo doente mental que cumpre medida de segurança. ==8 3 94 8== A alternativa B está errada. O constrangimento ilegal é meio para se praticar a tortura, ficando, assim, absorvido por esse último delito. A alternativa C está errada. O excesso de exação ocorre quando o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza (art. 316, §1º, do Código Penal). A alternativa D está errada. O crime de maus tratos significa expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privandoa de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina. A alternativa E está errada, pois não estão presentes os pressupostos de qualquer causa excludente de ilicitude."
+  },
+  {
+    "question": "4. (FGV/OAB — 2010.3) A tortura, conduta expressamente proibida pela Constituição Federal e lei específica,",
+    "options": [
+      "se reconhecida, não implicará aumento de pena, caso seja cometida por agente público.",
+      "pode ser praticada por meio de uma conduta comissiva (positiva, por via de uma ação) ou omissiva (negativa, por via de uma abstenção).",
+      "exige, na configuração, que o autor provoque lesões corporais na vítima ao lhe proporcionar sofrimento físico com emprego de violência.",
+      "é crime inafiançável, imprescritível e insuscetível de graça ou anistia."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra B. A conduta comissiva está prevista no art. 1º, incisos I e II, e §1º, todos da Lei 9455/97. Já a conduta omissiva está descrita no art. 1º, §2º, da referida lei.\nA alternativa A está errada. Se a tortura é praticada por uma agente público haverá a incidência de uma causa de aumento de pena de 1/6 até 1/3 (art. 1º, §4º, I, da Lei 9455/97).\nA alternativa C está errada, porquanto não é fundamental a provocação de lesões corporais para a caracterização da tortura, eis que os incisos II do art. 1º da Lei 9455/97 estabelecem expressamente a causação de sofrimento mental.\nA alternativa D está errada. Apesar de a tortura ser insuscetível de anistia, graça e fiança (art. 1º, §6º, da Lei 9455/97), ela não é imprescritível ante a ausência de previsão nesse sentido na Constituição Federal."
+  },
+  {
+    "question": "5. (FEPESE- Promotor de Justiça- SC/2014). Conforme doutrina majoritária, a tortura qualificada pelo resultado morte, prevista no artigo 1º, §3º, da Lei\nnº 9.455/97, é classificada como de resultado preterdoloso. Entretanto, se o agressor, em sua ação, deseja\nou assume o risco de produzir o resultado morte, não responde pelo tipo acima, mas por homicídio qualificado.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Como vimos, a tortura qualificada pelo resultado morte é um delito preterdoloso (ou preterintencional), ou seja, o resultado involuntário é causado por culpa do agente. Lembre-se que crime preterdoloso ocorre quando a conduta dolosa produz um resultado culposo mais grave do que o querido pelo agente (dolo no antecedente e culpa no consequente). Não confunda homicídio qualificado pela tortura e a tortura qualificada pela morte. No homicídio qualificado pela tortura, o resultado morte advém de maneira dolosa (o agente quer a morte ou assumir o risco de produzi-la), ou seja, o agente age com animus necandi. De outro lado, na tortura qualificada pela morte, o resultado qualificador (morte) ocorre à título de culpa – é um crime preterdoloso."
+  },
+  {
+    "question": "6. (MPE-PR/Promotor de Justiça do Paraná/2008) Analise as proposições seguintes e, na sequência,\nassinale a opção correta:\nI. Constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou\nmental, em razão de discriminação racial ou religiosa, configura crime de tortura, delito esse equiparado\na hediondo.<br/>\nII. Submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça,\na sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo,\nconfigura crime de tortura, delito esse que admite a progressão de regime de cumprimento de pena.<br/>\nIII. Nos crimes de tortura incide causa de aumento de pena quando o crime é cometido por agente público.<br/>\nIV. Aquele que se omite em face das condutas tipificadas como tortura, quando tinha o dever de evitá-las\nou apurá-las, incide nas mesmas penas a ele cominadas.<br/>\nV. Nos crimes de tortura incide exceção ao princípio-regra da territorialidade, pois a Lei Federal n.\n9.455/97 expressamente determinou a aplicação de suas disposições mesmo quando o crime não tenha\nsido cometido em território nacional, sendo a vítima brasileira ou encontrando-se o agente em local sob\njurisdição brasileira.",
+    "options": [
+      "todas as afirmativas estão corretas.",
+      "as afirmativas I, II, III e V estão corretas.",
+      "as afirmativas I, III e V estão corretas.",
+      "as afirmativas II, III e V estão corretas.",
+      "as afirmativas II, III e IV estão corretas."
+    ],
+    "correct": 2,
+    "explanation": "O item I está correto. Cuida-se da tortura discriminatória descrita no art. 1º, I, “c”, da Lei 9455/97.\nO item II está errado, pois a tortura castigo (tortura punitiva) exige que a violência ou a grave ameaça empregada cause à vítima intenso sofrimento físico ou mental. Se existir abuso dos meios de correção, sem ocasionar intenso sofrimento físico ou mental, caracteriza-se o crime de maus-tratos (art. 136 do Código Penal).\nO item III está correto. É causa de aumento descrita no art. 1º, §4º, I, da Lei 9455/97 se o delito de tortura é cometido por agente público.\n\nO item IV está errado. Aquele que se omite em face da apuração da tortura não responderá pelas mesmas penas do agente torturador, mas sim pelo delito específico delineado no art. 1º, §2º, da Lei 9455/97, com pena mais branda. Trata-se de uma exceção pluralística à teoria monista.\nO item V está correto, pois está em perfeita sintonia com o previsto no art. 2º da Lei 9455/97.\nComentário: A alternativa correta é a letra C."
+  },
+  {
+    "question": "7. (MPE-GO/ Promotor de Justiça de Goiás/2016-Adaptada) De acordo com a Lei de Tortura, assinale a\nalternativa correta:",
+    "options": [
+      "Há crime de tortura quando o constrangimento, exercido mediante violência que causa intenso sofrimento físico, se opera em razão de discriminação pela orientação sexual (art. 1º, inc. I, alínea c).",
+      "Movido por instinto de vingança e sadismo, Josef K., funcionário de um banco, constrangeu, com o emprego de violência, o juiz que outrora havia decretado sua injusta prisão e causou-lhe intenso sofrimento físico. A conduta de Josef K. não constitui crime de tortura.",
+      "Conforme o § 5º do art. 1º da Lei de Tortura, a condenação criminal transitada em julgado, acarretará, automaticamente, a perda do cargo, função ou emprego público, a cassação da aposentadoria e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+      "Compete à Justiça Federal o processo e o julgamento do crime de tortura praticado por policial militar em serviço."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra B. A Lei nº 9455/97 não inseriu, no delito de tortura, as hipóteses de a motivação do agente ser maldade, vingança ou sadismo. Ante a ausência de previsão legal, condutas praticadas com essas finalidades serão enquadradas em outros delitos (lesão corporal, constrangimento ilegal, etc.), mas não serão consideradas como tortura.\nA alternativa A está errada, pois a tortura discriminatória (art. 1º, I, “c”, da Lei 9455/97) tem dolo específico, ou melhor, tal prática apresenta como motivação do agente a discriminação racial ou religiosa. Assim, não configura o delito de tortura se a motivação tiver natureza sexual ou política, mas sim haverá a configuração de outro crime (lesão corporal, homicídio, etc.).\nA alternativa C está errada, pois o art. 1º, §5º, da Lei 9455/97 não prevê como efeito extrapenal automática a cassação da aposentadoria.\nA alternativa D está errada, pois não houve ofensa a qualquer bem, serviço, interesse da União ou de suas entidades autárquicas ou empresas públicas, nos moldes do art. 109, IV, da Constituição Federal."
+  },
+  {
+    "question": "8. (VUNESP/Juiz de Direito do Tribunal de Justiça Militar de São Paulo/2016) Considere a seguinte\nsituação hipotética: João, agente público, foi processado e, ao final, condenado à pena de reclusão, por\ndezenove anos, iniciada em regime fechado, pela prática do crime de tortura, com resultado morte,\ncontra Raimundo. Nos termos da Lei n. 9.455, de 7 de abril de 1997, essa condenação acarretará a perda\ndo cargo, função ou emprego público",
+    "options": [
+      "e a interdição para seu exercício pelo dobro do prazo da pena aplicada.",
+      "e a interdição para seu exercício pelo triplo do prazo da pena aplicada.",
+      "e a interdição para seu exercício pelo tempo da pena aplicada.",
+      "desde que o juiz proceda à fundamentação específica.",
+      "como efeito necessário, mas não automático."
+    ],
+    "correct": 0,
+    "explanation": "A alternativa correta é a letra A. A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada (art. 1 º, §5º, da Lei 9455/97).\nAs alternativas B, C, D e E estão erradas, pois destoam do previsto no art. 1º, §5º, da Lei 9455/97)."
+  },
+  {
+    "question": "9.(CESPE/Procurador do Estado de Sergipe/2017) No que concerne ao crime de tortura, assinale a opção\ncorreta.",
+    "options": [
+      "O indivíduo que se omite ante a prática de tortura quando deveria evitá-la responde igualmente pela conduta realizada.",
+      "A legislação especial brasileira concernente à tortura aplica-se somente aos crimes ocorridos em território nacional.",
+      "No crime de tortura, a prática contra adolescente é causa de aumento de pena de um sexto até um terço.",
+      "A condenação de funcionário público por esse crime gera a perda do cargo, desde que a sentença assim determine e que a pena aplicada seja superior a quatro anos.",
+      "A submissão de pessoa presa a sofrimento físico ou mental por funcionário público que pratique atos não previstos em lei exige o dolo específico."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa correta é a letra C. De acordo com o art. 1º, §4º, II, da Lei 9455/97, é causa de aumento de pena se a prática da tortura for em face de adolescente, criança, portador de deficiência ou maior de 60 anos de idade.\nAlternativa A está errada, pois nessa situação há uma exceção pluralística à teoria monista. O omitente responderá pelo art. 1º, §2º, da Lei 9455/97, enquanto o agente torturador responderá pela tortura propriamente dita (art. 1º, I, II ou §1º, todos da Lei 9455/97).\nAlternativa B está errada, pois a Lei 9455/97 prevê hipótese de extraterritorialidade (aplicação da lei penal brasileira aos crimes cometidos fora do território nacional) se a vítima for brasileira, segundo determina o art. 1º, §7º, da Lei 9455/97. Cuida-se de hipótese de extraterritorialidade incondicionada.\nAlternativa D está errada: Na Lei de Tortura, a perda do cargo é efeito extrapenal automático, isto é, dispensa a fundamentação na sentença penal condenatória. Além do mais, de modo diverso do art. 92, I, do Código Penal, a Lei 9455/97 não exigiu quantum da pena para aplicação do referido efeito extrapenal.\nA alternativa E está errada: A tortura descrita no art. 1º, §1º, da Lei 9455/97 é caracterizado pelo dolo genérico, isto é, o tipo penal não exige nenhuma finalidade específica."
+  },
+  {
+    "question": "10. (FAPEMS/Delegado de Polícia de Mato Grosso do Sul/2017-Adaptada) O funcionário público que\nconstrange o estagiário a praticar contravenção penal poderá ser responsabilizado pelo crime de tortura\ndo artigo 1° da Lei n° 9.455/1997.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. O tipo penal da tortura crime (art. 1º, I, “b”, da Lei 9455/97) não menciona a contravenção penal. Pensamento diverso configuraria a indevida a analogia in mallan partem, situação não aplicável às normas penais incriminadoras. Em resumo, constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental, de forma a obrigá-lo a praticar contravenção penal não configura o delito de tortura-crime (art.1º, I, b, da Lei 9455/97)"
+  },
+   {
+    "question": "11. (MPE-RS/Promotor de Justiça/2017-Adaptada) Do art. 1º, da Lei n. 9.455/97, que incrimina a tortura,\nextraem-se, as espécies delitivas doutrinariamente designadas tortura-prova, tortura-crime, torturadiscriminação, tortura-castigo, tortura-própria e tortura omissão, equiparadas aos crimes hediondos,\nprevistas na modalidade dolosa e com apenamento carcerário para cumprimento inicial em regime\nfechado.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado, pois a tortura omissão (art. 1º, §2º, da Lei 9455/97: aquele que se omite em face da tortura, quando tinha o dever de evita-la ou apurá-la) não é equiparado aos delitos hediondos. Aliás, esse delito admite suspensão condicional do processo (art. 89 da Lei 9099/95)"
+  },
+  {
+    "question": "12. (FUNCAB/Delegado de Polícia do Pará/2016-Adaptada) Crisóstomo, policial militar, e Elesbão,\nagente da Polícia Civil, agindo em comunhão de esforços e desígnios, buscando a confissão de um\ncrime, provocaram intenso sofrimento físico a Nicanor. Posteriormente, Vitorino, delegado de polícia,\nao saber do ocorrido, mesmo possuindo atribuição investigativa, opta por não apurar o caso, visando\na abafá-lo. Nesse contexto é correto afirmar que todos praticaram crimes da Lei nº 9.455, contudo a\nconduta do delegado não é equiparada a crime hediondo.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Crisóstomo e Elesbão praticaram a tortura crime (art. 1º, I, “b”, da Lei 9455/95), que é equiparado aos delitos hediondos. Vitorino, por sua vez, cometeu o delito de tortura omissão (art. 1º, §2º, da Lei 9455/97), que não é um delito hediondo."
+  },
+  {
+    "question": "13. (VUNESP/Delegado de Polícia do Ceará/2015). Pode-se afirmar sobre o crime de tortura, regulado\npela Lei nº 9455/97 que",
+    "options": [
+      "será sempre de competência da Justiça Federal, independentemente do lugar do crime.",
+      "é crime equiparado ao hediondo, caso ocorra o resultado morte.",
+      "o condenado por crime de tortura poderá perder o cargo, função ou emprego público, desde que este efeito seja expressamente declarado na sentença.",
+      "As lesões leves suportadas pela vítima serão absorvidas pelo crime de tortura."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. Com base no princípio da consunção, o delito de tortura absorve os delitos menores em razão do emprego de violência ou grave ameaça, com fundamento no princípio da consunção. É o que ocorre com o delito de lesão corporal leve.\nA alternativa A está errada. Em regra, a tortura será processada pela Justiça Comum (Federal e Estadual). Se a prática da tortura violar algum bem, interesse ou serviço da União Federal, suas autarquias ou empresas públicas, a competência será da Justiça Federal, nos exatos termos do art. 109, IV, da Constituição Federal27. Exemplo: A tortura é praticada no interior de uma Delegacia da Polícia Federal. Por outro lado, caso tal prática de tortura não transgrida qualquer interesse da União, o feito será da Justiça Estadual, cuja competência é residual. Excepcionalmente, em razão da recente alteração promovida no Código Penal Militar pela lei 13491/17, o delito de tortura também pode ser processado e julgado na Justiça Militar. Após o advento da referida lei, a Justiça Castrense passou a ter competência para julgar não só os delitos do Código Penal Militar como também os descritos na legislação penal comum. Assim, a Justiça Militar (Federal e Estadual) será competente para processar e julgar se o fato tiver correspondência com alguma alínea do art. 9º, II, do Código Penal Militar\nA alternativa B está errada, pois apenas o delito do art. 1º, §2º, da Lei 9455/97 (tortura omissão) não pode ser considerado equiparado aos delitos hediondos.\nA alternativa C está errada. A perda do cargo pela prática dos delitos descritos na Lei 9455/97 é efeito automático da condenação, ou seja, dispensa expressa fundamentação na sentença penal condenatória."
+  },
+  {
+    "question": "14. (CESPE/Defensor Público Federal/2015) Caracteriza uma das espécies de tortura a conduta\nconsistente em, com emprego de grave ameaça, constranger outrem em razão de discriminação racial,\ncausando-lhe sofrimento mental.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Estamos diante da denominada tortura discriminatória, tortura preconceituosa ou tortura racismo prevista no art. 1º, I, “c”, da Lei 9455/97. No tipo penal do art. 1º, I, “c”, da Lei 9455/97 há o dolo específico, isto é, o agente deve visar a prática de tortura em razão de discriminação racial ou religiosa."
+  },
+  {
+    "question": "15. (CESPE/Delegado de Polícia do Espírito Santo/2010) Rui, que é policial militar, mediante violência e\ngrave ameaça, infligiu intenso sofrimento físico e mental a um civil, utilizando para isso as instalações do\nquartel de sua corporação. A intenção do policial era obter a confissão da vítima em relação a um\nsuposto caso extraconjugal havido com sua esposa. Nessa situação hipotética, a conduta de Rui,\nindependentemente de sua condição de militar e de o fato ter ocorrido em área militar, caracteriza o\ncrime de tortura na forma tipificada em lei específica.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. A conduta praticada por Rui enquadra-se no art. 1º, I, “a”, da Lei 9455/97. Estamos diante da denominada tortura confissão/tortura persecutória/tortura institucional. Vale ainda destacar que, com a recente alteração no art. 9º, II, do Código Penal Militar, o fato em apreço será processado e julgado na Justiça Militar Estadual (art. 9º, II, “b”, do Código Penal Militar)."
+  },
+  {
+    "question": "16. (VUNESP/ Juiz de Direito do Rio de Janeiro/2016). Maximilianus constantemente agredia seu filho\nRamsés, de quinze anos, causando-lhe intenso sofrimento físico e mental com o objetivo de castigálo e de prevenir que ele praticasse “novas artes\". Na última oportunidade em que Maximilianus\naplicava tais castigos, vizinhos acionaram a polícia ao ouvirem os gritos de Ramsés. Ao chegar ao local\nos policiais militares constataram as agressões e conduziram ao Distrito Policial Maximilianus,\nRamsés e Troia, mãe de Ramsés que presenciava todas as agressões mas, apesar de não concordar,\ndeixava que Maximilianus “cuidasse\" da educação do filho sem se “intrometer\". Diante da\ncircunstância descrita, é correto afirmar que",
+    "options": [
+      "Maximilianus e Troia incorreram, nos termos da Lei n° 9.455/97, na prática do crime de tortura na qualidade de co-autores.",
+      "Maximilianus incorreu, nos termos da Lei n° 9.455/97, na prática do crime de tortura na qualidade de autor, e que Troia, porém, não poderá ser responsabilizada, pois não concorreu para a prática do crime.",
+      "Maximilianus incorreu, nos termos da Lei n° 9.455/97, na prática do crime de tortura na qualidade de autor, assim como Troia também teria incorrido no mesmo crime mas com base na omissão penalmente relevante prevista no Código Penal.",
+      "Maximilianus incorreu, nos termos da Lei n° 9.455/97, na prática do crime de tortura na qualidade de autor, sendo que Troia será responsabilizada pela prática do crime de omissão em face da tortura praticada por Maximilianus, também previsto na Lei n° 9.455/97, tendo em vista que tinha o dever de evitá-la.",
+      "Maximilianus incorreu, nos termos da Lei n° 9.455/97, na prática do crime de tortura na qualidade de autor, e que Troia também será responsabilizada pela prática do mesmo crime, porém na condição de partícipe."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. De fato, as condutas de Maximilianus e Troia são objeto de censura criminal pela Lei 9455/97, porém em tipos penais diversos. Maximilianus praticou a denominada tortura castigo descrita no art. 1º, II, da Lei 9455/97. Apesar de ter obrigação legal de proteger seu filho (art. 13, §2º, “a”, do Código Penal), Troia não responderá pela mesma pena do agente torturador (Maximilianus), mas sim pela prática delitiva delineada no art. 1º, §2º, da Lei 9455/97. É uma exceção pluralística à teoria monista.\nA alternativa A está errada, pois não haverá concurso de pessoas. Maximilianus responderá pela tortura castigo (art. 1º, II, da Lei 9455/97), ao passo que Troia pelo crime do art. 1º, §2º, da Lei 9455/97.\nA alternativa B está errada. A conduta de Troia é tipificada no art. 1º, §2º, da Lei 9455/97. De tal forma, não há que se falar de conduta atípica.\nAs alternativas C e E estão erradas. Na espécie, Troia responde pela prática delitiva delineada no art. 1º, §2º, da Lei 9455/97. Como já falamos, estamos diante de uma exceção pluralística à teoria monista.\nA alternativa E está errada. Troia responde pela prática delitiva delineada no art. 1º, §2º, da Lei 9455/97 e não pela tortura castigo (art. 1º, II, da Lei 9455/97)."
+  },
+  {
+    "question": "17. (CESPE/Juiz de Direito da Paraíba/2015-Adaptada) A condenação por crime de tortura somente\nimportará na perda do cargo, função ou emprego público em caso de aplicação de regime semiaberto ou\nfechado para cumprimento de pena.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. A Lei nº 9455/97 não faz qualquer exigência para aplicação dos efeitos extrapenais automáticos da perda do cargo, função ou emprego público e da interdição para seu exercício pelo dobro da pena aplicada (art. 1º, §5º, da Lei 9455/97)."
+  },
+  {
+    "question": "18. (CESPE/Analista Judiciário do Superior Tribunal de Justiça/2008) O condenado pela prática de tortura,\npor expressa previsão legal, não poderá ser beneficiado por livramento condicional, se for reincidente\nespecífico em crimes dessa natureza.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Segundo o art. 83, V, do Código Penal, o condenado pelo delito de tortura apenas fará jus ao livramento condicional se cumprir mais de dois terços da pena privativa de liberdade. Todavia, em caso de reincidência específica, esse condenado não terá o livramento condicional."
+  },
+  {
+    "question": "19. (CESPE/Escrivão de Polícia do Espírito Santo/2010) Excetuando-se o caso em que o \nagente se omite\ndiante das condutas configuradoras dos crimes de tortura, quando tinha o dever de evitá-las ou apurálas, iniciará o agente condenado pela prática do crime de tortura o cumprimento da pena em regime\nfechado.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. Não é obrigatório que o condenado por crime de tortura inicie o cumprimento da pena em regime carcerário fechado. O Plenário do STF, ao julgar o HC 111.840-ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33 c/c o art. 59, ambos do Código Penal."
+  },
+  {
+    "question": "20. (CESPE/Juiz de Direito do Distrito Federal e Territórios/2014-Adaptada) O crime de tortura que\nresulta em lesão corporal de natureza grave ou gravíssima é punível conforme as penas previstas para\nesse delito, acrescidas das referentes ao delito de lesão corporal grave ou gravíssima.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. Não há que se falar em concurso formal de crimes, mas sim em único crime de tortura qualificado pelo resultado, nos exatos termos do art. 1º, §3º, da Lei 9455/97."
+  },
+  {
+    "question": "21. (FCC/Defensor Público do Rio Grande do Sul/2014). Sobre a Lei nº 9.455/97 (Crimes de Tortura), é\ncorreto afirmar que",
+    "options": [
+      "se a vítima da tortura for criança, a Lei nº 9.455/97 deve ser afastada para incidência do tipo penal específico de tortura previsto no Estatuto da Criança e do Adolescente (art. 233 do ECA).",
+      "há previsão legal de crime por omissão.",
+      "é inviável a suspensão condicional do processo para qualquer das modalidades típicas previstas na lei.",
+      "o regramento impõe, para todos os tipos penais que prevê, que o condenado inicie o cumprimento da pena em regime fechado.",
+      "há vedação expressa, no corpo da lei, de aplicação do sursis para os condenados por tortura."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa correta é a letra B, conforme se infere do art. 1º, §2º, da Lei 9455/97 (Tortura omissão).\nA alternativa A está errada. O art. 233 do ECA foi expressamente revogado pelo art. 4º da Lei 9455/97.\nA alternativa C está errada. É cabível o sursis processual para o delito descrito no art. 1º, §2º, da Lei 9455/97 (Pena – detenção de um a quatro anos).\nA alternativa D está errada. Como vimos, não é obrigatório que o condenado por crime de tortura inicie o cumprimento da pena em regime carcerário fechado. O Plenário do STF, ao julgar o HC 111.840-ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33 c/c o art. 59, ambos do Código Penal.\nA alternativa E está errada. A Lei 9455/97 não vedou a concessão do benefício da suspensão condicional da pena para os delitos de tortura."
+  }, {
+    "question": "22.(FCC/Promotor de Justiça de Pernambuco/2014) Quanto aos crimes de tortura, correto afirmar que",
+    "options": [
+      "punível aquele que se omite em face da tortura, ainda que sem o dever legal de evitá-la ou apurá-la.",
+      "todos são classificados como próprios, segundo expressa disposição legal.",
+      "o condenado sempre iniciará o cumprimento da pena em regime fechado",
+      "sujeito à jurisdição penal brasileira o estrangeiro que venha a torturar brasileiro fora do território nacional.",
+      "a condenação acarretará a interdição de cargo, função ou emprego público pelo triplo do prazo da pena aplicada."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa correta é a letra D. A lei de tortura prevê hipótese de extraterritorialidade incondicionada quando a vítima for brasileira (art. 2º da Lei 9455/97).\nA alternativa A está errada. É punível a tortura omissão, porém somente haverá a conduta criminosa se o agente tinha o dever de evitar a tortura ou de apurá-la (art. 1º, §2º, da Lei 9455/97).\nA alternativa B está errada. A lei 9455/97 tem crimes comuns ou gerais, isto é, aqueles que podem ser cometidos por qualquer pessoa. Exemplos: Tortura confissão (art. 1º, I, “a”, da Lei 9455/97), Tortura crime (art. 1º, I, “b”, da Lei 9455/97), Tortura discriminatória (art. 1º, I, “c”, da Lei 9455/97) e tortura omissão (art. 1º, §2º, da Lei 9455/97).\nA alternativa C está errada. Como vimos, não é obrigatório que o condenado por crime de tortura inicie o cumprimento da pena em regime carcerário fechado. O Plenário do STF, ao julgar o HC 111.840-ES, afastou a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, devendo-se observar, para a fixação do regime inicial de cumprimento de pena, o disposto no art. 33 c/c o art. 59, ambos do Código Penal.\nA alternativa E está errada. A condenação acarretará a perda de cargo, função ou emprego público, assim como a interdição para o seu exercício pelo dobro do prazo da pena aplicada (art. 1º, §5º, da Lei 9455/97)."
+  },
+  {
+    "question": "23. (ACAFE/ Delegado de Polícia do Acre/2014) Constitui crime de tortura constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de obter informação, declaração ou confissão da vítima ou de terceira pessoa.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. Cuida-se da denominada tortura confissão, tortura probatória, tortura persecutória, tortura institucional ou tortura inquisitorial, que está prevista no art. 1º, I, “a”, da Lei 9455/97."
+  },
+  {
+    "question": "24. (CESPE/Promotor de Justiça do Acre/2014-Adaptada) A tortura, o racismo e as ações de grupos armados contra a ordem constitucional e o Estado democrático são delitos imprescritíveis, de acordo com previsão constitucional.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. O racismo e as ações de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático são crimes imprescritíveis (art. 5º, incisos XLII e XLIV, da CF). Todavia, a tortura não foi prevista como conduta delituosa imprescritível pela Constituição Federal."
+  },
+  {
+    "question": "25. (Instituto Cidades/Defensor Público do Amazonas/2011) Acerca do crime de tortura previsto pela Lei 9.455/97, marque a alternativa errada:",
+    "options": [
+      "constitui crime de tortura a conduta de constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental com o fim de obter informação, declaração ou confissão da vítima ou terceira pessoa, bem como para provocar ação ou omissão de natureza criminosa, dentre outras hipóteses;",
+      "constitui também crime de tortura, a submissão de alguém, sob sua guarda, poder ou autoridade, com o emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo, dentre outras hipóteses;",
+      "a pessoa que se omite em face das condutas definidas como crime de tortura, quando tenha o dever de evitá-las ou apurá-las, responde por crime também e está sujeito às mesmas penas previstas para o crime de tortura;",
+      "a condenação por crime de tortura praticado por funcionário público acarreta a perda do cargo, função ou emprego público, bem como a interdição para o seu exercício pelo dobro do prazo da pena aplicada;",
+      "os crimes de tortura são inafiançáveis e insuscetíveis de graça e anistia."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa correta é a letra C. Estamos diante de uma exceção pluralística à teoria monista. O omitente responderá pelo art. 1º, §2º, da Lei 9455/97, enquanto o agente torturador responderá pela tortura propriamente dita (art. 1º, I, II e §1º, todos da Lei 9455/97).\nA alternativa A está correta, segundo o art. 1º, I, “a” e “b”, da Lei 9455/97.\nA alternativa B está correta, nos moldes do art. 1º, II, da Lei 9455/97.\nA alternativa D está correta, em conformidade com o art. 2º da Lei 9455/97.\nA alternativa E está correta, nos exatos termos do art. 1º, §6º, da Lei 9455/97."
+  },
+  {
+    "question": "26. (CESPE/Promotor de Justiça do Acre/2014-Adaptada) O crime de tortura, na modalidade de constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico e mental com o fim de obter informação, declaração ou confissão da vítima, é delito próprio, que só pode ser cometido por quem possua autoridade, guarda ou poder sobre a vítima.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. O crime de tortura, na Convenção de Tortura (art. 1º) e em várias legislações estrangeiras é delito próprio. Contudo, no Brasil, é delito de tortura do art. 1º, I, “a”, da Lei 9455/97 é comum (ou geral), podendo ser praticado por qualquer pessoa. Se o crime é cometido por agente público, aplica-se a majorante de 1/6 até 1/3 (art. 1º, §4º, I, da Lei 9455/97)"
+  },
+  {
+    "question": "27. (CEPERJ/Delegado de Polícia do Rio de Janeiro/ 2009) A pena do crime de tortura é aumentada se o crime é cometido mediante sequestro.",
+    "options": ["Certo", "Errado"],
+    "correct": 0,
+    "explanation": "O item está correto. O art. 1º, § 4º, inciso III, da Lei nº 9.455/97 prevê aumento de um sexto a um terço da pena se o crime de tortura é cometido mediante sequestro."
+  },
+  {
+    "question": "28. (CESPE/Defensor Público Federal/2007) Não se estende ao crime de tortura a admissibilidade de progressão no regime de execução da pena aplicada aos demais crimes hediondos.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. Atualmente, os crimes hediondos e equiparados (tortura, terrorismo e tráfico ilícito de entorpecentes) terão o regime inicial de cumprimento de pena de acordo com os critérios estabelecidos no art. 33, §§ 2º e 3º, do Código Penal. Além do mais, é possível a progressão de regime após o cumprimento de 2/5 da pena, se primário, ou de 3/5, se reincidente."
+  },
+  {
+    "question": "29. (CESPE/Titular de Serviços de Notas e de Registro da Bahia/2014) Analise o item a seguir: Constitui crime de tortura a conduta penalmente imputável que, mediante o emprego de violência, impõe intenso sofrimento físico a outrem, por sadismo.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. A Lei nº 9455/97 não inseriu, no delito de tortura, as hipóteses de a motivação do agente ser maldade, vingança ou sadismo. Ante a ausência de previsão legal, condutas praticadas com essas finalidades serão enquadradas em outros delitos (lesão corporal, constrangimento ilegal, etc.), mas não serão consideradas como tortura."
+  },
+  {
+    "question": "30. (VUNESP/ Promotor de Justiça do Espírito Santo/2013) Com relação ao crime de tortura, é correto afirmar que aquele que se omite perante a tortura quando tinha o dever de evitá-la responderá apenas pelo crime de prevaricação do Código Penal.",
+    "options": ["Certo", "Errado"],
+    "correct": 1,
+    "explanation": "O item está errado. Aquele que se omite perante a tortura quando tinha o dever de evitá-la responderá pelo crime previsto no art. 1º, §2º, da Lei 9455/97 e não pelo delito de prevaricação. Vale dizer, o conflito aparente de normas é solucionado pelo princípio da especialidade, sendo o delito da Lei de Tortura norma especial quando comparada com a prevaricação (art. 319 do Código Penal)."
+  }
+]
+,
 
 "ConstituicaoArt137_141":[
   {
@@ -12963,7 +14352,7 @@ const questions = {
     "explanation": "Conforme entendimento firmado pelo STF na ADI 4.424, o crime de lesão corporal praticado contra a mulher no contexto de violência doméstica é de ação penal pública incondicionada, independentemente da gravidade da lesão."
   },
   {
-    "question": "Questão 22 (VUNESP/JUIZ SUBSTITUTO/TJ-MS/2015) DULCE mantém relacionamento afetivo com ANA por cerca de dez anos, sendo diariamente ofendida, por meio de palavras e gestos...",
+    "question": "Questão 22 (VUNESP/JUIZ SUBSTITUTO/TJ-MS/2015) DULCE mantém relacionamento afetivo com ANA por cerca de dez anos, sendo diariamente ofendida, por meio de palavras e gestos. Deprimida, DULCE perdeu o emprego e assinou procuração à companheira ANA, que vem dilapidando o patrimônio comum do casal e bens particulares da companheira, sem prestação de contas ou partilha. DULCE se dirigiu à Delegacia de Defesa da Mulher, onde:",
     "options": [
       "foi lavrado Termo Circunstanciado pela possível prática de delito de menor potencial ofensivo, regido pela Lei dos Juizados Especiais Criminais (Lei n. 9.099/1999).",
       "foi lavrado Boletim de Ocorrência, após notícia dos fatos, porque DULCE foi vítima de violência patrimonial e psicológica, por condição de gênero feminino.",
