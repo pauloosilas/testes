@@ -13107,6 +13107,234 @@ const questions = {
 ]
 ,
 
+"Lei_11.404":[
+  {
+    "question": "1. (AGEPEN – MG – Inédita - 2020) A respeito da Lei Estadual n.º11.404, de 25 de Janeiro de 1994, assinale a opção correta.",
+    "options": [
+      "A) O tratamento reeducativo consiste na adoção de um conjunto de medidas psico-sociológicas, com vistas à reeducação do sentenciado e à sua reintegração na sociedade.",
+      "B) Ao ingressar o condenado no estabelecimento prisional, para indicar o cumprimento da pena privativa de liberdade, é necessário que se submeta a exame criminológico, para sua adequada classificação, possibilitando a correta individualização da pena.",
+      "C) O tratamento reeducativo será em conjunto e levará em conta a personalidade dos sentenciados.",
+      "D) O sentenciado está sujeito ao exame criminológico para verificação de carência psíquica e outras causas neurológicas."
+    ],
+    "correct": 1,
+    "explanation": "A alternativa B é o gabarito da questão. O tratamento reeducativo consiste na adoção de um conjunto de medidas médico-psicológicas e sociais, com vistas à reeducação do sentenciado e à sua reintegração na sociedade. O tratamento reeducativo será individualizado e levará em conta a personalidade de cada sentenciado. Ao ingressar o condenado no estabelecimento prisional, para indicar o cumprimento da pena privativa de liberdade, é necessário que se submeta a exame criminológico, para sua adequada classificação, possibilitando a correta individualização da pena. Dessa forma, a norma em estudo deixa evidente que o sentenciado está sujeito ao exame criminológico para verificação de carência físico-psíquica e outras causas de inadaptação social."
+  },
+  {
+    "question": "2. (AGEPEN – MG – Inédita - 2020) A respeito da Lei Estadual n.º11.404, de 25 de Janeiro de 1994, assinale a opção INCORRETA.",
+    "options": [
+      "A) O exame criminológico deve ser visto como ferramenta essencial para individualizar cada apenado, e buscar separar um apenado potencialmente perigoso para a sociedade, daquele que está disposto a viver longe do mundo do crime.",
+      "B) O exame criminológico será realizado no centro de observação ou na seção de observação do estabelecimento penitenciário ou por especialista da comunidade.",
+      "C) A colaboração do sentenciado no processo de sua observação psicossocial e de seu tratamento é obrigatória.",
+      "D) A observação do sentenciado se fará do início ao fim da execução da pena."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C é o gabarito da questão. O exame criminológico deve ser visto como ferramenta essencial para individualizar cada apenado, e buscar separar um apenado potencialmente perigoso para a sociedade, daquele que está disposto a viver longe do mundo do crime. A colaboração do sentenciado no processo de sua observação psicossocial e de seu tratamento é voluntária. Cuidado, pois há uma tendência de as bancas dizerem que é obrigatório. A observação do sentenciado se fará do início ao fim da execução da pena."
+  },
+  {
+    "question": "3. (AGEPEN – MG – Inédita - 2020) A respeito da Lei Estadual n.º11.404, de 25 de Janeiro de 1994, assinale a opção correta.",
+    "options": [
+      "A) A equipe de observação se reunirá mensalmente para apreciar o resultado de cada exame e, afinal, redigir o relatório social de síntese.",
+      "B) O relatório social de síntese, de caráter interdisciplinar, será levado ao Diretor, que pedirá o programa de tratamento.",
+      "C) A Comissão Técnica de Classificação é presidida pelo Diretor do estabelecimento e composta de, no mínimo, um psiquiatra, um psicólogo, um professor, um chefe da Seção de Educação e Disciplina e um representante de obras sociais da comunidade.",
+      "D) Cada estabelecimento penitenciário contará com uma Comissão Técnica de Classificação, à qual incumbe elaborar o programa de tratamento reeducativo e acompanhar a evolução da execução da pena."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D é o gabarito da questão. O exame criminológico será realizado no centro de observação ou na seção de observação do estabelecimento penitenciário ou por especialista da comunidade. A equipe de observação se reunirá semanalmente para apreciar o resultado de cada exame e, afinal, redigir o relatório social de síntese. O relatório social de síntese, de caráter interdisciplinar, será levado à Comissão Técnica de Classificação, que elaborará o programa de tratamento. Cada estabelecimento penitenciário contará com uma Comissão Técnica de Classificação, à qual incumbe elaborar o programa de tratamento reeducativo e acompanhar a evolução da execução da pena. A Comissão Técnica de Classificação é presidida pelo Diretor do estabelecimento e composta de, no mínimo, um psiquiatra, um psicólogo, um assistente social, um chefe da Seção de Educação e Disciplina e um representante de obras sociais da comunidade."
+  },
+  {
+    "question": "4. (AGEPEN – MG – Inédita - 2020) A respeito da Lei Estadual n.º11.404, de 25 de Janeiro de 1994, assinale a opção INCORRETA.",
+    "options": [
+      "A) O trabalho penitenciário será estabelecido segundo critérios pedagógicos e psicotécnicos",
+      "B) O trabalho será exercido de acordo com os métodos empregados nas escolas de formação profissional do meio livre.",
+      "C) Na contratação de obras e de serviços pela administração pública direta ou indireta do Estado serão reservados para sentenciados até 20 % do total das vagas existentes.",
+      "D) O trabalho é obrigatório para o sentenciado, ressalvado aos domingos."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C é o gabarito da questão. O trabalho penitenciário será estabelecido segundo critérios pedagógicos e psicotécnicos, tendo-se em conta as exigências do tratamento, e procurará aperfeiçoar as aptidões de trabalho e a capacidade individual do sentenciado, de forma a capacitá-lo para o desempenho de suas responsabilidades sociais. No meio livre. Na contratação de obras e de serviços pela administração pública direta ou indireta do Estado serão reservados para sentenciados até 10% do total das vagas existentes."
+  },
+  {
+    "question": "5. (AGEPEN – MG – Inédita - 2020) A respeito da Lei Estadual n.º11.404, de 25 de Janeiro de 1994, assinale a opção correta.",
+    "options": [
+      "A) O sentenciado em regime semiaberto poderá, com autorização judicial, frequentar, na comunidade, estabelecimento de ensino ou de formação profissional, independente da Comissão Técnica de Classificação.",
+      "B) Não é obrigatório o seguro contra acidentes nos trabalhos interno e externo.",
+      "C) Deverá ser comunicada, em 48 horas, à penitenciária a ocorrência de acidente, falta grave ou evasão, perdendo o sentenciado, nas duas últimas hipóteses, o direito à prestação de trabalho externo.",
+      "D) É obrigatório o regresso do sentenciado ao estabelecimento penitenciário, no regime semiaberto, quando em serviço particular."
+    ],
+    "correct": 3,
+    "explanation": "A alternativa D é o gabarito da questão. O sentenciado em regime semiaberto poderá, com autorização judicial, frequentar, na comunidade, estabelecimento de ensino ou de formação profissional, ouvida a Comissão Técnica de Classificação, observado a Lei de Execução Penal. É obrigatório o regresso do sentenciado ao estabelecimento penitenciário, no regime semiaberto, quando em serviço particular, finda a jornada de trabalho, sendo-lhe permitido, quando em trabalho em obra pública, pernoitar em dependência da obra, sob custódia e vigilância da direção da entidade, que mensalmente enviará à penitenciária relatório sobre o seu comportamento. Deverá ser imediatamente comunicada à penitenciária a ocorrência de acidente, falta grave ou evasão, perdendo o sentenciado, nas duas últimas hipóteses, o direito à prestação de trabalho externo."
+  }
+]
+,
+
+"Lei_11.404_1_13":[
+  {
+    "question": "1. À luz do Art. 1º da Lei Estadual nº 11.404/1994, assinale a alternativa correta quanto ao âmbito de aplicação da execução penal.",
+    "options": [
+      "A) A lei regula exclusivamente a execução das penas privativas de liberdade impostas por sentença condenatória transitada em julgado.",
+      "B) A lei disciplina a execução das medidas privativas de liberdade, das restritivas de direito e a manutenção e custódia do preso provisório.",
+      "C) A lei aplica-se apenas aos sentenciados definitivos, excluindo os presos provisórios.",
+      "D) A lei regula somente as penas restritivas de direitos e as medidas de segurança."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 1º estabelece que a lei regula a execução das medidas privativas de liberdade e restritivas de direito, bem como a manutenção e a custódia do preso provisório, não se limitando apenas a condenados definitivos."
+  },
+  {
+    "question": "2. Segundo o Art. 2º e seus parágrafos, a execução penal possui múltiplas finalidades. Assinale a alternativa que contempla integralmente tais finalidades.",
+    "options": [
+      "A) Punir o sentenciado e garantir a segregação social.",
+      "B) Reeducar o sentenciado e promover sua reintegração social, sem outras finalidades explícitas.",
+      "C) Reeducar o sentenciado, reintegrá-lo à sociedade e prevenir a reincidência para proteção e defesa da sociedade.",
+      "D) Garantir a disciplina prisional e a segurança interna dos estabelecimentos penais."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 2º dispõe que a execução penal destina-se à reeducação do sentenciado e à sua reintegração na sociedade, e o § 1º acrescenta a finalidade de prevenir a reincidência, para proteção e defesa da sociedade."
+  },
+  {
+    "question": "3. De acordo com o § 2º do Art. 2º da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) O controle da execução penal será exclusivamente judicial.",
+      "B) O controle da execução penal poderá ser realizado com o auxílio de programas eletrônicos de computador.",
+      "C) O controle da execução penal dependerá de autorização do Conselho Penitenciário.",
+      "D) O controle da execução penal será feito apenas por meio de registros físicos e relatórios manuais."
+    ],
+    "correct": 1,
+    "explanation": "O § 2º do Art. 2º prevê expressamente que o controle da execução penal será realizado com o auxílio de programas eletrônicos de computador."
+  },
+  {
+    "question": "4. Nos termos do Art. 3º da Lei nº 11.404/1994, assinale a alternativa correta quanto aos direitos do sentenciado.",
+    "options": [
+      "A) O sentenciado perde automaticamente todos os seus direitos civis e políticos.",
+      "B) O sentenciado mantém apenas os direitos sociais e econômicos.",
+      "C) Ao sentenciado é garantido o exercício de seus direitos civis, políticos, sociais e econômicos, exceto os incompatíveis com a detenção ou condenação.",
+      "D) Ao sentenciado são assegurados apenas os direitos expressamente previstos na Lei de Execução Penal federal."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 3º assegura ao sentenciado o exercício de seus direitos civis, políticos, sociais e econômicos, ressalvados apenas aqueles incompatíveis com a detenção ou com a condenação."
+  },
+  {
+    "question": "5. Conforme o Art. 4º da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) O respeito aos direitos do homem aplica-se apenas ao regime fechado.",
+      "B) O respeito e a proteção aos direitos do homem devem ser observados no regime e no tratamento penitenciário.",
+      "C) Os direitos do homem podem ser relativizados conforme a gravidade do crime.",
+      "D) A proteção aos direitos do homem depende de regulamentação posterior."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 4º determina que, no regime e no tratamento penitenciário, serão observados o respeito e a proteção aos direitos do homem."
+  },
+  {
+    "question": "6. De acordo com o Art. 5º da Lei nº 11.404/1994, a colaboração do sentenciado no tratamento reeducativo deve ser:",
+    "options": [
+      "A) Obrigatória, sob pena de sanção disciplinar.",
+      "B) Facultativa, porém condicionada à avaliação da Comissão Técnica de Classificação.",
+      "C) Estimulada e voluntária.",
+      "D) Exigida apenas nos regimes aberto e semiaberto."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 5º dispõe que o sentenciado deve ser estimulado a colaborar voluntariamente na execução de seu tratamento reeducativo."
+  },
+  {
+    "question": "7. Segundo o Art. 6º da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) Apenas o Estado é responsável pela execução penal.",
+      "B) A comunidade atua apenas de forma subsidiária, sem corresponsabilidade.",
+      "C) O Estado e a comunidade são co-responsáveis na realização das atividades de execução penal.",
+      "D) A execução penal é atribuição exclusiva do Poder Judiciário."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 6º estabelece que o Estado e a comunidade são co-responsáveis na realização das atividades de execução penal."
+  },
+  {
+    "question": "8. À luz do Art. 7º da Lei nº 11.404/1994, é correto afirmar que, na execução penal:",
+    "options": [
+      "A) Pode haver distinção de caráter religioso, desde que justificada.",
+      "B) É vedada apenas a distinção de caráter racial.",
+      "C) Não haverá distinção de caráter racial, religioso ou político.",
+      "D) A distinção política é admitida em casos excepcionais."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 7º veda expressamente qualquer distinção de caráter racial, religioso ou político na execução penal."
+  },
+  {
+    "question": "9. Nos termos do Art. 8º da Lei nº 11.404/1994, o tratamento reeducativo caracteriza-se por:",
+    "options": [
+      "A) Medidas exclusivamente disciplinares.",
+      "B) Medidas médico-psicológicas e sociais voltadas à reeducação e reintegração social do sentenciado.",
+      "C) Medidas pedagógicas restritas ao trabalho prisional.",
+      "D) Medidas repressivas destinadas à contenção do apenado."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 8º define o tratamento reeducativo como um conjunto de medidas médico-psicológicas e sociais, com vistas à reeducação do sentenciado e à sua reintegração na sociedade."
+  },
+  {
+    "question": "10. Conforme o Art. 9º da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) O tratamento reeducativo será padronizado para todos os sentenciados.",
+      "B) O tratamento reeducativo será individualizado e levará em conta a personalidade de cada sentenciado.",
+      "C) O tratamento reeducativo dependerá exclusivamente da natureza do crime.",
+      "D) A individualização do tratamento é facultativa."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 9º estabelece que o tratamento reeducativo será individualizado e levará em conta a personalidade de cada sentenciado."
+  },
+  {
+    "question": "11. De acordo com o Art. 10 da Lei nº 11.404/1994, o exame criminológico tem por finalidade:",
+    "options": [
+      "A) Verificar apenas a periculosidade do sentenciado.",
+      "B) Avaliar exclusivamente o grau de instrução do apenado.",
+      "C) Verificar carência físico-psíquica e outras causas de inadaptação social.",
+      "D) Definir a progressão ou regressão de regime."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 10 dispõe que o sentenciado está sujeito ao exame criminológico para verificação de carência físico-psíquica e outras causas de inadaptação social."
+  },
+  {
+    "question": "12. Segundo o Art. 11 da Lei nº 11.404/1994, o exame criminológico serve de base para:",
+    "options": [
+      "A) A aplicação de sanções disciplinares.",
+      "B) A classificação do sentenciado e a elaboração do programa de tratamento.",
+      "C) A definição do tempo de pena a ser cumprido.",
+      "D) A concessão automática de benefícios penais."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 11 estabelece que, com base no exame criminológico, serão realizados a classificação e o programa de tratamento do sentenciado."
+  },
+  {
+    "question": "13. À luz do Art. 12 da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) A colaboração do sentenciado no processo de observação psicossocial é obrigatória.",
+      "B) A colaboração do sentenciado no tratamento é facultativa apenas no regime aberto.",
+      "C) A colaboração do sentenciado no processo de sua observação psicossocial e de seu tratamento é voluntária.",
+      "D) A falta de colaboração implica falta grave."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 12 dispõe expressamente que a colaboração do sentenciado no processo de sua observação psicossocial e de seu tratamento é voluntária."
+  },
+  {
+    "question": "14. Nos termos do Art. 13 da Lei nº 11.404/1994, a observação do sentenciado:",
+    "options": [
+      "A) Ocorre apenas no início da execução da pena.",
+      "B) Limita-se à fase de classificação inicial.",
+      "C) Realiza-se do início ao fim da execução da pena.",
+      "D) Depende de requerimento do sentenciado."
+    ],
+    "correct": 2,
+    "explanation": "O Art. 13 estabelece que a observação do sentenciado se fará do início ao fim da execução da pena."
+  },
+  {
+    "question": "15. Considerando conjuntamente os Arts. 5º, 9º e 12 da Lei nº 11.404/1994, assinale a alternativa correta.",
+    "options": [
+      "A) O tratamento reeducativo é padronizado e a colaboração do sentenciado é obrigatória.",
+      "B) O tratamento reeducativo é individualizado e a colaboração do sentenciado é voluntária, devendo ser estimulada.",
+      "C) A individualização do tratamento depende da obrigatoriedade de colaboração do sentenciado.",
+      "D) A colaboração voluntária do sentenciado dispensa o exame criminológico."
+    ],
+    "correct": 1,
+    "explanation": "Os Arts. 5º, 9º e 12 demonstram que o tratamento reeducativo deve ser individualizado, levar em conta a personalidade do sentenciado e contar com sua colaboração voluntária, a qual deve ser estimulada pelo Estado."
+  }
+]
+,
+
 "ConstituicaoArt137_141":[
   {
     "question": "Em comparação com o Estado de Defesa, para decretar o Estado de Sítio, o Presidente da República deve, após ouvir os Conselhos, tomar qual medida perante o Congresso Nacional?",
