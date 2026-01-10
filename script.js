@@ -13162,6 +13162,171 @@ const questions = {
     ],
     "correct": 3,
     "explanation": "A alternativa D é o gabarito da questão. O sentenciado em regime semiaberto poderá, com autorização judicial, frequentar, na comunidade, estabelecimento de ensino ou de formação profissional, ouvida a Comissão Técnica de Classificação, observado a Lei de Execução Penal. É obrigatório o regresso do sentenciado ao estabelecimento penitenciário, no regime semiaberto, quando em serviço particular, finda a jornada de trabalho, sendo-lhe permitido, quando em trabalho em obra pública, pernoitar em dependência da obra, sob custódia e vigilância da direção da entidade, que mensalmente enviará à penitenciária relatório sobre o seu comportamento. Deverá ser imediatamente comunicada à penitenciária a ocorrência de acidente, falta grave ou evasão, perdendo o sentenciado, nas duas últimas hipóteses, o direito à prestação de trabalho externo. <br /> Art. 45 – O sentenciado em regime semiaberto poderá, com autorização judicial, frequentar, na comunidade, estabelecimento de ensino ou de formação profissional, ouvida a Comissão Técnica de Classificação, observado o disposto nos arts. 122 a 125 da Lei Federal nº 7.210, de 11 de julho de 1984. <br /> Art. 50 – É obrigatório o seguro contra acidentes nos trabalhos interno e externo <br /> Art. 49 – Deverá ser imediatamente comunicada à penitenciária a ocorrência de acidente, falta grave ou evasão, perdendo o sentenciado, nas duas últimas hipóteses, o direito à prestação de trabalho externo"
+  },
+  {
+    "question": "De acordo com o Art. 71 da Lei nº 11.404, os estabelecimentos penitenciários são estruturados para atender a diferentes regimes e situações jurídicas do preso. Considerando essa classificação legal, analise as alternativas e assinale aquela que apresenta corretamente a destinação do centro de observação, observando sua finalidade específica dentro do sistema penitenciário.",
+    "options": [
+      "Destina-se exclusivamente ao cumprimento de pena em regime fechado, com foco na disciplina e segurança máxima do sentenciado já classificado definitivamente.",
+      "Tem por finalidade o exame criminológico de classificação, avaliando aspectos físicos, psíquicos e sociais do sentenciado para adequada alocação no regime penitenciário.",
+      "É voltado apenas aos presos provisórios, funcionando como local de custódia temporária até a sentença condenatória.",
+      "Serve como unidade de tratamento psiquiátrico para inimputáveis, substituindo o hospital de custódia."
+    ],
+    "correct": 1,
+    "explanation": "O art. 71, inciso VI, define que o centro de observação destina-se à realização do exame criminológico de classificação, sendo etapa fundamental para individualização da execução penal."
+  },
+  {
+    "question": "O Art. 72 estabelece uma série de estruturas obrigatórias nos estabelecimentos penitenciários, visando garantir condições mínimas de dignidade, segurança e ressocialização. À luz desse dispositivo e de seus parágrafos, assinale a alternativa que corretamente identifica uma exigência específica das penitenciárias em relação aos demais estabelecimentos.",
+    "options": [
+      "A obrigatoriedade de quadras poliesportivas e biblioteca aplica-se apenas aos presídios e cadeias públicas.",
+      "A existência de salas para autoridades e locutório para advogados é uma exigência adicional específica das penitenciárias.",
+      "As salas de videoaudiência são facultativas e dependem de convênio com o Poder Judiciário.",
+      "A assistência religiosa somente é obrigatória em estabelecimentos de regime aberto."
+    ],
+    "correct": 1,
+    "explanation": "Conforme o §1º do art. 72, as penitenciárias devem dispor, além das estruturas gerais, de locutório para advogados, salas para autoridades, estágio universitário e equipe interdisciplinar."
+  },
+  {
+    "question": "A Lei nº 11.404 prevê tratamento diferenciado para determinados presos em razão de sua condição funcional anterior. Considerando os §§ 2º e 3º do Art. 72, assinale a alternativa correta quanto à garantia conferida a policiais e agentes de segurança recolhidos ao sistema penitenciário.",
+    "options": [
+      "A garantia aplica-se apenas aos presos provisórios, não alcançando condenados com sentença transitada em julgado.",
+      "O recolhimento em dependência distinta é facultativo e depende de decisão judicial fundamentada.",
+      "A garantia estende-se tanto ao preso provisório quanto ao condenado, desde que exercesse função de segurança à época do delito.",
+      "O isolamento ocorre apenas em casos de crimes hediondos praticados por esses agentes."
+    ],
+    "correct": 2,
+    "explanation": "Os §§ 2º e 3º do art. 72 asseguram dependência distinta e isolada tanto ao preso provisório quanto ao condenado que, ao tempo do delito, exercia função policial ou de segurança."
+  },
+  {
+    "question": "O Art. 75 trata da criação de seções independentes de segurança reforçada dentro dos estabelecimentos penitenciários. Sobre essas seções, analise as alternativas e identifique aquela que está em conformidade com o texto legal e sua finalidade preventiva e disciplinar.",
+    "options": [
+      "São facultativas e dependem exclusivamente da disponibilidade orçamentária do Estado.",
+      "Devem existir obrigatoriamente apenas para condenados por crimes hediondos.",
+      "São obrigatórias para condenados de alta periculosidade e de difícil recuperação.",
+      "Aplicam-se apenas a presos provisórios que representem risco ao estabelecimento."
+    ],
+    "correct": 2,
+    "explanation": "O §1º do art. 75 determina que a existência dessas seções é obrigatória para a guarda de condenados considerados de alta periculosidade e de difícil recuperação."
+  },
+  {
+    "question": "A organização física do complexo penitenciário é fundamental para a execução progressiva da pena. Considerando o Art. 76, assinale a alternativa que melhor expressa o princípio adotado pela lei quanto à separação dos regimes.",
+    "options": [
+      "Todos os regimes podem coexistir no mesmo pavilhão, desde que haja controle disciplinar.",
+      "Os regimes fechado, semi-aberto e aberto devem funcionar em estabelecimentos distintos e afastados geograficamente.",
+      "O complexo penitenciário deve ser constituído por pavilhões separados para cada regime de cumprimento de pena.",
+      "A separação de regimes é exigida apenas entre presos provisórios e condenados."
+    ],
+    "correct": 2,
+    "explanation": "O art. 76 estabelece que o complexo penitenciário será composto por pavilhões separados, permitindo a execução progressiva dos regimes fechado, semi-aberto e aberto."
+  },
+  {
+    "question": "A Comissão Técnica de Classificação exerce papel central na execução penal. À luz do Art. 77, identifique a alternativa que corretamente descreve uma de suas atribuições legais no contexto do tratamento do sentenciado.",
+    "options": [
+      "Julgar recursos disciplinares interpostos contra decisões do diretor do estabelecimento.",
+      "Formar grupos de sentenciados para progressão de regime, concessão de benefícios e aplicação de sanções disciplinares.",
+      "Autorizar diretamente a transferência do sentenciado para outro Estado da federação.",
+      "Determinar, de forma exclusiva, a concessão de livramento condicional."
+    ],
+    "correct": 1,
+    "explanation": "O art. 77 atribui à Comissão Técnica de Classificação a formação de grupos de sentenciados para progressão de regime, benefícios, sanções disciplinares e demais atos da execução penal."
+  },
+  {
+    "question": "O Art. 78 fixa limites máximos de lotação para diferentes tipos de estabelecimentos penitenciários. Considerando a finalidade dessa norma, assinale a alternativa que apresenta corretamente a lotação máxima prevista para o regime semi-aberto.",
+    "options": [
+      "Até 500 sentenciados, em razão da maior flexibilidade do regime.",
+      "Até 400 sentenciados, equiparando-se ao presídio.",
+      "Até 300 sentenciados, conforme previsão expressa da lei.",
+      "Até 50 semilivres, em razão da proximidade com o regime aberto."
+    ],
+    "correct": 2,
+    "explanation": "O art. 78 estabelece que os estabelecimentos de regime semi-aberto terão lotação máxima de 300 sentenciados, visando garantir condições adequadas de cumprimento da pena."
+  },
+  {
+    "question": "No que se refere à localização dos estabelecimentos penais, o Art. 79 estabelece critérios distintos conforme o regime. Assinale a alternativa que reflete corretamente o critério específico aplicável ao presídio e à cadeia pública.",
+    "options": [
+      "Devem localizar-se exclusivamente em áreas rurais, afastadas do meio urbano.",
+      "Devem situar-se em meio urbano, com fácil acesso ao fórum ou às varas criminais.",
+      "Podem ser instalados em qualquer local, desde que haja segurança reforçada.",
+      "Devem priorizar a proximidade de áreas agrícolas e industriais."
+    ],
+    "correct": 1,
+    "explanation": "O §2º do art. 79 determina que o presídio e a cadeia pública se localizem no meio urbano, com fácil acesso ao fórum local ou às varas criminais."
+  },
+  {
+    "question": "O Art. 81 trata da organização interna do presídio e da cadeia pública. Considerando suas disposições e parágrafos, assinale a alternativa correta quanto às unidades independentes previstas nesses estabelecimentos.",
+    "options": [
+      "Existem apenas unidades separadas para mulheres e presos provisórios.",
+      "Há unidades independentes para mulher, jovem adulto, agentes de segurança e para cumprimento de pena e limitação de fim de semana.",
+      "As unidades independentes são opcionais e dependem da capacidade física do prédio.",
+      "A separação aplica-se apenas aos presos condenados definitivamente."
+    ],
+    "correct": 1,
+    "explanation": "O caput do art. 81 prevê unidades independentes para mulher, jovem adulto, presos que exerceram função de segurança e para cumprimento de pena e limitação de fim de semana."
+  },
+  {
+    "question": "A penitenciária possui características próprias quanto ao alojamento do sentenciado. À luz dos Arts. 85 e 86, assinale a alternativa que descreve corretamente os requisitos mínimos do quarto individual.",
+    "options": [
+      "Alojamento coletivo com área mínima de 6m² por sentenciado.",
+      "Quarto individual provido de cama, lavatório, chuveiro e aparelho sanitário, com área mínima de 6m².",
+      "Cela individual apenas com cama e sanitário, sendo facultativo o chuveiro.",
+      "Dormitório coletivo com instalações sanitárias integradas."
+    ],
+    "correct": 1,
+    "explanation": "Os arts. 85 e 86 determinam que o sentenciado seja alojado em quarto individual, com equipamentos básicos e área mínima de 6m², garantindo salubridade."
+  },
+  {
+    "question": "No regime semi-aberto, a execução da pena possui características específicas voltadas à reintegração social. Considerando o Art. 92 e seu parágrafo único, assinale a alternativa correta.",
+    "options": [
+      "O sentenciado permanece integralmente isolado da sociedade externa.",
+      "A agenda diária é elaborada pelo diretor do estabelecimento, sem participação técnica.",
+      "O sentenciado mantém contato com a sociedade por meio de trabalho externo e cursos, sob orientação penitenciária.",
+      "Não há previsão de atividades recreativas ou esportivas."
+    ],
+    "correct": 2,
+    "explanation": "O parágrafo único do art. 92 prevê trabalho externo, cursos e outras atividades de reintegração social, com agenda elaborada pela Comissão Técnica de Classificação."
+  },
+  {
+    "question": "A casa do albergado é destinada ao cumprimento da pena em regime aberto. À luz dos Arts. 95 e 96, assinale a alternativa que melhor expressa os requisitos e condições para esse regime.",
+    "options": [
+      "Localização em meio rural e submissão a vigilância armada constante.",
+      "Aceitação voluntária do programa, trabalho do semilivre e colaboração da comunidade.",
+      "Alojamento coletivo obrigatório e ausência de atividades laborais.",
+      "Restrição absoluta de saídas para trabalho externo."
+    ],
+    "correct": 1,
+    "explanation": "Os arts. 95 e 96 exigem aceitação do programa, afetação ao trabalho e colaboração da comunidade, além de localização urbana e número reduzido de candidatos."
+  },
+  {
+    "question": "O Centro de Reeducação do Jovem Adulto possui regras próprias quanto à sua finalidade e organização. Considerando os Arts. 98 a 100, assinale a alternativa correta.",
+    "options": [
+      "Destina-se a sentenciados de qualquer idade em regime fechado.",
+      "É voltado a jovens de 18 a 21 anos, com ação educativa intensiva e seções de 20 a 30 sentenciados.",
+      "Funciona apenas como unidade provisória até a transferência para penitenciária.",
+      "Dispensa métodos pedagógicos específicos."
+    ],
+    "correct": 1,
+    "explanation": "Os arts. 98 a 100 definem que o centro atende jovens de 18 a 21 anos, com métodos educativos intensivos e seções reduzidas para individualização do tratamento."
+  },
+  {
+    "question": "O hospital de custódia e tratamento psiquiátrico possui regime e finalidades próprias. À luz do Art. 104, assinale a alternativa correta.",
+    "options": [
+      "Destina-se exclusivamente a condenados imputáveis em regime fechado.",
+      "Funciona em regime semi-aberto para inimputáveis e semi-imputáveis, com seções fechadas em casos de extrema periculosidade.",
+      "É voltado apenas ao tratamento ambulatorial sem internação.",
+      "Substitui integralmente a pena privativa de liberdade."
+    ],
+    "correct": 1,
+    "explanation": "O art. 104 estabelece que o hospital destina-se a inimputáveis e semi-imputáveis, em regime semi-aberto, podendo haver seções fechadas em casos de extrema periculosidade."
+  },
+  {
+    "question": "As sanções disciplinares e os meios de correção possuem limites e garantias legais. Considerando os Arts. 143 a 150, assinale a alternativa que está de acordo com a legislação.",
+    "options": [
+      "O isolamento em cela disciplinar pode ser aplicado a qualquer sentenciado, sem exceções.",
+      "Nenhum sentenciado pode ser punido sem ser ouvido e apresentar defesa.",
+      "O uso de algemas é permitido de forma irrestrita dentro do estabelecimento.",
+      "O recurso contra sanção disciplinar nunca suspende seus efeitos."
+    ],
+    "correct": 1,
+    "explanation": "O art. 148 garante o contraditório e a ampla defesa, vedando punição disciplinar sem oitiva do sentenciado, assegurando direitos fundamentais na execução penal."
   }
 ]
 ,
