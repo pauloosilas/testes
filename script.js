@@ -13166,6 +13166,164 @@ const questions = {
 ]
 ,
 
+"variados":[
+  {
+    "question": "1) – Assinale a afirmativa CORRETA. De acordo com a Lei n° 11.340, de 07/08/2006, que cria mecanismos para coibir a violência Doméstica e familiar contra a mulher, é CORRETO afirmar que:",
+    "options": [
+      "A. ( ) Para configurar crime de violência doméstica o crime deverá acontecer somente no ambiente familiar.",
+      "B. ( ) Configura violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause lesão, independente de sua orientação sexual.",
+      "C. ( ) A criação de condições necessárias para o exercício dos direitos da mulher cabe única e exclusivamente à família.",
+      "D. ( ) As mulheres mulçumanas que vivem no Brasil não se incluem na lei sobre violência contra a mulher devido a sua religião."
+    ],
+    "correct": 1,
+    "explanation": "A) Incorreta. A Lei Maria da Penha não restringe a violência doméstica apenas ao ambiente familiar, abrangendo também relações íntimas de afeto, ainda que sem coabitação.<br />B) Correta. O art. 5º da Lei nº 11.340/2006 define como violência doméstica e familiar qualquer ação ou omissão baseada no gênero que cause dano à mulher, independentemente de orientação sexual.<br />C) Incorreta. A criação das condições necessárias para o exercício dos direitos da mulher é responsabilidade da família, da sociedade e do poder público, e não apenas da família.<br />D) Incorreta. A lei protege todas as mulheres, sem qualquer distinção religiosa."
+  },
+  {
+    "question": "2) - A respeito da Lei n. 13.505/2017, que acrescentou dispositivos à Lei n. 11.340/2016 (Lei Maria da Penha), marque a alternativa CORRETA:",
+    "options": [
+      "A. ( ) A autoridade policial poderá requisitar os serviços públicos necessários à defesa da mulher em situação de violência doméstica, sendo-lhe vedada, porém, a aplicação provisória de medidas protetivas de urgência, como queria o “art. 12-B” da Lei (que foi vetado pelo Presidente da República).",
+      "B. ( ) É direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado, intermitente e prestado por servidores – obrigatoriamente do sexo feminino – previamente capacitados.",
+      "C. ( ) Considerando a importância do depoimento da mulher em situação de violência doméstica e familiar, não será autorizado o registro em meio eletrônico ou magnético.",
+      "D. ( ) Poderá haver sucessivas inquirições sobre o mesmo fato nos âmbitos criminal, cível e administrativo, bem como questionamentos sobre a vida privada, mesmo que isso acarrete a revitimização da depoente."
+    ],
+    "correct": 0,
+    "explanation": "A) Correta. O art. 12-B, que permitiria à autoridade policial aplicar medidas protetivas de urgência, foi vetado, permanecendo apenas a possibilidade de requisição de serviços públicos.<br />B) Incorreta. O atendimento deve ser especializado e contínuo, mas não é obrigatório que seja prestado exclusivamente por servidoras do sexo feminino.<br />C) Incorreta. A lei permite o registro do depoimento em meio eletrônico ou magnético, justamente para evitar a revitimização.<br />D) Incorreta. A Lei nº 13.505/2017 busca evitar a revitimização, vedando sucessivas inquirições e questionamentos desnecessários sobre a vida privada."
+  },
+  {
+    "question": "3) – Tendo como fundamento a Lei n. 13.964, de 24 de dezembro de 2019, que altera a Lei n. 8.072, de 25 de julho de 1990 (crimes hediondos), marque a alternativa CORRETA:",
+    "options": [
+      "A. ( ) A nova Lei incluiu o crime de posse ou porte ilegal de arma de fogo de uso restrito, tentado ou consumado, como crime hediondo.",
+      "B. ( ) A nova Lei incluiu o crime de comércio ilegal de arma de fogo, apenas na modalidade consumada, como crime hediondo.",
+      "C. ( ) A nova Lei incluiu o crime de tráfico internacional de arma de fogo, tentado ou consumado, como crime hediondo.",
+      "D. ( ) A nova Lei incluiu o crime de posse ou porte ilegal de arma de fogo de uso restrito, apenas na modalidade consumada, como crime hediondo."
+    ],
+    "correct": 2,
+    "explanation": "A) Incorreta. O porte ou posse ilegal de arma de uso restrito não foi incluído como crime hediondo pela Lei nº 13.964/2019.<br />B) Incorreta. O comércio ilegal de arma de fogo não foi classificado como hediondo.<br />C) Correta. A Lei nº 13.964/2019 incluiu o crime de tráfico internacional de arma de fogo, tentado ou consumado, no rol dos crimes hediondos.<br />D) Incorreta. Além de não ser hediondo, a alternativa restringe indevidamente à modalidade consumada."
+  },
+  {
+    "question": "4) - Em outubro de 2025, João, primário e portador de bons antecedentes, foi preso em flagrante, no Município de Belo Horizonte/MG, após praticar o crime de roubo mediante o emprego de arma de fogo de uso restrito. Considerando as disposições da Lei de Execução Penal, é correto afirmar que João progredirá de regime quando tiver cumprido ao menos:",
+    "options": [
+      "A. ( ) cinquenta por cento da pena.",
+      "B. ( ) quarenta por cento da pena.",
+      "C. ( ) sessenta por cento da pena.",
+      "D. ( ) setenta por cento da pena."
+    ],
+    "correct": 1,
+    "explanation": "A) Incorreta. O percentual de 50% aplica-se a outras hipóteses, não ao caso apresentado.<br />B) Correta. Para crime hediondo cometido por réu primário, exige-se o cumprimento de 40% da pena para progressão de regime, nos termos da Lei nº 13.964/2019.<br />C) Incorreta. O percentual de 60% é exigido para reincidentes específicos em crimes hediondos.<br />D) Incorreta. O percentual de 70% aplica-se a hipóteses mais gravosas, como reincidência qualificada."
+  },
+  {
+    "question": "5) – Nos termos da Lei de Execução Penal, a remição da pena por estudo, em atividade de ensino fundamental, médio, superior ou profissional, ocorrerá da seguinte forma, um dia de pena a cada:",
+    "options": [
+      "A. ( ) seis horas de frequência escolar",
+      "B. ( ) oito horas de frequência escolar",
+      "C. ( ) dez horas de frequência escolar",
+      "D. ( ) doze horas de frequência escolar"
+    ],
+    "correct": 3,
+    "explanation": "A) Incorreta. A Lei de Execução Penal não prevê remição nessa proporção.<br />B) Incorreta. O número de horas é superior ao indicado na alternativa.<br />C) Incorreta. A legislação não estabelece a proporção de 10 horas.<br />D) Correta. O art. 126 da LEP prevê a remição de 1 dia de pena a cada 12 horas de frequência escolar, divididas em, no mínimo, 3 dias."
+  },
+  {
+    "question": "6) - Considere os enunciados abaixo acerca da violência doméstica e familiar contra a mulher.<br /><br />I<br />. Considera-se violência doméstica e familiar contra a mulher qualquer ação ou omissão baseada no gênero que lhe cause morte, lesão, sofrimento físico, sexual, ou psicológica, com exceção do dano moral ou patrimonial.<br /><br />II<br />. Cabe somente à família e ao Poder Público criar as condições necessárias para o efetivo exercício dos direitos à vida, à saúde, à segurança, entre outros enunciados na Lei Maria da Penha.<br /><br />III<br />. As relações entre vítima e agressor independem de orientação sexual.<br /><br />IV<br />. A violência doméstica e familiar contra a mulher não constitui uma das formas de violação dos direitos humanos.",
+    "options": [
+      "A. ( ) Apenas as afirmativas I e III estão corretas.",
+      "B. ( ) Apenas as afirmativas I e II estão corretas.",
+      "C. ( ) Apenas a afirmativa III está correta.",
+      "D. ( ) Todas as afirmativas estão corretas."
+    ],
+    "correct": 2,
+    "explanation": "A) Incorreta. A afirmativa I está errada, pois a lei inclui também o dano moral e patrimonial.<br />B) Incorreta. A afirmativa II está errada, pois a responsabilidade também é da sociedade, além da família e do poder público.<br />C) Correta. A afirmativa III está correta, pois a Lei Maria da Penha independe de orientação sexual.<br />D) Incorreta. A afirmativa IV está errada, pois a violência doméstica constitui, sim, violação dos direitos humanos."
+  },
+  {
+    "question": "7) – Sobre o crime de omissão de cautela, previsto na Lei n. 10.826/2003, marque a alternativa CORRETA:",
+    "options": [
+      "A. ( ) O policial militar quando de serviço pode cometer o crime comum de omissão de cautela, exclusivamente quando estiver com arma pertencente à Instituição Militar.",
+      "B. ( ) O Crime de omissão de cautela trata-se de um crime culposo, pois o agente deixa de observar as cautelas necessárias para impedir que menor de 18 anos ou pessoa portadora de deficiência mental se apodere de arma de fogo.",
+      "C. ( ) O policial militar quando de serviço pode cometer crime militar de omissão de cautela, independentemente da arma ser institucional ou particular.",
+      "D. ( ) O policial militar quando de folga somente comete omissão de cautela se estiver com arma da Instituição Militar."
+    ],
+    "correct": 1,
+    "explanation": "A) Incorreta. O crime de omissão de cautela não se restringe ao uso de arma institucional.<br />B) Correta. Trata-se de crime culposo, consistente na falta de cautela para impedir que menor ou pessoa com deficiência mental tenha acesso à arma de fogo.<br />C) Incorreta. O crime só será militar se envolver arma da carga da instituição e estiver em serviço.<br />D) Incorreta. O crime pode ocorrer também com arma de propriedade particular."
+  },
+    {
+    "question": "8) – De acordo com a Lei Federal n. 10.826, de 22 de dezembro de 2003 (dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – SINARM, define crimes e dá outras providências), analise as assertivas abaixo e, em seguida, assinale a alternativa CORRETA:<br/><br/>I<br/>. As armas de fogo utilizadas pelos empregados das empresas de segurança privada e de transporte de valores, constituídas na forma da lei, serão de propriedade, responsabilidade e guarda das respectivas empresas, somente podendo ser utilizadas quando em serviço, devendo essas observar as condições de uso e de armazenagem estabelecidas pelo órgão competente, sendo o certificado de registro e a autorização de porte expedidos pela Polícia Federal em nome da empresa.<br/><br/>II<br/>. Os integrantes das guardas municipais dos Municípios com mais de 50.000 (cinquenta mil) e menos de 500.000 (quinhentos mil) habitantes, terão direito de portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, com validade em âmbito nacional.<br/><br/>III<br/>. O Certificado de Registro de Arma de Fogo, com validade em todo o território nacional, autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou dependência desses, ou, ainda, no seu local de trabalho, independentemente de ser ele o titular ou o responsável legal pelo estabelecimento ou empresa.<br/><br/>IV<br/>. Para adquirir arma de fogo de uso permitido o interessado deverá declarar a efetiva necessidade, apresentar documento comprobatório de ocupação lícita e de residência certa, comprovar a sua capacidade técnica e de aptidão psicológica para o manuseio de arma de fogo, além de apresentar documentos comprobatórios de sua idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral, levando-se em conta somente os processos com sentença transitada em julgado.",
+    "options": [
+      "A. ( ) Somente 02 (duas) assertivas estão corretas.",
+      "B. ( ) Somente 01 (uma) assertiva está correta.",
+      "C. ( ) Somente 01 (uma) assertiva está incorreta.",
+      "D. ( ) Todas as assertivas estão incorretas."
+    ],
+    "correct": 1,
+    "explanation": "I) Correta. A Lei nº 10.826/2003 prevê que as armas utilizadas por empresas de segurança privada são de propriedade da empresa, com porte e registro expedidos pela Polícia Federal.<br />II) Incorreta. Guardas municipais só possuem porte fora de serviço nos municípios com mais de 500.000 habitantes; nos demais, há restrições legais.<br />III) Incorreta. O certificado de registro só autoriza a posse no local de trabalho se o proprietário for o titular ou responsável legal pelo estabelecimento.<br />IV) Incorreta. A lei veda a concessão do registro se o interessado estiver respondendo a inquérito policial ou processo criminal, ainda que sem trânsito em julgado."
+  },
+  {
+    "question": "9) – Considerando o disposto nos artigos 82 e seguintes da Lei nº 7.210/1984, analise as assertivas a seguir:<br/><br/>I<br/>. Os estabelecimentos penais destinam-se apenas aos condenados.<br/><br/>II<br/>. A mulher e o maior de sessenta anos, separadamente, serão recolhidos a estabelecimento próprio e adequado à sua condição pessoal.<br/><br/>III<br/>. O mesmo conjunto arquitetônico não poderá, em hipótese alguma, abrigar estabelecimentos de destinação diversa.<br/><br/>IV<br/>. O estabelecimento penal, conforme a sua natureza, deverá contar em suas dependências com áreas e serviços destinados a dar assistência, educação, trabalho, recreação e prática esportiva.<br/><br/>V<br/>. O preso que tiver sua integridade física, moral ou psicológica ameaçada pela convivência com os demais presos ficará segregado em local próprio.",
+    "options": [
+      "A. ( ) I, IV e V.",
+      "B. ( ) I e III.",
+      "C. ( ) II, IV e V.",
+      "D. ( ) II e III."
+    ],
+    "correct": 2,
+    "explanation": "I) Incorreta. Os estabelecimentos penais destinam-se a condenados e presos provisórios.<br />II) Correta. A LEP assegura recolhimento separado e adequado para mulheres e maiores de 60 anos.<br />III) Incorreta. A lei admite, excepcionalmente, estabelecimentos de destinação diversa no mesmo conjunto arquitetônico, desde que separados.<br />IV) Correta. A LEP determina a existência de áreas e serviços de assistência, educação, trabalho e lazer.<br />V) Correta. Presos ameaçados devem ser segregados para preservação de sua integridade."
+  },
+  {
+    "question": "10) – Em relação à Lei nº 9.455, de 07/04/1997, que define os crimes de tortura, marque a alternativa CORRETA:",
+    "options": [
+      "A. ( ) Incorre na mesma pena do crime de tortura aquele que se omite em face das condutas tipificadas como tal crime, quando tinha o dever de evitá-las ou apurá-las.",
+      "B. ( ) O crime de tortura é crime próprio, que somente pode ser praticado pelo agente público.",
+      "C. ( ) Incorre na mesma pena do crime de tortura quem submete pessoa presa ou sujeita a medida de segurança a sofrimento físico ou mental, por intermédio da prática de ato não previsto em lei ou não resultante de medida legal.",
+      "D. ( ) A Lei nº 9.455/1997 aplica-se apenas aos crimes cometidos em território nacional."
+    ],
+    "correct": 2,
+    "explanation": "A) Incorreta. O omitente responde com pena menor, não com a mesma pena do autor.<br />B) Incorreta. O crime de tortura é crime comum, podendo ser praticado por qualquer pessoa.<br />C) Correta. Essa conduta está expressamente prevista no art. 1º, II, da Lei nº 9.455/1997.<br />D) Incorreta. A lei possui aplicação extraterritorial em determinadas hipóteses."
+  },
+  {
+    "question": "11) Considera-se crime hediondo, tentado ou consumado:",
+    "options": [
+      "A. ( ) organização criminosa, quando direcionada à prática de crime hediondo ou equiparado.",
+      "B. ( ) homicídio simples, quando praticado por organização criminosa.",
+      "C. ( ) posse ou porte ilegal de arma de fogo de uso permitido.",
+      "D. ( ) tráfico de entorpecentes privilegiado."
+    ],
+    "correct": 0,
+    "explanation": "A) Correta. A Lei nº 8.072/1990 considera hedionda a organização criminosa voltada à prática de crime hediondo.<br />B) Incorreta. Homicídio simples não é hediondo, ainda que praticado por organização criminosa.<br />C) Incorreta. Posse ou porte de arma de uso permitido não é crime hediondo.<br />D) Incorreta. O tráfico privilegiado não é equiparado a hediondo."
+  },
+  {
+    "question": "12) – A Lei nº 11.343/2006 (Lei de Drogas). Com base na referida lei, marque a alternativa INCORRETA:",
+    "options": [
+      "A. ( ) Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá a diversos critérios legais.",
+      "B. ( ) O plantio, a cultura e a colheita de vegetais dos quais possam ser extraídas drogas poderá ser autorizado para fins medicinais ou científicos.",
+      "C. ( ) Veículos e objetos utilizados no tráfico ficarão sob custódia da autoridade policial após apreensão.",
+      "D. ( ) As plantações ilícitas só poderão ser destruídas após autorização judicial."
+    ],
+    "correct": 3,
+    "explanation": "A) Correta. O art. 28, §2º, da Lei nº 11.343/2006 prevê esses critérios.<br />B) Correta. A lei admite autorização excepcional para fins científicos ou medicinais.<br />C) Correta. A custódia dos bens apreendidos é prevista legalmente.<br />D) Incorreta. As plantações ilícitas devem ser imediatamente destruídas, independentemente de autorização judicial."
+  },
+  {
+    "question": "13) – De acordo com a Lei nº 8.072/1990 que regula os crimes hediondos, marque a alternativa CORRETA:",
+    "options": [
+      "A. ( ) O latrocínio e o estupro são considerados crimes hediondos.",
+      "B. ( ) Os crimes hediondos são afiançáveis.",
+      "C. ( ) Não haverá progressão de regime para crimes hediondos.",
+      "D. ( ) Crimes hediondos só se caracterizam quando consumados."
+    ],
+    "correct": 0,
+    "explanation": "A) Correta. Latrocínio e estupro estão expressamente previstos como crimes hediondos.<br />B) Incorreta. Crimes hediondos são inafiançáveis.<br />C) Incorreta. A progressão de regime é admitida, com critérios mais rigorosos.<br />D) Incorreta. A tentativa também é considerada hedionda."
+  },
+  {
+    "question": "14) – A Lei nº 10.826/2003 (Estatuto do Desarmamento). Marque a alternativa INCORRETA:",
+    "options": [
+      "A. ( ) O interessado em adquirir arma de fogo precisa possuir no mínimo vinte e um anos, sem exceções.",
+      "B. ( ) O certificado de registro autoriza a posse da arma em residência ou local de trabalho, se titular ou responsável legal.",
+      "C. ( ) O porte de arma de fogo é de competência da Polícia Federal.",
+      "D. ( ) É vedada a fabricação e comercialização de simulacros de armas de fogo."
+    ],
+    "correct": 0,
+    "explanation": "A) Incorreta. A própria lei prevê exceções ao limite mínimo de idade.<br />B) Correta. Essa autorização está prevista no Estatuto do Desarmamento.<br />C) Correta. A Polícia Federal é competente para autorizar o porte de arma de fogo de uso permitido.<br />D) Correta. A lei veda a fabricação e comercialização de simulacros que possam ser confundidos com armas reais."
+  }
+]
+,
+
 "Lei_11.404_1_13":[
   {
     "question": "1. À luz do Art. 1º da Lei Estadual nº 11.404/1994, assinale a alternativa correta quanto ao âmbito de aplicação da execução penal.",
@@ -13334,6 +13492,510 @@ const questions = {
   }
 ]
 ,
+
+"Lei_11.404_14_24":[
+  {
+    "question": "De acordo com o Art. 14, a observação médico-psicossocial do sentenciado compreende quais elementos?",
+    "options": [
+      "Apenas o exame de DNA e o histórico criminal",
+      "Os exames biológico, psicológico, complementares e o estudo social",
+      "Somente a avaliação de desempenho no trabalho prisional",
+      "Exclusivamente o interrogatório judicial e a perícia médica"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 14 estabelece que essa observação é abrangente, englobando exames biológicos, psicológicos, complementares e o estudo social."
+  },
+  {
+    "question": "Conforme o Art. 15, em quais locais deve ser realizada a observação empírica do sentenciado?",
+    "options": [
+      "Apenas dentro da cela individual",
+      "Somente durante as audiências com o Juiz",
+      "No trabalho, sala de aula, refeitório, praça de esportes e situações cotidianas",
+      "Exclusivamente no Centro de Observação Criminológica"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 15 determina que a observação empírica deve ocorrer em todas as situações da vida cotidiana do sentenciado."
+  },
+  {
+    "question": "Segundo o Art. 16, quem pode realizar o exame criminológico?",
+    "options": [
+      "Apenas o Diretor do estabelecimento",
+      "Qualquer funcionário administrativo da unidade",
+      "Centro/seção de observação ou especialista da comunidade",
+      "Somente médicos peritos federais"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 16 prevê que o exame pode ser feito no centro/seção de observação ou por especialista da comunidade."
+  },
+  {
+    "question": "Com que periodicidade a equipe de observação deve se reunir para apreciar os resultados dos exames (Art. 17)?",
+    "options": [
+      "Diariamente",
+      "Semanalmente",
+      "Mensalmente",
+      "Bimestralmente"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 17 é claro ao definir que a equipe de observação se reunirá semanalmente."
+  },
+  {
+    "question": "Qual é o documento final redigido pela equipe de observação após as reuniões semanais?",
+    "options": [
+      "Atestado de bons antecedentes",
+      "Prontuário médico isolado",
+      "Relatório social de síntese",
+      "Certificado de conclusão de pena"
+    ],
+    "correct": 2,
+    "explanation": "Conforme os Arts. 17 e 18, o resultado final das avaliações é o relatório social de síntese."
+  },
+  {
+    "question": "A quem incumbe elaborar o programa de tratamento reeducativo e acompanhar a execução da pena (Art. 19)?",
+    "options": [
+      "Ao Conselho da Comunidade",
+      "À Comissão Técnica de Classificação",
+      "Ao Ministério Público estadual",
+      "À Defensoria Pública"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 19 atribui à Comissão Técnica de Classificação (CTC) a tarefa de elaborar o programa de tratamento e acompanhar a pena."
+  },
+  {
+    "question": "Quem preside a Comissão Técnica de Classificação em situações ordinárias (Art. 20)?",
+    "options": [
+      "O Juiz da Execução",
+      "O Promotor de Justiça",
+      "O Diretor do estabelecimento",
+      "O Assistente Social mais antigo"
+    ],
+    "correct": 2,
+    "explanation": "Segundo o Art. 20, a Comissão Técnica de Classificação é presidida pelo Diretor do estabelecimento."
+  },
+  {
+    "question": "Qual destes profissionais NÃO é citado como membro mínimo da CTC no Art. 20?",
+    "options": [
+      "Psiquiatra e Psicólogo",
+      "Assistente Social",
+      "Chefe da Seção de Educação e Disciplina",
+      "Oficial de Justiça"
+    ],
+    "correct": 3,
+    "explanation": "O Art. 20 lista psiquiatra, psicólogo, assistente social, chefe de educação/disciplina e representante de obras sociais, mas não oficial de justiça."
+  },
+  {
+    "question": "Sobre o que compete à CTC opinar, conforme o Art. 21?",
+    "options": [
+      "Progressão/regressão de regime, remição, monitoramento e indulto",
+      "Apenas sobre a transferência de presídio por segurança",
+      "Somente sobre a qualidade da alimentação servida",
+      "Sobre a contratação de novos agentes penitenciários"
+    ],
+    "correct": 0,
+    "explanation": "O Art. 21 define que a CTC opina sobre progressão, regressão, remição, monitoramento eletrônico, livramento condicional e indulto."
+  },
+  {
+    "question": "Quem preside as reuniões da CTC nos casos específicos de progressão ou regressão de regime?",
+    "options": [
+      "O Diretor do estabelecimento",
+      "O Juiz da Execução",
+      "O Secretário de Defesa Social",
+      "O Comandante da escolta"
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 21 estabelece que, nestes casos, a presidência é do Juiz da Execução, com presença do MP."
+  },
+  {
+    "question": "Em que se baseia a CTC para propor o programa de tratamento reeducativo (Art. 22)?",
+    "options": [
+      "Apenas no depoimento pessoal do sentenciado",
+      "Sentença condenatória e relatório social de síntese",
+      "Exclusivamente no boletim de ocorrência policial",
+      "Apenas na disponibilidade de vagas de trabalho"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 22 especifica que a base é a sentença condenatória e o relatório social de síntese (do Centro de Observação ou equipe interdisciplinar)."
+  },
+  {
+    "question": "O que deve compreender o programa individual de tratamento, segundo o Art. 23?",
+    "options": [
+      "Apenas a data provável de saída",
+      "Regime, estabelecimento, escolarização, trabalho e medidas de assistência",
+      "Somente o nome dos visitantes autorizados",
+      "Exclusivamente a dieta alimentar do preso"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 23 lista regime, local adequado, escolarização, trabalho, orientação profissional, cultura, esporte e medidas especiais."
+  },
+  {
+    "question": "Segundo o Art. 24, o tratamento penitenciário realiza-se através de atividades relacionadas a quais elementos?",
+    "options": [
+      "Apenas segurança e contenção física",
+      "Instrução, trabalho, religião, disciplina, lazer e relações familiares",
+      "Somente isolamento e vigilância constante",
+      "Exclusivamente prestação de serviços externos"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 24 detalha que o tratamento envolve instrução, trabalho, religião, disciplina, cultura, recreação, esporte e contato exterior/familiar."
+  },
+  {
+    "question": "O programa de tratamento individualizado é obrigatório para qual finalidade (Art. 23)?",
+    "options": [
+      "Garantir que todos os presos saiam ao mesmo tempo",
+      "Indicar as medidas especiais de assistência e o regime adequado",
+      "Definir a escala de férias dos funcionários",
+      "Escolher o advogado dativo do preso"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 23, o programa serve para estruturar a execução da pena de forma personalizada (escolarização, trabalho, regime, etc.)."
+  },
+  {
+    "question": "A participação de representante de obras sociais da comunidade na CTC (Art. 20) visa:",
+    "options": [
+      "Aumentar o número de pessoas para votar sanções",
+      "Integrar a sociedade civil na classificação e tratamento do preso",
+      "Fiscalizar as contas do presídio",
+      "Substituir o trabalho do Assistente Social"
+    ],
+    "correct": 1,
+    "explanation": "A presença de representante da comunidade na CTC, prevista no Art. 20, reforça o caráter social e reintegrador da execução penal."
+  }
+],
+
+"Lei_11.404_126_135":[
+  {
+    "question": "De acordo com o Art. 126, quais profissionais de saúde o estabelecimento penitenciário deve obrigatoriamente dispor?",
+    "options": [
+      "Clínico geral, enfermeiro e psicólogo",
+      "Clínico geral, odontólogo e psiquiatra",
+      "Médico legista, dentista e assistente social",
+      "Clínico geral, pediatra e terapeuta ocupacional"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 126, o estabelecimento disporá de clínico geral, odontólogo e psiquiatra."
+  },
+  {
+    "question": "Para onde deve ser transferido o sentenciado que necessitar de cuidados médicos especiais?",
+    "options": [
+      "Para a enfermaria do próprio presídio em isolamento",
+      "Para a sua residência sob regime domiciliar",
+      "Para estabelecimento penitenciário especializado ou hospital civil",
+      "Para uma unidade básica de saúde municipal sem escolta"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 126, § 1º determina a transferência para estabelecimento especializado ou hospital civil em caso de necessidade de cuidados especiais."
+  },
+  {
+    "question": "Dentre as dotações para assistência sanitária previstas no Art. 127, qual destas é obrigatória?",
+    "options": [
+      "Centro cirúrgico de alta complexidade",
+      "Unidade para doenças infecciosas",
+      "Laboratório de análises clínicas completo",
+      "UTI móvel permanente"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 127, inciso III, estabelece que os estabelecimentos serão dotados de unidade para doenças infecciosas."
+  },
+  {
+    "question": "O estabelecimento destinado às mulheres deve possuir dependência dotada de material de obstetrícia para:",
+    "options": [
+      "Realizar exames de rotina em todas as presas",
+      "Atender grávidas ou parturientes cuja urgência não permita a transferência",
+      "Substituir integralmente o atendimento em hospitais civis",
+      "Atender apenas os filhos dos funcionários do estabelecimento"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 128, a dependência de obstetrícia serve para atender a mulher grávida ou parturiente quando a urgência não permitir transferência."
+  },
+  {
+    "question": "A quem as unidades prisionais devem notificar a existência de presa grávida ou lactante?",
+    "options": [
+      "Ao Ministério da Justiça",
+      "À unidade de atenção básica de saúde que referencie o território",
+      "Apenas à família da sentenciada",
+      "Ao Conselho Nacional de Justiça (CNJ)"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 128, parágrafo único, inciso I, a notificação deve ser feita à unidade de atenção básica de saúde de referência territorial."
+  },
+  {
+    "question": "Qual lei rege o controle sanitário do estabelecimento prisional, segundo o Art. 128-A?",
+    "options": [
+      "Lei nº 13.317, de 24 de setembro de 1999",
+      "Lei nº 8.080 (Lei Orgânica da Saúde)",
+      "Lei nº 7.210 (Lei de Execução Penal)",
+      "Lei nº 11.343 (Lei de Drogas)"
+    ],
+    "correct": 0,
+    "explanation": "O Art. 128-A especifica que o controle sanitário ocorre nos termos da Lei nº 13.317, de 1999."
+  },
+  {
+    "question": "Sobre o direito de correspondência (Art. 129), o que é garantido aos sentenciados?",
+    "options": [
+      "Apenas o recebimento de mensagens eletrônicas",
+      "Enviar e receber correspondência epistolar e telegráfica",
+      "Apenas o envio de cartas para familiares de primeiro grau",
+      "O uso livre de redes sociais para comunicação"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 129 garante o direito de enviar e receber correspondência epistolar (cartas) e telegráfica."
+  },
+  {
+    "question": "Como deve ser tratada a correspondência do sentenciado analfabeto?",
+    "options": [
+      "Ele é proibido de enviar correspondência",
+      "A correspondência deve ser obrigatoriamente gravada em áudio",
+      "Pode ser lida e escrita por funcionário ou visitador indicado, a seu pedido",
+      "Deve ser lida apenas pelo Diretor do presídio"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 130 permite que a correspondência do analfabeto seja lida/escrita por funcionário ou visitador indicado, se ele solicitar."
+  },
+  {
+    "question": "Em que situação o Diretor poderá censurar a correspondência dos sentenciados?",
+    "options": [
+      "Em qualquer hipótese, por mera conveniência administrativa",
+      "Apenas se o sentenciado estiver em regime disciplinar diferenciado",
+      "Em caso de perigo para a ordem ou para a segurança do estabelecimento",
+      "Nunca, pois o sigilo da correspondência é absoluto no presídio"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 131 prevê que o Diretor pode censurar a correspondência em caso de perigo para a ordem ou segurança, respeitados os direitos do preso."
+  },
+  {
+    "question": "Qual a condição para que a correspondência por telefone seja autorizada?",
+    "options": [
+      "Ser autorizada verbalmente pelo agente de plantão",
+      "Acontecer apenas em feriados nacionais",
+      "Autorização do Diretor, por escrito e motivadamente",
+      "Pagamento prévio da tarifa telefônica pelo sentenciado"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 131, parágrafo único, exige que a autorização do Diretor seja por escrito e devidamente motivada."
+  },
+  {
+    "question": "De acordo com o Art. 132, qual é a finalidade das visitas ao sentenciado?",
+    "options": [
+      "Permitir o comércio de produtos dentro da unidade",
+      "Manter vínculos familiares e sociais e preparar para a reintegração",
+      "Apenas para fins de instrução processual",
+      "Entregar bens materiais que o Estado não fornece"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 132 afirma que as visitas visam manter vínculos familiares e sociais e preparar o preso para a reintegração na sociedade."
+  },
+  {
+    "question": "As visitas podem ser vigiadas? Se sim, por quais motivos?",
+    "options": [
+      "Não, a vigilância de visitas é proibida por lei",
+      "Sim, por razões de tratamento, ordem ou segurança",
+      "Sim, mas apenas se houver ordem judicial específica para cada visita",
+      "Sim, mas apenas se o visitante tiver antecedentes criminais"
+    ],
+    "correct": 1,
+    "explanation": "O parágrafo único do Art. 132 estabelece que as visitas podem ser vigiadas por razões de tratamento, ordem ou segurança."
+  },
+  {
+    "question": "Como devem ocorrer as visitas do advogado ao sentenciado?",
+    "options": [
+      "Em pátio aberto sob vigilância constante dos agentes",
+      "Por meio de parlatório com gravação obrigatória do áudio",
+      "Em local reservado, em que as conversas não sejam ouvidas",
+      "Apenas por meio de videoconferência"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 133 determina que as visitas de advogado ocorram em local reservado, garantindo o sigilo da conversa."
+  },
+  {
+    "question": "Com qual das seguintes figuras o colóquio (conversa) do sentenciado NÃO pode ser ouvido?",
+    "options": [
+      "Com o Juiz e com o representante do Ministério Público",
+      "Apenas com os familiares próximos",
+      "Com outros detentos do mesmo pavilhão",
+      "Com jornalistas em entrevistas autorizadas"
+    ],
+    "correct": 0,
+    "explanation": "O Art. 134 proíbe que sejam ouvidos os colóquios com o Juiz, Ministério Público, funcionários no exercício de funções e equipe interdisciplinar."
+  },
+  {
+    "question": "Para quem se destina o anexo de visitas familiares previsto no Art. 135?",
+    "options": [
+      "Para presos que possuem bom comportamento comprovado há mais de 2 anos",
+      "Para o sentenciado que não possa obter autorização de saída",
+      "Exclusivamente para sentenciados estrangeiros",
+      "Para presos que exercem funções administrativas no presídio"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 135 estabelece que o anexo é especialmente adequado para visitas familiares ao sentenciado que não possa obter autorização de saída."
+  }
+],
+
+"Lei_11.404_136_149":[
+  {
+    "question": "De acordo com o Art. 136, a permissão de saída mediante escolta pode ser concedida em qual situação?",
+    "options": [
+      "Para visita periódica à família em feriados",
+      "Para frequência a curso de ensino superior",
+      "Para tratamento médico ou falecimento de cônjuge",
+      "Para participação em atividades de lazer da comunidade"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 136 estabelece que a saída com escolta ocorre para tratamento médico e falecimento ou doença grave de cônjuge, companheiro, ascendente, descendente ou irmão."
+  },
+  {
+    "question": "Quem é a autoridade competente para conceder a 'permissão de saída' prevista no Art. 136?",
+    "options": [
+      "O Juiz da Execução",
+      "O Diretor do estabelecimento",
+      "O representante do Ministério Público",
+      "O Conselho de Sentença"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 136, § 1º, a permissão de saída (com escolta) será concedida pelo Diretor do estabelecimento."
+  },
+  {
+    "question": "A saída temporária sem vigilância direta, prevista no Art. 137, é um direito destinado aos condenados que cumprem pena em qual regime?",
+    "options": [
+      "Regime Fechado",
+      "Regime Semiaberto",
+      "Regime Aberto",
+      "Presos Provisórios"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 137 limita a autorização para saída temporária sem vigilância direta aos condenados que cumprem pena em regime semiaberto."
+  },
+  {
+    "question": "Qual é a autoridade responsável por conceder ou revogar a autorização de saída temporária (sem vigilância)?",
+    "options": [
+      "O Diretor do estabelecimento",
+      "A Comissão Técnica de Classificação",
+      "O Juiz da execução penal",
+      "O Conselho da Comunidade"
+    ],
+    "correct": 2,
+    "explanation": "Segundo o parágrafo único do Art. 137, essa autorização é concedida ou revogada por ato motivado do Juiz da execução."
+  },
+  {
+    "question": "Sobre a saída para preparação para a liberação (Art. 138), qual o requisito temporal de cumprimento de pena?",
+    "options": [
+      "Três meses de pena cumprida",
+      "Um ano de pena cumprida",
+      "Seis meses de pena cumprida",
+      "Dois anos de pena cumprida"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 138 exige que o sentenciado tenha cumprido pelo menos seis meses da pena para obter essa autorização de saída preparatória."
+  },
+  {
+    "question": "Qual o limite total de dias por ano para a saída preparatória para a liberação prevista no Art. 138?",
+    "options": [
+      "15 dias por ano",
+      "30 dias por ano",
+      "35 dias por ano",
+      "45 dias por ano"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 138 limita a saída preparatória a até sete dias por vez, totalizando no máximo trinta e cinco dias por ano."
+  },
+  {
+    "question": "No caso de nascimento de filho, quem concede a autorização de saída e qual a modalidade?",
+    "options": [
+      "O Juiz da execução, sem escolta",
+      "O Diretor do estabelecimento, com medidas de custódia",
+      "A Comissão Técnica, com vigilância indireta",
+      "O Diretor, sem qualquer tipo de custódia"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 138-A determina que, em caso de nascimento de filho, a autorização é dada pelo Diretor com as medidas de custódia adequadas."
+  },
+  {
+    "question": "É permitido que o sentenciado exerça função disciplinar dentro do estabelecimento prisional?",
+    "options": [
+      "Sim, se for o detento com melhor comportamento",
+      "Sim, se autorizado pelo Juiz da Execução",
+      "Não, o sentenciado não exercerá função disciplinar",
+      "Apenas se houver falta de funcionários no plantão"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 140 veta expressamente o exercício de função disciplinar por parte do sentenciado."
+  },
+  {
+    "question": "Qual das alternativas abaixo constitui uma infração disciplinar segundo o Art. 142?",
+    "options": [
+      "Trabalhar de forma produtiva",
+      "Estudar para o ensino superior",
+      "Negligência na limpeza da cela ou asseio pessoal",
+      "Conversar com o advogado em local reservado"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 142, inciso I, classifica a negligência na limpeza, na ordem da cela e no asseio pessoal como infração disciplinar."
+  },
+  {
+    "question": "Das sanções disciplinares abaixo, quais são de competência exclusiva do Diretor do estabelecimento (Art. 143, § 1º)?",
+    "options": [
+      "Isolamento em cela individual e privação da cantina",
+      "Admoestação e privação de saída por até dois meses",
+      "Suspensão de visita íntima e isolamento",
+      "Todas as sanções são de competência do Diretor"
+    ],
+    "correct": 1,
+    "explanation": "O § 1º do Art. 143 define que as sanções de admoestação (I) e privação de autorização de saída por até dois meses (II) competem ao Diretor."
+  },
+  {
+    "question": "Em que situação o isolamento em cela disciplinar é aplicado, conforme o Art. 144?",
+    "options": [
+      "Sempre que o preso cometer qualquer infração leve",
+      "Apenas quando o preso se recusar a trabalhar",
+      "Em caso de manifesta agressividade ou desordem reiterada",
+      "Para todos os presos que ingressam no regime fechado"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 144 reserva o isolamento para casos de agressividade manifesta, violência ou quando o preso altera reiteradamente a ordem."
+  },
+  {
+    "question": "Qual profissional deve visitar diariamente o sentenciado em isolamento (Art. 145)?",
+    "options": [
+      "O Juiz da Execução",
+      "O Promotor de Justiça",
+      "O médico do estabelecimento",
+      "O Diretor da unidade"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 145 exige o controle do médico, que deve visitar o sentenciado em isolamento diariamente e informar seu estado de saúde."
+  },
+  {
+    "question": "Segundo o Art. 147, o isolamento é proibido para qual categoria de sentenciada?",
+    "options": [
+      "Sentenciadas com idade superior a 60 anos",
+      "Sentenciadas gestantes (até 6 meses pós-parto) ou com filhos consigo",
+      "Sentenciadas que trabalham na cozinha",
+      "Sentenciadas em regime semiaberto"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 147 protege a gestante (até 6 meses após o parto) e a mãe que trouxer o filho consigo, proibindo a aplicação de isolamento."
+  },
+  {
+    "question": "O que é indispensável para que um sentenciado seja punido disciplinarmente (Art. 148)?",
+    "options": [
+      "Apenas a comunicação verbal do agente de segurança",
+      "Ouvir o sentenciado e garantir defesa verbal ou escrita",
+      "A homologação imediata pelo Tribunal de Justiça",
+      "O testemunho de pelo menos três outros presos"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 148 garante o contraditório e a ampla defesa, afirmando que ninguém será punido sem ser ouvido e sem apresentar defesa."
+  },
+  {
+    "question": "De acordo com o Art. 149, qual o efeito da interposição de recurso contra sanção disciplinar?",
+    "options": [
+      "Efeito devolutivo apenas, a punição é imediata",
+      "Efeito suspensivo, salvo em atos de grave indisciplina",
+      "O recurso anula automaticamente a infração",
+      "O recurso só pode ser feito pelo Ministério Público"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 149 estabelece que o recurso suspende os efeitos da decisão (efeito suspensivo), exceto se for ato de grave indisciplina."
+  }
+],
 
 "ConstituicaoArt137_141":[
   {
