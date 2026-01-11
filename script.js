@@ -15156,6 +15156,532 @@ const questions = {
   }
 ],
 
+"convencaoAmericana":[
+  {
+    "question": "Sobre a pena de morte, a Convenção Americana de Direitos Humanos estabelece que:",
+    "options": [
+      "Pode ser restabelecida nos Estados que a houverem abolido, desde que por emenda constitucional.",
+      "Não se pode restabelecer a pena de morte nos Estados que a hajam abolido.",
+      "Pode ser aplicada para crimes políticos, dada a sua gravidade.",
+      "Pode ser aplicada a menores de 18 anos em casos de crimes hediondos."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 4.3: Não se pode restabelecer a pena de morte nos Estados que a hajam abolido. Além disso, o Art. 4.4 proíbe sua aplicação para crimes políticos e o Art. 4.5 veda a aplicação a menores de 18 ou maiores de 70 anos."
+  },
+  {
+    "question": "Em relação à prisão por dívida, o Pacto de San José da Costa Rica preceitua:",
+    "options": [
+      "Ninguém deve ser detido por dívida, sem exceções.",
+      "Admite-se a prisão do depositário infiel e do devedor de alimentos.",
+      "Ninguém deve ser detido por dívida, exceto no caso de inadimplemento de obrigação alimentar.",
+      "A prisão por dívida é permitida se houver ordem judicial fundamentada em contrato civil."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 7.7: Ninguém deve ser detido por dívida. Este princípio não limita os mandados de autoridade judiciária competente expedidos em virtude de inadimplemento de obrigação alimentar. Nota: O STF, pela Súmula Vinculante 25, proibiu a prisão do depositário infiel."
+  },
+  {
+    "question": "Sobre a suspensão de garantias (Estado de Emergência), a Convenção veda a suspensão de qual dos seguintes direitos?",
+    "options": [
+      "Direito à Liberdade Pessoal.",
+      "Direito de Reunião.",
+      "Liberdade de Pensamento e de Expressão.",
+      "Direito ao nome, à nacionalidade e os direitos da criança."
+    ],
+    "correct": 3,
+    "explanation": "Artigo 27.2: Alguns direitos são insuspendíveis, entre eles: o direito ao nome (Art. 18), os direitos da criança (Art. 19), o direito à nacionalidade (Art. 20) e o direito à vida e integridade pessoal."
+  },
+  {
+    "question": "Quem tem legitimidade para submeter um caso à jurisdição da Corte Interamericana de Direitos Humanos?",
+    "options": [
+      "Qualquer pessoa, grupo de pessoas ou entidade não governamental.",
+      "Apenas a Comissão Interamericana e os Estados-Partes.",
+      "Apenas as vítimas e seus familiares diretos.",
+      "Somente o Ministério Público do país onde ocorreu a violação."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 61.1: Somente os Estados-Partes e a Comissão têm direito de submeter um caso à decisão da Corte. Indivíduos não podem peticionar diretamente à Corte, apenas à Comissão."
+  },
+  {
+    "question": "O direito de resposta ou retificação pode ser exercido por:",
+    "options": [
+      "Qualquer pessoa prejudicada por informações inexatas ou ofensivas difundidas pelo público em geral.",
+      "Apenas por autoridades públicas citadas em notícias.",
+      "Apenas por pessoas jurídicas de direito público.",
+      "Pessoas que discordem ideologicamente de uma notícia, mesmo que verídica."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 14.1: Toda pessoa atingida por informações inexatas ou ofensivas emitidas em seu prejuízo por meios de divulgação legalmente estabelecidos tem direito a responder ou fazer a retificação."
+  },
+  {
+    "question": "Sobre o direito à integridade pessoal, a Convenção Americana afirma que:",
+    "options": [
+      "A pena pode passar da pessoa do delinquente em casos de terrorismo.",
+      "Os processados devem ficar em instalações comuns junto aos condenados para otimização de espaço.",
+      "A pena não deve passar da pessoa do delinquente.",
+      "O trabalho forçado é permitido como pena principal para todos os crimes."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 5.3: A pena não deve passar da pessoa do delinquente. O Art. 5.4 também exige que os processados fiquem separados dos condenados, salvo circunstâncias excepcionais."
+  },
+  {
+    "question": "No que diz respeito à liberdade de pensamento e expressão, a Convenção proíbe:",
+    "options": [
+      "A censura prévia, salvo para espetáculos públicos com fins de proteção moral da infância.",
+      "Qualquer tipo de classificação etária para cinema.",
+      "Toda e qualquer propaganda em favor da guerra.",
+      "A proibição de discursos de ódio, em respeito à liberdade plena."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 13.4: Os espetáculos públicos podem ser sujeitos a censura prévia com o objetivo exclusivo de regular o acesso a eles, para proteção moral da infância e da adolescência."
+  },
+  {
+    "question": "Sobre as garantias judiciais (Art. 8º), é correto afirmar que:",
+    "options": [
+      "O processo penal deve ser obrigatoriamente secreto para proteger o réu.",
+      "Toda pessoa tem direito de ser assistida gratuitamente por um tradutor ou intérprete, se não compreender o idioma do juízo.",
+      "A confissão do réu é válida mesmo se obtida mediante coação, desde que confirmada por outras provas.",
+      "O Estado não é obrigado a fornecer defensor gratuito."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 8.2.a: É garantia mínima o direito do acusado de ser assistido gratuitamente por tradutor ou intérprete, se não compreender ou não falar a língua do juízo ou tribunal."
+  },
+  {
+    "question": "A Comissão Interamericana de Direitos Humanos é composta por quantos membros?",
+    "options": [
+      "11 membros.",
+      "15 membros.",
+      "7 membros.",
+      "21 membros."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 34: A Comissão Interamericana de Direitos Humanos compor-se-á de sete membros, que deverão ser pessoas de alta autoridade moral e reconhecido saber em matéria de direitos humanos."
+  },
+  {
+    "question": "Qual é a condição essencial para que uma petição individual seja admitida pela Comissão?",
+    "options": [
+      "Que o peticionário tenha nacionalidade de um Estado-Parte.",
+      "Que tenham sido esgotados os recursos da jurisdição interna, conforme os princípios de Direito Internacional.",
+      "Que a petição seja apresentada em até 2 anos após a violação.",
+      "Que a vítima esteja presa no momento da petição."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 46.1.a: Para que uma petição seja admitida, exige-se que hajam sido interpostos e esgotados os recursos da jurisdição interna."
+  },
+  {
+    "question": "Onde fica a sede da Corte Interamericana de Direitos Humanos?",
+    "options": [
+      "Washington, D.C., Estados Unidos.",
+      "Genebra, Suíça.",
+      "San José, Costa Rica.",
+      "Bogotá, Colômbia."
+    ],
+    "correct": 2,
+    "explanation": "A Corte Interamericana tem sua sede em San José, na Costa Rica (conforme o Estatuto da Corte), enquanto a Comissão tem sede em Washington, D.C."
+  },
+  {
+    "question": "Sobre o direito à vida, a Convenção estabelece que este deve ser protegido por lei e, em geral:",
+    "options": [
+      "Desde o nascimento com vida.",
+      "A partir da nidação.",
+      "Desde o momento da concepção.",
+      "A partir do terceiro mês de gestação."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 4.1: Esse direito deve ser protegido pela lei e, em geral, desde o momento da concepção. Ninguém pode ser privado da vida arbitrariamente."
+  },
+  {
+    "question": "Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de:",
+    "options": [
+      "Um representante do Ministério Público.",
+      "Um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais.",
+      "Um delegado de polícia especializado.",
+      "Um conselho de direitos humanos local."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 7.5: Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais."
+  },
+  {
+    "question": "No caso de suspensão de garantias, o Estado-Parte deve informar imediatamente aos demais Estados-Partes, por intermédio de quem?",
+    "options": [
+      "Do Presidente da Corte Interamericana.",
+      "Do Secretário-Geral da Organização dos Estados Americanos (OEA).",
+      "Do Conselho de Segurança da ONU.",
+      "Do Presidente da Comissão Interamericana."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 27.3: Todo Estado-Parte que fizer uso do direito de suspensão deverá informar imediatamente aos outros Estados-Partes, por intermédio do Secretário-Geral da OEA."
+  },
+  {
+    "question": "A Convenção Americana admite a proteção de quais tipos de direitos além dos civis e políticos?",
+    "options": [
+      "Apenas direitos civis.",
+      "Direitos econômicos, sociais e culturais, por meio de desenvolvimento progressivo.",
+      "Nenhum outro tipo de direito é mencionado.",
+      "Apenas direitos ambientais."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 26: Os Estados-Partes comprometem-se a adotar providências para lograr progressivamente a plena efetividade dos direitos que decorrem das normas econômicas, sociais e sobre educação, ciência e cultura."
+  }
+],
+
+"comissaoInteramericana":[
+  {
+    "question": "De acordo com o Artigo 34 da Convenção, a Comissão Interamericana de Direitos Humanos é composta por quantos membros e qual a sua natureza de representação?",
+    "options": [
+      "7 membros, representando os governos de seus respectivos Estados.",
+      "11 membros, que atuam em sua capacidade individual.",
+      "7 membros, que representam todos os membros que compõem a Organização dos Estados Americanos (OEA).",
+      "5 membros eleitos pelos Estados-Partes da Convenção Americana, exclusivamente."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 34 e 35: A Comissão compõe-se de sete membros e estes representam todos os membros que compõem a OEA (e não apenas os seus países de origem ou os Estados-Partes da Convenção)."
+  },
+  {
+    "question": "Sobre o mandato dos membros da Comissão (Artigo 37), assinale a alternativa correta:",
+    "options": [
+      "O mandato é de 4 anos, permitida uma única recondução.",
+      "O mandato é de 5 anos, sem possibilidade de reeleição.",
+      "O mandato é de 2 anos, com reconduções ilimitadas.",
+      "O mandato é de 6 anos, permitida uma única recondução."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 37.1: Os membros da Comissão serão eleitos por quatro anos e só poderão ser reeleitos uma vez."
+  },
+  {
+    "question": "Conforme o Artigo 44, quem possui legitimidade ativa para apresentar petições à Comissão contendo denúncias de violação da Convenção?",
+    "options": [
+      "Apenas os Estados-Partes e o Ministério Público Federal.",
+      "Apenas as vítimas diretas da violação.",
+      "Qualquer pessoa, grupo de pessoas ou entidade não-governamental legalmente reconhecida em um ou mais Estados membros da OEA.",
+      "Apenas cidadãos que possuam nacionalidade de um Estado que aceitou a jurisdição da Corte."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 44: A legitimidade é ampla, permitindo que qualquer pessoa, grupo ou ONG (reconhecida em qualquer Estado da OEA) apresente petições, independentemente de ser a vítima direta."
+  },
+  {
+    "question": "Sobre a competência da Comissão para receber comunicações interestaduais (Artigo 45), é necessário que:",
+    "options": [
+      "O Estado denunciado tenha ratificado a Convenção, sendo a competência da Comissão automática.",
+      "Tanto o Estado que apresenta a comunicação quanto o Estado denunciado tenham declarado reconhecer a competência da Comissão para esse fim.",
+      "Haja autorização prévia da Assembleia Geral da OEA.",
+      "A vítima tenha autorizado o Estado a processar a denúncia."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 45.1 e 45.2: A competência para comunicações entre Estados não é automática; depende de declaração expressa de reconhecimento de competência, baseada na reciprocidade."
+  },
+  {
+    "question": "Qual é o prazo regulamentar, previsto no Artigo 46, para a apresentação de uma petição à Comissão, contado da data em que o presumido prejudicado foi notificado da decisão definitiva interna?",
+    "options": [
+      "1 ano.",
+      "30 dias.",
+      "6 meses.",
+      "2 anos."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 46.1.b: A petição deve ser apresentada dentro do prazo de seis meses, a partir da data em que o presumido prejudicado em seus direitos tenha sido notificado da decisão definitiva no âmbito interno."
+  },
+  {
+    "question": "A regra do esgotamento dos recursos da jurisdição interna (Artigo 46.1.a) pode ser dispensada quando:",
+    "options": [
+      "O peticionário for pessoa hipossuficiente.",
+      "Não existir no direito interno o devido processo legal para a proteção do direito violado.",
+      "A violação ocorrer em período eleitoral.",
+      "O Estado renunciar expressamente ao prazo de 6 meses."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 46.2.a: As disposições de esgotamento de recursos internos não se aplicam quando não existir no direito interno do Estado o devido processo legal para a proteção do direito que se alega violado."
+  },
+  {
+    "question": "Segundo o Artigo 47, a Comissão declarará inadmissível qualquer petição ou comunicação quando:",
+    "options": [
+      "For apresentada em idioma diferente do espanhol.",
+      "Não expuser fatos que caracterizem violação dos direitos garantidos pela Convenção.",
+      "A vítima possuir antecedentes criminais.",
+      "O Estado denunciado estiver sob intervenção federal."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 47.b: A Comissão declarará inadmissível a petição que não expuser fatos que caracterizem violação dos direitos garantidos pela Convenção."
+  },
+  {
+    "question": "Se a Comissão receber uma petição que trate de matéria pendente de outro processo de solução internacional (Artigo 47.d), ela deve:",
+    "options": [
+      "Julgar o mérito imediatamente para evitar conflitos.",
+      "Declarar a petição inadmissível.",
+      "Aguardar a decisão do outro organismo para decidir depois.",
+      "Solicitar que o outro organismo decline da competência."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 47.d: É causa de inadmissibilidade que a matéria da petição ou comunicação esteja pendente de outro processo de solução internacional (litispendência internacional)."
+  },
+  {
+    "question": "Durante o procedimento de exame da petição (Artigo 48), a Comissão pode realizar uma investigação in loco. Qual o requisito para isso?",
+    "options": [
+      "Aprovação por maioria de 2/3 da Assembleia Geral da OEA.",
+      "Não há requisitos, a Comissão tem livre trânsito nos Estados-Partes.",
+      "Solicitar ao Estado interessado todas as facilidades necessárias, o qual as proporcionará após consentimento.",
+      "Apenas em Estados que estejam em estado de sítio ou emergência."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 48.1.d: Se for necessária uma investigação, a Comissão solicitará ao Estado interessado as facilidades necessárias e este as proporcionará, se houver consentimento."
+  },
+  {
+    "question": "O procedimento de 'Solução Amigável' previsto no Artigo 48.1.f baseia-se em:",
+    "options": [
+      "Imposição de sanções pecuniárias imediatas.",
+      "Respeito aos direitos humanos reconhecidos na Convenção.",
+      "Renúncia da vítima aos seus direitos em troca de indenização.",
+      "Decisão unilateral do Presidente da Comissão."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 48.1.f: A Comissão por-se-á à disposição das partes interessadas, a fim de chegar a uma solução amigável, fundada no respeito aos direitos humanos reconhecidos nesta Convenção."
+  },
+  {
+    "question": "Se não for alcançada uma solução amigável, a Comissão redigirá um relatório relatando os fatos e conclusões. Segundo o Artigo 50, esse relatório inicial é:",
+    "options": [
+      "Publicado imediatamente no Diário Oficial da OEA.",
+      "Enviado apenas ao peticionário.",
+      "Transmitido aos Estados interessados, que não estão autorizados a publicá-lo.",
+      "Enviado obrigatoriamente ao Conselho de Segurança da ONU."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 50.1 e 50.2: O relatório será transmitido aos Estados interessados, os quais não estarão autorizados a publicá-lo (caráter confidencial do relatório preliminar)."
+  },
+  {
+    "question": "Qual o prazo que o Estado tem, após a remessa do relatório do Art. 50, para solucionar a questão ou submeter o caso à Corte (pela Comissão ou pelo Estado), antes que a Comissão emita o relatório definitivo?",
+    "options": [
+      "15 dias.",
+      "30 dias.",
+      "3 meses.",
+      "6 meses."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 51.1: Se no prazo de três meses a questão não tiver sido solucionada ou submetida à decisão da Corte, a Comissão poderá emitir o relatório definitivo (Art. 51)."
+  },
+  {
+    "question": "Segundo o Artigo 51.3, para que a Comissão decida pela publicação do relatório final, é necessário o voto de:",
+    "options": [
+      "Maioria absoluta de seus membros.",
+      "Unanimidade dos presentes.",
+      "Maioria simples dos presentes.",
+      "Apenas o voto do Presidente da Comissão."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 51.3: A Comissão decidirá, pelo voto da maioria absoluta dos seus membros, se deve publicar o relatório."
+  },
+  {
+    "question": "Dentre as funções da Comissão descritas no Artigo 41, qual das alternativas abaixo NÃO corresponde a uma atribuição expressa?",
+    "options": [
+      "Estimular a consciência dos direitos humanos nos povos da América.",
+      "Solicitar aos governos dos Estados informações sobre as medidas que adotarem em matéria de direitos humanos.",
+      "Sentenciar Estados ao pagamento de indenizações pecuniárias às vítimas.",
+      "Submeter um relatório anual à Assembleia Geral da OEA."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 41: A função da Comissão é promover a observância e defesa dos direitos humanos através de recomendações, relatórios e pedidos de informação. A função jurisdicional (sentenciar indenizações) cabe à Corte, não à Comissão."
+  },
+  {
+    "question": "De acordo com o Artigo 48, se a Comissão considerar que a petição é admissível, ela deve:",
+    "options": [
+      "Arquivar o processo se o Estado pedir desculpas.",
+      "Solicitar informações ao governo do Estado ao qual pertença a autoridade apontada como responsável.",
+      "Encaminhar o caso imediatamente para a Corte Interamericana sem ouvir o Estado.",
+      "Pedir a prisão dos agentes violadores ao governo local."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 48.1.a: Ao admitir a petição, a Comissão solicitará informações ao governo do Estado ao qual pertença a autoridade apontada como responsável pela violação alegada."
+  }
+],
+
+"corteInteramericana":[
+  {
+    "question": "Sobre a composição da Corte Interamericana de Direitos Humanos (Art. 52), assinale a alternativa correta:",
+    "options": [
+      "Composta por 11 juízes, nacionais dos Estados membros da OEA.",
+      "Composta por 7 juízes, nacionais dos Estados membros da OEA.",
+      "Composta por 7 juízes, obrigatoriamente nacionais de Estados que ratificaram a Convenção.",
+      "Composta por 15 juízes eleitos pela Assembleia Geral da ONU."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 52.1: A Corte compõe-se de sete juízes, nacionais dos Estados membros da Organização (OEA), eleitos a título pessoal."
+  },
+  {
+    "question": "Quem possui legitimidade para eleger os juízes da Corte Interamericana (Art. 53)?",
+    "options": [
+      "Todos os Estados membros da OEA.",
+      "Apenas a Comissão Interamericana de Direitos Humanos.",
+      "Somente os Estados-Partes na Convenção Americana, em votação secreta.",
+      "O Conselho Permanente da OEA por maioria qualificada."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 53.1: Os juízes da Corte são eleitos pelos Estados-Partes na Convenção, em votação secreta e por maioria absoluta, durante a Assembleia Geral da OEA."
+  },
+  {
+    "question": "Sobre o mandato dos juízes da Corte (Art. 54), é correto afirmar que:",
+    "options": [
+      "O mandato é de 4 anos, permitida uma reeleição.",
+      "O mandato é de 6 anos, vedada a reeleição.",
+      "O mandato é de 6 anos, permitida uma única reeleição.",
+      "O mandato é vitalício, como nos modelos de cortes supremas."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 54.1: Os juízes da Corte são eleitos para um mandato de seis anos e só podem ser reeleitos uma vez."
+  },
+  {
+    "question": "Se um juiz for nacional de um dos Estados-Partes que figuram em um caso submetido à Corte, o que prevê o Artigo 55 da Convenção?",
+    "options": [
+      "O juiz deve obrigatoriamente declarar-se impedido e não participar de nenhuma fase.",
+      "O Estado poderá designar uma pessoa de sua escolha para fazer parte da Corte na qualidade de juiz ad hoc.",
+      "O juiz nacional será o relator nato do processo por conhecer melhor a legislação interna.",
+      "O caso será julgado pela Comissão, e não pela Corte, para evitar parcialidade."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 55.2 e 55.3: Se um dos juízes chamados a conhecer de um caso for da nacionalidade de um dos Estados-Partes, qualquer outro Estado-Parte no caso poderá designar um juiz ad hoc."
+  },
+  {
+    "question": "Qual é o quórum necessário para as deliberações da Corte (Art. 56)?",
+    "options": [
+      "A presença de todos os 7 juízes.",
+      "A presença de pelo menos 5 juízes.",
+      "Maioria simples dos juízes presentes.",
+      "A presença de 3 juízes e do Secretário-Geral da OEA."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 56: O quórum para as deliberações da Corte é de cinco juízes."
+  },
+  {
+    "question": "Para que a Corte possa exercer sua competência contenciosa contra um Estado, é necessário que (Art. 62):",
+    "options": [
+      "O Estado seja membro da OEA, sendo a jurisdição da Corte automática.",
+      "O Estado tenha ratificado a Convenção e declarado que reconhece como obrigatória a competência da Corte.",
+      "A vítima tenha cidadania de um país que aceitou a jurisdição da Corte.",
+      "Haja autorização expressa do Conselho de Segurança da ONU."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 62.1: Um Estado-Parte pode declarar que reconhece como obrigatória de pleno direito a competência da Corte sobre todos os casos relativos à interpretação ou aplicação da Convenção."
+  },
+  {
+    "question": "Sobre a competência consultiva da Corte (Art. 64), quem pode consultar a Corte sobre a interpretação da Convenção?",
+    "options": [
+      "Qualquer pessoa que tenha esgotado os recursos internos.",
+      "Apenas os Estados que reconheceram a jurisdição obrigatória da Corte.",
+      "Os Estados membros da OEA e os órgãos enumerados no capítulo X da Carta da OEA.",
+      "Apenas a Comissão Interamericana."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 64.1: Os Estados membros da Organização e os órgãos enumerados no capítulo X da Carta da OEA poderão consultar a Corte sobre a interpretação desta Convenção ou de outros tratados concernentes à proteção dos direitos humanos."
+  },
+  {
+    "question": "Quando a Corte decidir que houve violação de um direito protegido pela Convenção, ela deve determinar (Art. 63.1):",
+    "options": [
+      "A prisão imediata dos agentes públicos envolvidos.",
+      "Que se assegure ao prejudicado o gozo do seu direito violado e, se procedente, o pagamento de justa indenização.",
+      "A expulsão do Estado da Organização dos Estados Americanos.",
+      "A nulidade de todas as leis do Estado-Parte."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 63.1: A Corte determinará que se assegure ao prejudicado o gozo do seu direito ou liberdade violados, bem como a reparação das consequências e o pagamento de indenização."
+  },
+  {
+    "question": "Em casos de extrema gravidade e urgência, para evitar danos irreparáveis às pessoas, a Corte pode (Art. 63.2):",
+    "options": [
+      "Decretar a intervenção federal no Estado-Parte.",
+      "Tomar as medidas provisórias que considerar pertinentes.",
+      "Suspender a validade da Constituição do país infrator.",
+      "Anular as eleições do Estado-Parte."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 63.2: Em casos de extrema gravidade e urgência, e quando se fizer necessário evitar danos irreparáveis às pessoas, a Corte poderá tomar as medidas provisórias que considerar pertinentes."
+  },
+  {
+    "question": "Sobre a sentença da Corte, é correto afirmar (Art. 67):",
+    "options": [
+      "Cabe recurso de apelação para a Assembleia Geral da OEA.",
+      "É definitiva e inapelável, mas a Corte pode interpretá-la a pedido de qualquer das partes.",
+      "Só produz efeitos após homologação pelo Supremo Tribunal do país condenado.",
+      "Pode ser revista pela Comissão Interamericana se houver erro de fato."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 67: A sentença da Corte será definitiva e inapelável. Em caso de divergência sobre o sentido ou alcance da sentença, a Corte a interpretará a pedido de qualquer das partes."
+  },
+  {
+    "question": "Como é executada a parte da sentença que determina indenização compensatória (Art. 68.2)?",
+    "options": [
+      "Por meio de uma conta bancária gerida pela OEA.",
+      "Pelo procedimento interno vigente no país para a execução de sentenças contra o Estado.",
+      "Pela apreensão de bens do Estado no exterior.",
+      "Através de desconto automático nas transferências internacionais do Estado."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 68.2: A parte da sentença que determinar indenização compensatória poderá ser executada no país respectivo pelo procedimento interno vigente para a execução de sentenças contra o Estado."
+  },
+  {
+    "question": "O que ocorre se um Estado não cumprir as sentenças da Corte (Art. 65)?",
+    "options": [
+      "A Corte determinará o bloqueio econômico total do Estado.",
+      "A Corte submeterá à Assembleia Geral da OEA um relatório anual, especificando os casos em que o Estado não tenha dado cumprimento às sentenças.",
+      "O Estado é automaticamente expulso da Convenção.",
+      "Os juízes da Corte assumem o governo do país para garantir o cumprimento."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 65: A Corte submeterá à consideração da Assembleia Geral da Organização um relatório sobre suas atividades, assinalando especialmente os casos em que um Estado não tenha dado cumprimento às suas sentenças."
+  },
+  {
+    "question": "Os juízes da Corte, desde o momento de sua eleição, gozam de (Art. 70):",
+    "options": [
+      "Imunidade de jurisdição apenas em seus países de origem.",
+      "Das imunidades diplomáticas necessárias ao desempenho de suas funções.",
+      "Apenas imunidade de palavra e voto em audiências.",
+      "Nenhuma imunidade especial, respondendo como cidadãos comuns."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 70.1: Os juízes da Corte gozam, desde o momento de sua eleição e durante o seu mandato, das imunidades diplomáticas reconhecidas pelo Direito Internacional aos agentes diplomáticos."
+  },
+  {
+    "question": "Segundo o Artigo 71, o cargo de juiz da Corte é incompatível com:",
+    "options": [
+      "Atividades que possam afetar sua independência ou imparcialidade.",
+      "O exercício da docência universitária.",
+      "A nacionalidade de um Estado que não seja membro da OEA.",
+      "A idade superior a 60 anos."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 71: O cargo de juiz da Corte é incompatível com outras atividades que possam afetar sua independência ou imparcialidade, conforme estabelecido no Estatuto."
+  },
+  {
+    "question": "Quem tem a atribuição de redigir o Estatuto da Corte Interamericana (Art. 60)?",
+    "options": [
+      "A própria Corte Interamericana.",
+      "A Comissão Interamericana de Direitos Humanos.",
+      "A Corte, mas este será submetido à aprovação da Assembleia Geral da OEA.",
+      "O Secretário-Geral da ONU."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 60: A Corte redigirá seu Estatuto, o qual será submetido à aprovação da Assembleia Geral (da OEA)."
+  },
+  {
+    "question": "Um Estado membro da OEA pode consultar a Corte sobre a compatibilidade de suas leis internas com a Convenção Americana?",
+    "options": [
+      "Não, pois a Corte só julga casos concretos de violação.",
+      "Sim, por meio da sua função consultiva prevista no Artigo 64.2.",
+      "Apenas se o Supremo Tribunal desse país autorizar a consulta.",
+      "Apenas se houver um processo em curso na Comissão."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 64.2: A Corte, a pedido de um Estado membro da Organização, poderá emitir pareceres sobre a compatibilidade entre qualquer de suas leis internas e os mencionados instrumentos internacionais."
+  },
+  {
+    "question": "A renúncia ou substituição de um juiz da Corte durante um caso (Art. 54.3) implica que:",
+    "options": [
+      "O processo deve ser anulado e reiniciado do zero.",
+      "O juiz continuará conhecendo dos casos de que já houver tomado conhecimento e que se achem em fase de sentença.",
+      "O juiz ad hoc assume imediatamente o caso em qualquer fase.",
+      "O julgamento é suspenso até que um novo juiz seja eleito pela Assembleia Geral."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 54.3: Os juízes continuarão conhecendo dos casos de que já houverem tomado conhecimento e que se achem em fase de sentença, para cujo efeito não serão substituídos pelos novos juízes eleitos."
+  }
+],
+
 "MariaDaPenha":[
   {
     "question": "Questão 1 (FCC/OFICIAL DE POLÍCIA CIVIL/PC-AP/2017) NÃO constitui medida protetiva de urgência prevista na Lei n. 11.340/2006 − Lei Maria da Penha",
