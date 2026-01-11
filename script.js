@@ -18705,6 +18705,472 @@ const questions = {
   }
 ],
 
+"D11615":[
+
+  {
+    "question": "Qual órgão é responsável por emitir o Certificado de Registro de Arma de Fogo (CRAF) para cidadãos comuns?",
+    "options": [
+      "Polícia Federal",
+      "Exército Brasileiro",
+      "Polícia Civil",
+      "Ministério da Justiça"
+    ],
+    "correct": 0,
+    "explanation": "O CRAF, que autoriza a posse da arma de fogo, é emitido pela Polícia Federal conforme a Lei 10.826/2003 e o Decreto 11.615/2023."
+  },
+  {
+    "question": "O que o Certificado de Registro de Arma de Fogo (CRAF) autoriza?",
+    "options": [
+      "O porte da arma em via pública",
+      "A posse da arma na residência ou local de trabalho",
+      "A venda da arma a terceiros",
+      "O transporte livre da arma carregada"
+    ],
+    "correct": 1,
+    "explanation": "O CRAF autoriza apenas a posse da arma no local autorizado, não permitindo o porte."
+  },
+  {
+    "question": "Qual órgão concede o porte de arma de fogo no Brasil?",
+    "options": [
+      "Exército Brasileiro",
+      "Polícia Militar",
+      "Polícia Federal",
+      "Tribunal de Justiça"
+    ],
+    "correct": 2,
+    "explanation": "O porte de arma de fogo é concedido exclusivamente pela Polícia Federal."
+  },
+  {
+    "question": "Quem é responsável por conceder o Certificado de Registro de CAC (CR)?",
+    "options": [
+      "Polícia Federal",
+      "Exército Brasileiro",
+      "Secretaria de Segurança Pública",
+      "Polícia Rodoviária Federal"
+    ],
+    "correct": 1,
+    "explanation": "O Certificado de Registro de Colecionador, Atirador e Caçador (CAC) é emitido pelo Exército Brasileiro."
+  },
+  {
+    "question": "Qual documento autoriza uma pessoa a comprar uma arma de fogo antes do registro?",
+    "options": [
+      "CRAF",
+      "Porte de arma",
+      "Autorização para aquisição",
+      "Guia de trânsito"
+    ],
+    "correct": 2,
+    "explanation": "A autorização para aquisição é necessária antes da compra da arma."
+  },
+  {
+    "question": "Qual documento autoriza o transporte temporário de arma desmuniciada?",
+    "options": [
+      "CRAF",
+      "Guia de Trânsito",
+      "Porte de arma",
+      "Registro CAC"
+    ],
+    "correct": 1,
+    "explanation": "A Guia de Trânsito permite o transporte controlado da arma entre locais autorizados."
+  },
+  {
+    "question": "A posse de arma de fogo permite ao cidadão portar a arma em locais públicos?",
+    "options": [
+      "Sim, sem restrições",
+      "Sim, apenas em horário comercial",
+      "Não, posse não autoriza porte",
+      "Somente em áreas rurais"
+    ],
+    "correct": 2,
+    "explanation": "Posse e porte são institutos distintos; a posse não autoriza portar a arma fora do local permitido."
+  },
+  {
+    "question": "Qual documento é obrigatório para manter legalmente uma arma de fogo em casa?",
+    "options": [
+      "Porte de arma",
+      "CRAF",
+      "Guia de Trânsito",
+      "CR de CAC"
+    ],
+    "correct": 1,
+    "explanation": "O CRAF é o documento que comprova o registro e autoriza a posse da arma."
+  },
+  {
+    "question": "Qual órgão autoriza o funcionamento de armeiros no Brasil?",
+    "options": [
+      "Exército Brasileiro",
+      "Polícia Federal",
+      "Polícia Civil",
+      "Receita Federal"
+    ],
+    "correct": 1,
+    "explanation": "A Polícia Federal é responsável pelo credenciamento e fiscalização de armeiros."
+  },
+  {
+    "question": "O registro de armas de fogo de uso civil comum é feito em qual órgão?",
+    "options": [
+      "Exército Brasileiro",
+      "Polícia Federal",
+      "Polícia Militar",
+      "Secretaria Nacional de Segurança"
+    ],
+    "correct": 1,
+    "explanation": "Armas de uso civil são registradas na Polícia Federal."
+  },
+  {
+    "question": "Qual documento identifica o cidadão como atirador, caçador ou colecionador?",
+    "options": [
+      "CRAF",
+      "Porte de arma",
+      "Certificado de Registro (CR)",
+      "Guia de Trânsito"
+    ],
+    "correct": 2,
+    "explanation": "O Certificado de Registro (CR) identifica oficialmente o CAC."
+  },
+  {
+    "question": "Qual legislação institui o Estatuto do Desarmamento?",
+    "options": [
+      "Lei nº 9.099/1995",
+      "Lei nº 10.826/2003",
+      "Lei nº 13.964/2019",
+      "Decreto nº 3.665/2000"
+    ],
+    "correct": 1,
+    "explanation": "A Lei nº 10.826/2003 é conhecida como Estatuto do Desarmamento."
+  },
+  {
+    "question": "O Decreto nº 11.615/2023 regulamenta qual lei?",
+    "options": [
+      "Lei nº 9.605/1998",
+      "Lei nº 10.826/2003",
+      "Lei nº 12.850/2013",
+      "Lei nº 14.133/2021"
+    ],
+    "correct": 1,
+    "explanation": "O Decreto nº 11.615/2023 regulamenta a Lei nº 10.826/2003."
+  },
+  {
+    "question": "Qual órgão pode autorizar guia de trânsito para CACs?",
+    "options": [
+      "Polícia Militar",
+      "Polícia Federal ou Exército Brasileiro",
+      "Polícia Civil",
+      "Ministério Público"
+    ],
+    "correct": 1,
+    "explanation": "Dependendo da situação, a guia de trânsito pode ser expedida pela PF ou pelo Exército."
+  },
+  {
+    "question": "O porte de arma de fogo é regra ou exceção no Brasil?",
+    "options": [
+      "Regra geral",
+      "Exceção, concedida em casos específicos",
+      "Livre para todos",
+      "Automático após o registro"
+    ],
+    "correct": 1,
+    "explanation": "O porte é exceção e depende de autorização específica da Polícia Federal."
+  },
+  {
+    "question": "Qual documento deve ser solicitado após a compra da arma?",
+    "options": [
+      "Guia de Trânsito",
+      "Porte de arma",
+      "CRAF",
+      "Registro CAC"
+    ],
+    "correct": 2,
+    "explanation": "Após a compra, a arma deve ser registrada para emissão do CRAF."
+  },
+  {
+    "question": "Quem fiscaliza e controla o SINARM?",
+    "options": [
+      "Exército Brasileiro",
+      "Polícia Federal",
+      "Polícia Civil",
+      "Ministério da Defesa"
+    ],
+    "correct": 1,
+    "explanation": "O Sistema Nacional de Armas (SINARM) é administrado pela Polícia Federal."
+  },
+  {
+    "question": "O registro de armas de CAC é vinculado a qual sistema?",
+    "options": [
+      "SINARM",
+      "SISU",
+      "SIGMA",
+      "INFOSEG"
+    ],
+    "correct": 2,
+    "explanation": "As armas de CAC são registradas no SIGMA, sistema do Exército Brasileiro."
+  },
+  {
+    "question": "Qual documento permite ao cidadão andar armado fora de casa?",
+    "options": [
+      "CRAF",
+      "Guia de Trânsito",
+      "Porte de arma de fogo",
+      "Certificado de Registro"
+    ],
+    "correct": 2,
+    "explanation": "Somente o porte de arma autoriza o cidadão a portar arma fora da residência ou trabalho."
+  },
+  {
+    "question": "Qual órgão é responsável pela autorização de empresas de segurança armada?",
+    "options": [
+      "Exército Brasileiro",
+      "Polícia Federal",
+      "Polícia Civil",
+      "Agência Brasileira de Inteligência"
+    ],
+    "correct": 1,
+    "explanation": "A Polícia Federal regula e fiscaliza empresas de segurança privada armada."
+  },
+  {
+    "question": "Qual documento é exigido para o transporte de arma até um clube de tiro?",
+    "options": [
+      "Porte de arma",
+      "CRAF apenas",
+      "Guia de Trânsito",
+      "Registro CAC"
+    ],
+    "correct": 2,
+    "explanation": "A Guia de Trânsito autoriza o transporte controlado da arma até locais como clubes de tiro."
+  },
+  {
+    "question": "Qual órgão centraliza a política nacional de controle de armas de fogo?",
+    "options": [
+      "Ministério da Defesa",
+      "Exército Brasileiro",
+      "Polícia Federal",
+      "Congresso Nacional"
+    ],
+    "correct": 2,
+    "explanation": "A Polícia Federal é o órgão central do controle de armas no âmbito civil."
+  },
+  {
+    "question": "Qual documento comprova a regularidade da arma perante o Estado?",
+    "options": [
+      "CRAF",
+      "Porte de arma",
+      "Guia de Trânsito",
+      "Certidão negativa"
+    ],
+    "correct": 0,
+    "explanation": "O CRAF comprova que a arma está devidamente registrada e regular."
+  },
+  {
+    "question": "O Certificado de Registro de CAC autoriza automaticamente o porte de arma?",
+    "options": [
+      "Sim",
+      "Sim, apenas em áreas rurais",
+      "Não",
+      "Somente para caçadores"
+    ],
+    "correct": 2,
+    "explanation": "O CR de CAC não concede porte; o porte exige autorização específica."
+  },
+  {
+    "question": "Qual documento identifica uma arma registrada individualmente?",
+    "options": [
+      "Certificado de Registro (CR)",
+      "CRAF",
+      "Porte de arma",
+      "Guia de Trânsito"
+    ],
+    "correct": 1,
+    "explanation": "O CRAF identifica cada arma individualmente, com dados do proprietário e do armamento."
+  }
+  ,{
+    "question": "De acordo com o Decreto nº 11.615/2023, a quem compete a autorização para a aquisição e o registro de arma de fogo de uso permitido para fins de defesa pessoal?",
+    "options": [
+      "Ao Comando do Exército (SIGMA).",
+      "À Polícia Federal (SINARM).",
+      "À Secretaria de Segurança Pública de cada Estado.",
+      "Ao Ministério da Defesa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 10. A autorização para a aquisição de arma de fogo de uso permitido e a emissão do certificado de registro (CR) para defesa pessoal competem à Polícia Federal, após o preenchimento dos requisitos legais e comprovação da efetiva necessidade."
+  },
+  {
+    "question": "Qual é a idade mínima estabelecida pelo Decreto para a aquisição de arma de fogo, salvo exceções legais para integrantes de forças de segurança?",
+    "options": [
+      "18 anos.",
+      "21 anos.",
+      "25 anos.",
+      "30 anos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 12, I. Para a aquisição de arma de fogo de uso permitido, o interessado deverá comprovar a idade mínima de vinte e cinco anos, além de idoneidade, capacidade técnica e aptidão psicológica."
+  },
+  {
+    "question": "Para fins de defesa pessoal (pessoa física), qual é o limite máximo de armas de fogo de uso permitido que um cidadão pode possuir, conforme a regra geral do novo decreto?",
+    "options": [
+      "Até 6 armas.",
+      "Até 4 armas.",
+      "Até 2 armas.",
+      "Apenas 1 arma."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. Para fins de defesa pessoal, o interessado poderá adquirir até duas armas de fogo de uso permitido, desde que comprove a efetiva necessidade."
+  },
+  {
+    "question": "Qual é o limite anual de munições que podem ser adquiridas por arma de fogo registrada para defesa pessoal (pessoa física)?",
+    "options": [
+      "Até 200 munições.",
+      "Até 50 munições.",
+      "Até 500 munições.",
+      "Até 1.000 munições."
+    ],
+    "correct": 1,
+    "explanation": "Art. 14. O proprietário de arma de fogo de uso permitido registrada para defesa pessoal poderá adquirir, anualmente, até cinquenta munições para cada arma."
+  },
+  {
+    "question": "No caso do caçador de subsistência, qual é a autoridade competente para autorizar o registro da arma e qual a característica dessa arma?",
+    "options": [
+      "Exército; qualquer calibre.",
+      "Polícia Federal; arma de uso permitido, de tiro simples, com um ou dois canos, de alma lisa.",
+      "Polícia Federal; apenas revólveres calibre .38.",
+      "IBAMA; armas de pressão."
+    ],
+    "correct": 1,
+    "explanation": "Art. 21. A autorização para o registro de arma de fogo de uso permitido para caçador de subsistência compete à Polícia Federal. A arma deve ser de tiro simples, com um ou dois canos, de alma lisa, de calibre igual ou inferior a 16."
+  },
+  {
+    "question": "O caçador de subsistência tem direito a possuir quantas armas de fogo para essa finalidade?",
+    "options": [
+      "Até 2 armas.",
+      "Apenas 1 arma.",
+      "Até 3 armas.",
+      "Não há limite quantitativo, desde que sejam de alma lisa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 21, § 1º. O caçador de subsistência poderá adquirir uma única arma de fogo de uso permitido de alma lisa."
+  },
+  {
+    "question": "Sobre os Atiradores Desportivos, o Decreto 11.615 dividiu-os em níveis. Quais os requisitos para ser considerado um Atirador Nível 1?",
+    "options": [
+      "Mínimo de 4 treinamentos ou competições em clube de tiro em 12 meses.",
+      "Mínimo de 8 treinamentos ou competições em clube de tiro, em eventos distintos, em 12 meses.",
+      "Mínimo de 12 treinamentos ou competições em 12 meses.",
+      "Participação em pelo menos 1 campeonato nacional."
+    ],
+    "correct": 1,
+    "explanation": "Art. 35, I. O Atirador Nível 1 é aquele que possui oito treinamentos ou competições em clube de tiro, em eventos distintos, em doze meses."
+  },
+  {
+    "question": "Qual é o limite de armas de uso permitido para o Atirador Desportivo Nível 3?",
+    "options": [
+      "Até 8 armas.",
+      "Até 12 armas.",
+      "Até 16 armas.",
+      "Até 30 armas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 35, III, 'a'. O atirador de Nível 3 pode possuir até dezesseis armas de fogo, sendo até doze de uso permitido e até quatro de uso restrito."
+  },
+  {
+    "question": "A quem compete a autorização para as atividades de colecionadores, atiradores desportivos e caçadores (CAC)?",
+    "options": [
+      "Polícia Federal.",
+      "Ministério da Justiça.",
+      "Comando do Exército.",
+      "Secretaria de Segurança Pública."
+    ],
+    "correct": 2,
+    "explanation": "Art. 22. A autorização para a aquisição de armas de fogo e munições por colecionadores, atiradores desportivos e caçadores compete ao Comando do Exército."
+  },
+  {
+    "question": "Qual é o prazo de validade do Certificado de Registro (CR) para colecionadores, atiradores desportivos e caçadores (CACs)?",
+    "options": [
+      "10 anos.",
+      "5 anos.",
+      "3 anos.",
+      "Indeterminado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 24. O prazo de validade do Certificado de Registro de colecionador, atirador desportivo e caçador é de três anos."
+  },
+  {
+    "question": "Sobre o transporte de armas de fogo por CACs, a Guia de Tráfego autoriza o transporte da arma de qual maneira?",
+    "options": [
+      "Municiada e pronta para pronto uso em qualquer trajeto.",
+      "Desmuniciada, acompanhada da munição acondicionada em recipiente próprio e em trajeto autorizado.",
+      "Apenas dentro do município de residência do atirador.",
+      "Municiada, mas apenas para atiradores nível 3."
+    ],
+    "correct": 1,
+    "explanation": "Art. 33, § 1º. A Guia de Tráfego não autoriza o porte da arma, mas o seu transporte, devendo a arma estar desmuniciada e acompanhada da munição acondicionada em recipiente próprio."
+  },
+  {
+    "question": "O que define uma arma de fogo como sendo de 'Uso Restrito' segundo os novos parâmetros de energia cinética do Decreto?",
+    "options": [
+      "Armas que utilizam calibre .38 SPL.",
+      "Armas que excedam 407 joules de energia cinética na saída do cano.",
+      "Armas que excedam 1.220 joules de energia cinética na saída do cano (para armas curtas).",
+      "Qualquer arma semiautomática."
+    ],
+    "correct": 2,
+    "explanation": "Art. 11, I, 'c'. São de uso restrito as armas de fogo curtas cuja energia cinética na saída do cano seja superior a mil duzentos e vinte joules (900 libras-pé)."
+  },
+  {
+    "question": "É permitida a prática de tiro desportivo por menores de 18 anos?",
+    "options": [
+      "Sim, a partir dos 14 anos, com autorização judicial.",
+      "Não, é proibida em qualquer hipótese.",
+      "Sim, a partir dos 14 anos, com autorização dos pais e comunicação ao Exército.",
+      "Sim, a partir dos 16 anos, apenas com presença de instrutor."
+    ],
+    "correct": 0,
+    "explanation": "Art. 38. A prática de tiro desportivo por menores de dezoito anos e maiores de quatorze anos dependerá de autorização judicial, após comprovação da aptidão dos responsáveis."
+  },
+  {
+    "question": "Qual é o requisito específico para a concessão de porte de arma de fogo para defesa pessoal (Art. 10 da Lei 10.826 regulamentado pelo Decreto)?",
+    "options": [
+      "Apenas ser proprietário de arma há mais de 2 anos.",
+      "Demonstração de efetiva necessidade por exercício de atividade profissional de risco ou ameaça à sua integridade física.",
+      "Possuir curso de graduação em Direito.",
+      "Ter mais de 30 anos e não possuir antecedentes criminais."
+    ],
+    "correct": 1,
+    "explanation": "Art. 20. O porte de arma de fogo é pessoal, intransferível e revogável, e dependerá da demonstração da efetiva necessidade por exercício de atividade profissional de risco ou ameaça à integridade física."
+  },
+  {
+    "question": "Quantas armas de fogo um 'Caçador Excepcional' (não de subsistência) pode possuir no máximo?",
+    "options": [
+      "Até 6 armas, sendo até 2 de uso restrito.",
+      "Até 4 armas, sendo até 2 de uso restrito, com autorização do IBAMA.",
+      "Até 15 armas.",
+      "Até 2 armas, apenas de uso permitido."
+    ],
+    "correct": 1,
+    "explanation": "Art. 37, II. O caçador excepcional poderá possuir até 4 armas, sendo no máximo 2 de uso restrito, exigindo-se autorização do IBAMA para comprovar a necessidade de controle de fauna sinantrópica."
+  },
+  {
+    "question": "A validade do Certificado de Registro de Arma de Fogo (CRAF) para armas de uso permitido adquiridas para defesa pessoal é de:",
+    "options": [
+      "3 anos.",
+      "5 anos.",
+      "10 anos.",
+      "Vitalícia, enquanto durar a aptidão psicológica."
+    ],
+    "correct": 1,
+    "explanation": "Art. 24, I. O prazo de validade do CRAF é de cinco anos para armas de uso permitido (defesa pessoal)."
+  },
+  {
+    "question": "O que ocorre com as armas que eram de uso permitido e passaram a ser de uso restrito com a publicação do Decreto (o chamado 'apostilamento')?",
+    "options": [
+      "Devem ser entregues imediatamente à Polícia Federal para indenização.",
+      "É garantido o direito de posse e a validade do registro até o seu vencimento (regra de transição/estabilidade).",
+      "Devem ser recadastradas no Exército em até 30 dias sob pena de confisco.",
+      "São automaticamente consideradas ilegais."
+    ],
+    "correct": 1,
+    "explanation": "Art. 79. Fica garantido o direito de posse e de propriedade e a validade dos registros das armas de fogo adquiridas regularmente antes da entrada em vigor deste Decreto (respeito aos atos jurídicos perfeitos, observando as regras de renovação)."
+  }
+],
+
 "AOCPMariaDaPenha":[
   {
     "question": "Questão 1 Carla compareceu à delegacia informando que, ao longo dos últimos meses, sofreu ameaças constantes por parte de seu ex-marido, Antônio, com quem conviveu por um ano e meio, estando separados há três meses. Apesar da separação, ele a persegue nas redes sociais, envia mensagens ofensivas e já a aguardou em frente ao local de trabalho. Em uma dessas ocasiões, proferiu ofensas com conteúdo misógino, ameaçando agredi-la fisicamente caso se relacionasse com outro homem. A autoridade policial lavrou o boletim de ocorrência e encaminhou pedido de medida protetiva ao juízo competente. Considerando a situação narrada e a legislação aplicável, assinale a alternativa correta.",
