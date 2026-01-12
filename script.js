@@ -19085,6 +19085,576 @@ const questions = {
   }
 ],
 
+"11404_157_162":[
+  {
+    "question": "De acordo com o Art. 157, qual destes é considerado um órgão da execução penal?",
+    "options": [
+      "Tribunal de Contas do Estado",
+      "Conselho Penitenciário",
+      "Assembleia Legislativa",
+      "Secretaria de Segurança Pública"
+    ],
+    "correct": 1,
+    "explanation": "Art. 157 – São órgãos da execução penal: I – o Conselho de Criminologia e Política Criminal; II – o Juízo da Execução; III – o Conselho Penitenciário; IV – a Superintendência de Organização Penitenciária; V – a Direção do Estabelecimento; VI – o Patronato; VII – o Conselho da Comunidade. VIII – as entidades civis de direito privado sem fins lucrativos que tenham firmado convênio com o Estado para a administração de unidades prisionais destinadas ao cumprimento de pena privativa de liberdade. IX – a Ouvidoria-Geral do Estado, por meio da Ouvidoria do Sistema Penitenciário."
+  },
+  {
+    "question": "Qual órgão foi acrescentado ao rol de órgãos da execução penal pela Lei nº 25.605 de 2025?",
+    "options": [
+      "O Conselho de Criminologia",
+      "O Patronato",
+      "A Ouvidoria-Geral do Estado, por meio da Ouvidoria do Sistema Penitenciário",
+      "A Defensoria Pública"
+    ],
+    "correct": 2,
+    "explanation": "Art. 157, IX – a Ouvidoria-Geral do Estado, por meio da Ouvidoria do Sistema Penitenciário. (Inciso acrescentado pelo art. 1º da Lei nº 25.605, de 5/12/2025.)"
+  },
+  {
+    "question": "O Conselho de Criminologia e Política Criminal é subordinado a qual órgão estadual?",
+    "options": [
+      "Governadoria do Estado",
+      "Tribunal de Justiça",
+      "Secretaria de Estado da Justiça",
+      "Ministério Público"
+    ],
+    "correct": 2,
+    "explanation": "Art. 158 – O Conselho de Criminologia e Política Criminal, com sede nesta Capital, é subordinado à Secretaria de Estado da Justiça."
+  },
+  {
+    "question": "Quantos membros integram o Conselho de Criminologia e Política Criminal?",
+    "options": [
+      "10 membros",
+      "13 membros",
+      "15 membros",
+      "7 membros"
+    ],
+    "correct": 1,
+    "explanation": "Art. 159 – O Conselho de Criminologia e Política Criminal será integrado por 13 (treze) membros designados pelo Secretário de Estado da Justiça e escolhidos entre professores e profissionais das áreas de Direito Penal, Processual Penal e Penitenciário, de Criminologia e de Ciências Sociais, bem como entre representantes de organismos da área social."
+  },
+  {
+    "question": "Qual é a duração do mandato dos membros do Conselho de Criminologia e Política Criminal?",
+    "options": [
+      "2 anos",
+      "3 anos",
+      "4 anos",
+      "5 anos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 159, Parágrafo único – O mandato dos membros do Conselho terá duração de 4 (quatro) anos."
+  },
+  {
+    "question": "Compete ao Conselho de Criminologia e Política Criminal formular qual política?",
+    "options": [
+      "Política de segurança pública ostensiva",
+      "Política penitenciária do Estado",
+      "Política de habitação popular",
+      "Política educacional de base"
+    ],
+    "correct": 1,
+    "explanation": "Art. 160, I – formular a política penitenciária do Estado, observadas as diretrizes da política penitenciária nacional."
+  },
+  {
+    "question": "A quem incumbe fiscalizar os estabelecimentos para verificar o cumprimento da lei penitenciária?",
+    "options": [
+      "Apenas à Polícia Civil",
+      "Ao Conselho de Criminologia e Política Criminal",
+      "Exclusivamente ao Juiz da Execução",
+      "Ao Sindicato dos Agentes Prisionais"
+    ],
+    "correct": 1,
+    "explanation": "Art. 160, VII – fiscalizar os estabelecimentos e serviços penitenciários para verificação do fiel cumprimento desta lei e da implantação da reforma penitenciária."
+  },
+  {
+    "question": "O Conselho de Criminologia pode representar à autoridade para fins de apuração de violação?",
+    "options": [
+      "Não, essa função é apenas do Ministério Público",
+      "Sim, visando à apuração de violação da lei penitenciária e à interdição de estabelecimento",
+      "Sim, mas apenas em casos de crimes hediondos",
+      "Não, o conselho tem função apenas consultiva"
+    ],
+    "correct": 1,
+    "explanation": "Art. 160, VI – representar à autoridade competente, para instauração de sindicância ou procedimento administrativo, visando à apuração de violação da lei penitenciária e à interdição de estabelecimento penal."
+  },
+  {
+    "question": "Quais elementos compreendem o Juízo da Execução segundo o Art. 161?",
+    "options": [
+      "Apenas o Juiz e os Agentes de Segurança",
+      "O Juiz, o Ministério Público, a Defensoria Pública e o Serviço Social Penitenciário",
+      "O Juiz, o Governador e o Conselho da Comunidade",
+      "O Juiz e o Tribunal de Justiça apenas"
+    ],
+    "correct": 1,
+    "explanation": "Art. 161 – O Juízo da Execução, localizado na comarca da Capital e em comarca sede da região onde houver estabelecimento penitenciário, compreende o Juiz da Execução, o representante do Ministério Público, a Defensoria Pública e o Serviço Social Penitenciário."
+  },
+  {
+    "question": "Compete ao Juiz da Execução aprovar qual plano apresentado pela CTC?",
+    "options": [
+      "Plano de fuga e contingência",
+      "Plano de tratamento reeducativo",
+      "Plano de metas de produtividade industrial",
+      "Plano de férias dos funcionários"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, I – Compete ao Juiz da Execução: aprovar o plano de tratamento reeducativo apresentado pela Comissão Técnica de Classificação."
+  },
+  {
+    "question": "Em que tipo de reuniões da CTC o Juiz da Execução deve presidir?",
+    "options": [
+      "Reuniões sobre cardápio alimentar",
+      "Reuniões destinadas a tratar de progressão ou regressão do regime",
+      "Reuniões sobre compra de materiais clínicos",
+      "Reuniões de treinamento de agentes"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, II – Compete ao Juiz da Execução: presidir as reuniões da Comissão Técnica de Classificação destinadas a tratar de progressão ou regressão do regime."
+  },
+  {
+    "question": "Quem o Juiz deve ouvir antes de conceder a remição da pena?",
+    "options": [
+      "A vítima do delito",
+      "O Diretor da Polícia Civil",
+      "A Comissão Técnica de Classificação",
+      "A Secretaria de Fazenda"
+    ],
+    "correct": 2,
+    "explanation": "Art. 162, III – Compete ao Juiz da Execução: conceder remição da pena, ouvida a Comissão Técnica de Classificação, e autorização de saída prevista nos arts. 137 e 138 desta lei."
+  },
+  {
+    "question": "A quem compete supervisionar o período de prova do livramento condicional e do 'sursis'?",
+    "options": [
+      "Ao Diretor do Presídio",
+      "Ao Juiz da Execução",
+      "À Polícia Militar",
+      "Ao Conselho Penitenciário Nacional"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, VI – Compete ao Juiz da Execução: supervisionar o período de prova do livramento condicional e do 'sursis', mediante orientação e assistência do agente de prova ou trabalhador social."
+  },
+  {
+    "question": "Qual é o prazo de isolamento disciplinar que exige autorização do Juiz da Execução?",
+    "options": [
+      "Superior a 5 dias",
+      "Superior a 10 dias",
+      "Por mais de 15 dias",
+      "Qualquer prazo exige autorização"
+    ],
+    "correct": 2,
+    "explanation": "Art. 162, VIII – Compete ao Juiz da Execução: autorizar o isolamento disciplinar por mais de 15 (quinze) dias."
+  },
+  {
+    "question": "Ao Juiz da Execução compete decidir recurso sobre qual tema do sentenciado?",
+    "options": [
+      "Direito de herança familiar",
+      "Direito do sentenciado, inclusive progressão ou regressão de regime",
+      "Divórcio e partilha de bens",
+      "Impostos devidos pelo sentenciado"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, IX – Compete ao Juiz da Execução: decidir recurso sobre direito do sentenciado, inclusive sobre progressão ou regressão de regime."
+  },
+  {
+    "question": "A concessão do livramento condicional pelo Juiz depende de ouvir qual órgão?",
+    "options": [
+      "Conselho Penitenciário Federal",
+      "Comissão Técnica de Classificação",
+      "Ordem dos Advogados do Brasil",
+      "Família da vítima"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, V – Compete ao Juiz da Execução: conceder o livramento condicional, ouvida a Comissão Técnica de Classificação."
+  },
+  {
+    "question": "Como o Juiz acompanha a execução das medidas restritivas de direito?",
+    "options": [
+      "Pessoalmente, visitando a residência do réu semanalmente",
+      "Com a colaboração do serviço social penitenciário ou funcionário do Juízo",
+      "Apenas por meio de notícias de jornal",
+      "Por meio da Polícia Federal exclusivamente"
+    ],
+    "correct": 1,
+    "explanation": "Art. 162, VII – Compete ao Juiz da Execução: acompanhar a execução das medidas restritivas de direito com a colaboração do serviço social penitenciário ou de funcionário do Juízo e à vista do relatório da entidade a que o sentenciado preste serviços."
+  }
+],
+
+"11404_163_172":[
+  {
+    "question": "Com que frequência o Ministério Público deve visitar os estabelecimentos penitenciários, conforme o Art. 163?",
+    "options": [
+      "Semanalmente",
+      "Quinzenalmente",
+      "Mensalmente",
+      "Semestralmente"
+    ],
+    "correct": 2,
+    "explanation": "Art. 163 – Ao Ministério Público, entre outras atribuições de competência, incumbe: (...) VII – visitar mensalmente os estabelecimentos penitenciários;"
+  },
+  {
+    "question": "A quem o Ministério Público deve representar em caso de má orientação, rigor excessivo ou privilégio injustificado na execução penal?",
+    "options": [
+      "Ao Conselho da Comunidade",
+      "À autoridade competente",
+      "À Defensoria Pública",
+      "Apenas ao Diretor do presídio"
+    ],
+    "correct": 1,
+    "explanation": "Art. 163 – Ao Ministério Público, entre outras atribuições de competência, incumbe: (...) VIII – representar à autoridade competente sobre a má orientação, o rigor excessivo ou o privilégio injustificado na execução penal;"
+  },
+  {
+    "question": "De acordo com o Art. 164, em quais áreas o corpo da Defensoria Pública deve ter especialização?",
+    "options": [
+      "Direito Civil e Processual Civil",
+      "Direito Administrativo e Gestão Pública",
+      "Direito Penitenciário e Criminologia",
+      "Direito do Trabalho e Previdenciário"
+    ],
+    "correct": 2,
+    "explanation": "Art. 164 – O estabelecimento penitenciário contará com um corpo de Defensoria Pública com especialização em Direito Penitenciário e Criminologia."
+  },
+  {
+    "question": "Em quais áreas a Defensoria Pública deve promover a defesa dos sentenciados carentes (Art. 165)?",
+    "options": [
+      "Apenas na área penal",
+      "Nas áreas cível, penal e disciplinar",
+      "Apenas na área disciplinar interna",
+      "Nas áreas trabalhista e eleitoral"
+    ],
+    "correct": 1,
+    "explanation": "Art. 165 – Incumbe à Defensoria Pública promover a defesa dos sentenciados carentes nas áreas cível, penal e disciplinar."
+  },
+  {
+    "question": "Qual das seguintes incumbências pertence ao Serviço Social Penitenciário (Art. 166)?",
+    "options": [
+      "Presidir a Comissão Técnica de Classificação",
+      "Interpor recursos contra decisões judiciais",
+      "Realizar o estudo social do sentenciado",
+      "Autorizar a internação de presos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 166 – Ao Serviço Social Penitenciário incumbe: (...) II – realizar o estudo social do sentenciado;"
+  },
+  {
+    "question": "Segundo o Art. 166, o Serviço Social Penitenciário deve assessorar quais autoridades?",
+    "options": [
+      "O Juiz e o Promotor de Justiça",
+      "O Diretor do presídio e o Governador",
+      "O Delegado e o Defensor Público",
+      "Os Conselheiros da Comunidade apenas"
+    ],
+    "correct": 0,
+    "explanation": "Art. 166 – Ao Serviço Social Penitenciário incumbe: (...) V – assessorar o Juiz e o Promotor de Justiça;"
+  },
+  {
+    "question": "Qual é a natureza jurídica do Conselho Penitenciário, conforme definido no Art. 167?",
+    "options": [
+      "Órgão executivo e disciplinar",
+      "Órgão consultivo e fiscalizador da execução penal",
+      "Órgão de segurança e custódia",
+      "Órgão de assistência social apenas"
+    ],
+    "correct": 1,
+    "explanation": "Art. 167 – O Conselho Penitenciário é órgão consultivo e fiscalizador da execução penal."
+  },
+  {
+    "question": "Por quem são nomeados os membros do Conselho Penitenciário (Art. 168)?",
+    "options": [
+      "Pelo Presidente do Tribunal de Justiça",
+      "Pelo Secretário de Justiça",
+      "Pelo Governador do Estado",
+      "Pelo Procurador-Geral de Justiça"
+    ],
+    "correct": 2,
+    "explanation": "Art. 168 – O Conselho Penitenciário será integrado por membros nomeados pelo Governador do Estado e escolhidos entre profissionais, professores nas áreas de Direito Penal, Processual Penal e Penitenciário e das Ciências Sociais, bem como entre representantes da comunidade."
+  },
+  {
+    "question": "Qual é a duração do mandato dos Conselheiros do Conselho Penitenciário (Art. 168, parágrafo único)?",
+    "options": [
+      "2 anos",
+      "3 anos",
+      "4 anos",
+      "5 anos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 168, Parágrafo único – O mandato dos Conselheiros terá a duração de 4 (quatro) anos."
+  },
+  {
+    "question": "Sobre o que incumbe ao Conselho Penitenciário emitir parecer (Art. 169)?",
+    "options": [
+      "Progressão de regime e saída temporária",
+      "Livramento condicional, indulto e comutação de pena",
+      "Transferência de presos e isolamento disciplinar",
+      "Orçamento e construção de novas alas"
+    ],
+    "correct": 1,
+    "explanation": "Art. 169 – Incumbe ao Conselho Penitenciário: I – emitir parecer sobre livramento condicional, indulto e comutação de pena;"
+  },
+  {
+    "question": "O que o Conselho Penitenciário deve fazer ao detectar violações das normas de execução penal (Art. 169, IV)?",
+    "options": [
+      "Aplicar multas ao Diretor do presídio",
+      "Comunicar à autoridade competente e recomendar a abertura de inquérito",
+      "Resolver a situação de forma amigável e interna",
+      "Interditar imediatamente o local sem aviso prévio"
+    ],
+    "correct": 1,
+    "explanation": "Art. 169 – Incumbe ao Conselho Penitenciário: (...) IV – comunicar à autoridade competente as violações das normas de execução penal, recomendando a abertura de inquérito e a interdição do estabelecimento."
+  },
+  {
+    "question": "A Superintendência de Organização Penitenciária é integrante de qual estrutura orgânica (Art. 170)?",
+    "options": [
+      "Secretaria de Estado da Justiça",
+      "Secretaria de Defesa Social",
+      "Polícia Civil",
+      "Tribunal de Justiça"
+    ],
+    "correct": 0,
+    "explanation": "Art. 170 – A Superintendência de Organização Penitenciária Estadual, órgão integrante da estrutura orgânica da Secretaria de Estado da Justiça, tem por objetivo assegurar a aplicação da Lei de Execução Penal, a custódia e a manutenção do sentenciado e do preso provisório, garantindo-lhes o respeito à dignidade inerente à pessoa."
+  },
+  {
+    "question": "A quem compete autorizar a internação e a desinternação nos estabelecimentos penitenciários (Art. 171)?",
+    "options": [
+      "Ao Diretor do Estabelecimento",
+      "À Superintendência de Organização Penitenciária",
+      "Ao Ministério Público",
+      "Ao Médico do presídio"
+    ],
+    "correct": 1,
+    "explanation": "Art. 171 – À Superintendência de Organização Penitenciária incumbe: (...) VII – autorizar a internação e a desinternação nos estabelecimentos penitenciários."
+  },
+  {
+    "question": "Qual órgão deve promover a pesquisa criminológica e a estatística criminal (Art. 171)?",
+    "options": [
+      "A Direção do Estabelecimento",
+      "O Conselho Penitenciário",
+      "A Superintendência de Organização Penitenciária",
+      "O Serviço Social Penitenciário"
+    ],
+    "correct": 2,
+    "explanation": "Art. 171 – À Superintendência de Organização Penitenciária incumbe: (...) IV – promover a pesquisa criminológica e a estatística criminal;"
+  },
+  {
+    "question": "Quem tem a atribuição de presidir a Comissão Técnica de Classificação (Art. 172)?",
+    "options": [
+      "O Juiz da Execução",
+      "O Diretor do estabelecimento penitenciário",
+      "O Defensor Público",
+      "O Psiquiatra da unidade"
+    ],
+    "correct": 1,
+    "explanation": "Art. 172 – Incumbe à direção do estabelecimento penitenciário: (...) V – presidir a Comissão Técnica de Classificação;"
+  },
+  {
+    "question": "Para que serve a prática do diretor de 'percorrer as dependências do estabelecimento' (Art. 172, VII)?",
+    "options": [
+      "Para verificação da ordem e disciplina",
+      "Para entregar correspondência aos presos",
+      "Para realizar contagem de material escolar",
+      "Para fiscalizar apenas a limpeza das celas"
+    ],
+    "correct": 0,
+    "explanation": "Art. 172 – Incumbe à direção do estabelecimento penitenciário: (...) VII – percorrer as dependências do estabelecimento para verificação da ordem e disciplina;"
+  },
+  {
+    "question": "Segundo o Art. 172, a quem a direção do estabelecimento deve apresentar o plano anual de atividades?",
+    "options": [
+      "Ao Governador",
+      "Ao Juiz da Execução",
+      "À Superintendência de Organização Penitenciária",
+      "Ao Conselho da Comunidade"
+    ],
+    "correct": 2,
+    "explanation": "Art. 172 – Incumbe à direção do estabelecimento penitenciário: (...) XIII – apresentar à Superintendência de Organização Penitenciária o plano anual de atividades do estabelecimento penitenciário;"
+  }
+],
+
+"11404_173_176":[
+  {
+    "question": "De acordo com o Art. 173, quem é a autoridade responsável por presidir o Patronato em cada comarca?",
+    "options": [
+      "O Promotor de Justiça da Execução",
+      "O Juiz da Execução Penal",
+      "O Governador do Estado",
+      "O representante da OAB"
+    ],
+    "correct": 1,
+    "explanation": "Art. 173 – É instituído em cada comarca, por decreto do Governador do Estado, o Patronato, integrado pelo Juiz da Execução Penal, que o presidirá, pelo Promotor de Justiça da Execução, por representantes da administração penitenciária, da Ordem dos Advogados do Brasil – OAB -, de confissões religiosas, de clubes de serviço e de obras sociais."
+  },
+  {
+    "question": "Como é instituído o Patronato em cada comarca, segundo o Art. 173?",
+    "options": [
+      "Por portaria do Juiz da Execução",
+      "Por lei municipal específica",
+      "Por decreto do Governador do Estado",
+      "Por resolução da Secretaria de Justiça"
+    ],
+    "correct": 2,
+    "explanation": "Art. 173 – É instituído em cada comarca, por decreto do Governador do Estado, o Patronato, integrado pelo Juiz da Execução Penal, que o presidirá, pelo Promotor de Justiça da Execução, por representantes da administração penitenciária, da Ordem dos Advogados do Brasil – OAB -, de confissões religiosas, de clubes de serviço e de obras sociais."
+  },
+  {
+    "question": "Conforme o Art. 174, inciso I, qual é uma das incumbências do Patronato em relação ao semilivre e ao egresso?",
+    "options": [
+      "Aplicar sanções disciplinares",
+      "Orientar e assistir",
+      "Realizar a escolta armada",
+      "Definir a sentença condenatória"
+    ],
+    "correct": 1,
+    "explanation": "Art. 174 – Ao Patronato incumbe: I – orientar e assistir o semilivre e o egresso; II – acompanhar a execução das medidas restritivas de direito; III – colaborar na fiscalização e na assistência no período do liberando e do sursitário; IV – visitar o liberando e o sentenciado para facilitar sua reinserção na família e na profissão; V – assistir o sentenciado nas suas relações com a família; VI – colaborar na obtenção de emprego para o sentenciado; VII – fiscalizar a execução da medida de segurança em meio fechado e em semiliberdade para proteção dos direitos do sentenciado; VIII – zelar pela prática do tratamento reeducativo e pela sua progressão nos termos do art. 112, parágrafo único, da Lei Federal nº 7.210, de 11 de junho de 1984; IX – incentivar a seleção e a formação contínua do pessoal penitenciário; X – orientar a família do sentenciado e a da vítima através de contato com os centros comunitários e associações de assistência socioeducativa às famílias; XI – assistir a vítima do delito e seus dependentes; XII – assistir o egresso indigente com problema de reintegração na sociedade; XIII – designar pessoa idônea para assistir e orientar o sursitário, o liberando e o egresso, na falta do orientador social; XIV – informar periodicamente o Juiz da Execução sobre a assistência ao probacionário e sobre a evolução de sua reintegração na sociedade."
+  },
+  {
+    "question": "De acordo com o Art. 174, o Patronato deve colaborar na obtenção de quê para o sentenciado?",
+    "options": [
+      "Indulto natalino",
+      "Emprego",
+      "Armamento para defesa",
+      "Remição de pena por leitura"
+    ],
+    "correct": 1,
+    "explanation": "Art. 174 – Ao Patronato incumbe: (...) VI – colaborar na obtenção de emprego para o sentenciado; (...)"
+  },
+  {
+    "question": "A quem o Patronato deve assistir, além do sentenciado, de acordo com o inciso XI do Art. 174?",
+    "options": [
+      "Apenas o diretor do presídio",
+      "A vítima do delito e seus dependentes",
+      "Os advogados de defesa",
+      "Exclusivamente o egresso estrangeiro"
+    ],
+    "correct": 1,
+    "explanation": "Art. 174 – Ao Patronato incumbe: (...) XI – assistir a vítima do delito e seus dependentes; (...)"
+  },
+  {
+    "question": "Sobre a evolução da reintegração do probacionário, o Patronato deve informar periodicamente a qual autoridade (Art. 174)?",
+    "options": [
+      "Ao Secretário de Segurança",
+      "Ao Diretor do Estabelecimento",
+      "Ao Juiz da Execução",
+      "Ao Presidente da OAB"
+    ],
+    "correct": 2,
+    "explanation": "Art. 174 – Ao Patronato incumbe: (...) XIV – informar periodicamente o Juiz da Execução sobre a assistência ao probacionário e sobre a evolução de sua reintegração na sociedade."
+  },
+  {
+    "question": "Quem deve ser designado pelo Patronato na falta do orientador social para assistir o sursitário (Art. 174)?",
+    "options": [
+      "Um policial militar",
+      "Uma pessoa idônea",
+      "Um estagiário de direito",
+      "O próprio Juiz"
+    ],
+    "correct": 1,
+    "explanation": "Art. 174 – Ao Patronato incumbe: (...) XIII – designar pessoa idônea para assistir e orientar o sursitário, o liberando e o egresso, na falta do orientador social; (...)"
+  },
+  {
+    "question": "Conforme o Art. 175, qual destes membros deve compor, no mínimo, o Conselho da Comunidade?",
+    "options": [
+      "Um representante da associação comercial ou industrial",
+      "Um delegado de polícia",
+      "Um médico legista",
+      "Um representante da prefeitura"
+    ],
+    "correct": 0,
+    "explanation": "Art. 175 – Cada comarca disporá de um Conselho da Comunidade composto, no mínimo, por 1 (um) representante da associação comercial ou industrial, 1 (um) advogado indicado pela Ordem dos Advogados do Brasil – OAB -, 1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais e por representantes de obras sociais e de clubes de serviço."
+  },
+  {
+    "question": "Quem escolhe o assistente social que compõe o Conselho da Comunidade (Art. 175)?",
+    "options": [
+      "O Juiz da Execução",
+      "O Prefeito da comarca",
+      "A Delegacia Seccional do Conselho Nacional de Assistentes Sociais",
+      "A diretoria da OAB local"
+    ],
+    "correct": 2,
+    "explanation": "Art. 175 – Cada comarca disporá de um Conselho da Comunidade composto, no mínimo, (...) 1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais e por representantes de obras sociais e de clubes de serviço."
+  },
+  {
+    "question": "Qual é a periodicidade das visitas do Conselho da Comunidade aos estabelecimentos penais (Art. 176, I)?",
+    "options": [
+      "Semanalmente",
+      "Mensalmente",
+      "Bimestralmente",
+      "Anualmente"
+    ],
+    "correct": 1,
+    "explanation": "Art. 176 – Ao Conselho da Comunidade incumbe: I – visitar mensalmente os estabelecimentos e serviços penais da comarca; II – incentivar a prática do tratamento não institucional, como o dos regimes semilivre e em meio livre; III – promover a participação ativa da comunidade na reintegração do sentenciado e do egresso na família, na profissão e na sociedade; IV – colaborar com o poder público e a comunidade na implantação da Lei Federal nº 7.210, de 11 junho de 1984; V – pugnar pela colocação, no mercado profissional, do sentenciado com índice positivo de emendabilidade e segurança para a comunidade; VI – acompanhar a supervisão do período de prova do liberando e do sursitário, bem como da execução das medidas alternativas à prisão; VII – entrosar-se com os serviços médicos e psicológicos e com as entidades de assistência socioeducativa para o probacionário com problema; VIII – cooperar com a comunidade na conservação e na manutenção da cadeia pública local."
+  },
+  {
+    "question": "O Conselho da Comunidade deve cooperar com a comunidade na conservação e manutenção de qual local (Art. 176, VIII)?",
+    "options": [
+      "Do Fórum da Comarca",
+      "Da sede da OAB",
+      "Da cadeia pública local",
+      "Das praças municipais"
+    ],
+    "correct": 2,
+    "explanation": "Art. 176 – Ao Conselho da Comunidade incumbe: (...) VIII – cooperar com a comunidade na conservação e na manutenção da cadeia pública local."
+  },
+  {
+    "question": "O que o Conselho da Comunidade pode providenciar mediante convênio com o município (Art. 176, parágrafo único)?",
+    "options": [
+      "A construção de novos presídios",
+      "A prestação de trabalho pelo sentenciado",
+      "A isenção de impostos para egressos",
+      "O transporte gratuito para familiares"
+    ],
+    "correct": 1,
+    "explanation": "Parágrafo único – O Conselho poderá providenciar a celebração de convênio com o município para a prestação de trabalho pelo sentenciado."
+  },
+  {
+    "question": "Segundo o Art. 176-A, em que situação as entidades civis podem solicitar apoio policial?",
+    "options": [
+      "Para escolta de familiares",
+      "Para segurança externa da unidade, quando necessário",
+      "Para realização de exames biológicos",
+      "Apenas para transferência de regime"
+    ],
+    "correct": 1,
+    "explanation": "Art. 176-A – Compete às entidades civis de direito privado sem fins lucrativos que tenham firmado convênio com o Estado para a administração de unidades prisionais (...): III – solicitar apoio policial para a segurança externa da unidade, quando necessário;"
+  },
+  {
+    "question": "Com que frequência as entidades civis conveniadas devem prestar contas dos recursos recebidos (Art. 176-A, V)?",
+    "options": [
+      "Semanalmente",
+      "Mensalmente",
+      "Anualmente",
+      "Somente ao fim do convênio"
+    ],
+    "correct": 1,
+    "explanation": "Art. 176-A – Compete às entidades civis de direito privado sem fins lucrativos (...) V – prestar contas mensalmente dos recursos recebidos;"
+  },
+  {
+    "question": "As atribuições previstas no Art. 172 da lei aplicam-se a quem nas unidades administradas por entidades privadas (Art. 176-B)?",
+    "options": [
+      "Ao Juiz da Execução",
+      "Ao representante da OAB",
+      "À diretoria da unidade",
+      "Aos próprios sentenciados"
+    ],
+    "correct": 2,
+    "explanation": "Art. 176-B – Incumbem à diretoria da unidade de cumprimento de pena privativa de liberdade administrada por entidade civil de direito privado sem fins lucrativos conveniada com o Estado as atribuições previstas no art. 172 desta lei."
+  },
+  {
+    "question": "Qual princípio deve ser garantido na estruturação da Ouvidoria do Sistema Penitenciário (Art. 176-D)?",
+    "options": [
+      "Princípio da celeridade processual",
+      "Princípio da dignidade humana",
+      "Princípio da eficiência administrativa",
+      "Princípio da publicidade absoluta"
+    ],
+    "correct": 1,
+    "explanation": "Art. 176-D – Na estruturação da Ouvidoria do Sistema Penitenciário, serão implementados instrumentos que garantam o princípio da dignidade humana."
+  },
+  {
+    "question": "As competências da Ouvidoria do Sistema Penitenciário são regidas por qual norma citada no Art. 176-C?",
+    "options": [
+      "Constituição Federal",
+      "Código de Processo Penal",
+      "Decreto nº 48.613, de 28 de abril de 2023",
+      "Lei de Diretrizes e Bases"
+    ],
+    "correct": 2,
+    "explanation": "Art. 176-C – As competências da Ouvidoria do Sistema Penitenciário são as previstas no art. 24 do Decreto nº 48.613, de 28 de abril de 2023."
+  }
+],
+
 "D11615":[
 
   {
