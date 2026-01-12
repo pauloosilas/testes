@@ -18705,6 +18705,196 @@ const questions = {
   }
 ],
 
+"oit":[
+  {
+    "question": "Em que ano e contexto histórico a OIT foi criada?",
+    "options": [
+      "1945, após a Segunda Guerra Mundial, pela Carta das Nações Unidas.",
+      "1919, após a Primeira Guerra Mundial, pelo Tratado de Versalhes.",
+      "1944, com a Declaração de Filadélfia.",
+      "1948, junto com a Declaração Universal dos Direitos Humanos."
+    ],
+    "correct": 1,
+    "explanation": "A OIT foi fundada em 1919 como parte do Tratado de Versalhes, refletindo a crença de que a paz universal e duradoura só pode ser alcançada se for baseada na justiça social."
+  },
+  {
+    "question": "Qual é a característica distintiva da estrutura organizacional da OIT?",
+    "options": [
+      "Bilateralismo (Governos e Empresas).",
+      "Unilateralismo (Apenas representantes governamentais).",
+      "Tripartismo (Governos, Empregadores e Trabalhadores).",
+      "Multilateralismo exclusivo de ONGs internacionais."
+    ],
+    "correct": 2,
+    "explanation": "A OIT possui uma estrutura tripartite única, onde representantes dos trabalhadores e empregadores têm voz e voto iguais aos dos governos em seus órgãos deliberativos."
+  },
+  {
+    "question": "A Declaração de Filadélfia (1944) reafirmou os objetivos da OIT. Qual é um de seus princípios fundamentais?",
+    "options": [
+      "O trabalho é uma mercadoria sujeita às leis de mercado.",
+      "A liberdade de expressão e de associação são essenciais ao progresso constante.",
+      "A pobreza em qualquer lugar não afeta a prosperidade de outros lugares.",
+      "A regulação do trabalho deve ser exclusivamente nacional."
+    ],
+    "correct": 1,
+    "explanation": "A Declaração de Filadélfia estabelece que: o trabalho não é uma mercadoria; a liberdade de expressão e de associação são essenciais ao progresso; e a pobreza em qualquer lugar constitui um perigo para a prosperidade de todos."
+  },
+  {
+    "question": "Sobre a Declaração de 1998 relativa aos Princípios e Direitos Fundamentais no Trabalho, é correto afirmar que:",
+    "options": [
+      "Ela obriga os Estados-membros a respeitarem os princípios, mesmo que não tenham ratificado as convenções correspondentes.",
+      "Ela só se aplica aos países que ratificaram todas as convenções da OIT.",
+      "Ela extinguiu o caráter tripartite da organização.",
+      "Ela trata apenas de questões ambientais no ambiente de trabalho."
+    ],
+    "correct": 0,
+    "explanation": "A Declaração de 1998 estabelece que todos os membros, pelo simples fato de pertencerem à OIT, têm o compromisso de respeitar e promover os princípios fundamentais, independentemente da ratificação das convenções específicas."
+  },
+  {
+    "question": "Qual destes NÃO faz parte dos quatro princípios fundamentais da OIT (conforme a classificação clássica da Declaração de 1998)?",
+    "options": [
+      "Liberdade sindical e reconhecimento do direito de negociação coletiva.",
+      "Eliminação de todas as formas de trabalho forçado ou obrigatório.",
+      "Abolição efetiva do trabalho infantil.",
+      "Garantia de salário mínimo universal reajustado pela inflação."
+    ],
+    "correct": 3,
+    "explanation": "Os quatro princípios originais são: liberdade sindical/negociação coletiva; eliminação do trabalho forçado; abolição do trabalho infantil; e eliminação da discriminação. O salário mínimo não é um dos 'princípios fundamentais' da Declaração de 1998."
+  },
+  {
+    "question": "No sistema jurídico brasileiro, qual o status de uma Convenção da OIT que trata de Direitos Humanos, aprovada pelo rito comum?",
+    "options": [
+      "Status de lei ordinária.",
+      "Status supralegal (acima da lei, abaixo da Constituição).",
+      "Status de emenda constitucional.",
+      "Não possui força jurídica no Brasil."
+    ],
+    "correct": 1,
+    "explanation": "Segundo o entendimento do STF, tratados de direitos humanos ratificados pelo Brasil que não seguem o rito do Art. 5º, §3º da CF possuem status 'supralegal', situando-se acima das leis ordinárias."
+  },
+  {
+    "question": "O que diferencia uma 'Convenção' de uma 'Recomendação' da OIT?",
+    "options": [
+      "A Convenção é um tratado internacional vinculante após ratificação; a Recomendação serve apenas como diretriz não vinculante.",
+      "A Recomendação é superior à Convenção.",
+      "Apenas a Recomendação precisa de aprovação tripartite.",
+      "Ambas têm exatamente o mesmo peso jurídico e obrigatoriedade."
+    ],
+    "correct": 0,
+    "explanation": "Convenções são tratados internacionais que criam obrigações legais para os países que as ratificam. Recomendações não são sujeitas a ratificação e servem para orientar a política e a legislação nacional."
+  },
+  {
+    "question": "Qual órgão da OIT funciona como o 'parlamento' da organização, reunindo-se anualmente?",
+    "options": [
+      "Conselho de Administração.",
+      "Repartição Internacional do Trabalho (BIT).",
+      "Conferência Internacional do Trabalho.",
+      "Corte Internacional de Justiça do Trabalho."
+    ],
+    "correct": 2,
+    "explanation": "A Conferência Internacional do Trabalho é o órgão supremo da OIT, onde as normas internacionais são debatidas e adotadas de forma tripartite."
+  },
+  {
+    "question": "Sobre o trabalho escravo contemporâneo, a OIT baseia-se em quais convenções fundamentais?",
+    "options": [
+      "Convenções 29 e 105.",
+      "Convenções 87 e 98.",
+      "Convenções 138 e 182.",
+      "Convenções 100 e 111."
+    ],
+    "correct": 0,
+    "explanation": "As Convenções 29 (Trabalho Forçado) e 105 (Abolição do Trabalho Forçado) são os instrumentos fundamentais da OIT sobre o combate ao trabalho análogo ao de escravo."
+  },
+  {
+    "question": "A Declaração de Filadélfia afirma que a 'pobreza em qualquer lugar constitui um perigo para':",
+    "options": [
+      "A economia dos países desenvolvidos.",
+      "A estabilidade dos governos locais.",
+      "A prosperidade de todos.",
+      "O desenvolvimento tecnológico."
+    ],
+    "correct": 2,
+    "explanation": "A frase célebre da Declaração de Filadélfia ressalta a interdependência global, afirmando que a pobreza em qualquer lugar ameaça a prosperidade mundial."
+  },
+  {
+    "question": "O Brasil é membro da OIT desde quando?",
+    "options": [
+      "Desde sua fundação em 1919.",
+      "Desde 1945, com o fim da Era Vargas.",
+      "Desde 1988, com a nova Constituição.",
+      "Desde 1964."
+    ],
+    "correct": 0,
+    "explanation": "O Brasil é um dos membros fundadores da OIT, participando da organização desde 1919."
+  },
+  {
+    "question": "Qual convenção da OIT trata especificamente sobre a proibição das piores formas de trabalho infantil?",
+    "options": [
+      "Convenção 138.",
+      "Convenção 182.",
+      "Convenção 111.",
+      "Convenção 155."
+    ],
+    "correct": 1,
+    "explanation": "A Convenção 182 foca na proibição e ação imediata para a eliminação das piores formas de trabalho infantil (tráfico, escravidão, prostituição, atividades ilícitas e trabalhos perigosos)."
+  },
+  {
+    "question": "Em relação à discriminação no emprego e ocupação, a Convenção 111 da OIT proíbe distinções baseadas em:",
+    "options": [
+      "Apenas raça e sexo.",
+      "Apenas opinião política e religião.",
+      "Raça, cor, sexo, religião, opinião política, ascendência nacional ou origem social.",
+      "Critérios puramente técnicos de qualificação profissional."
+    ],
+    "correct": 2,
+    "explanation": "A Convenção 111 é ampla e proíbe discriminação baseada em raça, cor, sexo, religião, opinião política, ascendência nacional ou origem social que anule a igualdade de oportunidades."
+  },
+  {
+    "question": "O Conselho de Administração da OIT é responsável por:",
+    "options": [
+      "Tomar decisões sobre a política da OIT e estabelecer o programa e orçamento.",
+      "Julgar crimes de guerra cometidos contra trabalhadores.",
+      "Ratificar automaticamente as convenções nos países membros.",
+      "Substituir os sindicatos nacionais na negociação salarial."
+    ],
+    "correct": 0,
+    "explanation": "O Conselho de Administração é o órgão executivo da OIT, responsável por decisões políticas, agenda da Conferência e eleição do Diretor-Geral."
+  },
+  {
+    "question": "Como é chamada a 'Secretaria Permanente' da OIT, com sede em Genebra?",
+    "options": [
+      "Conselho de Segurança do Trabalho.",
+      "Repartição Internacional do Trabalho (ou Secretariado).",
+      "Fundo Global do Trabalho.",
+      "Comissão de Peritos."
+    ],
+    "correct": 1,
+    "explanation": "A Repartição Internacional do Trabalho (muitas vezes referida pela sigla BIT, do francês 'Bureau International du Travail') é o secretariado permanente da organização."
+  },
+  {
+    "question": "Para que uma Convenção da OIT tenha status equivalente a Emenda Constitucional no Brasil, ela deve:",
+    "options": [
+      "Ser aprovada apenas pelo Presidente da República.",
+      "Ser versada sobre direitos humanos e aprovada em dois turnos, por três quintos dos votos em cada casa do Congresso.",
+      "Ser aprovada pelo STF antes da ratificação.",
+      "Ser traduzida oficialmente por tradutor juramentado."
+    ],
+    "correct": 1,
+    "explanation": "Seguindo o Art. 5º, §3º da CF/88, tratados de direitos humanos aprovados com quórum de emenda constitucional (2 turnos, 3/5 dos votos) equivalem a emendas constitucionais."
+  },
+  {
+    "question": "Qual é o pilar central da justiça social segundo a OIT?",
+    "options": [
+      "A máxima produtividade industrial.",
+      "A erradicação total das empresas privadas.",
+      "O diálogo social entre as forças produtivas e o governo.",
+      "A imposição de leis trabalhistas idênticas em todos os países."
+    ],
+    "correct": 2,
+    "explanation": "O diálogo social, por meio do tripartismo, é o método fundamental da OIT para promover a justiça social e condições de trabalho dignas."
+  }
+],
+
 "D11615":[
 
   {
