@@ -18895,6 +18895,196 @@ const questions = {
   }
 ],
 
+"11404_39_59":[
+  {
+    "question": "De acordo com o Art. 39, qual é a natureza do trabalho para o sentenciado?",
+    "options": [
+      "O trabalho é facultativo em todos os regimes",
+      "O trabalho é obrigatório, ressalvadas as exceções legais",
+      "O trabalho é obrigatório apenas para o regime fechado",
+      "O trabalho é proibido para presos provisórios"
+    ],
+    "correct": 1,
+    "explanation": "Art. 39 – O trabalho é obrigatório para o sentenciado, ressalvado o disposto no art. 58."
+  },
+  {
+    "question": "Qual o percentual de vagas reservadas para sentenciados em contratações de obras e serviços pela administração pública direta ou indireta do Estado?",
+    "options": [
+      "Até 5%",
+      "Exatamente 15%",
+      "Até 10%",
+      "Mínimo de 20%"
+    ],
+    "correct": 2,
+    "explanation": "Art. 39, § 3º – Na contratação de obras e de serviços pela administração pública direta ou indireta do Estado serão reservados para sentenciados até 10% (dez por cento) do total das vagas existentes."
+  },
+  {
+    "question": "Qual é o limite máximo da jornada diária de trabalho do sentenciado conforme o Art. 40?",
+    "options": [
+      "6 horas",
+      "8 horas",
+      "10 horas",
+      "44 horas semanais"
+    ],
+    "correct": 1,
+    "explanation": "Art. 40 – A jornada diária de trabalho do sentenciado não excederá 8 (oito) horas."
+  },
+  {
+    "question": "O que constitui a resistência ao trabalho ou a falta voluntária em sua execução?",
+    "options": [
+      "Direito de greve do sentenciado",
+      "Infração disciplinar",
+      "Falta leve sem necessidade de anotação",
+      "Motivo para progressão de regime"
+    ],
+    "correct": 1,
+    "explanation": "Art. 41 – A resistência ao trabalho ou a falta voluntária em sua execução constituem infração disciplinar, cuja punição será anotada no prontuário do sentenciado."
+  },
+  {
+    "question": "Segundo o Art. 45, o sentenciado em regime semiaberto pode frequentar estabelecimento de ensino na comunidade?",
+    "options": [
+      "Não, o estudo deve ser exclusivamente dentro da unidade",
+      "Sim, com autorização judicial e ouvida a Comissão Técnica de Classificação",
+      "Sim, desde que autorizado apenas pelo Diretor do presídio",
+      "Sim, mas apenas se for curso de alfabetização"
+    ],
+    "correct": 1,
+    "explanation": "Art. 45 – O sentenciado em regime semiaberto poderá, com autorização judicial, frequentar, na comunidade, estabelecimento de ensino ou de formação profissional, ouvida a Comissão Técnica de Classificação, observado o disposto nos arts. 122 a 125 da Lei Federal nº 7.210, de 11 de julho de 1984."
+  },
+  {
+    "question": "Como deve ser feita a supervisão do trabalho externo, de acordo com o Art. 46?",
+    "options": [
+      "Por monitoramento eletrônico via satélite exclusivamente",
+      "Pela Polícia Militar diariamente",
+      "Pelo serviço social penitenciário mediante visita de inspeção",
+      "Pelo próprio empregador, sem interferência do Estado"
+    ],
+    "correct": 2,
+    "explanation": "Art. 46 – O trabalho externo será supervisionado pelo serviço social penitenciário mediante visita de inspeção ao local de trabalho."
+  },
+  {
+    "question": "No regime semiaberto, quando o sentenciado trabalha em obra pública, o que lhe é permitido quanto ao pernoite?",
+    "options": [
+      "Retornar para sua residência particular",
+      "Pernoitar em dependência da obra, sob custódia e vigilância",
+      "Pernoitar em qualquer hotel da comarca",
+      "É proibido pernoitar fora do estabelecimento penitenciário em qualquer hipótese"
+    ],
+    "correct": 1,
+    "explanation": "Art. 48 – É obrigatório o regresso do sentenciado ao estabelecimento penitenciário, no regime semi-aberto, quando em serviço particular, finda a jornada de trabalho, sendo-lhe permitido, quando em trabalho em obra pública, pernoitar em dependência da obra, sob custódia e vigilância da direção da entidade, que mensalmente enviará à penitenciária relatório sobre o seu comportamento."
+  },
+  {
+    "question": "Qual o valor mínimo da remuneração para o trabalho interno do sentenciado?",
+    "options": [
+      "Um salário mínimo integral",
+      "Não inferior a 1/2 do salário mínimo",
+      "Não inferior a 3/4 do salário mínimo",
+      "O trabalho interno não é remunerado"
+    ],
+    "correct": 2,
+    "explanation": "Art. 51, § 1º – A remuneração será fixada, para o trabalho interno, em quantia não inferior a 3/4 (três quartos) do salário mínimo."
+  },
+  {
+    "question": "Em que situação a remuneração do sentenciado será acrescida de 1/4 (um quarto) do seu valor?",
+    "options": [
+      "Se o trabalho for realizado no período noturno",
+      "Se tiver concluído curso profissionalizante, tiver bom comportamento e progresso na recuperação",
+      "Se o sentenciado possuir dependentes menores de idade",
+      "Se o trabalho for considerado insalubre"
+    ],
+    "correct": 1,
+    "explanation": "Art. 51, § 2º – A remuneração do sentenciado que tiver concluído curso de formação profissional, bem como a do que tiver bom comportamento e progresso na sua recuperação, será acrescida de 1/4 (um quarto) do seu valor."
+  },
+  {
+    "question": "Segundo o Art. 52, a prestação de serviço pelo sentenciado gera vínculo empregatício?",
+    "options": [
+      "Sim, em todas as modalidades de trabalho",
+      "Não, a prestação é de cunho pedagógico e não implica vínculo empregatício, salvo exceções",
+      "Sim, mas apenas se o trabalho for externo",
+      "Sim, conforme as regras gerais da CLT"
+    ],
+    "correct": 1,
+    "explanation": "Art. 52 – A prestação de serviço pelo sentenciado será de cunho exclusivamente pedagógico, com vistas a sua reintegração na sociedade, não implicando vínculo empregatício, ressalvado o trabalho industrial exercido em fundação, empresa pública com autonomia administrativa ou entidade privada, o qual terá remuneração igual à do trabalhador livre."
+  },
+  {
+    "question": "Qual é a destinação final da remuneração auferida pelo sentenciado (pecúlio), após as indenizações e assistência familiar?",
+    "options": [
+      "Será doada para o fundo penitenciário",
+      "Será entregue ao sentenciado no ato de sua libertação",
+      "Será utilizada para pagar as custas do processo em todos os casos",
+      "Será dividida entre os companheiros de cela"
+    ],
+    "correct": 1,
+    "explanation": "Art. 54, III – cumprido o disposto nos incisos anteriores e ressalvadas outras aplicações legais, na constituição de pecúlio, na forma de depósito em caderneta de poupança mantida por estabelecimento oficial, o qual será entregue ao sentenciado no ato de sua libertação."
+  },
+  {
+    "question": "De acordo com o Art. 54, quais são as prioridades de emprego da remuneração do sentenciado?",
+    "options": [
+      "Lazer, vestuário e alimentação especial",
+      "Indenização de danos do delito, assistência à família e constituição de pecúlio",
+      "Pagamento de advogados e multas eleitorais",
+      "Depósito integral em conta corrente para uso imediato"
+    ],
+    "correct": 1,
+    "explanation": "Art. 54 – A remuneração auferida pelo sentenciado no trabalho externo será empregada: I – na indenização dos danos causados pelo delito... II – na assistência à família do sentenciado... III – ...na constituição de pecúlio."
+  },
+  {
+    "question": "O que acontece com as despesas de manutenção e custas processuais do sentenciado com conduta exemplar?",
+    "options": [
+      "São deduzidas em dobro",
+      "Não poderão ser deduzidas de sua remuneração",
+      "Devem ser pagas pela família do sentenciado",
+      "São perdoadas apenas após 10 anos de trabalho"
+    ],
+    "correct": 1,
+    "explanation": "Art. 56 – As despesas de manutenção e as custas processuais não poderão ser deduzidas da remuneração do sentenciado que se distinguir por sua conduta exemplar."
+  },
+  {
+    "question": "Como o Art. 56 define a 'conduta exemplar' do sentenciado?",
+    "options": [
+      "Apenas pela ausência de fugas",
+      "Pela prática de atividades religiosas constantes",
+      "Pelo constante empenho no trabalho, aprendizagem e senso de responsabilidade pessoal",
+      "Pela delação de companheiros indisciplinados"
+    ],
+    "correct": 2,
+    "explanation": "Art. 56, Parágrafo único – A conduta é considerada exemplar quando o sentenciado manifesta, durante a execução da pena, constante empenho no trabalho e na aprendizagem escolar e profissional, bem como senso de responsabilidade em seu comportamento pessoal."
+  },
+  {
+    "question": "Quem está excetuado da obrigação de trabalhar conforme o Art. 57?",
+    "options": [
+      "Sentenciados com curso superior",
+      "Maiores de 60 anos e presos políticos",
+      "Maiores de 70 anos, enfermos impossibilitados e mulheres grávidas/pós-parto",
+      "Apenas os que cumprem pena em regime aberto"
+    ],
+    "correct": 2,
+    "explanation": "Art. 57 – Excetuam-se da obrigação de trabalhar os maiores de 70 (setenta) anos, os que sofram enfermidade que os impossibilite para o trabalho e a mulher antes e após o parto, nos termos da legislação trabalhista."
+  },
+  {
+    "question": "Sobre o repouso semanal do sentenciado, o que dispõe o Art. 58?",
+    "options": [
+      "O sentenciado não tem direito a repouso semanal",
+      "O sentenciado fará jus ao repouso semanal, de preferência no domingo",
+      "O repouso deve ser obrigatoriamente aos sábados",
+      "O repouso depende de autorização do Juiz a cada semana"
+    ],
+    "correct": 1,
+    "explanation": "Art. 58 – O sentenciado fará jus ao repouso semanal, de preferência no domingo."
+  },
+  {
+    "question": "Qual o requisito para o sentenciado não perigoso obter descanso de até um mês, segundo o Art. 59?",
+    "options": [
+      "Trabalhar por 6 meses ininterruptos",
+      "Apenas ter bom comportamento independente do trabalho",
+      "Após 12 meses contínuos de trabalho, dedicação e produtividade",
+      "Pagamento de uma taxa administrativa ao presídio"
+    ],
+    "correct": 2,
+    "explanation": "Art. 59 – Será concedido descanso de até 1 (um) mês ao sentenciado não perigoso, de bom comportamento, após 12 (doze) meses contínuos de trabalho, dedicação e produtividade."
+  }
+],
+
 "D11615":[
 
   {
