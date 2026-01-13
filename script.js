@@ -20243,6 +20243,1172 @@ const questions = {
     "explanation": "(<br/>\tLei 11.340/06, Art. 12-C. Verificada a existência de risco atual ou iminente à vida ou à integridade física ou psicológica da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida: (Redação dada pela Lei nº 14.188, de 2021)<br/>I - pela autoridade judicial; (Incluído pela Lei nº 13.827, de 2019)<br/>II - pelo delegado de polícia, quando o Município não for sede de comarca; ou (Incluído pela Lei nº 13.827, de 2019)<br/>III - pelo policial, quando o Município não for sede de comarca e não houver delegado disponível no momento da denúncia. (Incluído pela Lei nº 13.827, de 2019)<br/><br/>)"
   }
 ],
+
+"lep7210":[
+  {
+    "question": "01. Com base na Lei nº 7.210/1984 (Lei de Execução Penal) e suas alterações, analise as alternativas a seguir e aponte qual representa uma falta grave do condenado à pena privativa de liberdade.",
+    "options": [
+      "Tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo",
+      "Deixar de comunicar ao diretor do estabelecimento a existência de movimento de subversão à ordem ou à disciplina",
+      "Possuir instrumento incapaz de ofender a integridade física de outrem",
+      "Praticar fato previsto como crime culposo"
+    ],
+    "correct": 0,
+    "explanation": "A posse de aparelhos de comunicação é considerada falta grave de natureza objetiva, conforme o Art. 50, VII, da LEP. <br/> A opção: Correta. É a redação exata do inciso VII do Art. 50. <br/> B opção: Incorreta. A falta grave refere-se a incitar ou participar de movimento de subversão (Art. 50, V), não especificamente à omissão de comunicação neste contexto. <br/> C opção: Incorreta. O Art. 50, III considera falta grave possuir instrumento capaz de ofender a integridade física. <br/> D opção: Incorreta. Somente a prática de fato previsto como crime DOLOSO constitui falta grave (Art. 52)."
+  },
+  {
+    "question": "02. Com relação às condições de tratamento do preso, a Constituição Federal prevê que:",
+    "options": [
+      "em caso de transgressão disciplinar, o preso poderá ser obrigado a realizar trabalhos forçados.",
+      "não é assegurado aos presos o respeito à integridade física e moral.",
+      "os presos poderão ser privados de água e refeição caso cometam transgressões disciplinares graves.",
+      "às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação.",
+      "a pena será cumprida em estabelecimentos semelhantes entre si, de acordo com a natureza do delito e a quantidade de pena a que o preso foi condenado."
+    ],
+    "correct": 3,
+    "explanation": "A Constituição Federal protege a dignidade da pessoa humana, inclusive no sistema prisional. <br/> A opção: Incorreta. Trabalhos forçados são proibidos pela CF (Art. 5º, XLVII, 'c'). <br/> B opção: Incorreta. A integridade física e moral é assegurada pelo Art. 5º, XLIX. <br/> C opção: Incorreta. Sanções que envolvam privação de água ou alimentos são consideradas tortura ou tratamento desumano. <br/> D opção: Correta. É a previsão expressa do Art. 5º, inciso L da Constituição Federal. <br/> E opção: Incorreta. A pena será cumprida em estabelecimentos DISTINTOS, de acordo com a natureza do delito, idade e sexo do apenado (Art. 5º, XLVIII)."
+  },
+  {
+    "question": "03. De acordo com a Lei nº 7.210/1984 (Lei de Execução Penal) e suas alterações, assinale a alternativa que não constituem deveres do condenado.",
+    "options": [
+      "Indenização à vítima ou aos seus sucessores",
+      "Submissão à sanção disciplinar imposta",
+      "Urbanidade e respeito no trato com os demais condenados",
+      "Sempre indenizar o Estado pelas despesas havidas com a sua manutenção"
+    ],
+    "correct": 3,
+    "explanation": "Os deveres do condenado estão listados no Art. 39 da LEP. <br/> A opção: Incorreta. É um dever previsto no inciso VII. <br/> B opção: Incorreta. É um dever previsto no inciso IV. <br/> C opção: Incorreta. É um dever previsto no inciso III. <br/> D opção: Correta. O erro está na palavra 'Sempre'. O ressarcimento ao Estado pelas despesas de manutenção só é obrigatório 'desde que o preso disponha de recursos próprios' (Art. 39, inciso IX)."
+  },
+  {
+    "question": "04. Com base na Lei nº 7.210/1984 (Lei de Execução Penal) e suas alterações, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou falso (F). <br /> <br /> ( ) O condenado à pena privativa de liberdade está obrigado ao trabalho na medida de suas aptidões e capacidade. <br /> <br /> ( ) Para o preso provisório, o trabalho não é obrigatório e só poderá ser executado no interior do estabelecimento. <br /> <br /> ( ) A jornada normal de trabalho não será inferior a 4 (quatro) nem superior a 8 (oito) horas, com descanso nos domingos e feriados. <br /> <br /> Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+    "options": [
+      "V - V – V",
+      "F - V – F",
+      "F - F – V",
+      "V - V - F"
+    ],
+    "correct": 0,
+    "explanation": "Todas as afirmativas refletem dispositivos literais da LEP sobre o trabalho do preso. <br/> A opção: Correta. Todas as proposições são verdadeiras de acordo com os Arts. 31 e 33 da LEP. <br/> B opção: Incorreta. <br/> C opção: Incorreta. <br/> D opção: Incorreta."
+  },
+  {
+    "question": "05. De acordo com a Lei de Execução Penal, é correto afirmar:",
+    "options": [
+      "A monitoração eletrônica somente poderá ser revogada se o acusado ou condenado praticar falta grave.",
+      "O condenado deverá ter cuidado com o equipamento eletrônico de monitoração, que poderá ser removido no interior da residência em que for cumprida prisão domiciliar.",
+      "A violação dos deveres decorrentes da monitoração eletrônica acarretará, obrigatoriamente, a regressão de regime do apenado.",
+      "O estabelecimento de monitoração eletrônica será exclusivo para determinação do cumprimento da pena em regime aberto.",
+      "A fiscalização da saída temporária no regime semiaberto poderá ser definida por meio da monitoração eletrônica."
+    ],
+    "correct": 4,
+    "explanation": "A monitoração eletrônica é um recurso de fiscalização previsto nos Arts. 146-B e seguintes da LEP. <br/> A opção: Incorreta. Pode ser revogada também por descumprimento de deveres ou se tornar desnecessária. <br/> B opção: Incorreta. O equipamento não pode ser removido sem autorização. <br/> C opção: Incorreta. A regressão é uma possibilidade ('poderá'), não uma obrigatoriedade imediata sem análise. <br/> D opção: Incorreta. Aplica-se também ao regime semiaberto. <br/> E opção: Correta. Conforme Art. 146-B, inciso II da LEP."
+  },
+  {
+    "question": "06. De acordo com a Lei de Execução Penal, para fins de execução penal, considera-se egresso: <br /> <br /> 1. o preso em regime aberto. <br /> <br /> 2. o liberado definitivo, pelo prazo de 1 ano a contar da saída do estabelecimento. <br /> <br /> 3. o liberado condicional, durante o período de prova. <br /> <br /> 4. o acusado que tiver a prisão ilegal relaxada até o julgamento final do processo. <br /> <br /> Assinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "São corretas apenas as afirmativas 1 e 4.",
+      "São corretas apenas as afirmativas 2 e 3.",
+      "São corretas apenas as afirmativas 1, 2 e 3.",
+      "São corretas apenas as afirmativas 2, 3 e 4.",
+      "Todas as afirmativas estão corretas."
+    ],
+    "correct": 1,
+    "explanation": "O conceito de egresso é definido no Art. 26 da LEP. <br/> A opção: Incorreta. Preso em regime aberto ainda está cumprindo pena; relaxamento de prisão não gera o status de egresso da execução. <br/> B opção: Correta. Os itens 2 e 3 correspondem exatamente aos incisos I e II do Art. 26. <br/> C opção: Incorreta. <br/> D opção: Incorreta. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "07. De acordo com a Lei de Execução Penal, é correto afirmar:",
+    "options": [
+      "Nenhum preso ou internado poderá ser obrigado a participar de atividade religiosa.",
+      "A critério do gestor da unidade, poderá ser destinado, no estabelecimento prisional, um local apropriado para os cultos religiosos.",
+      "A assistência religiosa será prestada aos presos e aos internados como forma de ressocialização e como um indicativo para a progressão da pena.",
+      "A posse de livros de instrução religiosa somente será permitida nos locais próprios para os cultos religiosos.",
+      "A atividade religiosa, com liberdade de culto, será obrigatória, integrando-se no sistema de assistência social."
+    ],
+    "correct": 0,
+    "explanation": "A assistência religiosa é um direito do preso, mas a participação é facultativa. <br/> A opção: Correta. Reflete o Art. 24, § 1º da LEP. <br/> B opção: Incorreta. A lei diz que 'será destinado' local apropriado, não é mera discricionariedade (Art. 24, § 2º). <br/> C opção: Incorreta. Não existe previsão de que a religião seja indicativo automático para progressão. <br/> D opção: Incorreta. É permitida a posse de livros de instrução religiosa na cela (Art. 24, § 3º). <br/> E opção: Incorreta. A atividade nunca será obrigatória."
+  },
+  {
+    "question": "08. Assinale a alternativa correta sobre a Lei de Execução Penal.",
+    "options": [
+      "A autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até dez dias. A inclusão do preso no regime disciplinar diferenciado, no interesse da disciplina e da averiguação do fato, dependerá de despacho do juiz competente.",
+      "O tempo de isolamento ou inclusão preventiva no regime disciplinar diferenciado não será computado no período de cumprimento da sanção disciplinar.",
+      "A decisão judicial sobre inclusão de preso em regime disciplinar será precedida de manifestação do Ministério Público e da defesa e prolatada no prazo máximo de trinta dias.",
+      "A autorização para saída temporária será concedida por prazo não superior a dez dias, podendo ser renovada por mais quatro vezes durante o ano.",
+      "Em caso de falta grave, o juiz poderá revogar até dois terços do tempo remido, recomeçando a contagem a partir da data da infração disciplinar."
+    ],
+    "correct": 0,
+    "explanation": "Sobre as sanções e procedimentos disciplinares na execução penal. <br/> A opção: Correta. Baseada no Art. 60 da LEP. <br/> B opção: Incorreta. O tempo de isolamento preventivo deve ser computado no período da sanção. <br/> C opção: Incorreta. O prazo para a decisão sobre RDD costuma ser de 15 dias (Art. 54, § 2º). <br/> D opção: Incorreta. O prazo da saída temporária é de até 7 dias (Art. 124). <br/> E opção: Incorreta. O juiz poderá revogar até 1/3 (um terço) do tempo remido (Art. 127)."
+  },
+  {
+    "question": "09. Segundo a Lei de Execução Penal (Lei nº 7.210/1984), a assistência ao egresso consiste, dentre outras medidas possíveis, na concessão, se necessário, de alojamento e alimentação, em estabelecimento adequado, pelo prazo de:",
+    "options": [
+      "quinze dias.",
+      "um mês.",
+      "dois meses.",
+      "três meses.",
+      "seis meses."
+    ],
+    "correct": 2,
+    "explanation": "A assistência ao egresso visa facilitar a reintegração social. <br/> A opção: Incorreta. <br/> B opção: Incorreta. <br/> C opção: Correta. Conforme Art. 25, inciso II da LEP, o prazo é de 2 meses, podendo ser renovado uma única vez. <br/> D opção: Incorreta. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "10. No que tange à Lei de Execução Penal (Lei nº 7.210/1984), assinale a alternativa correta.",
+    "options": [
+      "O isolamento, a suspensão e a restrição de direitos não poderão exceder a sessenta dias, ressalvada a hipótese do regime disciplinar diferenciado.",
+      "Os estabelecimentos penais destinados a mulheres serão dotados de berçário, onde as condenadas possam cuidar de seus filhos, inclusive amamentá-los, no mínimo, até seis meses de idade.",
+      "Quando o estabelecimento penal não estiver aparelhado para prover a assistência médica necessária, esta será prestada em outro local, mediante autorização do juízo da execução.",
+      "Considera-se egresso o liberado definitivo, pelo prazo de dois anos a contar da saída do estabelecimento prisional.",
+      "Das decisões proferidas pelo Juiz da execução caberá recurso de agravo, com efeito suspensivo."
+    ],
+    "correct": 1,
+    "explanation": "Disposições gerais sobre assistência e recursos na LEP. <br/> A opção: Incorreta. O isolamento/suspensão não pode exceder 30 dias (Art. 58). <br/> B opção: Correta. É a literalidade do Art. 82, § 2º da LEP. <br/> C opção: Incorreta. A autorização para tratamento médico externo em caso de urgência é da direção do estabelecimento (Art. 14, § 2º). <br/> D opção: Incorreta. O prazo para o liberado definitivo é de 1 ano (Art. 26). <br/> E opção: Incorreta. O agravo em execução não possui, como regra, efeito suspensivo (Art. 197)."
+  },
+  {
+    "question": "11. Com fundamento na Lei de Execuções Penais, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça, terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão, e cumprir:",
+    "options": [
+      "16% (dezesseis por cento) da pena.",
+      "20% (vinte por cento) da pena.",
+      "25% (vinte e cinco por cento) da pena.",
+      "30% (trinta por cento) da pena.",
+      "40% (quarenta por cento) da pena."
+    ],
+    "correct": 3,
+    "explanation": "Regra de progressão para reincidente em crime com violência: Art. 112. A pena privativa de liberdade será executada em forma progressiva, com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: <br /> <br /> IV <br /> <br /> - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça; <br/> A opção: Incorreta. Art. 112, <br /> <br /> I <br /> <br /> - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça; <br/> B opção: Incorreta. Art. 112, <br /> <br /> II <br /> <br /> - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça; <br/> C opção: Incorreta. Art. 112, <br /> <br /> III <br /> <br /> - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça; <br/> D opção: Correta. Art. 112, <br /> <br /> IV <br /> <br /> - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça; <br/> E opção: Incorreta. Art. 112, <br /> <br /> V <br /> <br /> - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário."
+  },
+  {
+    "question": "12. Relativamente à Lei nº 8.072/1990, que dispõe sobre os crimes hediondos, e a Lei nº 7.210/1984, que institui a Lei de Execução Penal, assinale a alternativa INCORRETA.",
+    "options": [
+      "A União manterá estabelecimentos penais, de segurança máxima, destinados ao cumprimento de penas impostas a condenados de alta periculosidade, cuja permanência em presídios estaduais ponha em risco a ordem ou incolumidade pública.",
+      "A decisão do juiz que determinar a progressão de regime será sempre motivada e precedida de manifestação do Ministério Público e do defensor, procedimento que também será adotado na concessão de livramento condicional, indulto e comutação de penas, respeitados os prazos previstos nas normas vigentes.",
+      "A prisão temporária, nos crimes previstos como hediondos, terá o prazo de 30 dias, prorrogável por igual período em caso de extrema e comprovada necessidade.",
+      "Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair, concedida pelo diretor do estabelecimento onde se encontra o preso, mediante escolta, com a duração necessária à finalidade da saída.",
+      "Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de fiança e liberdade provisória."
+    ],
+    "correct": 4,
+    "explanation": "A alternativa E está incorreta pois a Lei 11.464/07 removeu a vedação à liberdade provisória. <br/> A opção: Correta. Art. 86, § 1º As vagas dos estabelecimentos penais federais serão destinadas a presos, provisórios ou condenados, cuja medida se justifique no interesse da segurança pública ou do próprio preso, conforme dispuser lei específica. <br/> B opção: Correta. Art. 112, § 1º A decisão do juiz que determinar a progressão de regime será sempre motivada e precedida de manifestação do Ministério Público e do defensor, procedimento que também será adotado na concessão de livramento condicional, indulto e comutação de penas, respeitados os prazos previstos nas normas vigentes. <br/> C opção: Correta. Lei 8.072/90, Art. 2º, § 4º A prisão temporária, sobre a qual dispõe a Lei nº 7.960, de 21 de dezembro de 1989, nos crimes previstos neste artigo, terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade. <br/> D opção: Correta. Art. 120. Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos: <br /> <br /> I <br /> <br /> - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão; <br /> <br /> II <br /> <br /> - necessidade de tratamento médico (parágrafo único do artigo 14). Parágrafo único. A permissão de saída será concedida pelo diretor do estabelecimento onde se encontra o preso. <br/> E opção: Incorreta. Lei 8.072/90, Art. 2º Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: <br /> <br /> I <br /> <br /> - anistia, graça e indulto; <br /> <br /> II <br /> <br /> - fiança. (Nota: O termo 'liberdade provisória' foi retirado pela Lei nº 11.464, de 2007)."
+  },
+  {
+    "question": "13. Com fundamento na Lei de Execuções Penais, não será submetido à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional, o condenado por crime doloso praticado:",
+    "options": [
+      "Contra a vida.",
+      "Contra o patrimônio.",
+      "Com violência grave contra a pessoa.",
+      "Contra a liberdade sexual.",
+      "Por crime sexual contra vulnerável."
+    ],
+    "correct": 1,
+    "explanation": "A identificação genética é restrita a crimes específicos. Art. 9º-A. Os condenados por crime doloso praticado com violência grave contra a pessoa, bem como por crime contra a vida, contra a liberdade sexual ou por crime sexual contra vulnerável, serão submetidos, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA - ácido desoxirribonucleico, por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional. <br/> A opção: Incorreta (deve ser submetido). Conforme Art. 9º-A '...bem como por crime contra a vida...'. <br/> B opção: Correta (não será submetido). O crime contra o patrimônio (sem violência grave) não está no rol taxativo do Art. 9º-A. <br/> C opção: Incorreta (deve ser submetido). Conforme Art. 9º-A '...praticado com violência grave contra a pessoa...'. <br/> D opção: Incorreta (deve ser submetido). Conforme Art. 9º-A '...contra a liberdade sexual...'. <br/> E opção: Incorreta (deve ser submetido). Conforme Art. 9º-A '...ou por crime sexual contra vulnerável...'."
+  },
+  {
+    "question": "14. Hugo está preso, tendo sido beneficiado com o regime aberto após anos de cumprimento em regime fechado e semiaberto. Ele requer assistência social, jurídica e de saúde para sua família. Nos termos da Lei nº 7.210/84, o egresso possuidor de direito à assistência de várias naturezas deve ser:",
+    "options": [
+      "o liberado condicional desde a decisão judicial",
+      "o liberado provisório durante o curso do processo",
+      "o liberado definitivo, pelo prazo de um ano a contar da saída do estabelecimento",
+      "o liberado por decisão administrativa, nos dias de festa"
+    ],
+    "correct": 2,
+    "explanation": "Definição de egresso: Art. 26. Considera-se egresso para os efeitos desta Lei: <br /> <br /> I <br /> <br /> - o liberado definitivo, pelo prazo de 1 (um) ano a contar da saída do estabelecimento; <br /> <br /> II <br /> <br /> - o liberado condicional, durante o período de prova. <br/> A opção: Incorreta. O correto é durante o período de prova, conforme Art. 26, <br /> <br /> II <br /> <br />. <br/> B opção: Incorreta. A lei não inclui o liberado provisório no conceito de egresso do Art. 26. <br/> C opção: Correta. Texto literal do Art. 26, <br /> <br /> I <br /> <br /> - o liberado definitivo, pelo prazo de 1 (um) ano a contar da saída do estabelecimento. <br/> D opção: Incorreta. Não existe tal previsão no Art. 26 da LEP."
+  },
+  {
+    "question": "15. Pedro está encarcerado em presídio que possui diversas opções de trabalho como forma de resgatar parte da pena. Ocorre que o preso não deseja realizar qualquer atividade laborativa. Nos termos da Lei nº 7.210/84, o trabalho do preso é:",
+    "options": [
+      "um trabalho forçado",
+      "uma faculdade",
+      "uma defesa",
+      "um dever"
+    ],
+    "correct": 3,
+    "explanation": "O trabalho é obrigatório para o condenado. Art. 39. Constituem deveres do condenado: <br /> <br /> V <br /> <br /> - trabalho, adestramento agrícola, industrial ou artesanal. <br/> A opção: Incorreta. A Constituição Federal proíbe trabalhos forçados (Art. 5º, XLVII, 'c'); o trabalho prisional é um dever social e produtivo. <br/> B opção: Incorreta. Para o condenado à pena privativa de liberdade, o trabalho é obrigatório (Art. 31), sendo faculdade apenas para o preso provisório (§ único do Art. 31). <br/> C opção: Incorreta. O trabalho não é classificado como 'defesa' na LEP. <br/> D opção: Correta. Art. 39, <br /> <br /> V <br /> <br /> lista o trabalho como um dos deveres do condenado."
+  },
+  {
+    "question": "16. No que tange aos direitos e deveres do preso, de acordo com a Lei de Execução Penal (Lei nº 7.210, de 11 de julho de 1984), considera-se correta a afirmativa:",
+    "options": [
+      "Distribuir proporcionalmente o tempo entre trabalho, descanso e recreação é um dever do preso.",
+      "Ao preso, é garantido o direito de representação e petição a qualquer autoridade e assistência jurídica.",
+      "A higiene pessoal, o asseio da cela ou do alojamento e a conservação dos objetos de uso pessoal são direitos do condenado.",
+      "Opor-se aos movimentos individuais ou coletivos de fuga ou de subversão à ordem ou à disciplina é um direito do condenado."
+    ],
+    "correct": 1,
+    "explanation": "Distinção entre direitos (Art. 41) e deveres (Art. 39). <br/> A opção: Incorreta. Trata-se de um DIREITO previsto no Art. 41, <br /> <br /> V <br /> <br /> - proporcionalidade entre o tempo de trabalho, o de descanso e o de recreação. <br/> B opção: Correta. Art. 41. Constituem direitos do preso: <br /> <br /> XIV <br /> <br /> - representação e petição a qualquer autoridade, em defesa de direito; <br /> <br /> XVI <br /> <br /> - assistência judiciária. <br/> C opção: Incorreta. Trata-se de um DEVER previsto no Art. 39, <br /> <br /> IX <br /> <br /> - higiene pessoal e asseio da cela ou alojamento; <br /> <br /> X <br /> <br /> - conservação dos objetos de uso pessoal. <br/> D opção: Incorreta. Trata-se de um DEVER previsto no Art. 39, <br /> <br /> VI <br /> <br /> - obediência às ordens recebidas e submissão à disciplina, o que inclui opor-se a movimentos de fuga."
+  },
+  {
+    "question": "17. À luz da Lei nº 7.210, de 11 de julho de 1984, o Conselho Penitenciário será integrado por membros nomeados pelo:",
+    "options": [
+      "Governador do Estado, do Distrito Federal e dos Territórios, dentre exclusivamente advogados da área do Direito Civil ou Penal, Processual Civil ou Penal, bem como por representantes da comunidade",
+      "Governador do Estado, do Distrito Federal e dos Territórios, dentre exclusivamente professores universitários da área do Direito Civil, Processual Civil e Penitenciário, bem como por representantes da comunidade",
+      "Governador do Estado, do Distrito Federal e dos Territórios, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade",
+      "Governador do Estado, do Distrito Federal e dos Territórios, dentre exclusivamente advogados da área do Direito Civil, Trabalhista e Penal, bem como por representantes da comunidade"
+    ],
+    "correct": 2,
+    "explanation": "Composição do Conselho Penitenciário conforme o Art. 69. <br/> A opção: Incorreta. A lei não limita a advogados nem às áreas Civil/Processual Civil. <br/> B opção: Incorreta. A lei não utiliza o termo 'exclusivamente professores universitários'. <br/> C opção: Correta. Art. 69. O Conselho Penitenciário será integrado por membros nomeados pelo Governador do Estado, do Distrito Federal e dos Territórios, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade. <br/> D opção: Incorreta. A lei não limita a advogados nem à área trabalhista."
+  },
+  {
+    "question": "18. O Juiz estabelecerá o regime no qual o condenado cumprirá a pena privativa de liberdade. Deve, ao fazer isso, observar que:",
+    "options": [
+      "quando houver condenação por mais de um crime em processos distintos, a determinação do regime de cumprimento e da pena será sem levar em conta a somatória das penas.",
+      "acima de 65 anos será admitido o recolhimento do beneficiário de regime aberto em residência particular.",
+      "a execução da pena privativa de liberdade ficará sujeita à regressão quando o condenado praticar crime contra a vida ou falta leve.",
+      "o cometimento de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente."
+    ],
+    "correct": 3,
+    "explanation": "A regra sobre interrupção de prazo por falta grave está no § 6º do art. 112. <br/> A opção: Incorreta. Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição. <br/> B opção: Incorreta. Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de 70 (setenta) anos; <br/> C opção: Incorreta. Art. 118. A execução da pena privativa de liberdade ficará sujeita à regressão para qualquer dos regimes mais rigorosos, quando o condenado: I - praticar fato definido como crime doloso ou falta grave; <br/> D opção: Correta. Art. 112, § 6º O cometimento de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente."
+  },
+  {
+    "question": "19. A assistência ao preso e ao internado é dever do Estado. Sobre a assistência prevista na Lei de Execução Penal, marque a alternativa correta:",
+    "options": [
+      "A assistência será: material, à saúde, política, educacional, social e religiosa.",
+      "Será conferida assistência jurídica a todos os presos e internados, independentemente de sua condição financeira.",
+      "Os ensinos de 1º e 2º graus serão obrigatórios, integrando-se no sistema escolar da Unidade Federativa.",
+      "O estabelecimento disporá de instalações e serviços que atendam aos presos nas suas necessidades pessoais, além de locais destinados à venda de produtos e objetos permitidos e não fornecidos pela Administração."
+    ],
+    "correct": 3,
+    "explanation": "A assistência material inclui a manutenção de locais de venda (cantinas). <br/> A opção: Incorreta. Art. 11. A assistência será: I - material; II - à saúde; III - jurídica; IV - educacional; V - social; VI - religiosa. (Nota: não existe assistência política). <br/> B opção: Incorreta. Art. 16. As Unidades da Federação deverão ter serviços de assistência jurídica, defensoria pública, no interior e fora dos estabelecimentos penais, visando ao atendimento dos presos e internados sem recursos financeiros para constituir advogado. <br/> C opção: Incorreta. Art. 18. O ensino de 1º grau será obrigatório, integrando-se no sistema escolar da Unidade Federativa. <br/> D opção: Correta. Art. 13. O estabelecimento disporá de instalações e serviços que atendam aos presos nas suas necessidades pessoais, além de locais destinados à venda de produtos e objetos permitidos e não fornecidos pela Administração."
+  },
+  {
+    "question": "20. O Juiz, na sentença, estabelecerá o regime no qual a pessoa condenada iniciará o cumprimento da pena privativa de liberdade, observando o que dispõe a Lei de Execução Penal. Sobre o assunto, assinale a alternativa correta:",
+    "options": [
+      "O bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito.",
+      "O Juiz poderá estabelecer condições especiais para a concessão de regime semiaberto tais como sair para o trabalho e retornar, nos horários fixados.",
+      "A Pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 20% (vinte por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça.",
+      "No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, dentre os requisitos para progressão de regime está ter cumprido ao menos 1/6 (um sexto) da pena no regime anterior."
+    ],
+    "correct": 0,
+    "explanation": "Regra sobre reabilitação do comportamento após infração. <br/> A opção: Correta. Art. 112, § 7º O bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito. <br/> B opção: Incorreta. O Art. 115 refere-se a condições especiais para o regime ABERTO, não semiaberto. <br/> C opção: Incorreta. Art. 112. I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça; <br/> D opção: Incorreta. Art. 112, § 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente: II - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;"
+  },
+  {
+    "question": "21. De acordo com a Lei de Execução Penal, é correto afirmar:",
+    "options": [
+      "A assistência educacional do preso e do internado deverá ser feita, preferencialmente, na modalidade a distância.",
+      "O preso e o internado que participarem dos projetos de ensino deverão assegurar a obtenção de proficiência mínima nas matérias cursadas, sob pena de falta administrativa.",
+      "O ensino profissional será ministrado em nível de iniciação ou de aperfeiçoamento técnico.",
+      "É vedada a delegação ou qualquer tipo de participação de entidades privadas nas atividades educacionais das unidades ou estabelecimentos prisionais.",
+      "A instrução escolar de ensino de primeiro, segundo e terceiro grau é o objetivo específico da assistência educacional prestado ao preso ou internado."
+    ],
+    "correct": 2,
+    "explanation": "O ensino profissional é parte da assistência educacional. <br/> A opção: Incorreta. A lei prevê que o ensino possa ser a distância, mas não define como 'preferencial'. <br/> B opção: Incorreta. Não existe previsão de falta administrativa por falta de proficiência escolar na LEP. <br/> C opção: Correta. Art. 19. O ensino profissional será ministrado em nível de iniciação ou de aperfeiçoamento técnico. <br/> D opção: Incorreta. Art. 18-A, § 3º A assistência educacional poderá ser objeto de convênio ou de parceria com entidades públicas ou privadas. <br/> E opção: Incorreta. Art. 17. A assistência educacional compreenderá a instrução escolar e a formação profissional do preso e do internado. Art. 18. O ensino de 1º grau será obrigatório."
+  },
+  {
+    "question": "22. De acordo com a Lei de Execução Penal, assinale a alternativa que indica corretamente que órgão possuiu a incumbência de estimular e promover a pesquisa criminológica.",
+    "options": [
+      "Ministério Público",
+      "Juízo da Execução",
+      "Conselho Penitenciário",
+      "Departamento Penitenciário Local",
+      "Conselho Nacional de Política Criminal e Penitenciária"
+    ],
+    "correct": 4,
+    "explanation": "Atribuição do CNPCP. <br/> A opção: Incorreta. Art. 67 (atribuições do MP). <br/> B opção: Incorreta. Art. 66 (atribuições do Juiz). <br/> C opção: Incorreta. Art. 70 (atribuições do Conselho Penitenciário). <br/> D opção: Incorreta. Art. 74 (atribuições do Depto Local). <br/> E opção: Correta. Art. 64. Ao Conselho Nacional de Política Criminal e Penitenciária incumbe: IX - estimular e promover a pesquisa criminológica;"
+  },
+  {
+    "question": "23. De acordo com a Lei de Execução Penal, a remissão da pena, por trabalho ou estudo, de parte do tempo de execução da pena poderá ocorrer no cumprimento de:\n1. regime aberto.\n2. regime semiaberto.\n3. regime fechado.\n4. penas restritivas de direito.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "São corretas apenas as afirmativas 1 e 3.",
+      "São corretas apenas as afirmativas 2 e 3.",
+      "São corretas apenas as afirmativas 3 e 4.",
+      "São corretas apenas as afirmativas 1, 2 e 3.",
+      "São corretas apenas as afirmativas 2, 3 e 4."
+    ],
+    "correct": 3,
+    "explanation": "Regimes onde cabe a remição. <br/> A opção: Incorreta. <br/> B opção: Incorreta. <br/> C opção: Incorreta. <br/> D opção: Correta. Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. § 6º O condenado que cumpre pena em regime aberto ou em gozo de livramento condicional e o beneficiário de suspensão condicional da pena poderão remir, por estudo, parte do tempo de execução da pena. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "24. Aos Conselhos da Comunidade, de acordo com a Lei nº 7.210, de 11 de julho de 1984, incumbe:",
+    "options": [
+      "visitar semestralmente os estabelecimentos e serviços penais da comarca",
+      "deixar de cooperar com a comunidade na conservação e na manutenção da cadeia pública local",
+      "afastar o sentenciado de se integrar ao mercado de trabalho, com auxílio da comunidade, para segurança da sociedade",
+      "diligenciar a obtenção de recursos materiais e humanos para melhor assistência ao preso ou internado, em harmonia com a direção do estabelecimento"
+    ],
+    "correct": 3,
+    "explanation": "Atribuições do Conselho da Comunidade. <br/> A opção: Incorreta. Art. 81. Ao Conselho da Comunidade incumbe: I - visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca; <br/> B opção: Incorreta. Contraria o dever de cooperação. <br/> C opção: Incorreta. Art. 81. III - apresentar relatórios mensais ao Juiz da execução e ao Conselho Penitenciário. O objetivo é a integração, não o afastamento. <br/> D opção: Correta. Art. 81. IV - diligenciar a obtenção de recursos materiais e humanos para melhor assistência ao preso ou internado, em harmonia com a direção do estabelecimento."
+  },
+  {
+    "question": "25. Ao Conselho Nacional de Política Criminal e Penitenciária, de acordo com a Lei nº 7.210, de 11 de julho de 1984, no exercício de suas atividades, em âmbito federal ou estadual, incumbe:",
+    "options": [
+      "estimular e promover a pesquisa criminológica",
+      "elaborar projeto de lei relativo ao plano plurianual e diretrizes orçamentárias",
+      "estabelecer regras sobre a arquitetura e construção para os estabelecimentos urbanos localizados em distritos remotos de estabelecimentos penais",
+      "promover a avaliação periódica do sistema de assistência social para a sua adequação às necessidades do país"
+    ],
+    "correct": 0,
+    "explanation": "Atribuições do CNPCP. <br/> A opção: Correta. Art. 64. Ao Conselho Nacional de Política Criminal e Penitenciária incumbe: IX - estimular e promover a pesquisa criminológica; <br/> B opção: Incorreta. Atribuição do Executivo. <br/> C opção: Incorreta. Art. 64. VI - estabelecer regras sobre a arquitetura e construção de estabelecimentos penais e casas de albergados; (Não cita distritos remotos). <br/> D opção: Incorreta. Atribuição de órgãos de Assistência Social."
+  },
+  {
+    "question": "26. Na execução penal, para que seja apurada a prática da falta disciplinar e aplicada a sanção disciplinar, é necessária a realização de um processo administrativo disciplinar. Sobre a disciplina no ambiente prisional, analise os itens a seguir e assinale a alternativa correta:\n <br /> I <br /> - A autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até sete dias.\n <br /> II <br /> - Pune-se a tentativa com a sanção correspondente à falta consumada.\n <br /> III <br /> - Comete falta grave o condenado à pena privativa de liberdade que tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo.",
+    "options": [
+      "apenas o item l.",
+      "apenas os itens l e ll.",
+      "apenas os itens ll e III.",
+      "todos os itens estão corretos."
+    ],
+    "correct": 2,
+    "explanation": "Análise da disciplina. <br/> A opção: Incorreta. O item <br /> I <br /> está errado. Art. 60. A autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até 10 (dez) dias. <br/> B opção: Incorreta. O item <br /> I <br /> está errado. <br/> C opção: Correta. <br /> II <br /> - Art. 49, Parágrafo único. Pune-se a tentativa com a sanção correspondente à falta consumada. <br /> III <br /> - Art. 50. Comete falta grave o condenado à pena privativa de liberdade que: VII - tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo. <br/> D opção: Incorreta. Pois o item <br /> I <br /> contém erro de prazo."
+  },
+  {
+    "question": "27. Sobre a classificação dos condenados, marque a alternativa correta:",
+    "options": [
+      "A Comissão Técnica de Classificação será presidida pelo diretor e composta, no mínimo, por 3 (três) chefes de serviço, 1 (um) psiquiatra, 1 (um) psicólogo e 1 (um) assistente social, quando se tratar de condenado à pena privativa de liberdade.",
+      "O condenado ao cumprimento de pena privativa de liberdade, em regime aberto, será submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução.",
+      "O condenado por crime doloso praticado com violência grave contra a pessoa, bem como por crime contra a vida, contra a liberdade sexual ou por crime sexual contra vulnerável, será submetido, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional.",
+      "O condenado por crimes hediondos que não tiver sido submetido à identificação do perfil genético por ocasião do ingresso no estabelecimento prisional deverá ser submetido ao procedimento antes do cumprimento da pena."
+    ],
+    "correct": 2,
+    "explanation": "A alternativa C reproduz integralmente o caput do Art. 9º-A da LEP. <br/> A opção: Incorreta. Art. 7º A Comissão Técnica de Classificação, existente em cada estabelecimento, será presidida pelo diretor e composta, no mínimo, por 2 (dois) chefes de serviço, 1 (um) psiquiatra, 1 (um) psicólogo e 1 (um) assistente social, quando se tratar de condenado à pena privativa de liberdade. <br/> B opção: Incorreta. Art. 8º O condenado ao cumprimento de pena privativa de liberdade, em regime fechado, será submetido a exame criminológico para a obtenção dos elementos necessários a uma adequada classificação e com vistas à individualização da execução. Parágrafo único. O exame poderá ser realizado relativamente ao condenado em regime semi-aberto. <br/> C opção: Correta. Art. 9º-A. Os condenados por crime doloso praticado com violência grave contra a pessoa, bem como por crime contra a vida, contra a liberdade sexual ou por crime sexual contra vulnerável, serão submetidos, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA - ácido desoxirribonucleico, por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional. <br/> D opção: Incorreta. Art. 9º-A, § 4º O condenado pelos crimes previstos no caput deste artigo que não tiver sido submetido à identificação do perfil genético por ocasião do ingresso no estabelecimento prisional deverá ser submetido ao procedimento durante o cumprimento da pena."
+  },
+  {
+    "question": "28. De acordo com a Lei de Execução Penal (LEP), estabelecimento penal destinado ao recolhimento de presos provisórios é:",
+    "options": [
+      "Casa de albergado.",
+      "Colônia agrícola, industrial ou similar.",
+      "Penitenciária.",
+      "Cadeia pública."
+    ],
+    "correct": 3,
+    "explanation": "A Cadeia Pública é o local destinado aos presos que aguardam julgamento. <br/> A opção: Incorreta. Art. 93. A Casa do Albergado destina-se ao cumprimento de pena privativa de liberdade em regime aberto e da pena de limitação de fim de semana. <br/> B opção: Incorreta. Art. 91. A Colônia Agrícola, Industrial ou Similar destina-se ao cumprimento da pena em regime semi-aberto. <br/> C opção: Incorreta. Art. 87. A Penitenciária destina-se ao condenado à pena de reclusão, em regime fechado. <br/> D opção: Correta. Art. 102. A Cadeia Pública destina-se ao recolhimento de presos provisórios."
+  },
+  {
+    "question": "29. A Lei de Execução Penal prevê uma série de benefícios. A pessoa presa, entretanto, deverá preencher alguns requisitos exigidos por esse texto legal. Sobre os benefícios, nos termos da Lei de Execução Penal, marque a alternativa correta:",
+    "options": [
+      "O indulto coletivo será provocado por petição do condenado, por iniciativa do Ministério Público, do Conselho Penitenciário, ou da autoridade administrativa.",
+      "Não terá direito à saída temporária o condenado que cumpre pena por praticar crime hediondo com resultado morte.",
+      "Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, em caso de casamento.",
+      "O condenado autorizado a estudar fora do estabelecimento penal deverá comprovar semanalmente, por meio de declaração da respectiva unidade de ensino, a frequência e o aproveitamento escolar."
+    ],
+    "correct": 1,
+    "explanation": "A restrição à saída temporária para crimes hediondos com morte foi incluída pelo Pacote Anticrime. <br/> A opção: Incorreta. Art. 188. O indulto individual poderá ser provocado por petição do condenado, por iniciativa do Ministério Público, do Conselho Penitenciário, ou da autoridade administrativa. (O indulto coletivo é ato discricionário do Presidente via Decreto). <br/> B opção: Correta. Art. 121, § 2º Não terá direito à saída temporária a que se refere o caput deste artigo o condenado que cumpre pena por praticar crime hediondo com resultado morte. <br/> C opção: Incorreta. Art. 120. Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos: I - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão; II - necessidade de tratamento médico (parágrafo único do artigo 14). <br/> D opção: Incorreta. Art. 121. (...) Parágrafo único. No caso de saída para frequência a curso agrícola, industrial ou profissionalizante, bem como de instrução de 2º grau ou superior, a comprovação do aproveitamento acadêmico deverá ser feita mensalmente por meio de declaração da respectiva unidade de ensino."
+  },
+  {
+    "question": "30. A Lei n. 7.210/1984 e suas alterações é o marco legal brasileiro na execução penal. Sobre esta Lei de Execução Penal, marque a alternativa correta:",
+    "options": [
+      "A execução penal tem por objetivo efetivar as disposições de sentença ou decisão judicial e proporcionar condições para a plena ressocialização familiar do condenado e do internado.",
+      "A assistência ao preso e ao internado é dever do Estado e da comunidade, objetivando prevenir o crime e orientar o retorno à convivência em sociedade.",
+      "A assistência ao egresso envolve a concessão, se necessário, de alojamento e alimentação, em estabelecimento adequado, pelo prazo de 2 (dois) meses.",
+      "O trabalho poderá ser gerenciado por fundação, ou empresa privada, com autonomia administrativa, e terá por objetivo a formação profissional do condenado."
+    ],
+    "correct": 2,
+    "explanation": "A assistência ao egresso inclui suporte material temporário. <br/> A opção: Incorreta. Art. 1º A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado. <br/> B opção: Incorreta. Art. 10. A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade. <br/> C opção: Correta. Art. 25. A assistência ao egresso consiste: II - na concessão, se necessário, de alojamento e alimentação, em estabelecimento adequado, pelo prazo de 2 (dois) meses. <br/> D opção: Incorreta. Art. 34. O trabalho poderá ser gerenciado por fundação, ou empresa pública, com autonomia administrativa, e terá por objetivo a formação profissional do condenado. § 1º No que couber, aplicar-se-ão as disposições anteriores à entidade privada que aceite precípuamente o trabalho de presos."
+  },
+  {
+    "question": "31. De acordo com a Lei de Execução Penal, é correto afirmar:",
+    "options": [
+      "A monitoração eletrônica somente poderá ser revogada se o acusado ou condenado praticar falta grave.",
+      "O condenado deverá ter cuidado com o equipamento eletrônico de monitoração, que poderá ser removido no interior da residência em que for cumprida prisão domiciliar.",
+      "A violação dos deveres decorrentes da monitoração eletrônica acarretará, obrigatoriamente, a regressão de regime do apenado.",
+      "O estabelecimento de monitoração eletrônica será exclusivo para determinação do cumprimento da pena em regime aberto.",
+      "A fiscalização da saída temporária no regime semiaberto poderá ser definida por meio da monitoração eletrônica."
+    ],
+    "correct": 4,
+    "explanation": "A monitoração é uma ferramenta de fiscalização permitida em hipóteses específicas. <br/> A opção: Incorreta. Art. 146-D. A monitoração eletrônica poderá ser revogada: I - quando se tornar desnecessária ou inadequada; II - se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave. <br/> B opção: Incorreta. Art. 146-C. O condenado será instruído acerca dos cuidados que deverá ter com o equipamento eletrônico e dos seguintes deveres: II - abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça; <br/> C opção: Incorreta. Art. 146-C, Parágrafo único. A violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução, ouvidos o Ministério Público e a defesa: I - a regressão do regime; <br/> D opção: Incorreta. Art. 146-B. O juiz poderá definir a fiscalização por meio da monitoração eletrônica quando: II - autorizar a saída temporária no regime semi-aberto; IV - determinar a prisão domiciliar; <br/> E opção: Correta. Art. 146-B. O juiz poderá definir a fiscalização por meio da monitoração eletrônica quando: II - autorizar a saída temporária no regime semi-aberto."
+  },
+  {
+    "question": "32. De acordo com a Lei de Execução Penal, para ocupar o cargo de diretor de estabelecimento penal, o candidato deverá satisfazer os seguintes requisitos:\n <br /> 1 <br /> . ser portador de diploma de nível superior.\n <br /> 2 <br /> . possuir experiência em gestão de administração pública.\n <br /> 3 <br /> . ter idoneidade moral e reconhecida aptidão para o desempenho da função.\n <br /> 4 <br /> . possuir mais de trinta e cinco anos.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "É correta apenas a afirmativa 3.",
+      "São corretas apenas as afirmativas 1 e 3.",
+      "São corretas apenas as afirmativas 3 e 4.",
+      "São corretas apenas as afirmativas 1, 2 e 3.",
+      "São corretas apenas as afirmativas 2, 3 e 4."
+    ],
+    "correct": 3,
+    "explanation": "Requisitos para o cargo de diretor conforme Art. 75. <br/> A opção: Incorreta. Existem mais requisitos além da idoneidade. <br/> B opção: Incorreta. Falta a experiência administrativa específica. <br/> C opção: Incorreta. A lei não exige idade superior a 35 anos. <br/> D opção: Correta. Art. 75. O ocupante do cargo de diretor de estabelecimento deverá satisfazer os seguintes requisitos: I - ser portador de diploma de nível superior de Direito, ou Psicologia, ou Pedagogia, ou Serviços Sociais, ou Ciências Sociais; II - possuir experiência administrativa na área penitenciária; III - ter idoneidade moral e reconhecida aptidão para o desempenho da função. <br/> E opção: Incorreta. A afirmativa 4 está errada."
+  },
+  {
+    "question": "33. De acordo com a Lei de Execução Penal, constituem deveres do condenado:\n <br /> 1 <br /> . submissão à sanção disciplinar imposta.\n <br /> 2 <br /> . conservação dos objetos de uso pessoal.\n <br /> 3 <br /> . higiene pessoal e asseio da cela ou alojamento.\n <br /> 4 <br /> . indenização à vítima ou aos seus sucessores.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "São corretas apenas as afirmativas 1 e 2.",
+      "São corretas apenas as afirmativas 3 e 4.",
+      "São corretas apenas as afirmativas 1, 2 e 3.",
+      "São corretas apenas as afirmativas 2, 3 e 4.",
+      "São corretas as afirmativas 1, 2, 3 e 4."
+    ],
+    "correct": 4,
+    "explanation": "O rol de deveres está no Art. 39 da LEP. <br/> A opção: Incorreta. <br/> B opção: Incorreta. <br/> C opção: Incorreta. <br/> D opção: Incorreta. <br/> E opção: Correta. Art. 39. Constituem deveres do condenado: IV - submissão à sanção disciplinar imposta; VII - indenização à vítima ou aos seus sucessores; IX - higiene pessoal e asseio da cela ou alojamento; X - conservação dos objetos de uso pessoal."
+  },
+  {
+    "question": "34. Identifique abaixo as afirmativas verdadeiras (V) e as falsas (F) sobre a Lei de Execução Penal.\n <br /> ( ) <br /> A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.\n <br /> ( ) <br /> A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade.\n <br /> ( ) <br /> A assistência educacional compreenderá a instrução escolar e a formação profissional do preso e do internado.\n <br /> ( ) <br /> A assistência social tem por finalidade amparar o preso e o internado e prepará-los para o retorno à liberdade.\n <br /> ( ) <br /> A assistência religiosa, com liberdade de culto, será prestada aos presos e aos internados, obrigados a participar de atividade religiosa e dos serviços organizados no estabelecimento penal.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+    "options": [
+      "V • V • V • V • F",
+      "V • V • F • V • F",
+      "V • F • V • V • F",
+      "F • V • V • V • V",
+      "E) F • V • V • F • V"
+    ],
+    "correct": 0,
+    "explanation": "Análise das afirmativas de acordo com a LEP. <br/> A opção: Correta. <br /> (V) <br /> Art. 1º. <br /> (V) <br /> Art. 10. <br /> (V) <br /> Art. 17. <br /> (V) <br /> Art. 22. <br /> (F) <br /> Art. 24, § 1º No estabelecimento haverá local apropriado para os cultos religiosos. § 2º Nenhum preso ou internado poderá ser obrigado a participar de atividade religiosa. <br/> B opção: Incorreta. <br/> C opção: Incorreta. <br/> D opção: Incorreta. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "35. Um Policial Penal recebe um preso condenado por crime hediondo, cuja conduta delitiva enseja a reprovabilidade dos outros apenados, colocando, assim, em risco, sua integridade física. Nesse sentido, segundo os ditames da Lei nº 7.210/1984, ao classificá-lo, o Policial Penal deverá:",
+    "options": [
+      "colocar o preso em local onde haja somente apenados que cometeram crimes hediondos.",
+      "colocar o preso em dependência destinada a apenados ex-funcionários da Administração da Justiça Criminal.",
+      "colocar o preso em local próprio, segregado dos demais.",
+      "colocar o preso em local destinado aos apenados que cometeram crimes de menor potencial ofensivo."
+    ],
+    "correct": 2,
+    "explanation": "Segurança e integridade física do preso. <br/> A opção: Incorreta. O critério não é apenas a natureza hedionda, mas o risco à integridade. <br/> B opção: Incorreta. Essa dependência é específica para ex-funcionários (Art. 84, § 2º). <br/> C opção: Correta. Art. 84, § 4º O preso que tiver sua integridade física, moral ou psicológica ameaçada pela convivência com os demais presos ficará segregado em local próprio. <br/> D opção: Incorreta. Não há previsão legal para este remanejamento por este motivo."
+  },
+  {
+    "question": "36. A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade. Nesse sentido, assinale a alternativa correta.",
+    "options": [
+      "Quando o estabelecimento penal não estiver aparelhado para prover a assistência médica necessária, esta poderá ser prestada em outro local somente mediante autorização do Juiz da Vara de Execuções Penais responsável pelo estabelecimento.",
+      "A assistência educacional compreenderá a instrução escolar e a formação profissional do preso e do internado, sendo o ensino de 1º grau facultativo, integrando-se no sistema escolar municipal, devendo ser reduzida a pena do preso ou internado que optar pelo estudo.",
+      "A assistência ao egresso consiste na concessão, se necessário, de alojamento e alimentação, em estabelecimento adequado, pelo prazo de até 6 (seis) meses, podendo esse prazo ser prorrogado, no máximo, por duas vezes, sendo comprovado, por declaração do assistente social, o empenho na obtenção de emprego.",
+      "Fora dos estabelecimentos penais, serão implementados Núcleos Especializados da Defensoria Pública para a prestação de assistência jurídica integral e gratuita aos réus, sentenciados em liberdade, egressos e seus familiares, sem recursos financeiros para constituir advogado."
+    ],
+    "correct": 3,
+    "explanation": "A assistência jurídica é um direito e dever do Estado. <br/> A opção: Incorreta. Art. 14, § 2º Quando o estabelecimento penal não estiver aparelhado para prover a assistência médica necessária, esta poderá ser prestada em outro local, mediante autorização do diretor do estabelecimento. <br/> B opção: Incorreta. Art. 18. O ensino de 1º grau será obrigatório, integrando-se no sistema escolar da Unidade Federativa. <br/> C opção: Incorreta. Art. 25, II - na concessão, se necessário, de alojamento e alimentação, em estabelecimento adequado, pelo prazo de 2 (dois) meses. Parágrafo único. O prazo estabelecido no inciso II poderá ser prorrogado por uma única vez, comprovado, por declaração do assistente social, o empenho na obtenção de emprego. <br/> D opção: Correta. Art. 16, § 2º Fora dos estabelecimentos penais, serão implementados Núcleos Especializados da Defensoria Pública para a prestação de assistência jurídica integral e gratuita aos réus, sentenciados em liberdade, egressos e seus familiares, sem recursos financeiros para constituir advogado."
+  },
+  {
+    "question": "37. Incumbe ao Conselho Penitenciário emitir parecer acerca de:",
+    "options": [
+      "comutação de pena e indulto, salvo indulto humanitário.",
+      "permissão de saídas temporárias.",
+      "concessão de livramento condicional.",
+      "progressão e regressão de regime.",
+      "trabalho externo."
+    ],
+    "correct": 2,
+    "explanation": "Atribuições consultivas do Conselho Penitenciário. <br/> A opção: Incorreta. Art. 70. Incumbe ao Conselho Penitenciário: I - emitir parecer sobre indulto e comutação de pena, excetuados os pedidos baseados no estado de saúde do preso. <br/> B opção: Incorreta. Atribuição do Juiz da Execução. <br/> C opção: Correta. Art. 131. O livramento condicional poderá ser concedido pelo Juiz da execução, ouvidos o Ministério Público e o Conselho Penitenciário. <br/> D opção: Incorreta. Atribuição do Juiz da Execução (Art. 66, III, 'b'). <br/> E opção: Incorreta. Atribuição do Diretor do Estabelecimento (regime fechado) ou Juiz."
+  },
+  {
+    "question": "38. Quanto a faltas disciplinares, julgue os itens a seguir.\n <br /> I <br /> A autoridade administrativa deverá comunicar ao juiz da execução a punição pelo cometimento de faltas leves, médias e graves.\n <br /> II <br /> Tentada ou consumada, a conduta ensejadora de falta disciplinar grave será punida com a mesma sanção, sem abrandamento.\n <br /> III <br /> O Regime Disciplinar Diferenciado é modalidade de sanção disciplinar aplicável ao preso condenado, mas não ao preso provisório.\n <br /> IV <br /> O rol de sanções disciplinares previsto na Lei de Execução Penal é taxativo e inextensível.\nEstão certos apenas os itens",
+    "options": [
+      "I e II.",
+      "I e III.",
+      "II e III.",
+      "II e IV.",
+      "III e IV."
+    ],
+    "correct": 3,
+    "explanation": "Análise da disciplina e sanções. <br/> A opção: Incorreta. O item I está errado pois o Art. 48, parágrafo único, diz: 'A autoridade administrativa comunicará ao juiz da execução a prática de falta grave'. <br/> B opção: Incorreta. O item III está errado. Art. 52. (...) § 1º O regime disciplinar diferenciado também poderá abrigar presos provisórios ou condenados sob os quais recaiam fundadas suspeitas de envolvimento ou participação em organizações criminosas. <br/> C opção: Incorreta. Devido ao item III. <br/> D opção: Correta. <br /> II <br /> - Art. 49, Parágrafo único. Pune-se a tentativa com a sanção correspondente à falta consumada. <br /> IV <br /> - Art. 53. Constituem sanções disciplinares: I - advertência verbal; II - repreensão; III - suspensão ou restrição de direitos (artigo 41, parágrafo único); IV - isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo, observado o disposto no artigo 88 desta Lei. V - inclusão no regime disciplinar diferenciado. <br/> E opção: Incorreta. Devido ao item III."
+  },
+  {
+    "question": "39. Roberto, médico renomado, com 73 anos de idade, foi condenado por diversos crimes sexuais, a 180 anos de pena privativa de liberdade, em regime inicialmente fechado. No início do cumprimento da pena, ainda no regime fechado, ele requer que lhe seja deferido o benefício de prisão domiciliar. Considerando exclusivamente a Lei de Execuções Penais e desconsiderando eventuais entendimentos doutrinários ou jurisprudenciais, assinale a alternativa correta.",
+    "options": [
+      "O pedido deverá ser deferido por ser ele maior de 70 anos.",
+      "O pedido deveria ser deferido se ele fosse mulher e gestante.",
+      "O pedido deverá ser deferido se ele estiver acometido de doença grave.",
+      "O pedido deverá ser indeferido pelo fato de ele estar no regime fechado."
+    ],
+    "correct": 3,
+    "explanation": "A prisão domiciliar na LEP é restrita ao regime aberto. <br/> A opção: Incorreta. A idade de 70 anos só autoriza prisão domiciliar se o preso estiver no regime ABERTO (Art. 117). <br/> B opção: Incorreta. Pelo mesmo motivo: a hipótese exige regime aberto. <br/> C opção: Incorreta. Doença grave só autoriza na LEP se no regime aberto. <br/> D opção: Correta. Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de 70 (setenta) anos; II - condenado acometido de doença grave; III - condenada com filho menor ou deficiente físico ou mental; IV - condenada gestante."
+  },
+  {
+    "question": "40. Sobre as penas privativas de liberdade, assinale a alternativa INCORRETA.",
+    "options": [
+      "O condenado a quem sobrevier doença mental será internado em Hospital de Custódia e Tratamento Psiquiátrico.",
+      "Ninguém será recolhido, para cumprimento de pena privativa de liberdade, sem a guia expedida pela autoridade judiciária.",
+      "A guia de recolhimento será retificada sempre que sobrevier modificação quanto ao início da execução ou ao tempo de duração da pena.",
+      "Cumprida ou extinta a pena, o condenado será posto em liberdade, independentemente de alvará do Juiz, se por outro motivo não estiver preso."
+    ],
+    "correct": 3,
+    "explanation": "A soltura exige documento judicial formal. <br/> A opção: Correta. Art. 108. O condenado a quem sobrevier doença mental será internado em Hospital de Custódia e Tratamento Psiquiátrico. <br/> B opção: Correta. Art. 107. Ninguém será recolhido para cumprimento de pena privativa de liberdade sem a guia expedida pela autoridade judiciária. <br/> C opção: Correta. Art. 106, § 4º A guia de recolhimento será retificada sempre que sobrevier modificação quanto ao início da execução ou ao tempo de duração da pena. <br/> D opção: Incorreta. Art. 109. Cumprida ou extinta a pena, o condenado será posto em liberdade mediante alvará do Juiz, se por outro motivo não estiver preso."
+  },
+  {
+    "question": "41. Ao inspecionar estabelecimentos e serviços penais, o Conselho Penitenciário, de acordo com a Lei nº 7.210, de 11 de julho de 1984, atua como órgão:",
+    "options": [
+      "julgador da sentença penal",
+      "fiscalizador da execução da pena",
+      "revogador das medidas de segurança",
+      "financeiro da Procuradoria Geral da República"
+    ],
+    "correct": 1,
+    "explanation": "O Conselho Penitenciário é órgão consultivo e fiscalizador. <br/> A opção: Incorreta. O julgamento cabe ao Poder Judiciário. <br/> B opção: Correta. Art. 70. Incumbe ao Conselho Penitenciário: II - inspecionar os estabelecimentos e serviços penais; V - supervisionar os patronatos, bem como a assistência aos egressos. <br/> C opção: Incorreta. Atribuição do Juiz da Execução. <br/> D opção: Incorreta. Não possui função financeira."
+  },
+  {
+    "question": "42. Entre as disposições da Lei nº 7210/1984 (Lei de Execuções Penais), está previsto que os condenados:",
+    "options": [
+      "não poderão ser liberados para tratamento médico, mesmo com escolta.",
+      "não poderão ser liberados em hipótese alguma, tendo em vista o previsto na Lei mencionada.",
+      "poderão ser liberados com escolta em ocasiões especiais como Natal e Ano-Novo por decisão do Diretor do Estabelecimento.",
+      "somente serão liberados sem escolta em situação que assim exigir devido a decisão do Diretor do Estabelecimento.",
+      "que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do Presídio, mediante escolta, quando houver falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão."
+    ],
+    "correct": 4,
+    "explanation": "Hipóteses de Permissão de Saída. <br/> A opção: Incorreta. Art. 120, II prevê saída para tratamento médico. <br/> B opção: Incorreta. A lei prevê saídas. <br/> C opção: Incorreta. Datas comemorativas referem-se à Saída Temporária (sem escolta), decidida pelo Juiz. <br/> D opção: Incorreta. A Permissão de Saída (Diretor) exige escolta obrigatoriamente. <br/> E opção: Correta. Art. 120. Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos: I - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão;"
+  },
+ {
+    "question": "43. De acordo com a Lei de Execução Penal, constituem direitos dos presos:\n <br /> 1 <br /> . audiência especial com o diretor do estabelecimento.\n <br /> 2 <br /> . ser chamado nominalmente.\n <br /> 3 <br /> . atribuição de trabalho, remuneração e horário de lazer.\n <br /> 4 <br /> . representação e petição a qualquer autoridade, em defesa de direito.\nAssinale a alternativa que indica todas as afirmativas corretas.",
+    "options": [
+      "São corretas apenas as afirmativas 1 e 2.",
+      "São corretas apenas as afirmativas 3 e 4.",
+      "São corretas apenas as afirmativas 1, 2 e 3.",
+      "São corretas apenas as afirmativas 1, 2 e 4.",
+      "São corretas as afirmativas 1, 2, 3 e 4."
+    ],
+    "correct": 4,
+    "explanation": "A questão trata dos direitos fundamentais do preso estabelecidos no Art. 41. <br/> A opção: Incorreta, pois as demais também estão certas. <br/> B opção: Incorreta, pois as demais também estão certas. <br/> C opção: Incorreta, pois a afirmativa 4 também é um direito. <br/> D opção: Incorreta, pois a afirmativa 3 também é um direito. <br/> E opção: Correta. Art. 41 - Constituem direitos do preso: II - atribuição de trabalho e sua remuneração; V - proporcionalidade entre o tempo de trabalho, o de descanso e o de recreação; XI - chamamento nominal; XII - audiência especial com o diretor do estabelecimento; XIV - representação e petição a qualquer autoridade, em defesa de direito."
+  },
+  {
+    "question": "44. Referente ao trabalho desempenhado pelo preso, sua remição e pecúlio disponibilizados pela legislação, assinale a alternativa correta.",
+    "options": [
+      "O trabalho interno do preso tem caráter facultativo e deve respeitar as aptidões e a capacidade do preso.",
+      "O trabalho do preso será remunerado, mediante prévia tabela, não podendo ser inferior a 3/4 (três quartos) do salário-mínimo.",
+      "A jornada normal de trabalho não será inferior a 4 (quatro) nem superior a 8 (oito) horas, com descanso nos domingos e feriados.",
+      "A remição ocorrerá na razão de um dia de pena para dois dias trabalhados, sendo considerado também, para efeitos de remição, a frequência regular aos cursos de Ensino Fundamental, Médio e Profissionalizante, bem como a produção intelectual e produção de artesanato."
+    ],
+    "correct": 1,
+    "explanation": "Regras sobre remuneração e jornada de trabalho do preso. <br/> A opção: Incorreta. Art. 31 - O condenado à pena privativa de liberdade está obrigado ao trabalho na medida de suas aptidões e capacidade. <br/> B opção: Correta. Art. 29 - O trabalho do preso será remunerado, mediante prévia tabela, não podendo ser inferior a 3/4 (três quartos) do salário mínimo. <br/> C opção: Incorreta. Art. 33 - A jornada normal de trabalho não será inferior a 6 (seis) nem superior a 8 (oito) horas, com descanso nos domingos e feriados. <br/> D opção: Incorreta. Art. 126, § 1º - A contagem de tempo referida no caput far-se-á à razão de: II - 1 (um) dia de pena por 3 (três) dias de trabalho."
+  },
+  {
+    "question": "45. Um grupo de presos, com o intuito de subverter a ordem e a disciplina no estabelecimento penal, incita os outros presos a se rebelarem. Nesse sentido, de acordo com o que estabelece a Lei de Execuções Penais (Lei n° 7.210/1984), qual medida sancionatória deverá ser aplicada aos presos que incitaram a rebelião?",
+    "options": [
+      "Deverão ser aplicadas, coletivamente, as sanções previstas para o cometimento de falta grave.",
+      "Deverá ser aplicada sanção de recolhimento em cela escura e individual.",
+      "Deverão ser aplicadas, coletivamente, as sanções previstas em legislação local para o cometimento de faltas médias.",
+      "Deverão ser aplicadas, individualmente, as sanções previstas para o cometimento de falta grave."
+    ],
+    "correct": 3,
+    "explanation": "A lei proíbe punições coletivas e celas escuras. <br/> A opção: Incorreta. Art. 45, § 3º - São vedadas as sanções coletivas. <br/> B opção: Incorreta. Art. 45, § 2º - É vedado o emprego de cela escura. <br/> C opção: Incorreta. Art. 45, § 3º - São vedadas as sanções coletivas. <br/> D opção: Correta. Art. 50 - Comete falta grave o condenado à pena privativa de liberdade que: I - incitar ou participar de movimento para subverter a ordem ou a disciplina; Art. 45 - Não haverá falta nem sanção disciplinar sem expressa e anterior previsão legal ou regulamentar. § 3º São vedadas as sanções coletivas."
+  },
+  {
+    "question": "46. No ano de 2012 a Lei de Execução Penal teve incluído um artigo que determina que os determinados condenados serão submetidos, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA – ácido desoxirribonucleico. Sobre o tema, analise as afirmativas a seguir.\n <br /> I <br /> . A técnica utilizada deve ser adequada e indolor.\n <br /> II <br /> . Serão submetidos ao procedimento exclusivamente os condenados por crimes sexuais.\n <br /> III <br /> . A autoridade policial, federal ou estadual, poderá requerer ao juiz competente, no caso de inquérito instaurado, o acesso ao banco de dados de identificação de perfil genético.\n <br /> IV <br /> . A identificação do perfil genético será armazenada em banco de dados sigiloso.\nEstão corretas apenas as afirmativas",
+    "options": [
+      "I, II e III.",
+      "I, III e IV.",
+      "I, II e IV.",
+      "II, III e IV."
+    ],
+    "correct": 1,
+    "explanation": "Regras da identificação de perfil genético (Art. 9º-A). <br/> A opção: Incorreta, pois o item II está errado. <br/> B opção: Correta. <br /> I <br /> - Art. 9º-A. (...) mediante extração de DNA - ácido desoxirribonucleico, por técnica adequada e indolor. <br /> III <br /> - Art. 9º-A, § 2º A autoridade policial, federal ou estadual, poderá requerer ao juiz competente, no caso de inquérito instaurado, o acesso ao banco de dados de identificação de perfil genético. <br /> IV <br /> - Art. 9º-A, § 3º A identificação do perfil genético será armazenada em banco de dados sigiloso, conforme regulamento a ser expedido pelo Poder Executivo. <br/> C opção: Incorreta, pois o item II está errado. <br/> D opção: Incorreta. Art. 9º-A. Os condenados por crime doloso praticado com violência grave contra a pessoa, bem como por crime contra a vida, contra a liberdade sexual ou por crime sexual contra vulnerável, serão submetidos, obrigatoriamente, à identificação do perfil genético. (O item II diz 'exclusivamente por crimes sexuais', o que torna a assertiva falsa)."
+  },
+  {
+    "question": "47. Segundo a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, é INCORRETO afirmar que:",
+    "options": [
+      "O Estado deverá recorrer à cooperação da comunidade nas atividades de execução da pena e da medida de segurança.",
+      "A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado.",
+      "A Lei de Execuções Penais não aplicar-se-á ao preso provisório e ao condenado pela Justiça Eleitoral ou Militar, quando recolhido a estabelecimento sujeito à jurisdição ordinária.",
+      "Ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei. Não haverá qualquer distinção de natureza racial, social, religiosa ou política."
+    ],
+    "correct": 2,
+    "explanation": "A questão pede a alternativa incorreta sobre a aplicação da LEP. <br/> A opção: Correta (Afirmação verdadeira). Art. 4º - O Estado deverá recorrer à cooperação da comunidade nas atividades de execução da pena e da medida de segurança. <br/> B opção: Correta (Afirmação verdadeira). Art. 1º - A execução penal tem por objetivo efetivar as disposições de sentença ou decisão criminal e proporcionar condições para a harmônica integração social do condenado e do internado. <br/> C opção: Incorreta (Resposta da questão). Art. 2º, Parágrafo único - Esta Lei aplicar-se-á igualmente ao preso provisório e ao condenado pela Justiça Eleitoral ou Militar, quando recolhido a estabelecimento sujeito à jurisdição ordinária. <br/> D opção: Correta (Afirmação verdadeira). Art. 3º - Ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei. Parágrafo único. Não haverá qualquer distinção de natureza racial, social, religiosa ou política."
+  },
+  {
+    "question": "48. Analise as afirmações e assinale a alternativa correta:\n <br /> I <br /> . Os condenados que cumprem pena em regime semiaberto e regime fechado poderão obter autorização para saída temporária do estabelecimento.\n <br /> II <br /> . A autorização para saída temporária será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária.\n <br /> III <br /> . Constituem direitos dos presos, dentre outros, o chamamento nominal, audiência especial com o diretor do estabelecimento prisional, assistência material, à saúde, jurídica, educacional, social e religiosa; visita do cônjuge, da companheira, de parentes e amigos em dias determinados; constituição de pecúlio; previdência social, etc.\n <br /> IV <br /> . Na hipótese da suspensão condicional prevista na Lei de Execução Penal, o Juiz poderá suspender, pelo período de 2 (dois) a 4 (quatro) anos, a execução da pena privativa de liberdade, não superior a 4 (quatro) anos, na forma prevista no Código Penal.\n",
+    "options": [
+      "apenas as alternativas I e II estão corretas;",
+      "apenas a alternativa III está correta;",
+      "apenas as alternativas III e IV estão corretas;",
+      "apenas as alternativas II e III estão corretas;",
+      "apenas as alternativas II e IV estão corretas;"
+    ],
+    "correct": 3,
+    "explanation": "Análise da saída temporária e direitos. <br/> A opção: Incorreta. <br /> I <br /> - Art. 122. Os condenados que cumprem pena em regime semi-aberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta. (O regime fechado não tem direito à saída temporária). <br/> B opção: Incorreta, pois a II também está correta. <br/> C opção: Incorreta. <br /> IV <br /> - Art. 156. O Juiz poderá suspender, pelo período de 2 (dois) a 4 (quatro) anos, a execução da pena privativa de liberdade, não superior a 2 (dois) anos, na forma prevista nos artigos 77 a 82 do Código Penal. <br/> D opção: Correta. <br /> II <br /> - Art. 123. A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária. <br /> III <br /> - Art. 41. Constituem direitos do preso: XI - chamamento nominal; XII - audiência especial com o diretor do estabelecimento; XV - contato com o mundo exterior por meio de correspondência escrita, da leitura e de outros meios de informação que não comprometam a moral e os bons costumes. Art. 10. A assistência ao preso e ao internado é dever do Estado... <br/> E opção: Incorreta."
+  },
+  {
+    "question": "49. Marque a opção abaixo que configura a única hipótese permitida ao juiz determinar a fiscalização do preso por meio da monitoração eletrônica:",
+    "options": [
+      "nos casos de prisão preventiva",
+      "na hipótese de regime fechado",
+      "na hipótese de regime aberto",
+      "na hipótese de determinação da prisão domiciliar",
+      "daqueles que estão em liberdade condicional"
+    ],
+    "correct": 3,
+    "explanation": "Hipóteses de monitoração eletrônica. <br/> A opção: Incorreta. A monitoração na prisão preventiva é prevista no CPP, mas a questão foca na LEP. <br/> B opção: Incorreta. Não há previsão para regime fechado. <br/> C opção: Incorreta. A LEP prevê para saída temporária no semiaberto ou prisão domiciliar. <br/> D opção: Correta. Art. 146-B - O juiz poderá definir a fiscalização por meio da monitoração eletrônica quando: IV - determinar a prisão domiciliar. <br/> E opção: Incorreta. Não há previsão específica no Art. 146-B da LEP para o livramento condicional."
+  },
+  {
+    "question": "50. O instituto previsto na Lei de Execução Penal que concede ao condenado em regime fechado ou semiaberto o direito de, a cada três dias de trabalho, descontar um dia de pena é denominado:",
+    "options": [
+      "remição",
+      "progressão.",
+      "regressão.",
+      "perdão judicial.",
+      "Detração."
+    ],
+    "correct": 0,
+    "explanation": "Definição de remição. <br/> A opção: Correta. Art. 126 - O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. § 1º A contagem de tempo referida no caput far-se-á à razão de: II - 1 (um) dia de pena por 3 (três) dias de trabalho. <br/> B opção: Incorreta. Progressão é a passagem para regime menos rigoroso (Art. 112). <br/> C opção: Incorreta. Regressão é a transferência para regime mais rigoroso (Art. 118). <br/> D opção: Incorreta. O perdão judicial é causa de extinção da punibilidade no Código Penal. <br/> E opção: Incorreta. Detração é o cômputo do tempo de prisão provisória na pena definitiva."
+  },
+  {
+    "question": "51. NÃO incumbe ao Conselho da Comunidade:",
+    "options": [
+      "Entrevistar presos.",
+      "Orientar os condenados à pena restritiva de direitos.",
+      "Apresentar relatórios mensais ao juiz da execução e ao Conselho Penitenciário.",
+      "Visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca."
+    ],
+    "correct": 1,
+    "explanation": "Competências do Conselho da Comunidade. <br/> A opção: Incorreta (Incumbência real). Art. 81 - Ao Conselho da Comunidade incumbe: II - entrevistar presos. <br/> B opção: Correta (Não é incumbência dele). Art. 79 - Incumbe ao Patronato: I - prestar assistência aos albergados e aos egressos; II - orientar os condenados à pena restritiva de direitos. <br/> C opção: Incorreta (Incumbência real). Art. 81 - Ao Conselho da Comunidade incumbe: III - apresentar relatórios mensais ao Juiz da execução e ao Conselho Penitenciário. <br/> D opção: Incorreta (Incumbência real). Art. 81 - Ao Conselho da Comunidade incumbe: I - visitar, pelo menos mensalmente, os estabelecimentos penais existentes na comarca."
+  },
+  {
+    "question": "52. “O Conselho Nacional de Política Criminal e Penitenciária será integrado por ______ membros designados através de ato do Ministério da Justiça, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade e dos Ministérios da área social.” Assinale a alternativa que completa corretamente a afirmativa anterior.",
+    "options": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "correct": 2,
+    "explanation": "Composição do CNPCP. <br/> A opção: Incorreta. <br/> B opção: Incorreta. <br/> C opção: Correta. Art. 63 - O Conselho Nacional de Política Criminal e Penitenciária será integrado por 13 (treze) membros designados através de ato do Ministério da Justiça, dentre professores e profissionais da área do Direito Penal, Processual Penal, Penitenciário e ciências correlatas, bem como por representantes da comunidade e dos Ministérios da área social. <br/> D opção: Incorreta."
+  },
+  {
+    "question": "53. Estatui a Lei de Execução Penal que as recompensas têm em vista o bom comportamento reconhecido em favor do condenado, de sua colaboração com a disciplina e de sua dedicação ao trabalho. São recompensas:",
+    "options": [
+      "O elogio e a concessão de regalias.",
+      "O elogio e a autorização de trabalho interno.",
+      "A concessão de regalias e a constituição de pecúlio.",
+      "A constituição de pecúlio e a autorização de trabalho interno."
+    ],
+    "correct": 0,
+    "explanation": "Tipos de recompensas na LEP. <br/> A opção: Correta. Art. 56 - São recompensas: I - o elogio; II - a concessão de regalias. <br/> B opção: Incorreta. Trabalho interno é dever/direito, não recompensa. <br/> C opção: Incorreta. Pecúlio é resultado da remuneração do trabalho (Art. 29). <br/> D opção: Incorreta. Nem pecúlio nem trabalho são definidos como recompensas no Art. 56."
+  },
+  {
+    "question": "54. Sobre as disposições gerais que a Lei de Execução Penal estabelece quanto à disciplina, assinale a alternativa INCORRETA.",
+    "options": [
+      "É vedado o emprego de cela escura.",
+      "São permitidas as sanções coletivas.",
+      "As sanções não poderão colocar em perigo a integridade física e moral do condenado.",
+      "Não haverá falta nem sanção disciplinar sem expressa e anterior previsão legal ou regulamentar."
+    ],
+    "correct": 1,
+    "explanation": "A questão busca a alternativa que viola os princípios disciplinares da LEP. <br/> A opção: Correta (Afirmação verdadeira). Art. 45, § 2º - É vedado o emprego de cela escura. <br/> B opção: Incorreta (Resposta da questão). Art. 45, § 3º - São vedadas as sanções coletivas. <br/> C opção: Correta (Afirmação verdadeira). Art. 45, § 1º - As sanções não poderão colocar em perigo a integridade física e moral do condenado. <br/> D opção: Correta (Afirmação verdadeira). Art. 45 - Não haverá falta nem sanção disciplinar sem expressa e anterior previsão legal ou regulamentar."
+  },
+  {
+    "question": "55. Segundo a Lei de Execução Penal, cumpre ao condenado, além das obrigações legais inerentes ao seu estado, submeter-se às normas de execução da pena. Sobre os deveres dos presos, analise as afirmativas a seguir.\n <br /> I <br /> . Urbanidade e respeito no trato com os demais condenados.\n <br /> II <br /> . Indenização à vítima ou aos seus sucessores.\n <br /> III <br /> . Conservação dos objetos de uso pessoal.\n <br /> IV <br /> . Indenização ao Estado, quando possível, das despesas realizadas com a sua manutenção, mediante desconto proporcional da remuneração do trabalho.\nEstão corretas as afirmativas",
+    "options": [
+      "I, II, III e IV.",
+      "I e II, apenas.",
+      "III e IV, apenas.",
+      "I, II e III, apenas."
+    ],
+    "correct": 0,
+    "explanation": "Deveres do condenado conforme o Art. 39. <br/> A opção: Correta. Art. 39 - Constituem deveres do condenado: V - urbanidade e respeito no trato com os demais condenados; VII - indenização à vítima ou aos seus sucessores; X - conservação dos objetos de uso pessoal; XI - indenização ao Estado, quando possível, das despesas realizadas com a sua manutenção, mediante desconto proporcional da remuneração do trabalho. <br/> B opção: Incorreta, pois as outras também estão certas. <br/> C opção: Incorreta, pois as outras também estão certas. <br/> D opção: Incorreta, pois a IV também é um dever."
+  },
+  {
+    "question": "56. Sobre as Disposições Gerais que a Lei de Execução Penal estabelece quanto ao Trabalho do condenado, analise as afirmativas a seguir.\n <br /> I <br /> . O trabalho do condenado, como dever social e condição de dignidade humana, terá finalidade educativa e produtiva.\n <br /> II <br /> . Aplicam-se à organização e aos métodos de trabalho as precauções relativas à segurança e à higiene.\n <br /> III <br /> . O trabalho do preso está sujeito ao regime da Consolidação das Leis do Trabalho.\n <br /> IV <br /> . As tarefas executadas como prestação de serviço à comunidade serão remuneradas.\nEstão corretas as afirmativas",
+    "options": [
+      "I, II, III e IV.",
+      "I e II, apenas.",
+      "I, III e IV, apenas.",
+      "II, III e IV, apenas."
+    ],
+    "correct": 1,
+    "explanation": "Características do trabalho prisional. <br/> A opção: Incorreta, pois os itens III e IV estão errados. <br/> B opção: Correta. <br /> I <br /> - Art. 28. O trabalho do condenado, como dever social e condição de dignidade humana, terá finalidade educativa e produtiva. <br /> II <br /> - Art. 28, § 1º Aplicam-se à organização e aos métodos de trabalho as precauções relativas à segurança e à higiene. <br/> C opção: Incorreta. <br /> III <br /> - Art. 28, § 2º O trabalho do preso não está sujeito ao regime da Consolidação das Leis do Trabalho. <br/> D opção: Incorreta. <br /> IV <br /> - Art. 30. As tarefas executadas como prestação de serviço à comunidade não serão remuneradas."
+  },
+  {
+    "question": "57. Assinale a alternativa que contenha a descrição condenado que NÃO seria egresso para os efeitos da Lei de Execução Penal:",
+    "options": [
+      "Fulano de Tal, em suspensão condicional da pena.",
+      "Fulano de Tal, liberado condicional, durante o período de prova.",
+      "Fulano de Tal, liberado condicional, que teve prorrogado o seu período de prova.",
+      "Fulano de Tal, liberado definitivo, tendo saído do estabelecimento prisional há seis meses."
+    ],
+    "correct": 0,
+    "explanation": "A questão exige o conhecimento do conceito legal de egresso conforme o Art. 26 da LEP. <br/> A opção: Correta. O condenado em suspensão condicional da pena (sursis) não se enquadra na definição de egresso, pois a execução da pena privativa de liberdade foi suspensa antes mesmo do cumprimento em estabelecimento penal. Art. 26 - Considera-se egresso: I - o liberado definitivo, pelo prazo de 1 (um) ano a contar da saída do estabelecimento; II - o liberado condicional, durante o período de prova. <br/> B opção: Incorreta. O liberado condicional é considerado egresso durante todo o período de prova. Art. 26, II - o liberado condicional, durante o período de prova. <br/> C opção: Incorreta. Mesmo com a prorrogação, enquanto durar o período de prova do livramento condicional, o indivíduo é egresso. Art. 26, II - o liberado condicional, durante o período de prova. <br/> D opção: Incorreta. O liberado definitivo é egresso por um ano após a saída. Art. 26, I - o liberado definitivo, pelo prazo de 1 (um) ano a contar da saída do estabelecimento."
+  },
+  {
+    "question": "58. Nos termos da Lei de Execução Penal, a assistência à saúde do preso e do internado terá caráter",
+    "options": [
+      "preventivo e compreenderá atendimento médico e farmacêutico.",
+      "curativo e compreenderá atendimento médico, farmacêutico e odontológico.",
+      "curativo e retributivo e compreenderá atendimento médico, odontológico e psicológico.",
+      "preventivo e curativo e compreenderá atendimento médico, farmacêutico e odontológico."
+    ],
+    "correct": 3,
+    "explanation": "A assistência à saúde é um dever do Estado e está detalhada no Art. 14 da LEP. <br/> A opção: Incorreta. O caráter é preventivo e curativo, e inclui odontologia. Art. 14 - A assistência à saúde do preso e do internado de caráter preventivo e curativo, compreenderá atendimento médico, farmacêutico e odontológico. <br/> B opção: Incorreta. Falta o caráter preventivo. Art. 14 - A assistência à saúde do preso e do internado de caráter preventivo e curativo, compreenderá atendimento médico, farmacêutico e odontológico. <br/> C opção: Incorreta. A lei não menciona caráter 'retributivo' para a assistência. Art. 14 - A assistência à saúde do preso e do internado de caráter preventivo e curativo, compreenderá atendimento médico, farmacêutico e odontológico. <br/> D opção: Correta. Art. 14 - A assistência à saúde do preso e do internado de caráter preventivo e curativo, compreenderá atendimento médico, farmacêutico e odontológico."
+  },
+  {
+    "question": "59. Considere as seguintes assertivas:\n <br /> I <br /> . A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade.\n <br /> II <br /> . A assistência estende-se ao egresso.\n <br /> III <br /> . A assistência ao preso e ao internado será exclusivamente material, saúde, jurídica, educacional e social.\nEstá(ao) correta(s) apenas a(s) assertiva(s):",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "I, II",
+      "I, II, III"
+    ],
+    "correct": 3,
+    "explanation": "Análise da abrangência da assistência conforme Arts. 10 e 11 da LEP. <br/> A opção: Incorreta, pois a assertiva II também está correta. <br/> B opção: Incorreta, pois a assertiva I também está correta. <br/> C opção: Incorreta. A assertiva III é falsa pois exclui a assistência religiosa. Art. 11 - A assistência será: I - material; II - à saúde; III - jurídica; IV - educacional; V - social; VI - religiosa. <br/> D opção: Correta. As assertivas I e II refletem o texto legal. Art. 10 - A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade. Parágrafo único. A assistência estende-se ao egresso. <br/> E opção: Incorreta devido ao erro na assertiva III."
+  },
+  {
+    "question": "60. A autorização para saída temporária ao condenado que cumpre pena no regime semiaberto será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos:\n <br /> I <br /> - Comportamento adequado.\n <br /> II <br /> - Cumprimento mínimo de 1/3 (um terço) da pena, se o condenado for reincidente.\n <br /> III <br /> - Compatibilidade do benefício com os objetivos da pena.\n <br /> IV <br /> - Se sobrevier doença mental ao apenado.\nAssinale a(s) assertiva(s) correta(s):",
+    "options": [
+      "Apenas I, II e III.",
+      "Apenas I, III e IV.",
+      "Apenas I e III.",
+      "Apenas a IV.",
+      "I, II, III e IV."
+    ],
+    "correct": 2,
+    "explanation": "A questão aborda os requisitos cumulativos do Art. 123 da LEP para saída temporária. <br/> A opção: Incorreta. O requisito temporal para reincidente é 1/4 e não 1/3. Art. 123 - A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária, dependendo da satisfação dos seguintes requisitos: II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e de 1/4 (um quarto), se reincidente. <br/> B opção: Incorreta. O item IV não é requisito para saída temporária, mas sim causa de substituição de pena por medida de segurança. Art. 108 - O condenado a quem sobrevier doença mental será internado em Hospital de Custódia e Tratamento Psiquiátrico. <br/> C opção: Correta. Os itens I e III estão previstos no Art. 123. Art. 123 - A autorização será concedida... dependendo: I - comportamento adequado; III - compatibilidade do benefício com os objetivos da pena. <br/> D opção: Incorreta. O item IV é estranho ao tema da saída temporária. <br/> E opção: Incorreta pois os itens II e IV estão errados conforme a lei."
+  },
+  {
+    "question": "61. NÃO se admitirá o recolhimento do beneficiário de regime aberto em residência particular, quando se tratar de:",
+    "options": [
+      "Condenado maior de 70(setenta) anos.",
+      "Condenado acometido de doença grave.",
+      "Condenada com filho menor ou deficiente físico ou mental.",
+      "Condenada gestante.",
+      "Condenado, cujos pais encontram-se acometidos de doença grave."
+    ],
+    "correct": 4,
+    "explanation": "A questão trata das hipóteses taxativas de prisão domiciliar previstas no Art. 117 da LEP. <br/> A opção: Incorreta. Esta é uma hipótese permitida. Art. 117 - Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de 70 (setenta) anos. <br/> B opção: Incorreta. Esta é uma hipótese permitida. Art. 117 - Somente se admitirá o recolhimento... quando se tratar de: II - condenado acometido de doença grave. <br/> C opção: Incorreta. Esta é uma hipótese permitida. Art. 117 - Somente se admitirá o recolhimento... quando se tratar de: III - condenada com filho menor ou deficiente físico ou mental. <br/> D opção: Incorreta. Esta é uma hipótese permitida. Art. 117 - Somente se admitirá o recolhimento... quando se tratar de: IV - condenada gestante. <br/> E opção: Correta. A doença grave de pais não é fundamento previsto na LEP para a prisão domiciliar. Art. 117 - Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de 70 (setenta) anos; II - condenado acometido de doença grave; III - condenada com filho menor ou deficiente físico ou mental; IV - condenada gestante."
+  },
+  {
+    "question": "62. De acordo com a Lei de Execuções Penais (Lei n.º 7.210/84), marque a alternativa INCORRETA:",
+    "options": [
+      "Quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juiz de ofício, a requerimento do Ministério Público ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança.",
+      "Em qualquer tempo, ainda no decorrer do prazo mínimo de duração da medida de segurança, poderá o juiz da execução, diante de requerimento fundamentado do Ministério Público ou do interessado, seu procurador ou defensor, ordenar o exame para que se verifique a cessação da periculosidade.",
+      "O tratamento ambulatorial não poderá ser convertido em internação se o Agente revelar incompatibilidade com a medida.",
+      "Ninguém será internado em Hospital de Custódia e Tratamento Psiquiátrico ou submetido a tratamento ambulatorial, para cumprimento de medida de segurança, sem a guia expedida pela autoridade judiciária.",
+      "Haverá excesso ou desvio de execução sempre que algum ato for praticado além dos limites fixados na sentença, em normas legais ou regulamentares."
+    ],
+    "correct": 2,
+    "explanation": "A questão avalia diversos institutos da execução penal, focando na medida de segurança e desvio de execução. <br/> A opção: Correta (Afirmação verdadeira). Art. 183 - Quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juiz, de ofício, a requerimento do Ministério Público ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança. <br/> B opção: Correta (Afirmação verdadeira). Art. 176 - Em qualquer tempo, ainda no decorrer do prazo mínimo de duração da medida de segurança, poderá o juiz da execução, diante de requerimento fundamentado do Ministério Público ou do interessado, seu procurador ou defensor, ordenar o exame para que se verifique a cessação da periculosidade. <br/> C opção: Incorreta (Resposta da questão). A lei permite expressamente a conversão. Art. 184 - O tratamento ambulatorial poderá ser convertido em internação se o agente revelar incompatibilidade com aquela medida. <br/> D opção: Correta (Afirmação verdadeira). Art. 174 - Ninguém será internado em Hospital de Custódia e Tratamento Psiquiátrico, ou submetido a tratamento ambulatorial, para cumprimento de medida de segurança, sem a guia expedida pela autoridade judiciária. <br/> E opção: Correta (Afirmação verdadeira). Art. 185 - Haverá excesso ou desvio de execução sempre que algum ato for praticado além dos limites fixados na sentença, em normas legais ou regulamentares."
+  },
+  {
+    "question": "63. NÃO comete falta grave o condenado à pena privativa de liberdade que:",
+    "options": [
+      "Retardar, injustificadamente, o cumprimento da obrigação imposta.",
+      "Fugir.",
+      "Provocar acidente de trabalho.",
+      "Descumprir, no regime aberto, as restrições impostas.",
+      "Incitar ou participar de movimento para subverter a ordem ou a disciplina."
+    ],
+    "correct": 2,
+    "explanation": "A questão diferencia as faltas graves previstas para pena privativa de liberdade das demais. <br/> A opção: Incorreta. É falta grave segundo o Art. 51, I. Art. 51 - Comete falta grave o condenado à pena restritiva de direitos que: I - descumprir, injustificadamente, a restrição imposta. <br/> B opção: Incorreta. É falta grave. Art. 50 - Comete falta grave o condenado à pena privativa de liberdade que: II - fugir. <br/> C opção: Correta. Provocar acidente de trabalho não está no rol de faltas graves da LEP. O que constitui falta grave é a inobservância do dever de trabalho. Art. 50 - Comete falta grave o condenado à pena privativa de liberdade que: VI - inobservar os deveres previstos nos incisos II e V do artigo 39 desta Lei. <br/> D opção: Incorreta. É falta grave. Art. 50 - Comete falta grave o condenado à pena privativa de liberdade que: V - descumprir, no regime aberto, as condições impostas. <br/> E opção: Incorreta. É falta grave. Art. 50 - Comete falta grave o condenado à pena privativa de liberdade que: I - incitar ou participar de movimento para subverter a ordem ou a disciplina."
+  },
+  {
+    "question": "64. Os condenados que cumprem pena em regime fechado ou semiaberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer algum dos fatos previstos na Lei de Execução Penal (Lei n.º 7.210/84). Sobre este tema, marque a assertiva INCORRETA:",
+    "options": [
+      "É possível a permissão para saída, no caso de falecimento ou doença grave do cônjuge, companheira, ascendente ou descendente.",
+      "A permissão será concedida apenas pelo juiz da execução de onde se encontra o preso.",
+      "É possível a permissão para saída, no caso falecimento ou doença grave de irmão.",
+      "É possível a permissão de saída, no caso de necessidade de tratamento médico.",
+      "A permanência do preso fora do estabelecimento terá duração necessária à finalidade da saída."
+    ],
+    "correct": 1,
+    "explanation": "A Permissão de Saída (Art. 120) é ato administrativo do Diretor, diferentemente da Saída Temporária. <br/> A opção: Correta (Afirmação verdadeira). Art. 120 - Os condenados que cumprem pena em regime fechado ou semi-aberto e os presos provisórios poderão obter permissão para sair do estabelecimento, mediante escolta, quando ocorrer um dos seguintes fatos: I - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão. <br/> B opção: Incorreta (Resposta da questão). Quem concede é o Diretor. Art. 120, Parágrafo único - A permissão de saída será concedida pelo diretor do estabelecimento onde se encontra o preso. <br/> C opção: Correta (Afirmação verdadeira). Art. 120, I - falecimento ou doença grave do cônjuge, companheira, ascendente, descendente ou irmão. <br/> D opção: Correta (Afirmação verdadeira). Art. 120, II - necessidade de tratamento médico (parágrafo único do artigo 14). <br/> E opção: Correta (Afirmação verdadeira). Art. 121 - A permanência do preso fora do estabelecimento terá a duração necessária à finalidade da saída."
+  },
+  {
+    "question": "65. Marque a afirmativa INCORRETA:",
+    "options": [
+      "São recompensas que podem ser concedidas aos presos: elogio e concessão de regalias.",
+      "Não é garantida a liberdade de contratar médico de confiança pessoal do internado ou do submetido a tratamento ambulatorial, por seus familiares ou dependente, a fim de orientar e acompanhar o tratamento.",
+      "Constitui direito do preso a alimentação suficiente e vestuário.",
+      "Constitui direito do preso o contato com o mundo exterior por meio de correspondência escrita, da leitura e de outros meios de informação que não comprometam a moral e os bons costumes.",
+      "Constitui direito do preso a previdência social."
+    ],
+    "correct": 1,
+    "explanation": "Análise de direitos e recompensas na LEP. <br/> A opção: Correta (Afirmação verdadeira). Art. 56 - São recompensas: I - o elogio; II - a concessão de regalias. <br/> B opção: Incorreta (Resposta da questão). A lei garante expressamente esse direito. Art. 160 - É garantida a liberdade de contratar médico de confiança pessoal do internado ou do submetido a tratamento ambulatorial, por seus familiares ou dependentes, a fim de orientar e acompanhar o tratamento. <br/> C opção: Correta (Afirmação verdadeira). Art. 41 - Constituem direitos do preso: I - alimentação suficiente e vestuário. <br/> D opção: Correta (Afirmação verdadeira). Art. 41 - Constituem direitos do preso: XV - contato com o mundo exterior por meio de correspondência escrita, da leitura e de outros meios de informação que não comprometam a moral e os bons costumes. <br/> E opção: Correta (Afirmação verdadeira). Art. 41 - Constituem direitos do preso: XVI - previdência social."
+  },
+  {
+    "question": "66. Podem suscitar o incidente de excesso ou desvio de execução, EXCETO:",
+    "options": [
+      "O Ministério Público.",
+      "O Conselho Penitenciário.",
+      "O sentenciado.",
+      "Quaisquer dos órgãos da execução penal.",
+      "O Agente responsável pela guarda dos presos."
+    ],
+    "correct": 4,
+    "explanation": "A legitimidade para suscitar excesso ou desvio de execução está no Art. 186 da LEP. <br/> A opção: Incorreta. Tem legitimidade. Art. 186 - Podem suscitar o incidente de excesso ou desvio de execução: I - o Ministério Público. <br/> B opção: Incorreta. Tem legitimidade. Art. 186 - Podem suscitar o incidente de excesso ou desvio de execução: II - o Conselho Penitenciário. <br/> C opção: Incorreta. Tem legitimidade. Art. 186 - Podem suscitar o incidente de excesso ou desvio de execução: III - o sentenciado. <br/> D opção: Incorreta. Têm legitimidade. Art. 186 - Podem suscitar o incidente de excesso ou desvio de execução: IV - qualquer dos órgãos da execução penal. <br/> E opção: Correta. O agente de guarda não está listado como legitimado direto no Art. 186 da LEP. Art. 186 - Podem suscitar o incidente de excesso ou desvio de execução: I - o Ministério Público; II - o Conselho Penitenciário; III - o sentenciado; IV - qualquer dos órgãos da execução penal."
+  },
+  {
+    "question": "67. De acordo com a Lei de Execuções Penais (Lei n.º 7.210/84) constituem sanções disciplinares, EXCETO:",
+    "options": [
+      "Suspensão do direito ao banho de sol.",
+      "Advertência verbal.",
+      "Repreensão.",
+      "Suspensão ou restrição de direitos, na forma da própria Lei de Execuções Penais.",
+      "Inclusão no regime disciplinar diferenciado."
+    ],
+    "correct": 0,
+    "explanation": "O rol de sanções disciplinares é taxativo e consta no Art. 53 da LEP. <br/> A opção: Correta (Não é sanção). A suspensão do banho de sol não consta no rol do Art. 53. Art. 53 - Constituem sanções disciplinares: I - advertência verbal; II - repreensão; III - suspensão ou restrição de direitos (artigo 41, parágrafo único); IV - isolamento na própria cela... V - inclusão no regime disciplinar diferenciado. <br/> B opção: Incorreta. É sanção. Art. 53, I - advertência verbal. <br/> C opção: Incorreta. É sanção. Art. 53, II - repreensão. <br/> D opção: Incorreta. É sanção. Art. 53, III - suspensão ou restrição de direitos (artigo 41, parágrafo único). <br/> E opção: Incorreta. É sanção. Art. 53, V - inclusão no regime disciplinar diferenciado."
+  },
+  {
+    "question": "68. Colônias Agrícolas, Industriais ou similares destinam-se ao cumprimento da pena em regime",
+    "options": [
+      "aberto e em regime semiaberto.",
+      "semiaberto.",
+      "fechado e em regime semiaberto.",
+      "fechado."
+    ],
+    "correct": 1,
+    "explanation": "Classificação dos estabelecimentos penais pelo regime de cumprimento. <br/> A opção: Incorreta. O regime aberto é na Casa do Albergado. Art. 93 - A Casa do Albergado destina-se ao cumprimento de pena privativa de liberdade em regime aberto e da pena de limitação de fim de semana. <br/> B opção: Correta. Art. 91 - A Colônia Agrícola, Industrial ou Similar destina-se ao cumprimento da pena em regime semi-aberto. <br/> C opção: Incorreta. O regime fechado é na Penitenciária. Art. 87 - A Penitenciária destina-se ao condenado à pena de reclusão, em regime fechado. <br/> D opção: Incorreta. Conforme Art. 91."
+  },
+  {
+    "question": "69. Conforme preceitua o Parágrafo Único do art. 41 da Lei 7.210/84 (Lei de Execução Penal - LEP), dentre os direitos contidos nas opções abaixo, o único que poderá ser suspenso ou restringido mediante ato motivado do diretor do estabelecimento penal é o(a)",
+    "options": [
+      "chamamento nominal.",
+      "visita do cônjuge, da companheira, de parentes e amigos em dias determinados.",
+      "audiência especial com o diretor do estabelecimento.",
+      "entrevista pessoal e reservada com o advogado."
+    ],
+    "correct": 1,
+    "explanation": "A lei permite a restrição temporária de certos direitos por indisciplina ou ordem do estabelecimento. <br/> A opção: Incorreta. O chamamento nominal é direito fundamental e não listado no parágrafo único. Art. 41, XI - chamamento nominal. <br/> B opção: Correta. As visitas podem ser restringidas. Art. 41, Parágrafo único. Os direitos previstos nos incisos V, X e XV poderão ser suspensos ou restringidos mediante ato motivado do diretor do estabelecimento. (O inciso X refere-se a: visita do cônjuge, da companheira, de parentes e amigos em dias determinados). <br/> C opção: Incorreta. Art. 41, XII - audiência especial com o diretor do estabelecimento. <br/> D opção: Incorreta. Direito fundamental de defesa. Art. 41, IX - entrevista pessoal e reservada com o advogado."
+  },
+  {
+    "question": "70. Nos termos do Regimento Geral dos Estabelecimentos Prisionais do Estado do Ceará, NÃO compete ao Diretor da Unidade Prisional",
+    "options": [
+      "dirigir, coordenar e orientar os trabalhos técnicos, administrativos, operacionais, laborais, educativos, religiosos, esportivos e culturais da Unidade respectiva.",
+      "adotar medidas necessárias à preservação dos Direitos e Garantias Individuais dos presos.",
+      "visitar os presos nas dependências do Estabelecimento, anotar suas reclamações e pedidos, procurando solucioná-los de modo adequado, no âmbito de sua competência ou encaminhá-los ao órgão competente, observando as normas de segurança.",
+      "analisar e deferir os pedidos de progressão de regime dos presos que tenham tal direito."
+    ],
+    "correct": 3,
+    "explanation": "Embora a questão cite o regimento do Ceará, o princípio é o mesmo na LEP (competência jurisdicional). <br/> A opção: Incorreta. É competência administrativa. Art. 75 da LEP (requisitos do Diretor). <br/> B opção: Incorreta. Dever do Estado e da autoridade. <br/> C opção: Incorreta. Atribuição inerente à gestão do presídio. <br/> D opção: Correta. A progressão de regime é competência EXCLUSIVA do Juiz da Execução. Art. 66 - Compete ao Juiz da execução: III - decidir sobre: b) progressão ou regressão nos regimes."
+  },
+  {
+    "question": "71. Em relação ao Departamento Penitenciário Nacional e ao do Departamento Penitenciário Local é CORRETO afirmar:",
+    "options": [
+      "O Departamento Penitenciário Nacional, subordinado ao Ministério da Defesa, é órgão fiscalizador da Política Penitenciária Nacional e de apoio administrativo do Conselho Nacional de Política Criminal e Penitenciária.",
+      "É atribuição do Departamento Penitenciário Nacional acompanhar a fiel aplicação das sentenças penais em todo o Território Nacional, devendo comunicar ao Conselho Nacional de Justiça os erros judiciários.",
+      "É atribuição do Departamento Penitenciário Nacional inspecionar e fiscalizar a cada 2 (anos) os estabelecimentos e serviços penais.",
+      "É atribuição do Departamento Penitenciário Nacional e Conselho Nacional de Justiça assistir juridicamente as Unidades Federativas na implementação das regras estabelecidas na lei de execução penal.",
+      "O Departamento Penitenciário local, ou órgão similar, tem por finalidade supervisionar e coordenar os estabelecimentos penais da Unidade da Federação a que pertencer."
+    ],
+    "correct": 4,
+    "explanation": "Estrutura administrativa da execução penal (Arts. 71 a 74). <br/> A opção: Incorreta. É subordinado ao Ministério da Justiça. Art. 71 - O Departamento Penitenciário Nacional, subordinado ao Ministério da Justiça, é órgão executivo da Política Penitenciária Nacional e de apoio administrativo do Conselho Nacional de Política Criminal e Penitenciária. <br/> B opção: Incorreta. A fiscalização é ampla e não focada em comunicar erros judiciários ao CNJ. <br/> C opção: Incorreta. A fiscalização deve ser periódica, mas não limitada a 'cada 2 anos'. <br/> D opção: Incorreta. Cabe ao DEPEN prestar assistência técnica às Unidades Federativas (Art. 72, VII). <br/> E opção: Correta. Art. 73 - O Departamento Penitenciário local, ou órgão similar, tem por finalidade supervisionar e coordenar os estabelecimentos penais da Unidade da Federação a que pertencer."
+  },
+  {
+    "question": "72. Entre as sanções disciplinares contidas na lei de execução penal há a aplicação de:",
+    "options": [
+      "Multa.",
+      "Advertência escrita, mediante termo assinado por familiar.",
+      "Repreensão.",
+      "Isolamento na própria cela por 35 (trinta e cinco) dias.",
+      "Inclusão no regime disciplinar diferenciado por 3 (três) anos."
+    ],
+    "correct": 2,
+    "explanation": "Tipos de sanções disciplinares (Art. 53) e seus limites. <br/> A opção: Incorreta. A multa não é sanção disciplinar na LEP. <br/> B opção: Incorreta. A advertência prevista é verbal. Art. 53, I - advertência verbal. <br/> C opção: Correta. Art. 53, II - repreensão. <br/> D opção: Incorreta. O isolamento não pode exceder 30 dias. Art. 58 - O isolamento, a suspensão e a restrição de direitos não poderão exceder trinta dias, ressalvada a hipótese do regime disciplinar diferenciado. <br/> E opção: Incorreta. O limite do RDD é de até 2 anos. Art. 52, I - duração máxima de até 2 (dois) anos, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie."
+  },
+  {
+    "question": "73. Em relação aos direitos contidos na lei de execução penal impõe-se a todas as autoridades o respeito à integridade física e moral dos condenados e dos presos provisórios. Marque a alternativa que indica direito concedido ao preso:",
+    "options": [
+      "Proteção contra qualquer forma de sensacionalismo.",
+      "Visita controlada e apenas do cônjuge e de parentes.",
+      "Chamamento por número.",
+      "Audiência especial com o supervisor do estabelecimento.",
+      "Representação e petição apenas ao diretor, em defesa de direito."
+    ],
+    "correct": 0,
+    "explanation": "Identificação dos direitos do preso no Art. 41 da LEP. <br/> A opção: Correta. Art. 41, VIII - proteção contra qualquer forma de sensacionalismo. <br/> B opção: Incorreta. Amigos também podem visitar. Art. 41, X - visita do cônjuge, da companheira, de parentes e amigos em dias determinados. <br/> C opção: Incorreta. O chamamento deve ser nominal. Art. 41, XI - chamamento nominal. <br/> D opção: Incorreta. A audiência é com o Diretor. Art. 41, XII - audiência especial com o diretor do estabelecimento. <br/> E opção: Incorreta. Pode peticionar a qualquer autoridade. Art. 41, XIV - representação e petição a qualquer autoridade, em defesa de direito."
+  },
+  {
+    "question": "74. A lei de execução penal garante assistência ao preso. Incumbe ao serviço de assistência social:",
+    "options": [
+      "Relatar, de forma oral ao diretor do estabelecimento, os problemas e as dificuldades enfrentadas pelo preso.",
+      "Acompanhar o resultado das permissões de saídas e das saídas temporárias.",
+      "Promover de 2 (dois) em 2 (dois) anos, no estabelecimento, pelos meios disponíveis, a recreação.",
+      "Incumbe ao serviço de assistência social providenciar a obtenção de documentos, dos benefícios da Previdência Social e do seguro desemprego.",
+      "Não cabe ao serviço de assistência social orientar e amparar, quando necessário, a vítima."
+    ],
+    "correct": 3,
+    "explanation": "A questão aborda as incumbências do Serviço de Assistência Social previstas no Art. 22 da LEP. <br/> A opção: Incorreta. O relatório deve ser por escrito. Art. 23, II - relatar, por escrito, ao Diretor do estabelecimento, os problemas e as dificuldades enfrentadas pelo assistido. <br/> B opção: Incorreta. Esta é atribuição do Patronato ou órgãos de fiscalização, não especificamente listada como do serviço social no Art. 23. <br/> C opção: Incorreta. A recreação deve ser promovida, mas a lei não estabelece esse prazo de 2 anos. Art. 23, III - promover a recreação. <br/> D opção: Correta. Art. 23, V - providenciar a obtenção de documentos, dos benefícios da Previdência Social e do seguro-desemprego. <br/> E opção: Incorreta. É dever orientar a vítima. Art. 23, VI - orientar e amparar, quando necessário, a família e a vítima."
+  },
+  {
+    "question": "75. Para responder à questão, considere a Lei de Execuções Penais, Lei Federal nº 7.210/84. NÃO é órgão da execução penal:",
+    "options": [
+      "Defensoria Pública.",
+      "Conselho da Comunidade.",
+      "Juízo da Execução.",
+      "Comissão de Constituição e Justiça.",
+      "Conselho Penitenciário."
+    ],
+    "correct": 3,
+    "explanation": "A questão exige o conhecimento do rol taxativo dos órgãos da execução penal. <br/> A opção: Incorreta. É órgão da execução. Art. 61, VIII - a Defensoria Pública. <br/> B opção: Incorreta. É órgão da execução. Art. 61, VII - o Conselho da Comunidade. <br/> C opção: Incorreta. É órgão da execução. Art. 61, II - o Juízo da Execução. <br/> D opção: Correta. A CCJ é um órgão do Poder Legislativo, não integrando a execução penal. Art. 61 - São órgãos da execução penal: I - o Conselho Nacional de Política Criminal e Penitenciária; II - o Juízo da Execução; III - o Ministério Público; IV - o Conselho Penitenciário; V - os Departamentos Penitenciários; VI - o Patronato; VII - o Conselho da Comunidade; VIII - a Defensoria Pública. <br/> E opção: Incorreta. É órgão da execução. Art. 61, IV - o Conselho Penitenciário."
+  },
+  {
+    "question": "76. Assinale a alternativa que corretamente contempla sanções disciplinares admitidas pela Lei n°7.210/1984.",
+    "options": [
+      "Repreensão; incomunicabilidade absoluta do preso; isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo e suspensão ou restrição de direitos.",
+      "Incomunicabilidade absoluta do preso; isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo; advertência verbal e suspensão ou restrição de direitos.",
+      "Isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo; repreensão; incomunicabilidade absoluta do preso e advertência verbal.",
+      "Advertência verbal; repreensão; suspensão ou restrição de direitos e isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo.",
+      "Advertência verbal; repreensão; suspensão ou restrição de direitos e incomunicabilidade absoluta do preso."
+    ],
+    "correct": 3,
+    "explanation": "A questão foca no Art. 53 da LEP, que lista as sanções disciplinares. <br/> A opção: Incorreta. A incomunicabilidade absoluta não é prevista como sanção disciplinar na LEP. <br/> B opção: Incorreta pelo mesmo motivo da anterior. <br/> C opção: Incorreta pelo mesmo motivo da anterior. <br/> D opção: Correta. Art. 53 - Constituem sanções disciplinares: I - advertência verbal; II - repreensão; III - suspensão ou restrição de direitos (artigo 41, parágrafo único); IV - isolamento na própria cela, ou em local adequado, nos estabelecimentos que possuam alojamento coletivo, observado o disposto no artigo 88 desta Lei. <br/> E opção: Incorreta. A incomunicabilidade não faz parte do rol."
+  },
+  {
+    "question": "77. O trabalho do preso será remunerado, mediante prévia tabela, não podendo ser inferior a 3/4 (três quartos) do salário mínimo. Devendo o produto da sua remuneração atender:\n <br /> I <br /> . à indenização dos danos causados pelo crime, desde que determinados judicialmente e não reparados por outros meios.\n <br /> II <br /> . à assistência à família.\n <br /> III <br /> . a pequenas despesas pessoais.\n <br /> IV <br /> . ao ressarcimento ao Estado das despesas realizadas com a manutenção do condenado, em proporção a ser fixada e sem prejuízo da destinação prevista nas letras anteriores.\n <br /> V <br /> . a manutenção de seus vícios e ilícitos.\nEstá CORRETO apenas o que se afirma em:",
+    "options": [
+      "I, III e V",
+      "I, II e V",
+      "I, II, III e IV",
+      "II, III e V",
+      "todas as afirmações estão corretas"
+    ],
+    "correct": 2,
+    "explanation": "A destinação do produto da remuneração do preso está no Art. 29, § 1º da LEP. <br/> A opção: Incorreta. O item V é falso. <br/> B opção: Incorreta. O item V é falso. <br/> C opção: Correta. Art. 29, § 1º - O produto da remuneração deverá atender: a) à indenização dos danos causados pelo crime, desde que determinados judicialmente e não reparados por outros meios; b) à assistência à família; c) a pequenas despesas pessoais; d) ao ressarcimento ao Estado das despesas realizadas com a manutenção do condenado, em proporção a ser fixada e sem prejuízo da destinação prevista nas letras anteriores. <br/> D opção: Incorreta. O item V é falso. <br/> E opção: Incorreta. Manutenção de vícios não é finalidade legal da remuneração."
+  },
+  {
+    "question": "78. A assistência ao preso e ao internado é dever do Estado, objetivando prevenir o crime e orientar o retorno à convivência em sociedade. De acordo com a Lei de Execução Penal, assinale a alternativa FALSA.",
+    "options": [
+      "A assistência religiosa, com liberdade de culto, será prestada aos presos e aos internados, permitindo-se lhes a participação nos serviços organizados no estabelecimento penal, sendo proibida a posse de livros religiosos.",
+      "A assistência material ao preso e ao internado consistirá no fornecimento de alimentação, vestuário e instalações higiênicas.",
+      "A assistência jurídica é destinada aos presos e aos internados sem recursos financeiros para constituir advogado.",
+      "A assistência educacional compreenderá a instrução escolar e a formação profissional do preso e do internado.",
+      "A assistência social tem por finalidade amparar o preso e o internado e prepará-los para o retorno à liberdade."
+    ],
+    "correct": 0,
+    "explanation": "A questão avalia as diversas formas de assistência previstas nos Arts. 10 a 27 da LEP. <br/> A opção: Falsa (Resposta da questão). A posse de livros religiosos é permitida. Art. 24 - A assistência religiosa, com liberdade de culto, será prestada aos presos e aos internados, permitindo-se-lhes a participação nos serviços organizados no estabelecimento penal, bem como a posse de livros de instrução religiosa. <br/> B opção: Verdadeira. Art. 12 - A assistência material ao preso e ao internado consistirá no fornecimento de alimentação, vestuário e instalações higiênicas. <br/> C opção: Verdadeira. Art. 15 - A assistência jurídica é destinada aos presos e aos internados sem recursos financeiros para constituir advogado. <br/> D opção: Verdadeira. Art. 17 - A assistência educacional compreenderá a instrução escolar e a formação profissional do preso e do internado. <br/> E opção: Verdadeira. Art. 22 - A assistência social tem por finalidade amparar o preso e o internado e prepará-los para o retorno à liberdade."
+  },
+  {
+    "question": "79. De acordo com a Lei de Execução Penal, os condenados serão classificados segundo os seus antecedentes e personalidade, tal classificação tem por finalidade:",
+    "options": [
+      "assegurar ao condenado e ao internado todos os direitos não atingidos pela sentença ou pela lei.",
+      "estabelecer distinções de natureza racial, social, religiosa ou política.",
+      "orientar a individualização da execução penal.",
+      "atribuir trabalho ao preso.",
+      "todas as afirmações estão corretas."
+    ],
+    "correct": 2,
+    "explanation": "A finalidade da classificação inicial do preso. <br/> A opção: Incorreta. Este é um princípio geral (Art. 3º), não a finalidade específica da classificação. <br/> B opção: Incorreta. A lei proíbe tais distinções (Art. 3º, parágrafo único). <br/> C opção: Correta. Art. 5º - Os condenados serão classificados, segundo os seus antecedentes e personalidade, para orientar a individualização da execução penal. <br/> D opção: Incorreta. Embora o trabalho seja uma etapa, a finalidade da classificação de antecedentes e personalidade é a individualização. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "80. José, após ser condenado, poderá remir parte do tempo de execução da pena. Qual aspecto deve ser observado quanto à remição pela leitura, conforme a Recomendação nº 44 de 2013 do CNJ?",
+    "options": [
+      "A participação do preso será de forma obrigatória, disponibilizando-se ao participante um exemplar de obra literária.",
+      "Assegurar, o quanto possível, a participação no projeto de presos nacionais e estrangeiros submetidos à prisão cautelar.",
+      "O preso terá o prazo de 21 (vinte e um) a 31 (trinta e um) dias para a leitura da obra.",
+      "Para que haja a efetivação dos projetos, deve-se garantir que nos acervos das bibliotecas existam, no mínimo, 10 (dez) exemplares de cada obra a ser trabalhada no desenvolvimento de atividades.",
+      "O preso terá o prazo de 20 (vinte) a 30 (trinta) dias para a leitura da obra, apresentando ao final do período resenha a respeito do assunto."
+    ],
+    "correct": 4,
+    "explanation": "Regras da remição pela leitura (Recomendação CNJ 44/2013). <br/> A opção: Incorreta. A participação deve ser voluntária. <br/> B opção: Incorreta. Embora se busque participação, a questão foca no procedimento de leitura. <br/> C opção: Incorreta. O prazo correto é de 20 a 30 dias. <br/> D opção: Incorreta. Não há essa exigência mínima de 10 exemplares idênticos na Recomendação. <br/> E opção: Correta. Conforme a Recomendação 44/2013 do CNJ, Art. 1º, inciso V, alínea 'b': 'o preso terá o prazo de 20 (vinte) a 30 (trinta) dias para a leitura de uma obra, apresentando ao final do período uma resenha a respeito do assunto'."
+  },
+  {
+    "question": "81. Um apenado está prestes a concluir o ensino médio e lhe pergunta como o término de seus estudos repercutirá no tempo a remir. Você responde que:",
+    "options": [
+      "o tempo a remir é o mesmo que o da remição pelo trabalho.",
+      "o tempo a remir em função das horas de estudo será acrescido de metade em caso de conclusão do ensino médio.",
+      "o tempo a remir será 01 (um) dia de pena a cada 10 (doze) horas de frequência escolar.",
+      "o tempo a remir será de 01 (um) dia de pena a cada 12 (doze) horas semanais de frequência escolar, divididas em 04 (quatro) dias.",
+      "o tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino médio."
+    ],
+    "correct": 4,
+    "explanation": "Bônus de remição por conclusão de grau de ensino. <br/> A opção: Incorreta. Há regras específicas para o acréscimo. <br/> B opção: Incorreta. O acréscimo é de 1/3. <br/> C opção: Incorreta. São 12 horas. Art. 126, § 1º, I. <br/> D opção: Incorreta. A regra base é 12 horas divididas em no mínimo 3 dias, mas a pergunta é sobre a conclusão. <br/> E opção: Correta. Art. 126, § 5º - O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação."
+  },
+  {
+    "question": "82. Em relação à defensoria pública no contexto da Lei de Execução Penal, é CORRETO afirmar:",
+    "options": [
+      "A Defensoria Pública velará pela regular execução da pena e da medida de segurança, oficiando, no processo executivo e nos incidentes da execução, para a defesa dos necessitados em todos os graus e instâncias, de forma sempre coletiva.",
+      "A Defensoria Pública pode requerer a conversão de penas, a progressão nos regimes, a suspensão condicional da pena, o livramento condicional, a comutação de pena e o indulto.",
+      "Requerer a emissão semestral do atestado de pena a cumprir.",
+      "Representar somente ao Juiz da execução para instauração de sindicância ou procedimento administrativo em caso de violação das normas referentes à execução penal.",
+      "O órgão da Defensoria Pública visitará a cada 2 (dois) anos os estabelecimentos penais, registrando a sua presença em livro próprio."
+    ],
+    "correct": 1,
+    "explanation": "Atribuições da Defensoria Pública na LEP (Arts. 81-A e 81-B). <br/> A opção: Incorreta. A atuação é primordialmente individual para os necessitados. <br/> B opção: Correta. Art. 81-B - Incumbe à Defensoria Pública: I - requerer: b) a conversão de penas, a progressão nos regimes, a suspensão condicional da pena, o livramento condicional, a comutação de pena e o indulto. <br/> C opção: Incorreta. O atestado de pena deve ser emitido anualmente. Art. 41, XVI. <br/> D opção: Incorreta. Pode representar a qualquer autoridade competente. Art. 81-B, V. <br/> E opção: Incorreta. As visitas devem ser mensais. Art. 81-B, XIII - visitar, periodicamente, os estabelecimentos penais, registrando a sua presença em livro próprio."
+  },
+  {
+    "question": "83. Considerando a Lei de Execução Penal, assinale a alternativa correta.",
+    "options": [
+      "A casa do albergado destina-se ao cumprimento de pena privativa de liberdade, em regime semiaberto e aberto, bem como da pena de limitação de fim de semana.",
+      "A cadeia pública destina-se ao recolhimento de presos provisórios.",
+      "A penitenciária destina-se ao condenado à pena de reclusão, em regime fechado e semiaberto.",
+      "A colônia agrícola, industrial ou similar destina-se ao cumprimento da pena em regime fechado.",
+      "A penitenciária destina-se aos condenados de alta periculosidade e aos que forem incluídos no regime disciplinar diferenciado (RDD)."
+    ],
+    "correct": 1,
+    "explanation": "Tipos de estabelecimentos e regimes correspondentes. <br/> A opção: Incorreta. Apenas para regime aberto. Art. 93 - A Casa do Albergado destina-se ao cumprimento de pena privativa de liberdade em regime aberto e da pena de limitação de fim de semana. <br/> B opção: Correta. Art. 102 - A Cadeia Pública destina-se ao recolhimento de presos provisórios. <br/> C opção: Incorreta. Apenas para regime fechado. Art. 87 - A Penitenciária destina-se ao condenado à pena de reclusão, em regime fechado. <br/> D opção: Incorreta. Destina-se ao regime semiaberto. Art. 91 - A Colônia Agrícola, Industrial ou Similar destina-se ao cumprimento da pena em regime semi-aberto. <br/> E opção: Incorreta. O RDD é um regime aplicado em estabelecimentos de segurança máxima, mas a penitenciária comum destina-se ao regime fechado em geral."
+  },
+  {
+    "question": "84. Sobre os estabelecimentos penais é correto afirmar:",
+    "options": [
+      "Os presos condenados, primários e reincidentes, condenados por crimes com violência contra a pessoa ficarão juntos em uma mesma galeria, não podendo ser colocados juntamente com os condenados por crime hediondo.",
+      "O mesmo conjunto arquitetônico não poderá abrigar estabelecimentos de destinação diversa mesmo que devidamente isolados.",
+      "Os estabelecimentos penais destinados a mulheres serão dotados de berçário, onde as condenadas possam cuidar de seus filhos, inclusive amamentá-los, no máximo, até 6 (seis) meses de idade.",
+      "Os presos provisórios ficarão separados considerando os seguintes critérios, acusados por crimes hediondos e equiparados, acusados por crimes com violência ou grave ameaça a pessoa e os demais acusados por outros crimes e contravenções penais.",
+      "Não é necessário que os presos provisórios fiquem separados dos condenados nos casos de regime semiaberto."
+    ],
+    "correct": 3,
+    "explanation": "Critérios de separação de presos nos estabelecimentos. <br/> A opção: Incorreta. Devem ser separados conforme o Art. 84. <br/> B opção: Incorreta. É permitido se isolados. Art. 82, § 1º - O mesmo conjunto arquitetônico poderá abrigar estabelecimentos de destinação diversa, desde que devidamente isolados. <br/> C opção: Incorreta. O prazo de 6 meses é o mínimo. Art. 82, § 2º - Os estabelecimentos penais destinados a mulheres serão dotados de berçário, onde as condenadas possam cuidar de seus filhos, inclusive amamentá-los, no mínimo, até 6 (seis) meses de idade. <br/> D opção: Correta. Art. 84, § 2º - O preso provisório ficará separado segundo os seguintes critérios: I - acusados pela prática de crimes hediondos ou equiparados; II - acusados pela prática de crimes cometidos com violência ou grave ameaça à pessoa; III - acusados pela prática de outros crimes ou contravenções diversos dos apontados nos incisos I e II. <br/> E opção: Incorreta. Preso provisório deve ser separado do condenado. Art. 84, caput."
+  },
+  {
+    "question": "85. A Lei nº 7.210, de julho de 1984, que institui a Lei de Execução Penal (LEP), determina que:\n <br /> I <br /> . A prestação de trabalho externo por parte do apenado dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de um terço da pena.\n <br /> II <br /> . O condenado do regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.\n <br /> III <br /> . A remuneração fruto da prestação de trabalho deverá ser utilizada exclusivamente para despesas pessoais do apenado.\nQuais estão corretas?",
+    "options": [
+      "Apenas I.",
+      "Apenas II.",
+      "Apenas I e II.",
+      "Apenas II e III.",
+      "I, II e III."
+    ],
+    "correct": 1,
+    "explanation": "Análise dos requisitos de trabalho e remição. <br/> A opção: Incorreta. <br /> I <br /> - Art. 37. A prestação de trabalho externo, a ser autorizada pela direção do estabelecimento, dependerá de aptidão, disciplina e responsabilidade, além do cumprimento mínimo de 1/6 (um sexto) da pena. <br/> B opção: Correta. <br /> II <br /> - Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena. <br/> C opção: Incorreta devido ao erro no item I. <br/> D opção: Incorreta. <br /> III <br /> - Art. 29, § 1º. O produto da remuneração deverá atender a diversas finalidades (indenização, assistência familiar, ressarcimento ao Estado), não sendo exclusiva para despesas pessoais. <br/> E opção: Incorreta."
+  },
+  {
+    "question": "86. CAIO foi condenado a 5 (cinco) anos e seis meses, no regime semiaberto. Marque a alternativa CORRETA.",
+    "options": [
+      "CAIO está impedido de ter direito à saída temporária, tal direito ocorrerá, caso passe ao regime aberto, com a fiscalização por meio da monitoração eletrônica.",
+      "É dever do condenado que usa equipamento eletrônico abster-se de violar o dispositivo de monitoração eletrônica e, caso ocorra, poderá acarretar a regressão do regime.",
+      "A monitoração eletrônica só será revogada quando se tornar desnecessária ou inadequada.",
+      "CAIO estará obrigado a comparecer à justiça, a fim de ser fiscalizado o dispositivo de monitoração eletrônica, não existindo obrigação de receber visita de servidor responsável pela monitoração eletrônica.",
+      "Caso CAIO seja encaminhado à Colônia Agrícola, deverá ser sempre alojado em cela individual que conterá dormitório, aparelho sanitário e lavatório"
+    ],
+    "correct": 1,
+    "explanation": "Deveres e consequências da monitoração eletrônica. <br/> A opção: Incorreta. O regime semiaberto tem direito à saída temporária (Art. 122). <br/> B opção: Correta. Art. 146-C - O condenado será instruído acerca dos cuidados que deverá ter com o equipamento eletrônico e dos seguintes deveres: I - abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica. Parágrafo único. A violação comprovada dos deveres poderá acarretar a regressão do regime. <br/> C opção: Incorreta, pois a revogação também ocorre se houver descumprimento de deveres. Art. 146-D. <br/> D opção: Incorreta. Ele deve receber visitas. Art. 146-C, VI - receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações. <br/> E opção: Incorreta. Na colônia agrícola o alojamento pode ser coletivo. Art. 92, parágrafo único."
+  },
+  {
+    "question": "87. PEDRO foi condenado por crime de roubo a 9 (nove) anos de reclusão, tendo a sentença transitada em julgado. PEDRO foi encaminhado à penitenciária. Marque a alternativa CORRETA.",
+    "options": [
+      "Os condenados por crime praticado dolosamente, com violência de natureza grave contra pessoa, serão submetidos, obrigatoriamente à identificação do perfil genético, mediante extração de DNA, por técnica adequada e indolor.",
+      "A assistência ao preso e ao internado é dever do Estado e dos Municípios, objetivando prevenir as contravenções e orientar o retorno à convivência em sociedade.",
+      "A assistência material ao preso e ao internado consistirá somente no fornecimento de alimentação e vestuário segundo a lei de execução penal.",
+      "O estabelecimento prisional disporá de instalação e serviços que atendam aos presos nas suas necessidades pessoais, sendo proibida a venda de produtos e objetos permitidos e não fornecidos pela Administração.",
+      "Por razões de segurança nas prisões de segurança máxima será assegurando o acompanhamento médico à mulher no pré-natal não sendo possível no pós-parto."
+    ],
+    "correct": 0,
+    "explanation": "Identificação genética e deveres de assistência. <br/> A opção: Correta. Art. 9º-A. Os condenados por crime praticado, dolosamente, com violência de natureza grave contra pessoa, bem como por crime contra a vida, contra a liberdade sexual ou por crime sexual contra vulnerável, serão submetidos, obrigatoriamente, à identificação do perfil genético, mediante extração de DNA - ácido desoxirribonucleico, por técnica adequada e indolor. <br/> B opção: Incorreta. O dever é do Estado e o objetivo é prevenir crimes. Art. 10. <br/> C opção: Incorreta. Inclui instalações higiênicas. Art. 12. <br/> D opção: Incorreta. É permitida a venda em cantinas. Art. 13 - O estabelecimento disporá de instalações e serviços que atendam aos presos nas suas necessidades pessoais, além de locais destinados à venda de produtos e objetos permitidos e não fornecidos pela Administração. <br/> E opção: Incorreta. O acompanhamento é garantido em ambas as fases. Art. 14, § 3º."
+  },
+  {
+    "question": "88. Acerca da Assistência destinada aos presos nos Estabelecimentos Prisionais, pode-se afirmar:",
+    "options": [
+      "a assistência jurídica integral e gratuita é destinada aos presos, independentemente, de seus recursos financeiros para constituir advogado.",
+      "o ensino de 1º grau será obrigatório, integrando-se no sistema escolar da Unidade Federativa.",
+      "a assistência social tem por finalidade amparar o preso, doando-lhe auxílio reclusão.",
+      "o Brasil sendo um país laico, não é possível assistência religiosa ao preso.",
+      "a assistência à saúde do preso terá caráter preventivo e curativo, desde que, exclusivamente, no estabelecimento prisional."
+    ],
+    "correct": 1,
+    "explanation": "Detalhes sobre a assistência educacional e jurídica. <br/> A opção: Incorreta. Destina-se aos necessitados. Art. 15. <br/> B opção: Correta. Art. 18 - O ensino de 1º (primeiro) grau será obrigatório, integrando-se no sistema escolar da Unidade Federativa. <br/> C opção: Incorreta. A finalidade da assistência social é amparar e preparar para a liberdade (Art. 22). Auxílio-reclusão é benefício previdenciário. <br/> D opção: Incorreta. A assistência religiosa é garantida. Art. 24. <br/> E opção: Incorreta. Pode ser prestada fora do estabelecimento se este não dispuser de meios. Art. 14, § 2º."
+  },
+  {
+    "question": "89. Acerca da monitoração eletrônica, assinale a resposta correta.",
+    "options": [
+      "Tem por objetivos exclusivos monitorar o preso encaminhado ao regime aberto, ou o preso ao qual se concede prisão domiciliar.",
+      "A violação dos deveres impostos ao monitorado implicará obrigatoriamente a regressão de regime prisional.",
+      "O dano culposo causado ao equipamento de monitoração implicará revogação de prisão domiciliar, com retorno do condenado ao sistema prisional.",
+      "Entre os deveres do monitorado, não se inclui o de responder contatos do servidor responsável pela monitoração eletrônica.",
+      "A monitoração eletrônica poderá ser revogada quando se tornar desnecessária ou inadequada."
+    ],
+    "correct": 4,
+    "explanation": "Regras de monitoração eletrônica (Art. 146-B a 146-D). <br/> A opção: Incorreta. Também se aplica à saída temporária no regime semiaberto. <br/> B opção: Incorreta. A lei diz que poderá acarretar, a critério do juiz. Art. 146-C, parágrafo único. <br/> C opção: Incorreta. A lei fala em violação comprovada de deveres, mas a revogação por dano culposo não é automática 'obrigatoriedade' sem análise do juiz. <br/> D opção: Incorreta. É dever responder aos contatos. Art. 146-C, VI. <br/> E opção: Correta. Art. 146-D - A monitoração eletrônica poderá ser revogada: I - quando se tornar desnecessária ou inadequada."
+  },
+  {
+    "question": "90. Sobre a saída temporária, assinale a alternativa que corretamente traz um requisito para sua concessão.",
+    "options": [
+      "Cumprimento mínimo de um sexto da pena, ou, em caso de crime hediondo, de dois quintos da sanção penal, ou de três quintos, em caso de reincidência.",
+      "Manifestação favorável do Ministério Público.",
+      "Compatibilidade do benefício com os objetivos da pena.",
+      "Decisão judicial, ainda que imotivada.",
+      "Comportamento carcerário avaliado como ótimo."
+    ],
+    "correct": 2,
+    "explanation": "Requisitos para saída temporária (Art. 123). <br/> A opção: Incorreta. A regra geral da LEP é 1/6 para primários e 1/4 para reincidentes. Art. 123, II. <br/> B opção: Incorreta. O MP deve ser ouvido, mas sua manifestação não precisa ser 'favorável' para o juiz conceder. Art. 123. <br/> C opção: Correta. Art. 123 - A autorização será concedida... dependendo da satisfação dos seguintes requisitos: III - compatibilidade do benefício com os objetivos da pena. <br/> D opção: Incorreta. A decisão deve ser motivada. Art. 123. <br/> E opção: Incorreta. O requisito é comportamento adequado. Art. 123, I."
+  },
+  {
+    "question": "91. A Comissão Técnica de Classificação é composta, no mínimo:",
+    "options": [
+      "pelo juiz da Execução Penal, bem como por fiscais do serviço social, quando se tratar de condenado à pena privativa de liberdade.",
+      "por fiscais do serviço social, quando se tratar de condenado à pena privativa de liberdade.",
+      "pelo diretor do estabelecimento, que a presidirá, bem como por um chefe de serviço e um psiquiatra, quando se tratar de condenado à pena privativa de liberdade.",
+      "por dois chefes de serviço, um psicólogo, um psiquiatra e um assistente social, quando se tratar de condenado à pena privativa de liberdade ou restritiva de direitos.",
+      "pelo diretor do estabelecimento, que a presidirá, bem como por dois chefes de serviço, um psicólogo, um psiquiatra e um assistente social, quando se tratar de condenado à pena privativa de liberdade."
+    ],
+    "correct": 4,
+    "explanation": "A questão exige o conhecimento da composição da CTC conforme o Art. 7º da LEP.<br/>A opção: Incorreta. O juiz não integra a comissão técnica. Art. 7º A Comissão Técnica de Classificação, existente em cada estabelecimento, será presidida pelo diretor e composta, no mínimo, por 2 (dois) chefes de serviço, 1 (um) psicólogo, 1 (um) psiquiatra e 1 (um) assistente social, quando se tratar de condenado à pena privativa de liberdade.<br/>B opção: Incorreta. A composição é mais ampla. Art. 7º A Comissão Técnica de Classificação... será presidida pelo diretor e composta, no mínimo, por 2 (dois) chefes de serviço, 1 (um) psicólogo, 1 (um) psiquiatra e 1 (um) assistente social...<br/>C opção: Incorreta. Faltam membros como o psicólogo e um dos chefes de serviço. Art. 7º A Comissão Técnica de Classificação... será presidida pelo diretor e composta, no mínimo, por 2 (dois) chefes de serviço, 1 (um) psicólogo, 1 (um) psiquiatra e 1 (um) assistente social...<br/>D opção: Incorreta. A CTC é presidida pelo diretor e para penas restritivas de direitos a composição é diferente. Art. 7º, Parágrafo único. Nos demais casos, a Comissão atuará junto ao Juízo da Execução e será integrada por fiscais do serviço social.<br/>E opção: Correta. Art. 7º A Comissão Técnica de Classificação, existente em cada estabelecimento, será presidida pelo diretor e composta, no mínimo, por 2 (dois) chefes de serviço, 1 (um) psicólogo, 1 (um) psiquiatra e 1 (um) assistente social, quando se tratar de condenado à pena privativa de liberdade."
+  },
+  {
+    "question": "92. Sobre progressão e regressão de regime prisional, é correto afirmar que:",
+    "options": [
+      "a regressão de regime pode se dar do regime aberto diretamente para fechado.",
+      "a progressão é condicionada unicamente ao cumprimento de parcela da pena.",
+      "é vedada a existência de exame criminológico para a progressão.",
+      "o bom comportamento carcerário deverá ser atestado por uma equipe técnica multidisciplinar.",
+      "proíbe-se a progressão de regime na condenação por delito classificado como hediondo."
+    ],
+    "correct": 0,
+    "explanation": "Análise das regras de transferência entre regimes (Arts. 112 e 118).<br/>A opção: Correta. Diferente da progressão, que é sempre gradual, a regressão pode ser 'por salto'. Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado: I - praticar fato definido como crime doloso ou falta grave; II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime.<br/>B opção: Incorreta. Exige-se também mérito (bom comportamento). Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (redação alterada pelos percentuais do Pacote Anticrime) e § 1º Em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.<br/>C opção: Incorreta. O juiz pode pedir se fundamentar. Súmula Vinculante 26 do STF: Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º, § 1º, da Lei nº 8.072/1990, sem prejuízo de avaliar se o condenado preenche ou não os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.<br/>D opção: Incorreta. É atestado pelo Diretor do estabelecimento. Art. 112, § 1º Em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento...<br/>E opção: Incorreta. É permitida, mas com requisitos mais rígidos. Art. 112, V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário."
+  },
+  {
+    "question": "93. Consoante a Lei de Execução Penal, a remição:",
+    "options": [
+      "é afetada pela prática de falta grave, hipótese em que o juiz poderá revogar até um terço do tempo remido.",
+      "não se aplica ao condenado submetido ao regime fechado.",
+      "se dará apenas em virtude do trabalho, mas não do estudo.",
+      "não é computada durante o período em que o preso se recupera de acidente de trabalho.",
+      "será declarada pelo juiz da execução independentemente de serem ouvidos Ministério Público e defesa."
+    ],
+    "correct": 0,
+    "explanation": "A remição permite diminuir o tempo de pena através do trabalho ou estudo (Art. 126).<br/>A opção: Correta. Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.<br/>B opção: Incorreta. Aplica-se aos regimes fechado e semiaberto. Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.<br/>C opção: Incorreta. Aplica-se a ambos. Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.<br/>D opção: Incorreta. O acidentado continua remindo. Art. 126, § 4º O preso impossibilitado de prosseguir no trabalho ou nos estudos por acidente continuará a beneficiar-se com a remição.<br/>E opção: Incorreta. O MP e a defesa devem ser ouvidos. Art. 126, § 8º A remição será declarada pelo juiz da execução, ouvidos o Ministério Público e a defesa."
+  },
+  {
+    "question": "94. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:\n <br /> I <br /> . condenado maior de 70 (setenta) anos;\n <br /> II <br /> . condenado acometido de doença grave;\n <br /> III <br /> . condenada com filho menor ou deficiente físico ou mental;\n <br /> IV <br /> . condenada gestante;\n <br /> V <br /> . apresentar, pelos seus antecedentes ou pelo resultado dos exames a que foi submetido, fundados indícios de que irá ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime;\nEstá CORRETO apenas o que se afirmar em:",
+    "options": [
+      "I, II e IV",
+      "I, III e V",
+      "I, II, III e IV",
+      "II, III e IV",
+      "II, IV e V"
+    ],
+    "correct": 2,
+    "explanation": "A questão trata da prisão domiciliar no regime aberto (Art. 117).<br/>A opção: Incorreta. Faltam incisos. <br/> B opção: Incorreta. O inciso V refere-se ao requisito para ingresso no regime aberto geral (Art. 114, I), não para a prisão domiciliar específica do Art. 117.<br/>C opção: Correta. Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: <br /> I <br /> - condenado maior de 70 (setenta) anos; <br /> II <br /> - condenado acometido de doença grave; <br /> III <br /> - condenada com filho menor ou deficiente físico ou mental; <br /> IV <br /> - condenada gestante.<br/>D opção: Incorreta. Falta o inciso I.<br/>E opção: Incorreta. O item V não pertence ao rol do Art. 117."
+  },
+  {
+    "question": "95. De acordo com a Lei de Execução Penal (Lei nº. 7.210/84), incumbe à Defensoria Pública requerer a detração e a remição da pena. A respeito desses dois institutos é correto afirmar:",
+    "options": [
+      "O condenado que for punido por falta grave perderá até 1/3 (um terço) do tempo detraído, recomeçando o novo período a partir da data da infração disciplinar.",
+      "Pelo instituto da remição, o período de prisão provisória por fato que resultou a condenação executada deve ser considerado no cômputo do cumprimento da pena imposta pela sentença.",
+      "O preso impossibilitado de prosseguir no trabalho ou nos estudos, por acidente, continuará a beneficiar-se com a remição.",
+      "O tempo remido não é computado para a concessão do indulto, somente para o deferimento do livramento condicional.",
+      "A detração consiste na possibilidade de o apenado diminuir parte do tempo de execução da pena pelo trabalho, sendo que a contagem do tempo para tal fim será feita à razão de 1 (um) dia de pena por 3 (três) de trabalho."
+    ],
+    "correct": 2,
+    "explanation": "Diferenciação entre remição (trabalho/estudo) e detração (tempo de prisão provisória).<br/>A opção: Incorreta. A perda de 1/3 se aplica ao tempo remido, não ao detraído. Art. 127. Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido...<br/>B opção: Incorreta. A descrição é do instituto da detração, não da remição. Art. 42 do Código Penal: Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.<br/>C opção: Correta. Art. 126, § 4º O preso impossibilitado de prosseguir no trabalho ou nos estudos por acidente continuará a beneficiar-se com a remição.<br/>D opção: Incorreta. O tempo remido é considerado como pena cumprida para todos os efeitos. Art. 128. O tempo remido será computado como pena cumprida, para todos os efeitos.<br/>E opção: Incorreta. A descrição é da remição, não da detração. Art. 126, § 1º A contagem de tempo referida no caput deste artigo será feita à razão de: II - 1 (um) dia de pena por 3 (três) de trabalho."
+  },
+  {
+    "question": "96. Com fulcro na Lei de Execução Penal (Lei nº 7.210/4), assinale a alternativa INCORRETA:",
+    "options": [
+      "O condenado que cumpre pena em regime fechado poderá obter saída temporária de 7 (sete) dias para visitar a família.",
+      "Sem óbice no princípio da coisa julgada, o juiz pode alterar, motivadamente, a forma de cumprimento da pena de limitação de fim de semana.",
+      "O condenado com mais de 70 (setenta) anos, beneficiário do regime aberto, poderá cumprir a pena em residência particular.",
+      "Quando houver condenação por mais de um crime, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas.",
+      "Obter ocupação lícita em tempo razoável é condição obrigatória imposta ao beneficiário do livramento condicional."
+    ],
+    "correct": 0,
+    "explanation": "Identificação de erro nas normas gerais da LEP.<br/>A opção: Incorreta (Resposta da questão). A saída temporária é exclusiva para o regime semiaberto. Art. 122. Os condenados que cumprem pena em regime semi-aberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta...<br/>B opção: Correta. Art. 148. Os Juízes da execução poderão alterar a forma de cumprimento das penas de prestação de serviços à comunidade e de limitação de fim de semana, ajustando-as às condições pessoais do condenado e às características do estabelecimento, da entidade ou do programa comunitário.<br/>C opção: Correta. Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I - condenado maior de 70 (setenta) anos.<br/>D opção: Correta. Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.<br/>E opção: Correta. Art. 132, § 1º Serão impostas ao liberado as seguintes condições: a) obter ocupação lícita, dentro de prazo razoável se for apto para o trabalho."
+  },
+  {
+    "question": "97. Segundo o que dispõe a Lei n. 7.210/1984 (Lei de Execução Penal – LEP), é INCORRETO afirmar:",
+    "options": [
+      "que o Patronato é Órgão da Execução Penal.",
+      "que o direito à assistência material se estende ao egresso.",
+      "que a tentativa de falta disciplinar é punida com a sanção da falta consumada.",
+      "que ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei.",
+      "que, para o preso provisório, o trabalho interno é obrigatório."
+    ],
+    "correct": 4,
+    "explanation": "Verificação de deveres e órgãos da execução.<br/>A opção: Correta. Art. 61. São órgãos da execução penal: VI - o Patronato.<br/>B opção: Correta. Art. 10. A assistência ao preso e ao internado é dever do Estado... Parágrafo único. A assistência estende-se ao egresso.<br/>C opção: Correta. Art. 49, Parágrafo único. Pune-se a tentativa com a sanção correspondente à falta consumada.<br/>D opção: Correta. Art. 3º Ao condenado e ao internado serão assegurados todos os direitos não atingidos pela sentença ou pela lei.<br/>E opção: Incorreta (Resposta da questão). O trabalho do preso provisório é facultativo. Art. 31, Parágrafo único. Para o preso provisório, o trabalho não é obrigatório e só poderá ser executado no interior do estabelecimento."
+  },
+  {
+    "question": "98. Segundo a Lei de Execução Penal (Lei 7.210/84), as faltas disciplinares classificam-se em leves, médias e graves. É considerada falta de natureza grave:",
+    "options": [
+      "usar de bebida alcoólica.",
+      "trabalhar voluntariamente.",
+      "conservar objetos de uso pessoal.",
+      "não indenizar o Estado das despesas realizadas.",
+      "possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem."
+    ],
+    "correct": 4,
+    "explanation": "Identificação de falta grave conforme o Art. 50 da LEP.<br/>A opção: Incorreta. O uso de bebida alcoólica costuma ser classificado como falta média ou leve em regimentos internos, mas não está no rol de graves da LEP.<br/>B opção: Incorreta. Trabalhar é um dever (Art. 39, V), não uma falta.<br/>C opção: Incorreta. É um direito limitado (Art. 41, I).<br/>D opção: Incorreta. É um dever (Art. 39, VIII), mas o descumprimento não é taxado como falta grave pelo Art. 50.<br/>E opção: Correta. Art. 50. Comete falta grave o condenado à pena privativa de liberdade que: III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem."
+  },
+  {
+    "question": "99. Assinale dentre as alternativas seguintes, a INCORRETA:\nCompete ao juiz da execução decidir sobre:",
+    "options": [
+      "progressão ou regressão nos regimes.",
+      "soma ou unificação de penas.",
+      "permissão de saída.",
+      "detração e remição da pena.",
+      "suspensão condicional da pena."
+    ],
+    "correct": 2,
+    "explanation": "Competência do Juiz da Execução vs Autoridade Administrativa.<br/>A opção: Correta (Competência do Juiz). Art. 66. Compete ao Juiz da execução: III - decidir sobre: b) progressão ou regressão nos regimes.<br/>B opção: Correta (Competência do Juiz). Art. 66, III, a) soma ou unificação de penas.<br/>C opção: Incorreta (Resposta da questão). A permissão de saída é ato administrativo do Diretor. Art. 120, Parágrafo único. A permissão de saída será concedida pelo diretor do estabelecimento onde se encontra o preso.<br/>D opção: Correta (Competência do Juiz). Art. 66, III, c) detração e remição da pena.<br/>E opção: Correta (Competência do Juiz). Art. 66, III, d) suspensão condicional da pena."
+  },
+  {
+    "question": "100. Ressalvada a hipótese do regime disciplinar diferenciado, o isolamento, a suspensão e a restrição de direitos não podem exceder a:",
+    "options": [
+      "15 dias.",
+      "30 dias.",
+      "45 dias.",
+      "60 dias.",
+      "90 dias"
+    ],
+    "correct": 1,
+    "explanation": "Limites temporais das sanções disciplinares ordinárias.<br/>A opção: Incorreta. <br/> B opção: Correta. Art. 58. O isolamento, a suspensão e a restrição de direitos não poderão exceder trinta dias, ressalvada a hipótese do regime disciplinar diferenciado.<br/>C opção: Incorreta.<br/>D opção: Incorreta.<br/>E opção: Incorreta."
+  }
+],
 };
 
 // Elementos do DOM
