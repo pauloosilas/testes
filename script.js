@@ -21408,6 +21408,208 @@ const questions = {
     "correct": 1,
     "explanation": "Limites temporais das sanções disciplinares ordinárias.<br/>A opção: Incorreta. <br/> B opção: Correta. Art. 58. O isolamento, a suspensão e a restrição de direitos não poderão exceder trinta dias, ressalvada a hipótese do regime disciplinar diferenciado.<br/>C opção: Incorreta.<br/>D opção: Incorreta.<br/>E opção: Incorreta."
   }
+  
+],
+
+"principiosDireitoPenal":[
+  {
+    "question": "O princípio que impede a incriminação de condutas que não excedam a esfera do próprio autor, proibindo a punição da autolesão, é o:",
+    "options": [
+      "Princípio da Fragmentariedade",
+      "Princípio da Alteridade",
+      "Princípio da Ofensividade",
+      "Princípio da Adequação Social"
+    ],
+    "correct": 1,
+    "explanation": "O princípio da alteridade (ou transcendentalidade) estabelece que o Direito Penal só deve punir condutas que lesionem bens jurídicos de terceiros, não punindo condutas que prejudiquem apenas o próprio agente."
+  },
+  {
+    "question": "Qual princípio exige que a lei penal seja clara, precisa e determinada, proibindo tipos penais vagos ou ambíguos?",
+    "options": [
+      "Princípio da Subsidiariedade",
+      "Princípio da Intervenção Mínima",
+      "Princípio da Taxatividade",
+      "Princípio da Culpabilidade"
+    ],
+    "correct": 2,
+    "explanation": "Derivado da legalidade, o princípio da taxatividade (lex certa) impõe que o legislador descreva a conduta proibida de forma detalhada, garantindo segurança jurídica ao cidadão."
+  },
+  {
+    "question": "O preceito constitucional de que 'nenhuma pena passará da pessoa do condenado' refere-se ao princípio da:",
+    "options": [
+      "Proporcionalidade",
+      "Intranscendência da Pena",
+      "Individualização da Pena",
+      "Responsabilidade Objetiva"
+    ],
+    "correct": 1,
+    "explanation": "O princípio da intrancendência impede que a sanção penal ultrapasse a figura do infrator e atinja terceiros (como familiares), ressalvadas as obrigações civis de reparação de dano."
+  },
+  {
+    "question": "A individualização da pena ocorre em três momentos distintos. Quais são eles?",
+    "options": [
+      "Legislativo, Judicial e Executório",
+      "Policial, Ministerial e Judicial",
+      "Investigativo, Processual e Administrativo",
+      "Sentencial, Recursal e Final"
+    ],
+    "correct": 0,
+    "explanation": "A individualização ocorre na lei (cominação), pelo juiz (fixação da pena) e na execução (forma de cumprimento), adaptando a punição ao caso concreto e ao autor."
+  },
+  {
+    "question": "O princípio da culpabilidade (nullum crimen sine culpa) veda no Direito Penal brasileiro a:",
+    "options": [
+      "Responsabilidade subjetiva",
+      "Aplicação de pena de multa",
+      "Responsabilidade penal objetiva",
+      "Prisão preventiva"
+    ],
+    "correct": 2,
+    "explanation": "Pela culpabilidade, ninguém pode ser punido sem que tenha agido com dolo ou culpa, proibindo-se a punição baseada apenas no resultado (responsabilidade objetiva)."
+  },
+  {
+    "question": "O entendimento de que o Direito Penal deve ser a 'ultima ratio', atuando apenas quando outros ramos do Direito forem insuficientes, decorre do princípio da:",
+    "options": [
+      "Intervenção Mínima",
+      "Fragmentariedade",
+      "Ofensividade",
+      "Consunção"
+    ],
+    "correct": 0,
+    "explanation": "O princípio da intervenção mínima orienta o Estado a usar o Direito Penal apenas como último recurso, para proteger bens jurídicos que não foram suficientemente protegidos por outras vias (civil, administrativa, etc.)."
+  },
+  {
+    "question": "A necessidade de haver um equilíbrio entre a gravidade do crime praticado e a sanção imposta é fundamentada no princípio da:",
+    "options": [
+      "Adequação Social",
+      "Proporcionalidade",
+      "Taxatividade",
+      "Subsidiariedade"
+    ],
+    "correct": 1,
+    "explanation": "A proporcionalidade exige que a resposta penal seja justa e moderada, evitando tanto a proteção insuficiente quanto o excesso punitivo do Estado."
+  },
+  {
+    "question": "Sobre o princípio da insignificância própria, é correto afirmar que ele causa a:",
+    "options": [
+      "Exclusão da ilicitude",
+      "Extinção da punibilidade",
+      "Atipicidade material da conduta",
+      "Isenção de pena"
+    ],
+    "correct": 2,
+    "explanation": "Na insignificância própria, embora a conduta se ajuste ao texto da lei (tipicidade formal), a lesão ao bem jurídico é tão ínfima que o fato deixa de ser crime (atipicidade material)."
+  },
+  {
+    "question": "Diferente da insignificância própria, a insignificância imprópria foca na:",
+    "options": [
+      "Desnecessidade da pena no caso concreto",
+      "Ausência de dolo do agente",
+      "Inexistência de norma penal",
+      "Reparação obrigatória do dano"
+    ],
+    "correct": 0,
+    "explanation": "Na insignificância imprópria, o crime existe e é típico, mas o juiz deixa de aplicar a pena por entender que ela se tornou desnecessária em razão de circunstâncias posteriores ao fato."
+  },
+  {
+    "question": "A proibição de que uma pessoa seja processada ou punida duas vezes pelo mesmo fato jurídico é denominada:",
+    "options": [
+      "Princípio da Consunção",
+      "Princípio Non Bis In Idem",
+      "Princípio da Alteridade",
+      "Princípio da Subsidiariedade"
+    ],
+    "correct": 1,
+    "explanation": "O Non Bis In Idem impede a dupla punição (ou dupla valoração de uma circunstância) sobre o mesmo fato delituoso."
+  },
+  {
+    "question": "O princípio que sustenta que condutas aceitas e reiteradas pela sociedade não deveriam ser tratadas como crime (ex: furar orelha de bebê) é o da:",
+    "options": [
+      "Intervenção Mínima",
+      "Adequação Social",
+      "Ofensividade",
+      "Culpabilidade"
+    ],
+    "correct": 1,
+    "explanation": "Pela adequação social, condutas que se integram perfeitamente ao corpo social e são aceitas pela coletividade não devem ser objeto de repressão penal."
+  },
+  {
+    "question": "O princípio da fragmentariedade significa que o Direito Penal:",
+    "options": [
+      "Deve punir todo e qualquer comportamento imoral",
+      "É um sistema completo e fechado",
+      "Ocupa-se apenas de uma pequena parte (fragmentos) das condutas ilícitas",
+      "Divide a pena em diversas parcelas"
+    ],
+    "correct": 2,
+    "explanation": "A fragmentariedade indica que o Direito Penal não protege todos os bens jurídicos, mas apenas os mais importantes contra os ataques mais graves."
+  },
+  {
+    "question": "Para que haja crime, é indispensável que a conduta cause uma lesão ou um perigo concreto de lesão ao bem jurídico. Este é o princípio da:",
+    "options": [
+      "Ofensividade",
+      "Taxatividade",
+      "Intranscendência",
+      "Individualização"
+    ],
+    "correct": 0,
+    "explanation": "O princípio da ofensividade (ou lesividade) proíbe a punição de condutas que não representem um perigo real ou dano efetivo ao interesse protegido pela norma."
+  },
+  {
+    "question": "Quando o Direito Penal atua como um 'soldado de reserva', sendo aplicado apenas quando uma norma primária não abrange o fato, aplica-se a:",
+    "options": [
+      "Consunção",
+      "Subsidiariedade",
+      "Fragmentariedade",
+      "Proporcionalidade"
+    ],
+    "correct": 1,
+    "explanation": "A subsidiariedade ocorre quando uma norma penal é aplicada apenas se outra norma (mais grave ou específica) não for aplicável ao caso."
+  },
+  {
+    "question": "O princípio da consunção (ou absorção) resolve o conflito de normas quando:",
+    "options": [
+      "Um crime menos grave é meio necessário para um crime mais grave",
+      "O agente comete dois crimes distintos em momentos diferentes",
+      "A lei nova é mais severa que a lei antiga",
+      "O réu é absolvido por falta de provas"
+    ],
+    "correct": 0,
+    "explanation": "Pela consunção, o crime-fim (mais grave) absorve o crime-meio (menos grave), como ocorre no crime de lesão corporal que é absorvido pelo homicídio."
+  },
+  {
+    "question": "Qual dos itens abaixo apresenta requisitos exigidos pelo STF para a aplicação do Princípio da Insignificância Própria?",
+    "options": [
+      "Reincidência, dolo específico e prejuízo alto",
+      "Mínima ofensividade, nenhuma periculosidade social e reduzido grau de reprovabilidade",
+      "Confissão do réu e reparação do dano",
+      "Crime cometido com violência ou grave ameaça"
+    ],
+    "correct": 1,
+    "explanation": "O STF exige: mínima ofensividade da conduta, nenhuma periculosidade social, reduzidíssimo grau de reprovabilidade e inexpressividade da lesão jurídica."
+  },
+  {
+    "question": "O princípio da fragmentariedade é considerado um corolário (consequência lógica) imediato de qual outro princípio?",
+    "options": [
+      "Princípio da Culpabilidade",
+      "Princípio da Intervenção Mínima",
+      "Princípio da Taxatividade",
+      "Princípio da Individualização"
+    ],
+    "correct": 1,
+    "explanation": "A fragmentariedade decorre da intervenção mínima: se o Direito Penal só deve intervir no estritamente necessário, ele acaba sendo fragmentário por natureza."
+  },
+  {
+    "question": "A vedação à responsabilidade penal pelo 'Direito Penal do Autor' (punir alguém pelo que ela é e não pelo que fez) baseia-se no princípio da:",
+    "options": [
+      "Culpabilidade",
+      "Consunção",
+      "Adequação Social",
+      "Subsidiariedade"
+    ],
+    "correct": 0,
+    "explanation": "A culpabilidade moderna exige um Direito Penal do Fato, onde se pune o agente pelo ato ilícito praticado, e não por sua personalidade, estilo de vida ou pensamentos."
+  }
 ],
 };
 
