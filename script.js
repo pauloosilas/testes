@@ -21411,6 +21411,404 @@ const questions = {
   
 ],
 
+"lep112":[
+  {
+    "question": "De acordo com o caput do Art. 112 da LEP, a quem compete determinar a progressão para regime menos rigoroso?",
+    "options": [
+      "Ao Diretor do estabelecimento prisional",
+      "Ao Juiz da execução",
+      "Ao Ministério Público",
+      "Ao Conselho Penitenciário"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 112, a transferência para regime menos rigoroso será determinada pelo juiz."
+  },
+  {
+    "question": "Qual o percentual de pena exigido para progressão de regime se o apenado for primário e o crime tiver sido cometido SEM violência à pessoa ou grave ameaça?",
+    "options": [
+      "10% da pena",
+      "15% da pena",
+      "16% da pena",
+      "20% da pena"
+    ],
+    "correct": 2,
+    "explanation": "Art. 112, inciso I: 16% se o apenado for primário e o crime cometido sem violência ou grave ameaça."
+  },
+  {
+    "question": "Para um apenado reincidente em crime cometido SEM violência à pessoa ou grave ameaça, qual o requisito objetivo para progressão?",
+    "options": [
+      "16% da pena",
+      "20% da pena",
+      "25% da pena",
+      "30% da pena"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso II: 20% da pena se o apenado for reincidente em crime sem violência ou grave ameaça."
+  },
+  {
+    "question": "Se o apenado for primário e o crime tiver sido cometido COM violência à pessoa ou grave ameaça, o cumprimento de pena deve ser de:",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso III: 25% da pena se o apenado for primário e o crime com violência ou grave ameaça."
+  },
+  {
+    "question": "Qual o percentual exigido para o apenado reincidente em crime cometido COM violência à pessoa ou grave ameaça?",
+    "options": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso IV: 30% da pena se o apenado for reincidente em crime com violência ou grave ameaça."
+  },
+  {
+    "question": "Para o apenado primário condenado pela prática de crime hediondo ou equiparado, a progressão exige o cumprimento de:",
+    "options": [
+      "40% da pena",
+      "50% da pena",
+      "60% da pena",
+      "70% da pena"
+    ],
+    "correct": 0,
+    "explanation": "Art. 112, inciso V: 40% da pena se o apenado for condenado por crime hediondo ou equiparado, sendo primário."
+  },
+  {
+    "question": "Um apenado primário condenado por crime hediondo COM resultado morte terá direito à progressão após cumprir:",
+    "options": [
+      "40% da pena",
+      "50% da pena",
+      "60% da pena",
+      "70% da pena"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso VI, alínea 'a': 50% se for condenado por crime hediondo ou equiparado com resultado morte, sendo primário."
+  },
+  {
+    "question": "O condenado por exercer o comando de organização criminosa estruturada para a prática de crime hediondo deve cumprir qual percentual para progredir?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso VI, alínea 'b': 50% para condenado por comando de organização criminosa voltada a crime hediondo."
+  },
+  {
+    "question": "Qual o percentual de pena para progressão do condenado pela prática do crime de constituição de milícia privada?",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "correct": 2,
+    "explanation": "Art. 112, inciso VI, alínea 'c': 50% da pena para o crime de constituição de milícia privada."
+  },
+  {
+    "question": "Conforme a Lei nº 14.994/2024, qual o percentual para o apenado primário condenado por feminicídio?",
+    "options": [
+      "50%",
+      "55%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso VI-A: 55% da pena se o apenado for condenado por feminicídio, se for primário."
+  },
+  {
+    "question": "Qual a porcentagem para progressão de regime de apenado reincidente na prática de crime hediondo ou equiparado?",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso VII: 60% da pena se o apenado for reincidente na prática de crime hediondo ou equiparado."
+  },
+  {
+    "question": "Para o reincidente em crime hediondo ou equiparado COM resultado morte, o percentual de pena é de:",
+    "options": [
+      "60%",
+      "70%",
+      "75%",
+      "80%"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, inciso VIII: 70% da pena se o apenado for reincidente em crime hediondo ou equiparado com resultado morte."
+  },
+  {
+    "question": "No caso de mulher gestante ou mãe de crianças, qual o requisito temporal de cumprimento de pena no regime anterior para progressão?",
+    "options": [
+      "Ao menos 1/6 da pena",
+      "Ao menos 1/8 da pena",
+      "Ao menos 16% da pena",
+      "Ao menos 20% da pena"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, § 3º, inciso III: Ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior."
+  },
+  {
+    "question": "Um dos requisitos para a progressão especial da mulher mãe ou responsável por criança é que o crime NÃO tenha sido cometido contra:",
+    "options": [
+      "A administração pública",
+      "O patrimônio",
+      "Seu filho ou dependente",
+      "Ascendente maior de 60 anos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 112, § 3º, inciso II: O crime não pode ter sido cometido contra seu filho ou dependente."
+  },
+  {
+    "question": "O benefício de progressão de 1/8 da pena para gestantes ou mães será revogado se houver:",
+    "options": [
+      "Cometimento de falta média",
+      "Pedido da defesa",
+      "Fuga do estabelecimento sem nova infração",
+      "Cometimento de novo crime doloso ou falta grave"
+    ],
+    "correct": 3,
+    "explanation": "Art. 112, § 4º: O cometimento de novo crime doloso ou falta grave implicará a revogação do benefício do § 3º."
+  },
+  {
+    "question": "Sobre o tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343/2006 (tráfico privilegiado), a LEP afirma que:",
+    "options": [
+      "É considerado crime equiparado a hediondo",
+      "Não se considera hediondo ou equiparado para fins de progressão",
+      "Exige cumprimento de 40% da pena para primários",
+      "Veda o livramento condicional"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, § 5º: Não se considera hediondo ou equiparado o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343."
+  },
+  {
+    "question": "Qual o efeito do cometimento de falta grave durante a execução da pena privativa de liberdade em relação à progressão?",
+    "options": [
+      "Extingue a punibilidade",
+      "Não altera o prazo de progressão",
+      "Interrompe o prazo, reiniciando a contagem sobre a pena remanescente",
+      "Suspende o prazo por 6 meses"
+    ],
+    "correct": 2,
+    "explanation": "Art. 112, § 6º: A falta grave interrompe o prazo para progressão, com reinício baseado na pena remanescente."
+  },
+  {
+    "question": "Após a ocorrência de uma falta, em quanto tempo o bom comportamento é readquirido para fins de progressão?",
+    "options": [
+      "Após 6 meses",
+      "Após 1 ano da ocorrência do fato",
+      "Após 2 anos da ocorrência do fato",
+      "Somente após o término da pena"
+    ],
+    "correct": 1,
+    "explanation": "Art. 112, § 7º: O bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, se cumprido o requisito temporal."
+  },{
+    "question": "De acordo com a LEP, qual a porcentagem de pena cumprida exigida para progressão de regime de um apenado primário cujo crime foi cometido sem violência à pessoa ou grave ameaça?",
+    "options": [
+      "16%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correct": 0,
+    "explanation": "Conforme o Art. 112, I, da LEP, exige-se 16% se o apenado for primário e o crime sem violência ou grave ameaça."
+  },
+  {
+    "question": "Um apenado reincidente em crime cometido sem violência à pessoa ou grave ameaça deve cumprir quanto da pena para progredir de regime?",
+    "options": [
+      "16%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, II, estabelece 20% para reincidentes em crimes sem violência à pessoa ou grave ameaça."
+  },
+  {
+    "question": "Qual o requisito temporal para a progressão de regime de um preso primário que cometeu crime com violência à pessoa ou grave ameaça?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, III, exige 25% da pena para condenados primários em crimes com violência ou grave ameaça."
+  },
+  {
+    "question": "Para o apenado reincidente em crime cometido com violência à pessoa ou grave ameaça, a progressão de regime ocorrerá após o cumprimento de:",
+    "options": [
+      "25%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 112, IV, o percentual é de 30% para reincidentes em crimes com violência ou grave ameaça."
+  },
+  {
+    "question": "No caso de condenado primário por crime hediondo ou equiparado, qual o percentual de pena necessário para a progressão?",
+    "options": [
+      "30%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, V, determina 40% para condenados por crime hediondo ou equiparado que sejam primários."
+  },
+  {
+    "question": "Qual a porcentagem exigida para progressão se o apenado primário for condenado por crime hediondo com resultado morte?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 112, VI, 'a', exige-se 50% se houver resultado morte e o apenado for primário, sendo vedado o livramento condicional."
+  },
+  {
+    "question": "Apenados condenados por exercer o comando de organização criminosa estruturada para a prática de crime hediondo progridem após cumprirem:",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, VI, 'b', define o patamar de 50% para quem exerce comando de organização criminosa voltada a crimes hediondos."
+  },
+  {
+    "question": "O condenado pela prática do crime de constituição de milícia privada deve cumprir qual percentual para progredir?",
+    "options": [
+      "40%",
+      "50%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, VI, 'c', estabelece 50% para o crime de constituição de milícia privada."
+  },
+  {
+    "question": "Conforme a atualização da Lei nº 14.994/2024, o apenado primário condenado por feminicídio progredirá após cumprir:",
+    "options": [
+      "50%",
+      "55%",
+      "60%",
+      "70%"
+    ],
+    "correct": 1,
+    "explanation": "O novo Art. 112, VI-A, exige 55% para condenados primários por feminicídio, vedado o livramento condicional."
+  },
+  {
+    "question": "Se o apenado for reincidente na prática de crime hediondo ou equiparado (sem resultado morte), o percentual de cumprimento de pena é de:",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, VII, estipula 60% para reincidentes em crimes hediondos ou equiparados."
+  },
+  {
+    "question": "Qual o percentual máximo previsto no Art. 112 para progressão, aplicado ao reincidente em crime hediondo com resultado morte?",
+    "options": [
+      "50%",
+      "60%",
+      "70%",
+      "75%"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 112, VIII, estabelece 70% para reincidentes em crime hediondo ou equiparado com resultado morte."
+  },
+  {
+    "question": "Para mulheres gestantes ou mães de crianças/deficientes, qual o requisito temporal de cumprimento de pena para progressão?",
+    "options": [
+      "1/6 da pena",
+      "1/8 da pena",
+      "16% da pena",
+      "20% da pena"
+    ],
+    "correct": 1,
+    "explanation": "Conforme o Art. 112, § 3º, III, o requisito temporal para esse grupo específico é de 1/8 da pena."
+  },
+  {
+    "question": "Qual das alternativas abaixo NÃO é um requisito cumulativo para a progressão diferenciada de 1/8 (mães/gestantes)?",
+    "options": [
+      "Ser primária",
+      "Ter bom comportamento carcerário",
+      "Não ter integrado organização criminosa",
+      "Ter cometido crime com violência à pessoa"
+    ],
+    "correct": 3,
+    "explanation": "O Art. 112, § 3º, I, exige que o crime NÃO tenha sido cometido com violência ou grave ameaça à pessoa."
+  },
+  {
+    "question": "O benefício da progressão especial para mães e gestantes (§ 3º) será revogado se a mulher:",
+    "options": [
+      "Cometer falta média",
+      "Trabalhar externamente",
+      "Cometer novo crime doloso ou falta grave",
+      "Mudar de religião"
+    ],
+    "correct": 2,
+    "explanation": "O Art. 112, § 4º, afirma que novo crime doloso ou falta grave implicará a revogação do benefício."
+  },
+  {
+    "question": "Sobre o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei 11.343/2006 (tráfico privilegiado), é correto afirmar que:",
+    "options": [
+      "É considerado crime hediondo para progressão",
+      "Não se considera hediondo ou equiparado para fins de progressão",
+      "Exige cumprimento de 40% da pena obrigatoriamente",
+      "Impede a progressão de regime"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, § 5º, esclarece que o tráfico privilegiado não é considerado hediondo ou equiparado para fins de progressão."
+  },
+  {
+    "question": "O cometimento de falta grave durante a execução da pena gera qual efeito na progressão de regime?",
+    "options": [
+      "Extingue a punibilidade",
+      "Interrompe o prazo para a progressão",
+      "Não gera qualquer efeito no tempo",
+      "Reduz a pena total em 1/3"
+    ],
+    "correct": 1,
+    "explanation": "Segundo o Art. 112, § 6º, a falta grave interrompe o prazo para progressão, reiniciando a contagem sobre a pena remanescente."
+  },
+  {
+    "question": "De acordo com o § 7º do Art. 112, em quanto tempo, via de regra, o bom comportamento é readquirido após uma falta?",
+    "options": [
+      "6 meses",
+      "1 ano",
+      "2 anos",
+      "Após o término da pena"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, § 7º, dispõe que o bom comportamento é readquirido após 1 ano da ocorrência do fato (ou antes, se cumprido o requisito temporal)."
+  },
+  {
+    "question": "No caso de progressão de regime para mãe ou responsável por criança, o crime não pode ter sido cometido contra:",
+    "options": [
+      "Patrimônio público",
+      "Seu filho ou dependente",
+      "A administração da justiça",
+      "A ordem tributária"
+    ],
+    "correct": 1,
+    "explanation": "O Art. 112, § 3º, II, veda o benefício se o crime tiver sido cometido contra seu filho ou dependente."
+  }
+],
+
 "principiosDireitoPenal":[
   {
     "question": "O princípio que impede a incriminação de condutas que não excedam a esfera do próprio autor, proibindo a punição da autolesão, é o:",
