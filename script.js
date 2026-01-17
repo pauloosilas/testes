@@ -21411,6 +21411,372 @@ const questions = {
   
 ],
 
+"refugiados":[
+  {
+    "question": "Qual é o principal instrumento jurídico internacional que define o estatuto do refugiado?",
+    "options": [
+      "A Declaração Universal dos Direitos Humanos de 1948",
+      "A Convenção de Genebra de 1951 relativa ao Estatuto dos Refugiados",
+      "O Pacto Internacional sobre Direitos Civis e Políticos",
+      "O Estatuto de Roma"
+    ],
+    "correct": 1,
+    "explanation": "A Convenção de 1951 é o documento fundacional. Artigo 1A(2): 'Para os fins da presente Convenção, o termo «refugiado» aplicar-se-á a qualquer pessoa que: [...] em consequência de receios fundados de ser perseguida devido à sua raça, religião, nacionalidade, pertença a um determinado grupo social ou às suas opiniões políticas, se encontre fora do país de que é nacional e não possa ou, devido ao citado receio, não queira pedir a protecção desse país'."
+  },
+  {
+    "question": "O princípio do 'Non-Refoulement' (Não-Repulsão) proíbe que um Estado:",
+    "options": [
+      "Conceda asilo a criminosos de guerra",
+      "Expulse ou operacionalize o retorno de um refugiado para territórios onde a sua vida ou liberdade estejam ameaçadas",
+      "Cobre taxas para o processamento do pedido de refúgio",
+      "Impeça a naturalização de refugiados após 10 anos"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 33, 1: 'Nenhum dos Estados Contratantes expulsará ou repelirá um refugiado, de maneira alguma, para as fronteiras de territórios onde a sua vida ou a sua liberdade sejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas'."
+  },
+  {
+    "question": "O Protocolo de 1967 teve como principal objetivo:",
+    "options": [
+      "Incluir crimes ambientais como causa de refúgio",
+      "Criar o ACNUR (Alto Comissariado das Nações Unidas para os Refugiados)",
+      "Remover as limitações temporais e geográficas da Convenção de 1951",
+      "Estabelecer sanções económicas a países que não aceitem refugiados"
+    ],
+    "correct": 2,
+    "explanation": "O Protocolo de 1967 eliminou a data limite de 1 de janeiro de 1951 e a limitação geográfica (eventos ocorridos na Europa), tornando a Convenção universal. Artigo I, 2 do Protocolo: 'Para os fins do presente Protocolo, o termo «refugiado» [...] significará qualquer pessoa que se enquadre na definição dada no Artigo 1 da Convenção, como se as palavras «em consequência de acontecimentos ocorridos antes de 1 de Janeiro de 1951 e...» e as palavras «... em consequência de tais acontecimentos» não constassem do parágrafo 2 da secção A do Artigo 1'."
+  },
+  {
+    "question": "De acordo com a Convenção de 1951, os Estados Contratantes não devem aplicar sanções penais aos refugiados por entrada ou permanência irregular, desde que:",
+    "options": [
+      "Estes possuam documentos de identidade válidos",
+      "Se apresentem sem demora às autoridades e aleguem causa justa",
+      "Tenham formação de ensino superior",
+      "Sejam provenientes de países vizinhos"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 31, 1: 'Os Estados Contratantes não aplicarão sanções penais, por motivo de entrada ou permanência irregulares, aos refugiados que, chegando diretamente do território onde a sua vida ou liberdade estavam ameaçadas no sentido do artigo 1, entrem ou se encontrem no seu território sem autorização, desde que se apresentem sem demora às autoridades e lhes mostrem causa justa para a sua entrada ou permanência irregulares'."
+  },
+  {
+    "question": "Qual destas situações configura uma 'Cláusula de Exclusão' (onde a Convenção não se aplica)?",
+    "options": [
+      "Ter cometido um crime político grave antes de entrar no país",
+      "Ter cometido um crime grave de direito comum fora do país de acolhimento antes de ser nele admitido como refugiado",
+      "Ser portador de doença infectocontagiosa",
+      "Não falar a língua oficial do Estado de acolhimento"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 1F: 'As disposições desta Convenção não serão aplicáveis às pessoas relativamente às quais houver razões sérias para considerar que: [...] b) Cometeram um crime grave de direito comum fora do país de acolhimento antes de serem nele admitidas como refugiadas'."
+  },
+  {
+    "question": "A Declaração de Cartagena de 1984 é relevante para o Direito dos Refugiados por:",
+    "options": [
+      "Restringir o conceito de refugiado apenas a questões religiosas",
+      "Alargar a definição de refugiado para incluir ameaças pela violência generalizada e agressão estrangeira",
+      "Proibir a entrada de refugiados no continente americano",
+      "Criar um passaporte único para refugiados na América Latina"
+    ],
+    "correct": 1,
+    "explanation": "A Declaração de Cartagena (Conclusão III, 3) recomenda alargar a definição: '... a definição ou conceito de refugiado recomendável para utilização na região é a que, além de conter os elementos da Convenção de 1951 e do Protocolo de 1967, considere também como refugiados as pessoas que tenham fugido dos seus países porque a sua vida, segurança ou liberdade foram ameaçadas pela violência generalizada, a agressão estrangeira, os conflitos internos, a violação maciça dos direitos humanos ou outras circunstâncias que tenham perturbado gravemente a ordem pública'."
+  },
+  {
+    "question": "A cláusula de cessação do estatuto de refugiado ocorre quando:",
+    "options": [
+      "O refugiado completa 18 anos",
+      "O refugiado adquire uma nova nacionalidade e goza da proteção do país dessa nova nacionalidade",
+      "O refugiado consegue um emprego estável",
+      "O refugiado comete uma infração de trânsito"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 1C(3): 'Esta Convenção deixará de ser aplicada a qualquer pessoa [...] se: 3) Tiver adquirido uma nova nacionalidade e gozar da protecção do país de que adquiriu a nacionalidade'."
+  },
+  {
+    "question": "Sobre a liberdade de circulação, a Convenção de 1951 estabelece que:",
+    "options": [
+      "Refugiados devem permanecer confinados em campos",
+      "Os Estados devem conceder aos refugiados o direito de escolher o seu local de residência e de circular livremente",
+      "Refugiados só podem circular com escolta policial",
+      "Apenas refugiados com visto de trabalho podem circular"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 26: 'Qualquer Estado Contratante concederá aos refugiados que se encontrem regularmente no seu território o direito de escolher o seu lugar de residência e de circular livremente no território, sob reserva dos regulamentos aplicáveis aos estrangeiros nas mesmas circunstâncias'."
+  },
+  {
+    "question": "O termo 'Deslocado Interno' (IDP) diferencia-se de 'Refugiado' essencialmente porque:",
+    "options": [
+      "O deslocado interno não atravessou uma fronteira internacional",
+      "O refugiado não sofre perseguição política",
+      "O deslocado interno é sempre uma criança",
+      "O refugiado não tem direito a assistência da ONU"
+    ],
+    "correct": 0,
+    "explanation": "Diferente do refugiado (Artigo 1 da Convenção), o Deslocado Interno permanece dentro das fronteiras do seu próprio país, não preenchendo o requisito de 'estar fora do país de que é nacional'."
+  },
+  {
+    "question": "Qual o dever do refugiado em relação ao país onde se encontra?",
+    "options": [
+      "Pagar impostos em dobro",
+      "Renunciar à sua cultura original",
+      "Conformar-se com as leis e regulamentos do país",
+      "Prestar serviço militar obrigatório imediato"
+    ],
+    "correct": 2,
+    "explanation": "Artigo 2: 'Todo o refugiado tem deveres para com o país onde se encontra, os quais compreendem, designadamente, a obrigação de se conformar com as leis e regulamentos, assim como com as medidas tomadas para a manutenção da ordem pública'."
+  },
+  {
+    "question": "Em relação ao acesso ao emprego remunerado, a Convenção prescreve que:",
+    "options": [
+      "Refugiados são proibidos de trabalhar",
+      "Devem receber o tratamento mais favorável concedido a nacionais de países estrangeiros",
+      "Só podem trabalhar em regime de voluntariado",
+      "Podem trabalhar apenas na agricultura"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 17, 1: 'Os Estados Contratantes concederão a qualquer refugiado que resida regularmente no seu território o tratamento mais favorável concedido, nas mesmas circunstâncias, aos nacionais de um país estrangeiro, no que respeita ao exercício de uma actividade profissional assalariada'."
+  },
+  {
+    "question": "O 'Princípio da Unidade da Família' implica que:",
+    "options": [
+      "Apenas o chefe de família recebe o estatuto",
+      "Os direitos concedidos ao refugiado devem ser estendidos aos seus familiares dependentes",
+      "A família deve ser repatriada imediatamente",
+      "A família deve viver separada por 2 anos"
+    ],
+    "explanation": "Embora não esteja no corpo principal dos artigos da Convenção de 1951, foi estabelecido na Ata Final da Conferência de Plenipotenciários: 'Recomenda aos Governos que tomem as medidas necessárias para a protecção da família do refugiado e, especialmente, com o fim de: 1. Assegurar que a unidade da família do refugiado seja mantida...'.",
+    "correct": 1
+  },
+  {
+    "question": "A Convenção de 1951 permite a expulsão de um refugiado que esteja regularmente no território em que circunstâncias?",
+    "options": [
+      "Por razões de segurança nacional ou de ordem pública",
+      "Se o refugiado ficar desempregado",
+      "Se o refugiado professar uma religião diferente da maioria",
+      "Em nenhuma circunstância é permitida a expulsão"
+    ],
+    "correct": 0,
+    "explanation": "Artigo 32, 1: 'Os Estados Contratantes não expulsarão um refugiado que se encontre regularmente no seu território, salvo por razões de segurança nacional ou de ordem pública'."
+  },
+  {
+    "question": "Os Estados Contratantes devem emitir documentos de viagem para os refugiados?",
+    "options": [
+      "Não, o refugiado deve usar o passaporte do seu país de origem",
+      "Sim, para fins de viagem fora do território, a menos que razões imperiosas de segurança o impeçam",
+      "Apenas se o refugiado pagar uma fiança",
+      "Apenas para refugiados que viajam em missão oficial"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 28, 1: 'Os Estados Contratantes entregarão aos refugiados que residam regularmente no seu território documentos de viagem destinados a permitir-lhes viajar fora desse território, a menos que razões imperiosas de segurança nacional ou de ordem pública a tal se oponham'."
+  },
+  {
+    "question": "Sobre a naturalização dos refugiados, a Convenção estabelece que os Estados:",
+    "options": [
+      "Devem proibir a naturalização para manter a identidade do refugiado",
+      "Devem facilitar, tanto quanto possível, a assimilação e a naturalização dos refugiados",
+      "Devem exigir 20 anos de residência",
+      "Devem cobrar taxas mais altas que as aplicadas a outros estrangeiros"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 34: 'Os Estados Contratantes facilitarão, tanto quanto possível, a assimilação e a naturalização dos refugiados. Esforçar-se-ão, designadamente, por acelerar o processo de naturalização e por reduzir, tanto quanto possível, as taxas e despesas desse processo'."
+  },
+  {
+    "question": "O que caracteriza o 'fundado receio de perseguição'?",
+    "options": [
+      "Apenas uma opinião subjetiva de medo do indivíduo",
+      "A existência de uma guerra declarada obrigatoriamente",
+      "Um componente subjetivo (medo) apoiado por um componente objetivo (situação real de risco)",
+      "A vontade de melhorar de vida economicamente"
+    ],
+    "correct": 2,
+    "explanation": "O receio é considerado 'fundado' quando a situação objetiva no país de origem (perseguição por raça, religião, etc., conforme o Artigo 1) justifica o temor subjetivo do indivíduo, tornando o seu regresso impossível ou perigoso."
+  },
+  {
+    "question": "A Convenção da OUA (União Africana) de 1969 é conhecida por:",
+    "options": [
+      "Ser mais restritiva que a Convenção de 1951",
+      "Expandir a definição de refugiado para incluir agressão externa, ocupação e perturbação da ordem pública",
+      "Exigir que refugiados trabalhem em minas de ouro",
+      "Proibir o asilo político em África"
+    ],
+    "correct": 1,
+    "explanation": "Artigo I, 2 da Convenção da OUA: 'O termo «refugiado» aplicar-se-á também a qualquer pessoa que, devido a uma agressão exterior, a uma ocupação, a uma dominação estrangeira ou a acontecimentos que perturbem gravemente a ordem pública [...] seja obrigada a deixar o lugar da sua residência habitual para procurar refúgio noutro lugar fora do seu país de origem ou de nacionalidade'."
+  },
+  {
+    "question": "A perseguição por 'pertença a um determinado grupo social' pode incluir:",
+    "options": [
+      "Apenas grupos políticos registados",
+      "Grupos definidos por características imutáveis, como orientação sexual ou género, dependendo da jurisprudência",
+      "Apenas grupos desportivos",
+      "Qualquer associação comercial com fins lucrativos"
+    ],
+    "correct": 1,
+    "explanation": "O Artigo 1A(2) da Convenção inclui 'pertença a um determinado grupo social'. A interpretação moderna e as diretrizes do ACNUR reconhecem que este grupo pode ser definido por características inatas ou fundamentais para a identidade (como orientação sexual, género ou linhagem familiar) que não podem ou não devem ser alteradas."
+  },
+  {
+    "question": "De acordo com a Convenção de 1951, qual é o critério principal para a definição de um refugiado?",
+    "options": [
+      "A busca por melhores condições de vida e oportunidades económicas",
+      "O fundado temor de perseguição por motivos de raça, religião, nacionalidade, grupo social ou opiniões políticas",
+      "A ocorrência de desastres naturais de grandes proporções no país de origem",
+      "A simples vontade de residir num país estrangeiro por tempo indeterminado"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 1, A, (2) da Convenção de 1951: 'Que, em consequência de receios fundados de ser perseguida devido à sua raça, religião, nacionalidade, pertença a um determinado grupo social ou às suas opiniões políticas, se encontre fora do país de que é nacional e não possa ou, devido ao citado receio, não queira pedir a protecção desse país; ou que, se não tiver nacionalidade e se encontrar fora do país onde tinha a sua residência habitual em consequência de tais acontecimentos, não possa ou, devido ao citado receio, não queira a ele voltar.'"
+  },
+  {
+    "question": "O Protocolo de 1967 relativo ao Estatuto dos Refugiados teve como principal impacto:",
+    "options": [
+      "A criação do cargo de Alto Comissariado das Nações Unidas para os Refugiados (ACNUR)",
+      "A inclusão de crimes de guerra como fundamento para o pedido de refúgio",
+      "A eliminação das limitações geográficas e temporais contidas na Convenção de 1951",
+      "A proibição absoluta de extradição de refugiados em qualquer hipótese"
+    ],
+    "correct": 2,
+    "explanation": "Artigo I, 2 do Protocolo de 1967: 'Para os fins do presente Protocolo, o termo «refugiado» [...] significará qualquer pessoa que se enquadre na definição dada no Artigo 1 da Convenção, como se as palavras «em consequência de acontecimentos ocorridos antes de 1 de Janeiro de 1951 e...» e as palavras «... em consequência de tais acontecimentos» não constassem do parágrafo 2 da secção A do Artigo 1.'"
+  },
+  {
+    "question": "O princípio do 'Non-Refoulement' (Não-Repulsão) estabelece que:",
+    "options": [
+      "Um Estado deve aceitar todos os imigrantes que cheguem à sua fronteira",
+      "O refugiado deve ser devolvido ao seu país de origem se não conseguir emprego em 6 meses",
+      "Nenhum Estado expulsará ou repelirá um refugiado para fronteiras onde a sua vida ou liberdade estejam ameaçadas",
+      "O refugiado não pode ser punido por críticas ao governo do país de acolhimento"
+    ],
+    "correct": 2,
+    "explanation": "Artigo 33, 1 da Convenção de 1951: 'Nenhum dos Estados Contratantes expulsará ou repelirá um refugiado, de maneira alguma, para as fronteiras de territórios onde a sua vida ou a sua liberdade sejam ameaçadas em virtude da sua raça, religião, nacionalidade, filiação em certo grupo social ou opiniões políticas.'"
+  },
+  {
+    "question": "Sobre a sanção por entrada irregular de refugiados, a Convenção de 1951 determina que:",
+    "options": [
+      "Os Estados devem aplicar multas severas para desencorajar a imigração ilegal",
+      "Os Estados não aplicarão sanções penais por motivo de entrada ou permanência irregulares, desde que o refugiado se apresente sem demora",
+      "O refugiado deve ser imediatamente detido até a regularização do visto",
+      "A entrada irregular impede definitivamente a concessão do estatuto de refugiado"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 31, 1 da Convenção de 1951: 'Os Estados Contratantes não aplicarão sanções penais, por motivo de entrada ou permanência irregulares, aos refugiados que, chegando diretamente do território onde a sua vida ou liberdade estavam ameaçadas no sentido do artigo 1, entrem ou se encontrem no seu território sem autorização, desde que se apresentem sem demora às autoridades e lhes mostrem causa justa para a sua entrada ou permanência irregulares.'"
+  },
+  {
+    "question": "A Declaração de Cartagena de 1984, importante no contexto latino-americano, ampliou o conceito de refugiado para incluir:",
+    "options": [
+      "Apenas perseguições por orientação sexual",
+      "Pessoas que fugiram devido à violência generalizada, agressão estrangeira ou violação maciça dos direitos humanos",
+      "Exclusivamente vítimas de catástrofes climáticas",
+      "Pessoas que buscam asilo por crimes de direito comum"
+    ],
+    "correct": 1,
+    "explanation": "Conclusão III, 3 da Declaração de Cartagena: '...considere também como refugiados as pessoas que tenham fugido dos seus países porque a sua vida, segurança ou liberdade foram ameaçadas pela violência generalizada, a agressão estrangeira, os conflitos internos, a violação maciça dos direitos humanos ou outras circunstâncias que tenham perturbado gravemente a ordem pública.'"
+  },
+  {
+    "question": "As 'Cláusulas de Exclusão' da Convenção de 1951 prevêem que o estatuto não se aplica a quem:",
+    "options": [
+      "Seja analfabeto ou não possua qualificação profissional",
+      "Tenha cometido um crime grave de direito comum fora do país de acolhimento antes de ser nele admitido",
+      "Não professe nenhuma religião reconhecida",
+      "Pertença a um grupo social minoritário sem expressão política"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 1, F da Convenção de 1951: 'As disposições desta Convenção não serão aplicáveis às pessoas relativamente às quais houver razões sérias para considerar que: a) Cometeram um crime contra a paz, um crime de guerra ou um crime contra a humanidade...; b) Cometeram um crime grave de direito comum fora do país de acolhimento antes de serem nele admitidas como refugiadas; c) Tornaram-se culpadas de actos contrários aos fins e aos princípios das Nações Unidas.'"
+  },
+  {
+    "question": "De acordo com a Lei Brasileira nº 9.474/97, a cessação da condição de refugiado ocorre quando:",
+    "options": [
+      "O refugiado viaja para qualquer país estrangeiro a turismo",
+      "O refugiado volta a valer-se da proteção do país de sua nacionalidade",
+      "O refugiado completa 5 anos de residência no Brasil",
+      "O refugiado muda de religião"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 38, I da Lei 9.474/97: 'Cessará a condição de refugiado nas hipóteses em que o estrangeiro: I - voltar a valer-se da proteção do país de sua nacionalidade; II - recuperar voluntariamente a nacionalidade outrora perdida; III - adquirir nova nacionalidade e gozar da proteção do país cuja nacionalidade adquiriu; IV - estabelecer-se novamente, de forma voluntária, no país que abandonou ou fora do qual permaneceu por temor de perseguição; V - não puder mais continuar a recusar a proteção do país de nacionalidade ou de residência habitual, porque as circunstâncias em razão das quais foi reconhecido como refugiado deixaram de existir.'"
+  },
+  {
+    "question": "Sobre a expulsão de um refugiado que se encontre regularmente no território, a regra internacional dita que:",
+    "options": [
+      "É proibida em qualquer hipótese, devido ao princípio da dignidade humana",
+      "Pode ocorrer por razões de segurança nacional ou de ordem pública, mediante processo legal",
+      "Pode ocorrer se o refugiado não aprender a língua local em 2 anos",
+      "Ocorre automaticamente se o refugiado cometer qualquer infração administrativa"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 32, 1 da Convenção de 1951: 'Os Estados Contratantes não expulsarão um refugiado que se encontre regularmente no seu território, salvo por razões de segurança nacional ou de ordem pública.' Artigo 32, 2: 'A expulsão de tal refugiado só se efectuará em execução de uma decisão proferida em conformidade com o processo previsto pela lei.'"
+  },
+  {
+    "question": "O documento de viagem concedido aos refugiados pelos Estados contratantes tem como finalidade:",
+    "options": [
+      "Permitir que o refugiado viaje para o seu país de origem com segurança",
+      "Permitir que o refugiado viaje para fora do território do Estado de acolhimento",
+      "Substituir o diploma de graduação do refugiado",
+      "Servir apenas como comprovativo de residência, sem direito a trânsito internacional"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 28 da Convenção de 1951: 'Os Estados Contratantes entregarão aos refugiados que residam regularmente no seu território documentos de viagem destinados a permitir-lhes viajar fora desse território, a menos que razões imperiosas de segurança nacional ou de ordem pública a tal se oponham...'"
+  },
+  {
+    "question": "Na legislação brasileira, o órgão responsável por decidir, em primeira instância, sobre o reconhecimento do estatuto de refugiado é:",
+    "options": [
+      "O Supremo Tribunal Federal (STF)",
+      "O Ministério das Relações Exteriores exclusivamente",
+      "O Comitê Nacional para os Refugiados (CONARE)",
+      "A Polícia Federal"
+    ],
+    "correct": 2,
+    "explanation": "Artigo 12 da Lei 9.474/97: 'Fica criado o Comitê Nacional para os Refugiados (CONARE), órgão colegiado, vinculado ao Ministério da Justiça...'. Artigo 26: 'Compete ao CONARE: I - decidir sobre o reconhecimento, em primeira instância, da condição de refugiado...'"
+  },
+  {
+    "question": "O princípio da Unidade da Família no Direito dos Refugiados implica que:",
+    "options": [
+      "O estatuto de refugiado deve ser estendido aos dependentes do refugiado reconhecido",
+      "A família inteira deve ser deportada se um membro cometer um crime",
+      "O Estado de acolhimento deve pagar passagens aéreas para todos os parentes do refugiado",
+      "O refugiado é obrigado a casar-se com um nacional para garantir a proteção"
+    ],
+    "correct": 0,
+    "explanation": "Artigo 2 da Lei 9.474/97: 'Os efeitos do reconhecimento da condição de refugiado serão extensivos ao cônjuge, aos ascendentes e descendentes, assim como aos demais membros do grupo familiar que do refugiado dependam economicamente, desde que se encontrem em território nacional.'"
+  },
+  {
+    "question": "Em relação ao acesso ao mercado de trabalho, a Convenção de 1951 prevê que os Estados devem conceder aos refugiados:",
+    "options": [
+      "Apenas empregos em setores braçais",
+      "O tratamento mais favorável concedido aos nacionais de países estrangeiros",
+      "Apenas permissão para trabalho voluntário sem remuneração",
+      "Acesso imediato a cargos públicos de alto escalão sem concurso"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 17, 1 da Convenção de 1951: 'Os Estados Contratantes concederão a qualquer refugiado que resida regularmente no seu território o tratamento mais favorável concedido, nas mesmas circunstâncias, aos nacionais de um país estrangeiro, no que respeita ao exercício de uma actividade profissional assalariada.'"
+  },
+  {
+    "question": "Sobre a naturalização do refugiado, a Convenção de 1951 estabelece que os Estados devem:",
+    "options": [
+      "Impedir a naturalização para garantir que o refugiado retorne ao seu país um dia",
+      "Facilitar a assimilação e a naturalização, reduzindo taxas e acelerando o processo",
+      "Exigir um período mínimo de 30 anos de residência ininterrupta",
+      "Exigir que o refugiado renuncie a todas as suas crenças originais"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 34 da Convenção de 1951: 'Os Estados Contratantes facilitarão, tanto quanto possível, a assimilação e a naturalização dos refugiados. Esforçar-se-ão, designadamente, por acelerar o processo de naturalização e por reduzir, tanto quanto possível, as taxas e despesas desse processo.'"
+  },
+  {
+    "question": "O pedido de refúgio suspende o processo de extradição?",
+    "options": [
+      "Não, a extradição tem prioridade sobre o refúgio",
+      "Sim, enquanto estiver pendente a decisão sobre o estatuto de refugiado",
+      "Apenas se o refugiado for de um país vizinho",
+      "Apenas se o crime imputado for homicídio"
+    ],
+    "correct": 1,
+    "explanation": "Artigo 34 da Lei 9.474/97: 'A solicitação de refúgio suspenderá, até decisão definitiva, qualquer processo de extradição em curso, que tenha por fundamento os factos que justificaram a concessão do refúgio.'"
+  },
+  {
+    "question": "A assistência jurídica ao refugiado no Brasil, conforme a Lei 9.474/97, deve ser prestada prioritariamente pela:",
+    "options": [
+      "Defensoria Pública da União (DPU)",
+      "Ordem dos Advogados do Brasil (OAB) apenas em casos de crime",
+      "Empresas privadas de advocacia contratadas pela ONU",
+      "Secretaria de Segurança Pública"
+    ],
+    "correct": 0,
+    "explanation": "Artigo 19 da Lei 9.474/97: 'A Defensoria Pública da União prestará assistência jurídica gratuita aos solicitantes de refúgio e refugiados que não dispuserem de meios para prover a própria defesa ou a contratação de advogado.'"
+  }
+],
+
 "lep112":[
   {
     "question": "De acordo com o caput do Art. 112 da LEP, a quem compete determinar a progressão para regime menos rigoroso?",
