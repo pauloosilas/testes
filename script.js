@@ -21410,6 +21410,173 @@ const questions = {
   }
   
 ],
+"refugiadosbr":[
+  {
+    "question": "De acordo com a Lei 9.474/97, qual é a natureza jurídica do Comitê Nacional para os Refugiados (CONARE)?",
+    "options": [
+      "Órgão de execução singular, vinculado ao Ministério das Relações Exteriores.",
+      "Órgão de deliberação coletiva, no âmbito do Ministério da Justiça.",
+      "Autarquia especial com autonomia financeira e administrativa.",
+      "Fundação pública destinada à assistência social de estrangeiros."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 11: 'Fica criado o Comitê Nacional para os Refugiados - CONARE, órgão de deliberação coletiva, no âmbito do Ministério da Justiça.'"
+  },
+  {
+    "question": "Sobre a composição do CONARE, é correto afirmar que o representante do ACNUR (Alto Comissariado das Nações Unidas para os Refugiados):",
+    "options": [
+      "É o presidente do Comitê com direito a voto de qualidade.",
+      "Participa das reuniões como membro convidado, com direito a voz, mas sem voto.",
+      "É membro nato com direito a voz e voto, assim como os representantes ministeriais.",
+      "Não possui assento no CONARE, atuando apenas como observador externo."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 14, § 1º: 'O Alto Comissariado das Nações Unidas para Refugiados - ACNUR será sempre membro convidado para as reuniões do CONARE, com direito a voz, sem voto.'"
+  },
+  {
+    "question": "A presidência do CONARE, conforme a Lei 9.474/97, deve ser exercida por:",
+    "options": [
+      "Um representante do Ministério das Relações Exteriores.",
+      "Um representante do Ministério da Justiça.",
+      "O representante da organização não-governamental (Sociedade Civil).",
+      "O Coordenador-Geral, eleito por maioria simples dos membros."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 14, inciso I: 'O CONARE será constituído por: I - um representante do Ministério da Justiça, que o presidirá;'"
+  },
+  {
+    "question": "Compete ao CONARE, em primeira instância, entre outras atribuições:",
+    "options": [
+      "Julgar recursos contra decisões negativas proferidas pelo Ministro da Justiça.",
+      "Declarar a perda da nacionalidade brasileira de estrangeiros naturalizados.",
+      "Analisar o pedido e declarar o reconhecimento da condição de refugiado.",
+      "Expedir passaportes para brasileiros em situação de vulnerabilidade no exterior."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 12, inciso I: 'Compete ao CONARE...: I - analisar o pedido e declarar o reconhecimento, em primeira instância, da condição de refugiado;'"
+  },
+  {
+    "question": "Em caso de empate nas deliberações do CONARE, qual procedimento deve ser adotado?",
+    "options": [
+      "O pedido é automaticamente indeferido em favor do Estado.",
+      "A reunião é suspensa por 15 dias para nova votação.",
+      "Será considerado voto decisivo o do Presidente do CONARE.",
+      "O representante do ACNUR é convocado para exercer o voto de desempate."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 16, Parágrafo único: 'Em caso de empate, será considerado voto decisivo o do Presidente do CONARE.'"
+  },
+  {
+    "question": "No processo de reconhecimento da condição de refugiado, caso o CONARE profira uma decisão negativa, cabe recurso para qual autoridade?",
+    "options": [
+      "Ministro de Estado das Relações Exteriores.",
+      "Supremo Tribunal Federal.",
+      "Ministro de Estado da Justiça.",
+      "Conselho Nacional de Imigração (CNIg)."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 29: 'No caso de decisão negativa, esta deverá ser fundamentada na notificação ao solicitante, cabendo recurso ao Ministro de Estado da Justiça...'"
+  },
+  {
+    "question": "Qual é o prazo legal para o solicitante interpor recurso contra a decisão negativa do CONARE?",
+    "options": [
+      "5 dias úteis.",
+      "10 dias corridos.",
+      "15 dias contados do recebimento da notificação.",
+      "30 dias contados da publicação no Diário Oficial."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 29: '...cabendo recurso ao Ministro de Estado da Justiça, no prazo de quinze dias, contados do recebimento da notificação.'"
+  },
+  {
+    "question": "Sobre o quórum para as reuniões do CONARE, a lei estabelece que o comitê reunir-se-á com:",
+    "options": [
+      "A totalidade de seus membros votantes.",
+      "Quórum de quatro membros com direito a voto.",
+      "Quórum de maioria absoluta (metade mais um).",
+      "Presença obrigatória de todos os representantes ministeriais e do ACNUR."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 16: 'O CONARE reunir-se-á com quórum de quatro membros com direito a voto, deliberando por maioria simples.'"
+  },
+  {
+    "question": "A Lei 9.474/97 amplia o conceito clássico de refugiado da Convenção de 1951 ao incluir como fundamento:",
+    "options": [
+      "Perseguição por motivos estritamente econômicos ou desemprego estrutural.",
+      "Grave e generalizada violação de direitos humanos no país de nacionalidade.",
+      "Desejo de reagrupamento familiar com parentes distantes no Brasil.",
+      "Cometimento de crimes de direito comum no país de origem."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 1º, inciso III: 'Será reconhecido como refugiado todo indivíduo que: (...) III - devido a grave e generalizada violação de direitos humanos, é obrigado a deixar seu país de nacionalidade para buscar refúgio em outro país.'"
+  },
+  {
+    "question": "A solicitação de refúgio tem qual efeito imediato sobre processos de extradição em curso?",
+    "options": [
+      "Extingue imediatamente o processo de extradição por perda de objeto.",
+      "Suspende o processo de extradição até a decisão definitiva sobre o pedido de refúgio.",
+      "Não produz efeito, devendo a extradição ser julgada prioritariamente pelo STF.",
+      "Transfere a competência da extradição do STF para o CONARE."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 34: 'A solicitação de refúgio suspenderá, até decisão definitiva, qualquer processo de extradição em curso, que tenha por fundamento os fatos que justificaram a concessão do refúgio.'"
+  },
+  {
+    "question": "Os efeitos do reconhecimento da condição de refugiado são extensivos aos membros do grupo familiar que se encontrem em território nacional. Isso é conhecido como:",
+    "options": [
+      "Princípio da Soberania Familiar.",
+      "Princípio da Unidade Familiar.",
+      "Cláusula de Reunião Compulsória.",
+      "Direito de Asilo Hereditário."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 2º: 'Os efeitos do reconhecimento da condição de refugiado serão extensivos ao cônjuge, aos ascendentes e descendentes, assim como aos demais membros do grupo familiar que do refugiado dependam economicamente, desde que se encontrem em território nacional.'"
+  },
+  {
+    "question": "Qual autoridade é responsável por preparar os processos de requerimento de refúgio e a pauta de reunião do CONARE?",
+    "options": [
+      "O Ministro da Justiça.",
+      "O Representante da Polícia Federal.",
+      "O Coordenador-Geral do CONARE.",
+      "O Secretário Executivo do Ministério das Relações Exteriores."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 14, § 3º: 'O CONARE terá um Coordenador-Geral, com a atribuição de preparar os processos de requerimento de refúgio e a pauta de reunião.'"
+  },
+  {
+    "question": "Não se beneficiarão da condição de refugiado, segundo a Lei 9.474/97, os indivíduos que:",
+    "options": [
+      "Não possuam passaporte válido no momento da entrada.",
+      "Sejam considerados culpados de atos contrários aos fins e princípios das Nações Unidas.",
+      "Tenham opiniões políticas contrárias ao governo brasileiro.",
+      "Sejam analfabetos ou possuam baixa instrução escolar."
+    ],
+    "correct": 1,
+    "explanation": "Artigo 3º, inciso IV: 'Não se beneficiarão da condição de refugiado os indivíduos que: (...) IV - sejam considerados culpados de atos contrários aos fins e princípios das Nações Unidas.'"
+  },
+  {
+    "question": "Sobre a assistência jurídica aos solicitantes de refúgio que não disponham de meios, a lei prevê que esta deve ser prestada por:",
+    "options": [
+      "Advogados particulares nomeados de ofício pelo CONARE.",
+      "Organizações internacionais vinculadas à ONU obrigatoriamente.",
+      "Defensoria Pública da União (DPU).",
+      "Ministério Público Federal exclusivamente."
+    ],
+    "correct": 2,
+    "explanation": "Artigo 19: 'A Defensoria Pública da União prestará assistência jurídica gratuita aos solicitantes de refúgio e refugiados que não dispuserem de meios para prover a própria defesa ou a contratação de advogado.'"
+  },
+  {
+    "question": "Em relação à documentação, o solicitante de refúgio, enquanto aguarda a decisão do CONARE, tem direito a:",
+    "options": [
+      "Protocolo que permite a obtenção de carteira de trabalho provisória.",
+      "Passaporte diplomático brasileiro para livre circulação no Mercosul.",
+      "Carteira de Identidade de Estrangeiro com validade indeterminada.",
+      "Apenas uma autorização de permanência sem direito ao trabalho."
+    ],
+    "correct": 0,
+    "explanation": "Artigo 21, § 1º: 'O protocolo permitirá ao Ministério do Trabalho expedir carteira de trabalho provisória, para o exercício de atividade remunerada no País.'"
+  }
+],
 
 "refugiados":[
   {
