@@ -21410,6 +21410,522 @@ const questions = {
   }
   
 ],
+
+"penasMulta":[
+  {
+    "question": "De acordo com o Art. 49 do Código Penal, quais são os limites mínimo e máximo para a fixação dos dias-multa?",
+    "options": [
+      "Mínimo de 5 e máximo de 100 dias-multa",
+      "Mínimo de 10 e máximo de 360 dias-multa",
+      "Mínimo de 30 e máximo de 300 dias-multa",
+      "Mínimo de 10 e máximo de 200 dias-multa"
+    ],
+    "correct": 1,
+    "explanation": "Art. 49 - A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA quanto aos critérios de fixação do valor do dia-multa (Art. 49, § 1º):",
+    "options": [
+      "O valor do dia-multa será fixado pelo juiz.",
+      "O valor mínimo não pode ser inferior a um trigésimo do maior salário mínimo mensal.",
+      "O valor máximo pode ser de até 10 vezes o maior salário mínimo mensal.",
+      "O valor máximo não pode ser superior a 5 vezes o maior salário mínimo mensal."
+    ],
+    "correct": 2,
+    "explanation": "Art. 49, § 1º - O valor do dia-multa será fixado pelo juiz não podendo ser inferior a um trigésimo do maior salário mínimo mensal vigente ao tempo do fato, nem superior a 5 (cinco) vezes esse salário."
+  },
+  {
+    "question": "Sobre o pagamento da multa, o Art. 50 estabelece que ele deve ser efetuado:",
+    "options": [
+      "Imediatamente após a leitura da sentença em audiência.",
+      "Dentro de 10 dias depois de transitada em julgado a sentença.",
+      "Em até 30 dias após a citação oficial do condenado.",
+      "Somente após o cumprimento integral da pena privativa de liberdade."
+    ],
+    "correct": 1,
+    "explanation": "Art. 50 - A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre as condições em que a multa pode ser descontada do vencimento ou salário (Art. 50, § 1º):",
+    "options": [
+      "Quando aplicada isoladamente.",
+      "Quando aplicada cumulativamente com pena restritiva de direitos.",
+      "Quando concedida a suspensão condicional da pena.",
+      "Quando o réu for reincidente em crime hediondo, independentemente da pena."
+    ],
+    "correct": 3,
+    "explanation": "Art. 50, § 1º - A cobrança da multa pode efetuar-se mediante desconto no vencimento ou salário do condenado quando: a) aplicada isoladamente; b) aplicada cumulativamente com pena restritiva de direitos; c) concedida a suspensão condicional da pena."
+  },
+  {
+    "question": "Conforme o Art. 50, § 2º, qual é o limite imposto ao desconto da multa nos vencimentos do condenado?",
+    "options": [
+      "O desconto não pode ultrapassar 30% do salário bruto.",
+      "O desconto não deve incidir sobre recursos indispensáveis ao sustento do condenado e de sua família.",
+      "O desconto deve ser de, no máximo, 10% do salário mínimo vigente.",
+      "Não há limites, podendo o juiz determinar o bloqueio total para quitação da dívida."
+    ],
+    "correct": 1,
+    "explanation": "Art. 50, § 2º - O desconto não deve incidir sobre os recursos indispensáveis ao sustento do condenado e de sua família."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a execução da multa após o trânsito em julgado (Art. 51):",
+    "options": [
+      "A multa será considerada dívida de valor.",
+      "Aplicam-se as normas relativas à dívida ativa da Fazenda Pública.",
+      "A multa pode ser convertida em pena de detenção caso não seja paga.",
+      "Aplicam-se as causas interruptivas e suspensivas da prescrição da dívida ativa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição. (Obs: A conversão em prisão foi revogada pela Lei 9.268/96)."
+  },
+  {
+    "question": "O que ocorre com a execução da pena de multa se sobrevier doença mental ao condenado (Art. 52)?",
+    "options": [
+      "A execução é extinta imediatamente.",
+      "A execução é suspensa enquanto durar a doença.",
+      "A execução é convertida em medida de segurança de internação.",
+      "O valor da multa é dobrado para custear o tratamento médico."
+    ],
+    "correct": 1,
+    "explanation": "Art. 52 - É suspensa a execução da pena de multa, se sobrevém ao condenado doença mental."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA a respeito da atualização do valor da multa (Art. 49, § 2º):",
+    "options": [
+      "O valor será atualizado quando da execução.",
+      "A atualização é feita pelos índices de correção monetária.",
+      "O valor da multa é fixo e imutável desde a data do fato até o fim da execução.",
+      "A correção visa manter o valor real da moeda frente à inflação."
+    ],
+    "correct": 2,
+    "explanation": "Art. 49, § 2º - O valor da multa será atualizado, quando da execução, pelos índices de correção monetária."
+  },
+  {
+    "question": "De acordo com o Art. 51, a execução da multa deve ocorrer perante qual autoridade?",
+    "options": [
+      "Juiz da condenação (fase de conhecimento).",
+      "Procuradoria Geral do Estado apenas.",
+      "Juiz da execução penal.",
+      "Secretaria da Fazenda Municipal."
+    ],
+    "correct": 2,
+    "explanation": "Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor..."
+  },
+  {
+    "question": "Sobre o parcelamento da multa, assinale a alternativa correta segundo o Art. 50:",
+    "options": [
+      "É um direito absoluto do condenado, independentemente de requerimento.",
+      "O juiz pode permitir o pagamento em parcelas mensais, a requerimento e conforme as circunstâncias.",
+      "O parcelamento só é permitido se a multa for superior a 100 salários mínimos.",
+      "É vedado qualquer tipo de parcelamento para penas de multa criminais."
+    ],
+    "correct": 1,
+    "explanation": "Art. 50 - A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a natureza jurídica e destino da multa (Art. 49):",
+    "options": [
+      "Consiste no pagamento ao Fundo Penitenciário.",
+      "É calculada com base no sistema de dias-multa.",
+      "A quantia é fixada na própria sentença condenatória.",
+      "O valor arrecadado é destinado exclusivamente à vítima do crime."
+    ],
+    "correct": 3,
+    "explanation": "Art. 49 - A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. (O destino é o fundo penitenciário, não a vítima)."
+  },
+  {
+    "question": "Qual o parâmetro temporal utilizado para definir o valor do salário mínimo base no cálculo do dia-multa?",
+    "options": [
+      "O salário mínimo vigente ao tempo do trânsito em julgado.",
+      "O salário mínimo vigente ao tempo da execução da pena.",
+      "O salário mínimo vigente ao tempo do fato.",
+      "O salário mínimo vigente na data do pagamento da primeira parcela."
+    ],
+    "correct": 2,
+    "explanation": "Art. 49, § 1º - O valor do dia-multa será fixado pelo juiz não podendo ser inferior a um trigésimo do maior salário mínimo mensal vigente ao tempo do fato, nem superior a 5 (cinco) vezes esse salário."
+  }
+],
+
+"penasRestritivas":[
+  {
+    "question": "De acordo com o Art. 43 do Código Penal, assinale a alternativa que apresenta corretamente uma das penas restritivas de direitos:",
+    "options": [
+      "Prisão simples",
+      "Perda de bens e valores",
+      "Detenção em regime aberto",
+      "Multa cumulativa com reclusão"
+    ],
+    "correct": 1,
+    "explanation": "Art. 43. As penas restritivas de direitos são: I - prestação pecuniária; II - perda de bens e valores; III - limitação de fim de semana; IV - prestação de serviço à comunidade ou a entidades públicas; V - interdição temporária de direitos; VI - limitação de fim de semana."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA quanto aos requisitos para a substituição da pena privativa de liberdade por restritiva de direitos (Art. 44):",
+    "options": [
+      "A pena aplicada não deve ser superior a quatro anos.",
+      "O crime não pode ter sido cometido com violência ou grave ameaça à pessoa.",
+      "A substituição é vedada para qualquer crime culposo, independentemente da pena.",
+      "O réu não pode ser reincidente em crime doloso."
+    ],
+    "correct": 2,
+    "explanation": "Art. 44, I – aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo. A lei permite a substituição em crimes culposos independente da pena."
+  },
+  {
+    "question": "Conforme o § 2º do Art. 44, na condenação igual ou inferior a um ano, a substituição pode ser feita por:",
+    "options": [
+      "Multa ou por uma pena restritiva de direitos",
+      "Obrigatoriamente duas penas restritivas de direitos",
+      "Apenas por prestação de serviços à comunidade",
+      "Multa cumulada com duas restritivas de direitos"
+    ],
+    "correct": 0,
+    "explanation": "Art. 44, § 2o Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a conversão da pena restritiva de direitos em privativa de liberdade (§ 4º do Art. 44):",
+    "options": [
+      "Ocorre quando houver descumprimento injustificado da restrição imposta.",
+      "No cálculo da pena a executar, será deduzido o tempo cumprido da restritiva.",
+      "Deve-se respeitar o saldo mínimo de trinta dias de detenção ou reclusão.",
+      "O tempo cumprido da restritiva de direitos não é aproveitado no cálculo da conversão."
+    ],
+    "correct": 3,
+    "explanation": "Art. 44, § 4o A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão."
+  },
+  {
+    "question": "Sobre a prestação pecuniária (Art. 45, § 1º), é correto afirmar que o valor fixado pelo juiz:",
+    "options": [
+      "Não pode ser inferior a 10 salários mínimos.",
+      "Deve ser obrigatoriamente destinado ao Estado.",
+      "Varia entre 1 (um) e 360 (trezentos e sessenta) salários mínimos.",
+      "Não pode ser deduzido de eventual condenação em ação de reparação civil."
+    ],
+    "correct": 2,
+    "explanation": "Art. 45, § 1o A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a perda de bens e valores (Art. 45, § 3º):",
+    "options": [
+      "Dá-se em favor do Fundo Penitenciário Nacional, ressalvada legislação especial.",
+      "O teto é o montante do prejuízo causado ou do provento obtido.",
+      "Os bens devem pertencer obrigatoriamente a terceiros não envolvidos.",
+      "A perda de bens é uma modalidade de pena restritiva de direitos."
+    ],
+    "correct": 2,
+    "explanation": "Art. 45, § 3o A perda de bens e valores pertencentes aos condenados dar-se-á, ressalvada a legislação especial, em favor do Fundo Penitenciário Nacional, e seu valor terá como teto – o que for maior – o montante do prejuízo causado ou do provento obtido pelo agente ou por terceiro, em conseqüência da prática do crime."
+  },
+  {
+    "question": "A prestação de serviços à comunidade ou a entidades públicas é aplicável a quais condenações (Art. 46)?",
+    "options": [
+      "Qualquer condenação, inclusive as inferiores a um mês.",
+      "Apenas condenações superiores a dois anos.",
+      "Condenações superiores a seis meses de privação da liberdade.",
+      "Apenas crimes contra o patrimônio público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 46. A prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações superiores a seis meses de privação da liberdade."
+  },
+  {
+    "question": "Como deve ser cumprida a carga horária da prestação de serviços à comunidade (§ 3º do Art. 46)?",
+    "options": [
+      "À razão de uma hora de tarefa por dia de condenação.",
+      "À razão de oito horas diárias, independentemente da jornada de trabalho.",
+      "Apenas nos feriados e dias santos.",
+      "Oito horas por semana, obrigatoriamente aos domingos."
+    ],
+    "correct": 0,
+    "explanation": "Art. 46, § 3o As tarefas a que se refere o § 1o serão atribuídas conforme as aptidões do condenado, devendo ser cumpridas à razão de uma hora de tarefa por dia de condenação, fixadas de modo a não prejudicar a jornada normal de trabalho."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre a antecipação do cumprimento da pena restritiva (Art. 46, § 4º):",
+    "options": [
+      "Só é facultado se a pena substituída for superior a um ano.",
+      "O tempo total de cumprimento nunca poderá ser inferior à metade da pena fixada.",
+      "O condenado pode cumprir a pena substitutiva em menor tempo.",
+      "O condenado pode cumprir tudo em apenas um mês, independentemente da pena original."
+    ],
+    "correct": 3,
+    "explanation": "Art. 46, § 4o Se a pena substituída for superior a um ano, é facultado ao condenado cumprir a pena substitutiva em menor tempo (art. 55), nunca inferior à metade da pena privativa de liberdade fixada."
+  },
+  {
+    "question": "Qual das seguintes alternativas NÃO é uma modalidade de interdição temporária de direitos conforme o Art. 47?",
+    "options": [
+      "Proibição do exercício de cargo, função ou atividade pública.",
+      "Suspensão de autorização ou de habilitação para dirigir veículo.",
+      "Proibição de sair do país sem autorização judicial.",
+      "Proibição de freqüentar determinados lugares."
+    ],
+    "correct": 2,
+    "explanation": "Art. 47 - As penas de interdição temporária de direitos são: I - proibição do exercício de cargo... II - proibição do exercício de profissão... III - suspensão de autorização ou de habilitação para dirigir veículo; IV – proibição de freqüentar determinados lugares; V - proibição de inscrever-se em concurso... (O CP não lista 'proibição de sair do país' neste artigo)."
+  },
+  {
+    "question": "Sobre a limitação de fim de semana (Art. 48), qual a carga horária de permanência exigida?",
+    "options": [
+      "10 horas diárias aos sábados e domingos.",
+      "5 horas diárias aos sábados e domingos.",
+      "Apenas 2 horas no domingo.",
+      "Permanência integral (24 horas) no sábado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 48 - A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado."
+  },
+  {
+    "question": "De acordo com o Art. 44, § 3º, se o condenado for reincidente, o juiz:",
+    "options": [
+      "Está proibido de aplicar a substituição em qualquer hipótese.",
+      "Poderá aplicar a substituição se a medida for socialmente recomendável e a reincidência não for pelo mesmo crime.",
+      "Deverá obrigatoriamente aplicar a substituição por ser direito subjetivo.",
+      "Deve converter a pena em multa obrigatoriamente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 44, § 3o Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime."
+  },
+  {
+    "question": "Assinale a alternativa INCORRETA sobre as penas restritivas de direitos:",
+    "options": [
+      "São consideradas penas acessórias, dependendo sempre da execução da pena principal.",
+      "São autônomas e substituem as privativas de liberdade.",
+      "A prestação de serviços à comunidade consiste na atribuição de tarefas gratuitas.",
+      "Podem incluir a proibição de inscrever-se em concurso público."
+    ],
+    "correct": 0,
+    "explanation": "Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade... (Portanto, não são acessórias, mas autônomas)."
+  },
+  {
+    "question": "Se houver aceitação do beneficiário, a prestação pecuniária pode ser alterada para (Art. 45, § 2º):",
+    "options": [
+      "Pena de prisão definitiva",
+      "Prestação de outra natureza",
+      "Perdão judicial",
+      "Apenas multa em dobro"
+    ],
+    "correct": 1,
+    "explanation": "Art. 45, § 2o No caso do parágrafo anterior, se houver aceitação do beneficiário, a prestação pecuniária pode consistir em prestação de outra natureza."
+  },
+  {
+    "question": "Onde deve ser cumprida a prestação de serviços à comunidade (§ 2º do Art. 46)?",
+    "options": [
+      "Em empresas privadas com fins lucrativos.",
+      "Exclusivamente em delegacias de polícia.",
+      "Entidades assistenciais, hospitais, escolas, orfanatos e estabelecimentos congêneres.",
+      "No próprio domicílio do condenado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 46, § 2o A prestação de serviço à comunidade dar-se-á em entidades assistenciais, hospitais, escolas, orfanatos e outros estabelecimentos congêneres, em programas comunitários ou estatais."
+  },
+  {
+    "question": "O que pode ser ministrado ao condenado durante a limitação de fim de semana (Art. 48, parágrafo único)?",
+    "options": [
+      "Treinamento militar obrigatório.",
+      "Cursos, palestras ou atividades educativas.",
+      "Trabalho braçal pesado para fins de punição.",
+      "Apenas repouso absoluto, sendo vedada qualquer atividade."
+    ],
+    "correct": 1,
+    "explanation": "Art. 48, Parágrafo único - Durante a permanência poderão ser ministrados ao condenado cursos e palestras ou atribuídas atividades educativas."
+  },
+  {
+    "question": "A proibição de exercer profissão que dependa de habilitação especial é uma (Art. 47, II):",
+    "options": [
+      "Pena privativa de liberdade",
+      "Medida de segurança",
+      "Pena de interdição temporária de direitos",
+      "Condição exclusiva do regime aberto"
+    ],
+    "correct": 2,
+    "explanation": "Art. 47 - As penas de interdição temporária de direitos são: (...) II - proibição do exercício de profissão, atividade ou ofício que dependam de habilitação especial, de licença ou autorização do poder público."
+  }
+],
+
+"daspenasCP":[
+  {
+    "question": "De acordo com o Art. 32 do Código Penal, quais são as espécies de penas admitidas?",
+    "options": [
+      "Privativas de liberdade, restritivas de direitos e de multa",
+      "Apenas reclusão e detenção",
+      "Privativas de liberdade, multa e trabalhos forçados",
+      "Restritivas de direitos, prisão simples e multa"
+    ],
+    "correct": 0,
+    "explanation": "Art. 32 - As penas são: I - privativas de liberdade; II - restritivas de direitos; III - de multa."
+  },
+  {
+    "question": "Segundo o Art. 33, em quais regimes a pena de reclusão deve ser cumprida?",
+    "options": [
+      "Apenas em regime fechado",
+      "Regime fechado, semiaberto ou aberto",
+      "Regime semiaberto ou aberto, salvo transferência",
+      "Apenas em regime fechado ou semiaberto"
+    ],
+    "correct": 1,
+    "explanation": "Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado."
+  },
+  {
+    "question": "O que se considera regime fechado, conforme a alínea 'a' do § 1º do Art. 33?",
+    "options": [
+      "A execução da pena em colônia agrícola ou industrial",
+      "A execução da pena em casa de albergado",
+      "A execução da pena em estabelecimento de segurança máxima ou média",
+      "O recolhimento domiciliar com vigilância eletrônica"
+    ],
+    "correct": 2,
+    "explanation": "Art. 33, § 1º - Considera-se: a) regime fechado a execução da pena em estabelecimento de segurança máxima ou média;"
+  },
+  {
+    "question": "Qual é a definição de regime semiaberto segundo o Código Penal?",
+    "options": [
+      "Execução da pena em colônia agrícola, industrial ou estabelecimento similar",
+      "Execução em estabelecimento de segurança mínima",
+      "Permanência em casa de albergado durante a noite",
+      "Liberdade vigiada com prestação de serviços"
+    ],
+    "correct": 0,
+    "explanation": "Art. 33, § 1º - Considera-se: b) regime semi-aberto a execução da pena em colônia agrícola, industrial ou estabelecimento similar;"
+  },
+  {
+    "question": "O regime aberto deve ser executado em qual tipo de estabelecimento?",
+    "options": [
+      "Cadeia pública",
+      "Colônia industrial",
+      "Estabelecimento de segurança média",
+      "Casa de albergado ou estabelecimento adequado"
+    ],
+    "correct": 3,
+    "explanation": "Art. 33, § 1º - Considera-se: c) regime aberto a execução da pena em casa de albergado ou estabelecimento adequado."
+  },
+  {
+    "question": "O condenado a uma pena superior a 8 (oito) anos deverá obrigatoriamente começar a cumpri-la em qual regime?",
+    "options": [
+      "Regime fechado",
+      "Regime semiaberto",
+      "Regime aberto",
+      "Qualquer regime, a critério do juiz"
+    ],
+    "correct": 0,
+    "explanation": "Art. 33, § 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva... a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;"
+  },
+  {
+    "question": "Um condenado não reincidente, cuja pena seja de 6 anos, poderá iniciar o cumprimento em qual regime?",
+    "options": [
+      "Regime fechado",
+      "Regime semiaberto",
+      "Regime aberto",
+      "Regime disciplinar diferenciado"
+    ],
+    "correct": 1,
+    "explanation": "Art. 33, § 2º, b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;"
+  },
+  {
+    "question": "Qual é a regra para o início do cumprimento de pena de um condenado não reincidente com pena igual a 3 anos?",
+    "options": [
+      "Deverá iniciar em regime semiaberto",
+      "Deverá iniciar em regime fechado",
+      "Poderá, desde o início, cumpri-la em regime aberto",
+      "Terá a pena obrigatoriamente convertida em multa"
+    ],
+    "correct": 2,
+    "explanation": "Art. 33, § 2º, c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto."
+  },
+  {
+    "question": "No caso de crime contra a administração pública, qual é a condição para a progressão de regime?",
+    "options": [
+      "Bom comportamento carcerário apenas",
+      "Cumprimento de pelo menos metade da pena",
+      "Reparação do dano causado ou devolução do produto do ilícito",
+      "Aprovação em exame criminológico"
+    ],
+    "correct": 2,
+    "explanation": "Art. 33, § 4o O condenado por crime contra a administração pública terá a progressão de regime do cumprimento da pena condicionada à reparação do dano que causou, ou à devolução do produto do ilícito praticado, com os acréscimos legais."
+  },
+  {
+    "question": "O que deve ser feito no início do cumprimento da pena no regime fechado para individualização da execução?",
+    "options": [
+      "Exame de DNA",
+      "Exame criminológico de classificação",
+      "Teste de aptidão física",
+      "Entrevista com o conselho da comunidade"
+    ],
+    "correct": 1,
+    "explanation": "Art. 34 - O condenado será submetido, no início do cumprimento da pena, a exame criminológico de classificação para individualização da execução."
+  },
+  {
+    "question": "No regime fechado, como deve ser o isolamento do condenado?",
+    "options": [
+      "Isolamento durante o período diurno",
+      "Isolamento total durante os primeiros seis meses",
+      "Isolamento durante o repouso noturno",
+      "Não há previsão de isolamento no regime fechado"
+    ],
+    "correct": 2,
+    "explanation": "Art. 34, § 1º - O condenado fica sujeito a trabalho no período diurno e a isolamento durante o repouso noturno."
+  },
+  {
+    "question": "Em qual situação o trabalho externo é admissível no regime fechado?",
+    "options": [
+      "Em qualquer empresa privada vinculada ao presídio",
+      "Apenas em serviços ou obras públicas",
+      "Sempre que o preso tiver bom comportamento",
+      "Não é permitido trabalho externo no regime fechado"
+    ],
+    "correct": 1,
+    "explanation": "Art. 34, § 3º - O trabalho externo é admissível, no regime fechado, em serviços ou obras públicas."
+  },
+  {
+    "question": "Além do trabalho externo, o que mais é admissível ao condenado em regime semiaberto?",
+    "options": [
+      "Visitas diárias à família",
+      "Uso de telefone celular",
+      "Frequência a cursos supletivos profissionalizantes, de segundo grau ou superior",
+      "Saídas para festas regionais"
+    ],
+    "correct": 2,
+    "explanation": "Art. 35, § 2º - O trabalho externo é admissível, bem como a freqüência a cursos supletivos profissionalizantes, de instrução de segundo grau ou superior."
+  },
+  {
+    "question": "Em que se baseia o regime aberto, conforme o Art. 36?",
+    "options": [
+      "Na vigilância constante e armada",
+      "Na autodisciplina e senso de responsabilidade do condenado",
+      "No monitoramento eletrônico obrigatório",
+      "Na prestação de serviços à comunidade"
+    ],
+    "correct": 1,
+    "explanation": "Art. 36 - O regime aberto baseia-se na autodisciplina e senso de responsabilidade do condenado."
+  },
+  {
+    "question": "Sobre o trabalho do preso, o Art. 39 garante que ele será:",
+    "options": [
+      "Voluntário e gratuito",
+      "Obrigatório e sem remuneração",
+      "Sempre remunerado, com garantias da Previdência Social",
+      "Remunerado apenas se for realizado em empresa privada"
+    ],
+    "correct": 2,
+    "explanation": "Art. 39 - O trabalho do preso será sempre remunerado, sendo-lhe garantidos os benefícios da Previdência Social."
+  },
+  {
+    "question": "O que deve ocorrer se o condenado for acometido por doença mental durante o cumprimento da pena?",
+    "options": [
+      "Deve ser colocado em liberdade imediatamente",
+      "Deve ser transferido para o regime aberto",
+      "Deve ser recolhido a hospital de custódia e tratamento psiquiátrico",
+      "Deve permanecer na cela com assistência médica"
+    ],
+    "correct": 2,
+    "explanation": "Art. 41 - O condenado a quem sobrevém doença mental deve ser recolhido a hospital de custódia e tratamento psiquiátrico ou, à falta, a outro estabelecimento adequado."
+  },
+  {
+    "question": "De acordo com o Art. 42, o que é computado na pena privativa de liberdade (detração)?",
+    "options": [
+      "Apenas o tempo de condenação definitiva",
+      "O tempo de prisão provisória, administrativa ou internação",
+      "Apenas o tempo de prisão ocorrido no Brasil",
+      "O tempo de serviço militar obrigatório"
+    ],
+    "correct": 1,
+    "explanation": "Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior."
+  }
+],
+
 "refugiadosbr":[
   {
     "question": "De acordo com a Lei 9.474/97, qual é a natureza jurídica do Comitê Nacional para os Refugiados (CONARE)?",
