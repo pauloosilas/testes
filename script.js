@@ -21411,6 +21411,69 @@ const questions = {
   
 ],
 
+"orgaosconvencionais":[
+  {
+    "question": "No âmbito do Sistema Global de Direitos Humanos das Nações Unidas, os chamados órgãos convencionais caracterizam-se, principalmente, por:",
+    "options": [
+      "Serem criados pela Carta da ONU e possuírem competência política sobre todos os Estados membros.",
+      "Derivarem de tratados internacionais específicos e exercerem supervisão apenas sobre os Estados que os ratificaram.",
+      "Atuarem como tribunais internacionais permanentes com decisões juridicamente vinculantes.",
+      "Possuírem mandato universal, independentemente da adesão dos Estados a tratados internacionais.",
+      "Serem compostos por representantes estatais indicados pelos governos nacionais."
+    ],
+    "correct": 1,
+    "explanation": "Os órgãos convencionais são criados diretamente por tratados internacionais de direitos humanos e fiscalizam apenas os Estados que ratificaram o respectivo tratado.<br/><br/>Alternativa A está errada porque descreve órgãos extraconvencionais.<br/>Alternativa C está errada porque os comitês não são tribunais e não proferem decisões vinculantes.<br/>Alternativa D está errada porque a fiscalização não é universal, mas limitada aos Estados-partes.<br/>Alternativa E está errada porque seus membros atuam a título pessoal, não como representantes estatais."
+  },
+  {
+    "question": "Assinale a alternativa que corretamente identifica um órgão extraconvencional do Sistema Global de Direitos Humanos da ONU:",
+    "options": [
+      "Comitê de Direitos Humanos.",
+      "Comitê para Eliminação da Discriminação contra a Mulher (CEDAW).",
+      "Comitê contra a Tortura.",
+      "Conselho de Direitos Humanos.",
+      "Comitê sobre os Direitos das Pessoas com Deficiência."
+    ],
+    "correct": 3,
+    "explanation": "O Conselho de Direitos Humanos é um órgão extraconvencional, criado por resolução da Assembleia Geral da ONU, com base na Carta da ONU.<br/><br/>As alternativas A, B, C e E estão erradas porque todos os comitês mencionados são órgãos convencionais, criados por tratados específicos."
+  },
+  {
+    "question": "A Revisão Periódica Universal (RPU) distingue-se dos mecanismos convencionais de proteção dos direitos humanos porque:",
+    "options": [
+      "Avalia exclusivamente Estados que ratificaram os Pactos Internacionais de 1966.",
+      "Possui natureza jurisdicional e resulta em decisões obrigatórias.",
+      "Independe da ratificação de tratados e se aplica a todos os Estados membros da ONU.",
+      "É conduzida pelos comitês de tratados previstos nas convenções internacionais.",
+      "Substitui os relatórios periódicos apresentados aos órgãos convencionais."
+    ],
+    "correct": 2,
+    "explanation": "A RPU é um mecanismo extraconvencional, aplicável a todos os Estados membros da ONU, independentemente da ratificação de tratados.<br/><br/>Alternativa A está errada porque a RPU é universal.<br/>Alternativa B está errada porque não tem natureza jurisdicional.<br/>Alternativa D está errada porque a RPU é conduzida pelo Conselho de Direitos Humanos.<br/>Alternativa E está errada porque a RPU não substitui os mecanismos convencionais."
+  },
+  {
+    "question": "No que se refere aos Relatores Especiais das Nações Unidas, é correto afirmar que:",
+    "options": [
+      "São órgãos convencionais criados por tratados internacionais específicos.",
+      "Possuem competência para julgar violações e impor sanções aos Estados.",
+      "Atuam com base em mandatos estabelecidos por resoluções de órgãos da ONU.",
+      "Fiscalizam exclusivamente Estados que aceitaram sua jurisdição por tratado.",
+      "Integram o sistema jurisdicional internacional de direitos humanos."
+    ],
+    "correct": 2,
+    "explanation": "Relatores Especiais são mecanismos extraconvencionais criados por resoluções do Conselho de Direitos Humanos ou da Assembleia Geral.<br/><br/>Alternativa A está errada porque não são criados por tratados.<br/>Alternativa B está errada porque não possuem poder sancionatório.<br/>Alternativa D está errada porque sua atuação independe de ratificação.<br/>Alternativa E está errada porque não integram o sistema jurisdicional."
+  },
+  {
+    "question": "Considere as seguintes afirmações sobre órgãos convencionais e extraconvencionais:<br/><br/>I. Órgãos convencionais têm sua competência definida no texto dos tratados internacionais.<br/>II. Órgãos extraconvencionais podem fiscalizar Estados independentemente da ratificação de tratados específicos.<br/>III. Tanto órgãos convencionais quanto extraconvencionais possuem decisões juridicamente vinculantes.",
+    "options": [
+      "I, apenas.",
+      "I e II, apenas.",
+      "II e III, apenas.",
+      "I e III, apenas.",
+      "I, II e III."
+    ],
+    "correct": 1,
+    "explanation": "As afirmações I e II estão corretas. A afirmação III está incorreta, pois nenhum desses órgãos possui decisões juridicamente vinculantes.<br/><br/>Alternativa A está errada porque a II também é correta.<br/>Alternativas C, D e E estão erradas porque consideram correta a afirmação III."
+  }
+],
+
 "penasMulta":[
   {
     "question": "De acordo com o Art. 49 do Código Penal, quais são os limites mínimo e máximo para a fixação dos dias-multa?",
