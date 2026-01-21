@@ -21474,6 +21474,342 @@ const questions = {
   }
 ],
 
+"drogas23":[
+  {
+    "question": "De acordo com o Art. 23, quais entes federativos devem desenvolver programas de atenção ao usuário e ao dependente de drogas?",
+    "options": [
+      "Apenas a União e os Estados.",
+      "Apenas a União, os Estados e o Distrito Federal.",
+      "A União, os Estados, o Distrito Federal e os Municípios.",
+      "Apenas os Municípios, sob supervisão da União."
+    ],
+    "correct": 2,
+    "explanation": "Conforme o Art. 23: 'As redes dos serviços de saúde da União, dos Estados, do Distrito Federal, dos Municípios desenvolverão programas de atenção ao usuário e ao dependente de drogas, respeitadas as diretrizes do Ministério da Saúde e os princípios explicitados no art. 22 desta Lei, obrigatória a previsão orçamentária adequada.'"
+  },
+  {
+    "question": "Sobre o financiamento dos programas de atenção ao usuário de drogas (Art. 23), o que é considerado obrigatório?",
+    "options": [
+      "A doação de empresas privadas.",
+      "A previsão orçamentária adequada.",
+      "A cobrança de taxas dos usuários com maior renda.",
+      "O uso exclusivo de fundos penitenciários."
+    ],
+    "correct": 1,
+    "explanation": "O Art. 23 estabelece que é 'obrigatória a previsão orçamentária adequada' para o desenvolvimento dos programas pelas redes de saúde."
+  },
+  {
+    "question": "Conforme o parágrafo único do Art. 23, a estratégia específica de assistência multiprofissional deve priorizar quais grupos?",
+    "options": [
+      "Idosos e crianças em situação de rua.",
+      "Mulheres usuárias e dependentes de álcool, em especial gestantes e puérperas.",
+      "Trabalhadores da área de segurança pública.",
+      "Dependentes de drogas sintéticas de alto custo."
+    ],
+    "correct": 1,
+    "explanation": "Art. 23, Parágrafo único: 'Será criada estratégia específica de assistência multiprofissional e interdisciplinar às mulheres usuárias e dependentes de álcool, em especial às gestantes e às puérperas, em consonância com os princípios da universalidade e da integralidade e com o disposto nos incisos I, II, III, IV, IX e X do caput do art. 22 desta Lei.'"
+  },
+  {
+    "question": "Segundo o Art. 23-A, qual é a modalidade de tratamento que deve ter prioridade na rede de atenção à saúde?",
+    "options": [
+      "Internação em hospitais psiquiátricos.",
+      "Tratamento em comunidades terapêuticas.",
+      "Modalidades de tratamento ambulatorial.",
+      "Isolamento domiciliar assistido."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A: 'O tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde, com prioridade para as modalidades de tratamento ambulatorial...'"
+  },
+  {
+    "question": "Os protocolos técnicos de tratamento de usuários de drogas devem basear-se em quê, conforme o Art. 23-A, inciso II?",
+    "options": [
+      "Exclusivamente em tradições religiosas.",
+      "Em evidências científicas.",
+      "Apenas na vontade soberana do paciente.",
+      "Em decisões judiciais de primeira instância."
+    ],
+    "correct": 1,
+    "explanation": "Art. 23-A, II: 'orientar-se por protocolos técnicos predefinidos, baseados em evidências científicas, oferecendo atendimento individualizado ao usuário ou dependente de drogas com abordagem preventiva e, sempre que indicado, ambulatorial;'"
+  },
+  {
+    "question": "A quem cabe dispor sobre os protocolos técnicos de tratamento em âmbito nacional (Art. 23-A, § 1º)?",
+    "options": [
+      "Aos Municípios.",
+      "Aos Estados.",
+      "À União.",
+      "Ao Conselho Federal de Medicina individualmente."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 1º: 'Caberá à União dispor sobre os protocolos técnicos de tratamento, em âmbito nacional.'"
+  },
+  {
+    "question": "Para que a internação de dependentes de drogas ocorra, quem deve obrigatoriamente autorizá-la (Art. 23-A, § 2º)?",
+    "options": [
+      "O Juiz de Direito da comarca.",
+      "O Delegado de Polícia Civil.",
+      "Médico devidamente registrado no CRM do respectivo Estado.",
+      "O Assistente Social da prefeitura."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 2º: 'A internação de dependentes de drogas somente será realizada em unidades de saúde ou hospitais gerais... e deverá ser obrigatoriamente autorizada por médico devidamente registrado no Conselho Regional de Medicina - CRM do Estado onde se localize o estabelecimento...'"
+  },
+  {
+    "question": "Quais são os dois tipos de internação considerados pela Lei de Drogas (Art. 23-A, § 3º)?",
+    "options": [
+      "Judicial e Administrativa.",
+      "Voluntária e Involuntária.",
+      "Parcial e Total.",
+      "Temporária e Permanente."
+    ],
+    "correct": 1,
+    "explanation": "Art. 23-A, § 3º: 'São considerados 2 (dois) tipos de internação: I - internação voluntária: aquela que se dá com o consentimento do dependente de drogas; II - internação involuntária: aquela que se dá, sem o consentimento do dependente...'"
+  },
+  {
+    "question": "Na falta de familiares ou responsável legal, quem NÃO pode pedir a internação involuntária de um dependente (Art. 23-A, § 3º, II)?",
+    "options": [
+      "Servidor público da área de saúde.",
+      "Servidor público da assistência social.",
+      "Servidores da área de segurança pública.",
+      "Órgãos públicos integrantes do Sisnad."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 3º, II: '...a pedido de familiar ou do responsável legal ou, na absoluta falta deste, de servidor público da área de saúde, da assistência social ou dos órgãos públicos integrantes do Sisnad, com exceção de servidores da área de segurança pública...'"
+  },
+  {
+    "question": "Como se dá o término da internação voluntária, segundo o Art. 23-A, § 4º, II?",
+    "options": [
+      "Apenas por ordem judicial após 30 dias.",
+      "Por determinação do médico responsável ou por solicitação escrita da pessoa.",
+      "Somente quando a família autorizar a alta.",
+      "Quando o paciente fugir do estabelecimento de saúde."
+    ],
+    "correct": 1,
+    "explanation": "Art. 23-A, § 4º, II: 'seu término dar-se-á por determinação do médico responsável ou por solicitação escrita da pessoa que deseja interromper o tratamento.'"
+  },
+  {
+    "question": "Qual é o prazo máximo permitido para a internação involuntária visando a desintoxicação (Art. 23-A, § 5º, III)?",
+    "options": [
+      "30 dias.",
+      "60 dias.",
+      "90 dias.",
+      "180 dias."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 5º, III: 'perdurará apenas pelo tempo necessário à desintoxicação, no prazo máximo de 90 (noventa) dias, tendo seu término determinado pelo médico responsável;'"
+  },
+  {
+    "question": "Quando a internação, em qualquer de suas modalidades, deve ser indicada (Art. 23-A, § 6º)?",
+    "options": [
+      "Imediatamente após a primeira recaída do usuário.",
+      "Sempre que o usuário for preso em flagrante.",
+      "Quando os recursos extra-hospitalares se mostrarem insuficientes.",
+      "Sempre que o usuário não possuir residência fixa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 6º: 'A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.'"
+  },
+  {
+    "question": "Qual o prazo máximo para informar o Ministério Público e a Defensoria Pública sobre as internações e altas (Art. 23-A, § 7º)?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "7 dias úteis."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 7º: 'Todas as internações e altas de que trata esta Lei deverão ser informadas, em, no máximo, de 72 (setenta e duas) horas, ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização...'"
+  },
+  {
+    "question": "O que a Lei diz sobre a realização de internação em comunidades terapêuticas acolhedoras (Art. 23-A, § 9º)?",
+    "options": [
+      "É permitida apenas a internação voluntária.",
+      "É permitida apenas para menores de idade.",
+      "É vedada a realização de qualquer modalidade de internação.",
+      "É permitida desde que autorizada por juiz."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 9º: 'É vedada a realização de qualquer modalidade de internação nas comunidades terapêuticas acolhedoras.'"
+  },
+  {
+    "question": "O planejamento do projeto terapêutico individual deve observar, no que couber, qual legislação específica (Art. 23-A, § 10)?",
+    "options": [
+      "O Código Penal Brasileiro.",
+      "O Estatuto da Criança e do Adolescente (ECA).",
+      "A Lei nº 10.216/2001 (Saúde Mental).",
+      "A Lei de Execução Penal (LEP)."
+    ],
+    "correct": 2,
+    "explanation": "Art. 23-A, § 10: 'O planejamento e a execução do projeto terapêutico individual deverão observar, no que couber, o previsto na Lei nº 10.216, de 6 de abril de 2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais...'"
+  }
+],
+
+"drogas23_26":[
+  {
+    "question": "De acordo com o Art. 23-B, o atendimento ao usuário ou dependente de drogas na rede de atenção à saúde depende de quais requisitos iniciais?",
+    "options": [
+      "Apenas internação compulsória e exame de sangue.",
+      "Avaliação prévia por equipe técnica multidisciplinar e multissetorial; e elaboração de um Plano Individual de Atendimento (PIA).",
+      "Autorização judicial e comprovante de residência fixa.",
+      "Avaliação por um único médico clínico geral e assinatura de termo de compromisso."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme o Art. 23-B: 'O atendimento ao usuário ou dependente de drogas na rede de atenção à saúde dependerá de: I - avaliação prévia por equipe técnica multidisciplinar e multissetorial; e II - elaboração de um Plano Individual de Atendimento - PIA.'"
+  },
+  {
+    "question": "Segundo o § 1º do Art. 23-B, o que a avaliação prévia da equipe técnica deve levantar, no mínimo, para subsidiar o projeto terapêutico?",
+    "options": [
+      "A renda familiar e o histórico escolar do usuário.",
+      "A religião do usuário e sua preferência política.",
+      "O tipo de droga e o padrão de seu uso; e o risco à saúde física e mental do usuário ou das pessoas com quem convive.",
+      "Apenas o tempo de uso da droga, sem necessidade de avaliar riscos a terceiros."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 23-B, § 1º: 'A avaliação prévia da equipe técnica subsidiará a elaboração e execução do projeto terapêutico individual a ser adotado, levantando no mínimo: I - o tipo de droga e o padrão de seu uso; e II - o risco à saúde física e mental do usuário ou dependente de drogas ou das pessoas com as quais convive.'"
+  },
+  {
+    "question": "Conforme o § 3º do Art. 23-B, qual o papel dos familiares ou responsáveis no Plano Individual de Atendimento (PIA)?",
+    "options": [
+      "Devem apenas financiar o tratamento, sem participar do plano.",
+      "O PIA deve contemplar a participação deles, tendo o dever de contribuir com o processo.",
+      "Eles são proibidos de acessar as informações do PIA por questões de sigilo médico.",
+      "Sua participação é facultativa e nunca gera responsabilização legal."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 23-B, § 3º: 'O PIA deverá contemplar a participação dos familiares ou responsáveis, os quais têm o dever de contribuir com o processo, sendo esses, no caso de crianças e adolescentes, passíveis de responsabilização civil, administrativa e criminal, nos termos da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente.'"
+  },
+  {
+    "question": "Quem é responsável pela elaboração inicial do PIA, conforme o Art. 23-B, § 4º?",
+    "options": [
+      "O próprio usuário de drogas.",
+      "O Ministério Público da Comarca.",
+      "A equipe técnica do primeiro projeto terapêutico que atender o usuário ou dependente.",
+      "A Secretaria Nacional de Políticas sobre Drogas exclusivamente."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 23-B, § 4º: 'O PIA será inicialmente elaborado sob a responsabilidade da equipe técnica do primeiro projeto terapêutico que atender o usuário ou dependente de drogas e será atualizado ao longo das diversas fases do atendimento.'"
+  },
+  {
+    "question": "Qual é o prazo máximo para a elaboração do Plano Individual de Atendimento (PIA) após o ingresso no atendimento?",
+    "options": [
+      "10 (dez) dias.",
+      "15 (quinze) dias.",
+      "30 (trinta) dias.",
+      "60 (sessenta) dias."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 23-B, § 6º: 'O PIA será elaborado no prazo de até 30 (trinta) dias da data do ingresso no atendimento.'"
+  },
+  {
+    "question": "Sobre o sigilo das informações registradas no PIA (Art. 23-B, § 7º), é correto afirmar que:",
+    "options": [
+      "São informações públicas acessíveis a qualquer cidadão.",
+      "As informações são consideradas sigilosas.",
+      "O sigilo só se aplica aos nomes das drogas utilizadas.",
+      "O sigilo é temporário e expira após o fim do tratamento."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 23-B, § 7º: 'As informações produzidas na avaliação e as registradas no plano individual de atendimento são consideradas sigilosas.'"
+  },
+  {
+    "question": "O Art. 24 prevê que a União, Estados, DF e Municípios podem conceder benefícios a instituições privadas que:",
+    "options": [
+      "Realizem a apreensão de drogas nas ruas.",
+      "Desenvolvam programas de reinserção no mercado de trabalho para usuários encaminhados por órgão oficial.",
+      "Fabriquem medicamentos para tratamento de dependência.",
+      "Ofereçam cursos de graduação em segurança pública."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 24: 'A União, os Estados, o Distrito Federal e os Municípios poderão conceder benefícios às instituições privadas que desenvolverem programas de reinserção no mercado de trabalho, do usuário e do dependente de drogas encaminhados por órgão oficial.'"
+  },
+  {
+    "question": "Segundo o Art. 25, instituições da sociedade civil sem fins lucrativos podem receber recursos do Funad sob qual condição?",
+    "options": [
+      "Apenas se forem fundadas por órgãos governamentais.",
+      "Se tiverem atuação nas áreas da atenção à saúde e assistência social, condicionado à disponibilidade orçamentária.",
+      "Independente de orçamento, o repasse é obrigatório e mensal.",
+      "Apenas se o usuário pagar uma taxa de adesão ao Funad."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 25: 'As instituições da sociedade civil, sem fins lucrativos, com atuação nas áreas da atenção à saúde e da assistência social, que atendam usuários ou dependentes de drogas poderão receber recursos do Funad, condicionados à sua disponibilidade orçamentária e financeira.'"
+  },
+  {
+    "question": "O que o Art. 26 garante ao usuário de drogas que está cumprindo pena privativa de liberdade?",
+    "options": [
+      "O direito à liberdade imediata para tratamento em casa.",
+      "A redução automática da pena pela metade.",
+      "A garantia dos serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário.",
+      "O direito de escolher o hospital privado para cumprir a pena."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 26: 'O usuário e o dependente de drogas que, em razão da prática de infração penal, estiverem cumprindo pena privativa de liberdade ou submetidos a medida de segurança, têm garantidos os serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário.'"
+  },
+  {
+    "question": "Qual o objetivo principal dos projetos terapêuticos nas Comunidades Terapêuticas Acolhedoras, segundo o Art. 26-A, I?",
+    "options": [
+      "O uso controlado e recreativo de substâncias.",
+      "A redução de danos sem foco em parar o uso.",
+      "A abstinência.",
+      "O isolamento social perpétuo."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 26-A, I: 'O acolhimento do usuário ou dependente de drogas na comunidade terapêutica acolhedora caracteriza-se por: I - oferta de projetos terapêuticos ao usuário ou dependente de drogas que visam à abstinência;'"
+  },
+  {
+    "question": "Sobre a adesão ao tratamento em Comunidades Terapêuticas Acolhedoras (Art. 26-A, II), é correto afirmar:",
+    "options": [
+      "Deve ser involuntária e por ordem policial.",
+      "A adesão e permanência são voluntárias e formalizadas por escrito.",
+      "Uma vez que o usuário entra, ele é proibido de sair por 6 meses.",
+      "Não há necessidade de documentos escritos para o ingresso."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 26-A, II: 'O acolhimento... caracteriza-se por: II - adesão e permanência voluntária, formalizadas por escrito, entendida como uma etapa transitória para a reinserção social e econômica do usuário ou dependente de drogas;'"
+  },
+  {
+    "question": "De acordo com o Art. 26-A, III, qual deve ser o ambiente de uma Comunidade Terapêutica Acolhedora?",
+    "options": [
+      "Ambiente hospitalar com trancas e grades em todas as portas.",
+      "Ambiente carcerário com vigilância armada 24 horas.",
+      "Ambiente residencial, propício à formação de vínculos e convivência entre pares.",
+      "Ambiente comercial, focado na venda de produtos produzidos pelos usuários."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 26-A, III: 'ambiente residencial, propício à formação de vínculos, com a convivência entre os pares, atividades práticas de valor educativo e a promoção do desenvolvimento pessoal, vocacionada para acolhimento ao usuário ou dependente de drogas em vulnerabilidade social;'"
+  },
+  {
+    "question": "O que é expressamente vedado no acolhimento em Comunidade Terapêutica Acolhedora, conforme o Art. 26-A, VI?",
+    "options": [
+      "A realização de atividades físicas.",
+      "O isolamento físico do usuário ou dependente de drogas.",
+      "A visita de familiares aos finais de semana.",
+      "O consumo de alimentos processados."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 26-A, VI: 'VI - vedação de isolamento físico do usuário ou dependente de drogas.'"
+  },
+  {
+    "question": "Quem NÃO é elegível para o acolhimento em comunidades terapêuticas, segundo o Art. 26-A, § 1º?",
+    "options": [
+      "Pessoas que nunca utilizaram drogas antes.",
+      "Pessoas com comprometimentos biológicos e psicológicos de natureza grave que mereçam atenção médico-hospitalar contínua.",
+      "Pessoas com ensino fundamental incompleto.",
+      "Pessoas que já trabalharam no mercado formal."
+    ],
+    "correct": 1,
+    "explanation": "Regra conforme Art. 26-A, § 1º: 'Não são elegíveis para o acolhimento as pessoas com comprometimentos biológicos e psicológicos de natureza grave que mereçam atenção médico-hospitalar contínua ou de emergência, caso em que deverão ser encaminhadas à rede de saúde.'"
+  },
+  {
+    "question": "Quais itens são obrigatórios constar no PIA, conforme o Art. 23-B, § 5º?",
+    "options": [
+      "Apenas o nome dos pais e o endereço.",
+      "A conta bancária do usuário e lista de bens patrimoniais.",
+      "Resultados da avaliação multidisciplinar, objetivos do atendido, atividades de integração social e medidas de saúde.",
+      "Apenas a assinatura do juiz e o carimbo do hospital."
+    ],
+    "correct": 2,
+    "explanation": "Regra conforme Art. 23-B, § 5º: 'Constarão do plano individual, no mínimo: I - os resultados da avaliação multidisciplinar; II - os objetivos declarados pelo atendido; III - a previsão de suas atividades de integração social ou capacitação profissional; IV - atividades de integração e apoio à família; V - formas de participação da família para efetivo cumprimento do plano individual; VI - designação do projeto terapêutico mais adequado para o cumprimento do previsto no plano; e VII - as medidas específicas de atenção à saúde do atendido.'"
+  }
+],
+
 "penasMulta":[
   {
     "question": "De acordo com o Art. 49 do Código Penal, quais são os limites mínimo e máximo para a fixação dos dias-multa?",
