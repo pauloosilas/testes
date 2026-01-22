@@ -21642,6 +21642,339 @@ const questions = {
   }
 ],
 
+"11615_11_14":[
+  {
+    "question": "De acordo com o Art. 11, qual é o limite de energia cinética para que uma arma de fogo de porte, de repetição ou semiautomática, seja considerada de uso permitido?",
+    "options": [
+      "Até 300 libras-pé ou 407 joules",
+      "Até 1200 libras-pé ou 1620 joules",
+      "Superior a 407 joules",
+      "Até 600 joules"
+    ],
+    "correct": 0,
+    "explanation": "Art. 11. São de uso permitido as armas de fogo e munições cujo uso seja autorizado a pessoas físicas e a pessoas jurídicas, especificadas em ato conjunto do Comando do Exército e da Polícia Federal, incluídas: I - armas de fogo de porte, de repetição ou semiautomáticas, cuja munição comum tenha, na saída do cano de prova, energia de até trezentas libras-pé ou quatrocentos e sete joules, e suas munições;"
+  },
+  {
+    "question": "Qual o limite de energia para armas de fogo portáteis, longas, de alma raiada e de repetição para serem classificadas como de uso permitido?",
+    "options": [
+      "Até 407 joules",
+      "Até 1200 libras-pé ou 1620 joules",
+      "Superior a 1620 joules",
+      "Qualquer energia, desde que seja de repetição"
+    ],
+    "correct": 1,
+    "explanation": "Art. 11. [...] II - armas de fogo portáteis, longas, de alma raiada, de repetição, cuja munição comum não atinja, na saída do cano de prova, energia cinética superior a mil e duzentas libras-pé ou mil seiscentos e vinte joules;"
+  },
+  {
+    "question": "Sobre as armas de fogo portáteis, longas, de alma lisa e de repetição, qual calibre é considerado de uso permitido?",
+    "options": [
+      "Calibre 10 ou inferior",
+      "Apenas calibre 22",
+      "Calibre 12 ou inferior",
+      "Qualquer calibre, desde que seja alma lisa"
+    ],
+    "correct": 2,
+    "explanation": "Art. 11. [...] III - armas de fogo portáteis, longas, de alma lisa, de repetição, de calibre doze ou inferior;"
+  },
+  {
+    "question": "Armas de fogo portáteis, longas, de alma raiada e semiautomáticas são permitidas em qual condição específica?",
+    "options": [
+      "Em qualquer calibre, se for para atirador nível 3",
+      "Se tiverem energia até 1620 joules",
+      "Se o calibre nominal for igual ou inferior ao .22 Long Rifle",
+      "Nenhuma arma longa semiautomática é permitida"
+    ],
+    "correct": 2,
+    "explanation": "Art. 11. [...] IV - armas de fogo portáteis, longas, de alma raiada, semiautomáticas, de calibre nominal igual ou inferior ao ponto vinte e dois Long Rifle."
+  },
+  {
+    "question": "Qual o calibre máximo para que armas de pressão por gás comprimido ou mola sejam de uso permitido?",
+    "options": [
+      "4.5 mm",
+      "5.5 mm",
+      "6.0 mm",
+      "6.35 mm"
+    ],
+    "correct": 3,
+    "explanation": "Art. 11. [...] § 1º É permitido o uso de armas de pressão por ação de gás comprimido ou por ação de mola, com calibre igual ou inferior a seis ponto trinta e cinco milímetros, e de armas que lancem esferas de plástico com tinta, como os lançadores de paintball, facultado o apostilamento ao CR, mediante manifestação do atirador desportivo."
+  },
+  {
+    "question": "Como são classificadas as armas de fogo automáticas, independentemente do tipo ou calibre?",
+    "options": [
+      "Uso permitido",
+      "Uso restrito",
+      "Uso proibido",
+      "Uso excepcional"
+    ],
+    "correct": 1,
+    "explanation": "Art. 12. São de uso restrito as armas de fogo e munições especificadas em ato conjunto do Comando do Exército e da Polícia Federal, incluídas: I - armas de fogo automáticas, independentemente do tipo ou calibre;"
+  },
+  {
+    "question": "As armas de pressão com calibre superior a 6.35 mm que disparam projéteis são classificadas como:",
+    "options": [
+      "Uso permitido",
+      "Uso proibido",
+      "Uso restrito",
+      "Simulacros"
+    ],
+    "correct": 2,
+    "explanation": "Art. 12. [...] II - armas de pressão por gás comprimido ou por ação de mola, com calibre superior a seis ponto trinta e cinco milímetros, que disparem projéteis de qualquer natureza, exceto as que lancem esferas de plástico com tinta, como os lançadores de paintball;"
+  },
+  {
+    "question": "Armas de fogo de porte com energia superior a 407 joules (300 libras-pé) são de:",
+    "options": [
+      "Uso restrito",
+      "Uso permitido",
+      "Uso proibido",
+      "Uso institucional apenas"
+    ],
+    "correct": 0,
+    "explanation": "Art. 12. [...] III - armas de fogo de porte, cuja munição comum tenha, na saída do cano de prova, energia superior a trezentas libras-pé ou quatrocentos e sete joules, e suas munições;"
+  },
+  {
+    "question": "Qual a classificação de uma arma longa de alma lisa, semiautomática, de calibre 12?",
+    "options": [
+      "Uso permitido, pois o calibre é 12",
+      "Uso restrito, pois é semiautomática",
+      "Uso proibido",
+      "Uso permitido para caçadores"
+    ],
+    "correct": 1,
+    "explanation": "Art. 12. [...] V - armas de fogo portáteis, longas, de alma lisa: [...] b) semiautomáticas de qualquer calibre;"
+  },
+  {
+    "question": "De acordo com o Art. 13, quem pode adquirir comercialmente armas de fogo de uso restrito?",
+    "options": [
+      "Qualquer cidadão com posse de arma",
+      "Atiradores de nível 1 e 2",
+      "Atiradores de nível 3 e caçadores excepcionais",
+      "Apenas colecionadores"
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. É vedada a comercialização de armas de fogo de uso restrito e de suas munições, ressalvadas as aquisições: [...] III - pelos atiradores de nível 3, na forma prevista no § 3º do art. 37; e IV - pelos caçadores excepcionais, na forma prevista no inciso III do caput do art. 39."
+  },
+  {
+    "question": "Como são classificadas as armas de fogo não portáteis?",
+    "options": [
+      "Uso permitido",
+      "Uso proibido",
+      "Uso restrito",
+      "Uso de guerra"
+    ],
+    "correct": 2,
+    "explanation": "Art. 12. [...] VI - armas de fogo não portáteis."
+  },
+  {
+    "question": "Armas de fogo dissimuladas, que aparentam ser objetos inofensivos, são classificadas como:",
+    "options": [
+      "Uso restrito",
+      "Uso permitido",
+      "Uso proibido",
+      "Uso especial"
+    ],
+    "correct": 2,
+    "explanation": "Art. 14. São de uso proibido: [...] III - as armas de fogo dissimuladas, com aparência de objetos inofensivos;"
+  },
+  {
+    "question": "Munições incendiárias ou químicas são classificadas como de:",
+    "options": [
+      "Uso proibido",
+      "Uso restrito",
+      "Uso permitido para o Exército",
+      "Uso controlado"
+    ],
+    "correct": 0,
+    "explanation": "Art. 14. São de uso proibido: [...] IV - as munições: [...] b) incendiárias ou químicas."
+  },
+  {
+    "question": "Sobre brinquedos, réplicas e simulacros, qual a regra estabelecida no Art. 14?",
+    "options": [
+      "São todos permitidos para maiores de 18 anos",
+      "São de uso proibido se puderem ser confundidos com armas de fogo, salvo exceções",
+      "São todos de uso restrito",
+      "São considerados armas de pressão"
+    ],
+    "correct": 1,
+    "explanation": "Art. 14. São de uso proibido: [...] II - os brinquedos, as réplicas e os simulacros de armas de fogo que com estas possam se confundir, exceto as classificadas como armas de pressão e as réplicas e os simulacros destinados à instrução, ao adestramento ou à coleção de usuário autorizado, nas condições estabelecidas pela Polícia Federal;"
+  },
+  {
+    "question": "Armas de fogo classificadas como tal em acordos internacionais dos quais o Brasil é signatário são de:",
+    "options": [
+      "Uso restrito",
+      "Uso permitido",
+      "Uso proibido",
+      "Uso diplomático"
+    ],
+    "correct": 2,
+    "explanation": "Art. 14. São de uso proibido: I - as armas de fogo classificadas como de uso proibido em acordos ou tratados internacionais dos quais a República Federativa do Brasil seja signatária;"
+  },
+  {
+    "question": "De acordo com o Art. 11, quem possui a competência para especificar detalhadamente as armas de fogo e munições de uso permitido?",
+    "options": [
+      "Apenas o Comando do Exército.",
+      "Apenas a Polícia Federal.",
+      "Ato conjunto do Comando do Exército e da Polícia Federal.",
+      "Ato exclusivo do Ministério da Justiça e Segurança Pública."
+    ],
+    "correct": 2,
+    "explanation": "Regra: A definição técnica depende de ato conjunto. Art. 11. São de uso permitido as armas de fogo e munições cujo uso seja autorizado a pessoas físicas e a pessoas jurídicas, especificadas em ato conjunto do Comando do Exército e da Polícia Federal, incluídas: I - armas de fogo de porte, de repetição ou semiautomáticas, cuja munição comum tenha, na saída do cano de prova, energia de até trezentas libras-pé ou quatrocentos e sete joules, e suas munições..."
+  },
+  {
+    "question": "Uma arma de fogo portátil, longa, de alma raiada e de repetição é considerada de uso permitido desde que sua munição comum não atinja qual energia cinética na saída do cano?",
+    "options": [
+      "407 joules.",
+      "1200 joules.",
+      "1620 joules.",
+      "2000 joules."
+    ],
+    "correct": 2,
+    "explanation": "Art. 11, II - armas de fogo portáteis, longas, de alma raiada, de repetição, cuja munição comum não atinja, na saída do cano de prova, energia cinética superior a mil e duzentas libras-pé ou mil seiscentos e vinte joules; (Redação dada pelo Decreto nº 12.345, de 2024)"
+  },
+  {
+    "question": "Sobre as armas de fogo portáteis, longas, de alma lisa e de repetição, qual é o limite de calibre para que sejam classificadas como de uso permitido?",
+    "options": [
+      "Calibre 22 ou inferior.",
+      "Calibre 12 ou inferior.",
+      "Calibre superior a 12.",
+      "Qualquer calibre, desde que a alma seja lisa."
+    ],
+    "correct": 1,
+    "explanation": "Art. 11, III - armas de fogo portáteis, longas, de alma lisa, de repetição, de calibre doze ou inferior; (Redação dada pelo Decreto nº 12.345, de 2024)"
+  },
+  {
+    "question": "As armas de fogo portáteis, longas, de alma raiada e semiautomáticas são permitidas apenas se o calibre nominal for igual ou inferior a:",
+    "options": [
+      "9mm.",
+      "380 Auto.",
+      ".40 S&W.",
+      ".22 Long Rifle."
+    ],
+    "correct": 3,
+    "explanation": "Art. 11, IV - armas de fogo portáteis, longas, de alma raiada, semiautomáticas, de calibre nominal igual ou inferior ao ponto vinte e dois Long Rifle. (Incluído pelo Decreto nº 12.345, de 2024)"
+  },
+  {
+    "question": "Qual é o limite de calibre para que armas de pressão por ação de gás ou mola sejam de uso permitido sem as restrições de armas de calibre superior?",
+    "options": [
+      "4.5 mm.",
+      "5.5 mm.",
+      "6.35 mm.",
+      "9.0 mm."
+    ],
+    "correct": 2,
+    "explanation": "Art. 11, § 1º É permitido o uso de armas de pressão por ação de gás comprimido ou por ação de mola, com calibre igual ou inferior a seis ponto trinta e cinco milímetros, e de armas que lancem esferas de plástico com tinta, como os lançadores de paintball, facultado o apostilamento ao CR, mediante manifestação do atirador desportivo."
+  },
+  {
+    "question": "Como são classificadas as armas de fogo automáticas pelo Decreto nº 11.615?",
+    "options": [
+      "Uso permitido.",
+      "Uso restrito, independentemente do tipo ou calibre.",
+      "Uso proibido.",
+      "Uso restrito apenas se o calibre for superior a 9mm."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12. São de uso restrito as armas de fogo e munições especificadas em ato conjunto do Comando do Exército e da Polícia Federal, incluídas: I - armas de fogo automáticas, independentemente do tipo ou calibre;"
+  },
+  {
+    "question": "Uma arma de pressão (gás ou mola) com calibre 7mm que dispara chumbinhos é classificada como:",
+    "options": [
+      "Uso permitido.",
+      "Uso restrito.",
+      "Uso proibido.",
+      "Objeto inofensivo."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, II - armas de pressão por gás comprimido ou por ação de mola, com calibre superior a seis ponto trinta e cinco milímetros, que disparem projéteis de qualquer natureza, exceto as que lancem esferas de plástico com tinta, como os lançadores de paintball; (Redação dada pelo Decreto nº 12.345, de 2024)"
+  },
+  {
+    "question": "Armas de fogo de porte cuja munição comum tenha energia superior a 407 joules na saída do cano são consideradas:",
+    "options": [
+      "Uso permitido.",
+      "Uso proibido.",
+      "Uso restrito.",
+      "Uso exclusivo das Forças Armadas."
+    ],
+    "correct": 2,
+    "explanation": "Art. 12, III - armas de fogo de porte, cuja munição comum tenha, na saída do cano de prova, energia superior a trezentas libras-pé ou quatrocentos e sete joules, e suas munições;"
+  },
+  {
+    "question": "Qual a classificação de armas de fogo portáteis, longas, de alma lisa, que possuam funcionamento semiautomático?",
+    "options": [
+      "Uso permitido para caça.",
+      "Uso restrito, independentemente do calibre.",
+      "Uso proibido por lei.",
+      "Uso permitido se o calibre for 12."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12, V - armas de fogo portáteis, longas, de alma lisa: ... b) semiautomáticas de qualquer calibre;"
+  },
+  {
+    "question": "As armas de fogo não portáteis são classificadas como:",
+    "options": [
+      "Uso restrito.",
+      "Uso proibido.",
+      "Uso permitido para segurança privada.",
+      "Uso restrito apenas se forem automáticas."
+    ],
+    "correct": 0,
+    "explanation": "Art. 12, VI - armas de fogo não portáteis."
+  },
+  {
+    "question": "Segundo o Art. 13, a comercialização de armas de fogo de uso restrito é, via de regra, vedada. Qual dos grupos abaixo representa uma exceção a essa regra?",
+    "options": [
+      "Colecionadores iniciantes.",
+      "Atiradores desportivos de nível 1.",
+      "Atiradores de nível 3 e caçadores excepcionais.",
+      "Empresas de segurança privada sem contrato público."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. É vedada a comercialização de armas de fogo de uso restrito e de suas munições, ressalvadas as aquisições: ... III - pelos atiradores de nível 3, na forma prevista no § 3º do art. 37; e IV - pelos caçadores excepcionais, na forma prevista no inciso III do caput do art. 39."
+  },
+  {
+    "question": "Armas de fogo que possuem aparência de objetos inofensivos (dissimuladas) são classificadas como:",
+    "options": [
+      "Uso restrito.",
+      "Uso permitido, mediante autorização especial.",
+      "Uso proibido.",
+      "Simulacros."
+    ],
+    "correct": 2,
+    "explanation": "Art. 14. São de uso proibido: ... III - as armas de fogo dissimuladas, com aparência de objetos inofensivos;"
+  },
+  {
+    "question": "Munições incendiárias ou químicas recebem qual classificação legal?",
+    "options": [
+      "Uso restrito.",
+      "Uso proibido.",
+      "Uso permitido para controle de pragas.",
+      "Uso restrito apenas para o Exército."
+    ],
+    "correct": 1,
+    "explanation": "Art. 14, IV - as munições: ... b) incendiárias ou químicas."
+  },
+  {
+    "question": "Sobre réplicas e simulacros que possam se confundir com armas de fogo, assinale a alternativa correta de acordo com o Art. 14:",
+    "options": [
+      "São totalmente livres para venda a menores.",
+      "São de uso proibido, exceto se destinados à instrução, adestramento ou coleção de usuário autorizado.",
+      "São considerados armas de uso permitido.",
+      "São proibidos em qualquer circunstância, sem exceções."
+    ],
+    "correct": 1,
+    "explanation": "Art. 14, II - os brinquedos, as réplicas e os simulacros de armas de fogo que com estas possam se confundir, exceto as classificadas como armas de pressão e as réplicas e os simulacros destinados à instrução, ao adestramento ou à coleção de usuário autorizado, nas condições estabelecidas pela Polícia Federal;"
+  },
+  {
+    "question": "Armas de fogo classificadas como de uso proibido em tratados internacionais dos quais o Brasil é signatário são consideradas:",
+    "options": [
+      "Uso restrito no território nacional.",
+      "Uso permitido se houver reciprocidade.",
+      "Uso proibido.",
+      "Uso excepcional por forças de paz."
+    ],
+    "correct": 2,
+    "explanation": "Art. 14. São de uso proibido: I - as armas de fogo classificadas como de uso proibido em acordos ou tratados internacionais dos quais a República Federativa do Brasil seja signatária;"
+  }
+],
+
 "drogas23_26":[
   {
     "question": "De acordo com o Art. 23-B, o atendimento ao usuário ou dependente de drogas na rede de atenção à saúde depende de quais requisitos iniciais?",
