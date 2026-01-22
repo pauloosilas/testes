@@ -21642,174 +21642,6 @@ const questions = {
   }
 ],
 
-"pndh":[
-  {
-    "question": "No que se refere ao Eixo Orientador I (Interação democrática entre Estado e sociedade civil), assinale a alternativa INCORRETA sobre as diretrizes de participação social:",
-    "options": [
-      "A democratização da gestão pública deve ser estimulada apenas em períodos eleitorais, visando a eficiência administrativa.",
-      "Deve-se garantir a participação da sociedade civil nos processos de formulação e monitoramento das políticas de Direitos Humanos.",
-      "A transparência e o controle social são fundamentais para o aprimoramento da democracia participativa.",
-      "O fortalecimento da sociedade civil é diretriz para a consolidação da democracia e dos Direitos Humanos."
-    ],
-    "correct": 0,
-    "explanation": "De acordo com a Diretriz 1: 'Interação democrática entre Estado e sociedade civil como instrumento de fortalecimento da democracia participativa'. O programa prevê a participação contínua, e não apenas em períodos eleitorais."
-  },
-  {
-    "question": "Sobre o Eixo Orientador II (Desenvolvimento e Direitos Humanos), assinale a opção que apresenta uma afirmação INCORRETA:",
-    "options": [
-      "O modelo de desenvolvimento deve ser orientado pelo respeito aos direitos ambientais.",
-      "A política de desenvolvimento deve priorizar o crescimento do PIB acima de quaisquer garantias de direitos sociais de populações tradicionais.",
-      "É diretriz a promoção do desenvolvimento sustentável com garantia de direitos das gerações presentes e futuras.",
-      "Deve-se garantir a participação da sociedade civil nos projetos de desenvolvimento econômico."
-    ],
-    "correct": 1,
-    "explanation": "Diretriz 4: 'Efetivação de modelo de desenvolvimento sustentável, com inclusão social e econômica, ambientalmente equilibrado e tecnologicamente responsável, cultural e regionalmente diverso, participativo e não discriminatório'."
-  },
-  {
-    "question": "No contexto do Eixo Orientador III, sobre a garantia de direitos no contexto das desigualdades, assinale a alternativa INCORRETA:",
-    "options": [
-      "O Estado deve garantir a liberdade de consciência e de crença, bem como a proteção de locais de culto.",
-      "O PNDH-3 ignora a laicidade do Estado, permitindo o financiamento público de símbolos religiosos em repartições federais.",
-      "A promoção do respeito à diversidade religiosa é um objetivo estratégico para o enfrentamento da intolerância.",
-      "Deve-se assegurar a diversidade religiosa no sistema educacional, respeitando a laicidade do Estado."
-    ],
-    "correct": 1,
-    "explanation": "Objetivo Estratégico V da Diretriz 10: 'Promoção do respeito à diversidade religiosa, da liberdade de culto e da laicidade do Estado'. O financiamento de símbolos religiosos em prédios públicos contraria o princípio da laicidade defendido no plano."
-  },
-  {
-    "question": "Em relação ao combate à homofobia e promoção dos direitos LGBT, assinale a opção INCORRETA conforme o PNDH-3:",
-    "options": [
-      "O programa propõe apoiar o reconhecimento da união estável entre pessoas do mesmo sexo.",
-      "Deve-se incentivar a despatologização das identidades trans e travestis.",
-      "O PNDH-3 recomenda que o Estado não intervenha em casos de violência doméstica contra casais homoafetivos por se tratar de foro íntimo.",
-      "É ação estratégica fomentar políticas de combate à violência baseada na orientação sexual e identidade de gênero."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 10, Objetivo Estratégico IV: 'Garantia dos direitos de lésbicas, gays, bissexuais, travestis e transexuais'. O Estado deve intervir para garantir a segurança e punir violências, nunca se omitir sob a justificativa de 'foro íntimo'."
-  },
-  {
-    "question": "Sobre o Eixo Orientador IV (Segurança Pública, Acesso à Justiça e Combate à Violência), assinale a alternativa INCORRETA:",
-    "options": [
-      "A modernização do sistema penitenciário deve focar na redução da população carcerária e na ressocialização.",
-      "O uso da força por agentes de segurança deve seguir os princípios de legalidade, necessidade e proporcionalidade.",
-      "O PNDH-3 defende a redução da maioridade penal para 16 anos como forma de combate à violência urbana.",
-      "Deve-se estimular o controle social sobre as forças de segurança pública e guardas municipais."
-    ],
-    "correct": 2,
-    "explanation": "O PNDH-3 é alinhado à proteção integral da criança e do adolescente. A Diretriz 11 reforça a implementação de políticas públicas que protejam a juventude da violência, sem propor a redução da maioridade penal."
-  },
-  {
-    "question": "No que tange ao combate à tortura e à violência institucional, assinale a opção INCORRETA:",
-    "options": [
-      "A prevenção e o combate à tortura são compromissos centrais da segurança pública.",
-      "Deve-se assegurar que o exame de corpo de delito seja realizado de forma independente.",
-      "As denúncias de tortura podem ser ignoradas caso o detento tenha histórico de reincidência criminal.",
-      "O monitoramento de locais de detenção é uma ação estratégica para coibir tratamentos cruéis."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 12, Objetivo Estratégico I: 'Prevenção e combate à tortura e ao tratamento cruel, desumano ou degradante'. A vedação à tortura é absoluta e universal, independentemente da vida pregressa do indivíduo."
-  },
-  {
-    "question": "Sobre a Educação em Direitos Humanos (Eixo Orientador V), qual alternativa é INCORRETA:",
-    "options": [
-      "A educação em Direitos Humanos deve ser integrada ao currículo escolar de forma transversal.",
-      "O ensino de Direitos Humanos deve ser facultativo, ficando a cargo de cada instituição decidir se o tema é relevante para seus alunos.",
-      "É diretriz a promoção da cultura de Direitos Humanos na educação básica e superior.",
-      "A educação em Direitos Humanos deve envolver a formação de agentes públicos para o respeito às diversidades."
-    ],
-    "correct": 1,
-    "explanation": "Diretriz 18: 'Efetivação das diretrizes e princípios da educação em Direitos Humanos para fortalecer uma cultura de direitos'. Não é facultativo; é um compromisso do Estado para a formação cidadã."
-  },
-  {
-    "question": "Em relação ao Direito à Memória e à Verdade (Eixo Orientador VI), assinale a alternativa INCORRETA:",
-    "options": [
-      "Deve-se promover a preservação da memória histórica e a construção pública da verdade sobre períodos de repressão.",
-      "O acesso a documentos públicos produzidos pelo regime militar deve ser restrito eternamente para proteger a segurança nacional.",
-      "O programa incentiva a criação de espaços de memória sobre as violações de Direitos Humanos ocorridas no passado.",
-      "Deve-se apoiar iniciativas que busquem a identificação de desaparecidos políticos."
-    ],
-    "correct": 1,
-    "explanation": "Diretriz 23: 'Reconhecimento da memória e da verdade como direito cidadão e dever do Estado'. O Objetivo Estratégico I prevê justamente a democratização do acesso a documentos das ditaduras para a reparação histórica."
-  },
-  {
-    "question": "Sobre o combate ao trabalho escravo no âmbito do PNDH-3, assinale a alternativa INCORRETA:",
-    "options": [
-      "O programa visa à erradicação do trabalho escravo e degradante.",
-      "Propõe o apoio à aprovação de medidas que prevejam o confisco de terras onde for constatado trabalho escravo.",
-      "O PNDH-3 considera que a fiscalização do trabalho escravo deve ser flexibilizada para não prejudicar o agronegócio.",
-      "Deve-se promover a reinserção social e econômica das vítimas de trabalho escravo."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 4, Objetivo Estratégico VI: 'Combate ao trabalho escravo e erradicação do trabalho degradante'. O programa foca no fortalecimento da fiscalização e punição, nunca na flexibilização."
-  },
-  {
-    "question": "Quanto aos direitos das pessoas com deficiência, assinale a opção INCORRETA conforme o plano:",
-    "options": [
-      "É necessário garantir a acessibilidade arquitetônica, mas não há necessidade de focar em acessibilidade digital.",
-      "Deve-se assegurar a inclusão de pessoas com deficiência no mercado de trabalho e no sistema educacional.",
-      "O fomento de políticas públicas para autonomia e vida independente é diretriz do programa.",
-      "Deve-se garantir atendimento de saúde especializado e integral para pessoas com deficiência."
-    ],
-    "correct": 0,
-    "explanation": "Diretriz 7, Objetivo Estratégico VI: 'Garantia dos direitos das pessoas com deficiência'. O PNDH-3 abrange a acessibilidade em sentido amplo, incluindo a comunicação e o meio digital."
-  },
-  {
-    "question": "Sobre a Proteção a Vítimas e Testemunhas, assinale a alternativa INCORRETA:",
-    "options": [
-      "A proteção de pessoas ameaçadas é essencial para o combate à impunidade.",
-      "O Estado deve garantir a segurança física e psicológica de testemunhas de crimes graves.",
-      "Programas de proteção devem ser aplicados apenas a autoridades, excluindo-se cidadãos comuns.",
-      "É ação estratégica o fortalecimento de redes de amparo a vítimas de violência."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 14: 'Combate à impunidade e às violações de Direitos Humanos'. O objetivo estratégico foca na proteção de qualquer pessoa em situação de risco ou ameaça por colaborar com a justiça."
-  },
-  {
-    "question": "Em relação à Comunicação e Direitos Humanos (Eixo V), assinale a alternativa INCORRETA:",
-    "options": [
-      "O programa propõe a criação de mecanismos de monitoramento de conteúdos que violem Direitos Humanos na mídia.",
-      "Deve-se incentivar a diversidade de vozes e o pluralismo nos meios de comunicação social.",
-      "O PNDH-3 defende que a liberdade de expressão é absoluta, podendo ser usada para incitar o ódio racial sem qualquer regulação.",
-      "A promoção de uma cultura de Direitos Humanos nos meios de comunicação é objetivo do plano."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 22: 'Garantia do direito à comunicação democrática e ao acesso à informação'. Embora defenda a liberdade de expressão, o plano foca no combate ao discurso de ódio e à discriminação na mídia."
-  },
-  {
-    "question": "Sobre os direitos da criança e do adolescente no PNDH-3, assinale a opção INCORRETA:",
-    "options": [
-      "Deve-se priorizar o combate à exploração sexual e ao trabalho infantil.",
-      "O plano prevê a internação compulsória de crianças em situação de rua como principal política de acolhimento.",
-      "É diretriz a garantia de convivência familiar e comunitária.",
-      "Deve-se fortalecer o sistema de garantias de direitos da criança e do adolescente."
-    ],
-    "correct": 1,
-    "explanation": "Diretriz 7, Objetivo Estratégico II: 'Garantia dos direitos da criança e do adolescente'. O foco é na proteção integral e no acolhimento familiar/comunitário, e não em práticas higienistas ou de internação compulsória injustificada."
-  },
-  {
-    "question": "Sobre a democratização do acesso à justiça, assinale a alternativa INCORRETA:",
-    "options": [
-      "O PNDH-3 busca fomentar mecanismos de resolução pacífica de conflitos.",
-      "Deve-se priorizar o acesso das populações vulneráveis à assistência jurídica gratuita.",
-      "O programa sugere que a justiça seja lenta para garantir que todos os recursos sejam esgotados, independentemente do tempo.",
-      "É objetivo estratégico o fortalecimento da defensoria pública e da justiça itinerante."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 15: 'Garantia de acesso à Justiça e celeridade processual'. O programa busca justamente a eficiência e a rapidez na prestação jurisdicional, combatendo a morosidade."
-  },
-  {
-    "question": "No que concerne ao Eixo VI e às vítimas de violência estatal, assinale a alternativa INCORRETA:",
-    "options": [
-      "Deve-se indenizar e reparar civilmente as vítimas de abusos cometidos por agentes do Estado.",
-      "O Estado deve pedir desculpas formais em casos de violações graves cometidas por seus agentes no passado.",
-      "A reparação deve ser apenas financeira, sendo proibido qualquer tipo de reparação simbólica ou psicológica.",
-      "O programa incentiva a localização de restos mortais de desaparecidos políticos."
-    ],
-    "correct": 2,
-    "explanation": "Diretriz 24: 'Preservação da memória histórica e construção pública da verdade'. A reparação é concebida de forma integral: financeira, simbólica, psicológica e política."
-  }
-],
-
 "11615_11_14":[
   {
     "question": "De acordo com o Art. 11, qual é o limite de energia cinética para que uma arma de fogo de porte, de repetição ou semiautomática, seja considerada de uso permitido?",
@@ -22445,6 +22277,175 @@ const questions = {
     "explanation": "Art. 49, § 1º - O valor do dia-multa será fixado pelo juiz não podendo ser inferior a um trigésimo do maior salário mínimo mensal vigente ao tempo do fato, nem superior a 5 (cinco) vezes esse salário."
   }
 ],
+
+"pndh":[
+  {
+    "question": "No que se refere ao Eixo Orientador I (Interação democrática entre Estado e sociedade civil), assinale a alternativa INCORRETA sobre as diretrizes de participação social:",
+    "options": [
+      "A democratização da gestão pública deve ser estimulada apenas em períodos eleitorais, visando a eficiência administrativa.",
+      "Deve-se garantir a participação da sociedade civil nos processos de formulação e monitoramento das políticas de Direitos Humanos.",
+      "A transparência e o controle social são fundamentais para o aprimoramento da democracia participativa.",
+      "O fortalecimento da sociedade civil é diretriz para a consolidação da democracia e dos Direitos Humanos."
+    ],
+    "correct": 0,
+    "explanation": "De acordo com a Diretriz 1: 'Interação democrática entre Estado e sociedade civil como instrumento de fortalecimento da democracia participativa'. O programa prevê a participação contínua, e não apenas em períodos eleitorais."
+  },
+  {
+    "question": "Sobre o Eixo Orientador II (Desenvolvimento e Direitos Humanos), assinale a opção que apresenta uma afirmação INCORRETA:",
+    "options": [
+      "O modelo de desenvolvimento deve ser orientado pelo respeito aos direitos ambientais.",
+      "A política de desenvolvimento deve priorizar o crescimento do PIB acima de quaisquer garantias de direitos sociais de populações tradicionais.",
+      "É diretriz a promoção do desenvolvimento sustentável com garantia de direitos das gerações presentes e futuras.",
+      "Deve-se garantir a participação da sociedade civil nos projetos de desenvolvimento econômico."
+    ],
+    "correct": 1,
+    "explanation": "Diretriz 4: 'Efetivação de modelo de desenvolvimento sustentável, com inclusão social e econômica, ambientalmente equilibrado e tecnologicamente responsável, cultural e regionalmente diverso, participativo e não discriminatório'."
+  },
+  {
+    "question": "No contexto do Eixo Orientador III, sobre a garantia de direitos no contexto das desigualdades, assinale a alternativa INCORRETA:",
+    "options": [
+      "O Estado deve garantir a liberdade de consciência e de crença, bem como a proteção de locais de culto.",
+      "O PNDH-3 ignora a laicidade do Estado, permitindo o financiamento público de símbolos religiosos em repartições federais.",
+      "A promoção do respeito à diversidade religiosa é um objetivo estratégico para o enfrentamento da intolerância.",
+      "Deve-se assegurar a diversidade religiosa no sistema educacional, respeitando a laicidade do Estado."
+    ],
+    "correct": 1,
+    "explanation": "Objetivo Estratégico V da Diretriz 10: 'Promoção do respeito à diversidade religiosa, da liberdade de culto e da laicidade do Estado'. O financiamento de símbolos religiosos em prédios públicos contraria o princípio da laicidade defendido no plano."
+  },
+  {
+    "question": "Em relação ao combate à homofobia e promoção dos direitos LGBT, assinale a opção INCORRETA conforme o PNDH-3:",
+    "options": [
+      "O programa propõe apoiar o reconhecimento da união estável entre pessoas do mesmo sexo.",
+      "Deve-se incentivar a despatologização das identidades trans e travestis.",
+      "O PNDH-3 recomenda que o Estado não intervenha em casos de violência doméstica contra casais homoafetivos por se tratar de foro íntimo.",
+      "É ação estratégica fomentar políticas de combate à violência baseada na orientação sexual e identidade de gênero."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 10, Objetivo Estratégico IV: 'Garantia dos direitos de lésbicas, gays, bissexuais, travestis e transexuais'. O Estado deve intervir para garantir a segurança e punir violências, nunca se omitir sob a justificativa de 'foro íntimo'."
+  },
+  {
+    "question": "Sobre o Eixo Orientador IV (Segurança Pública, Acesso à Justiça e Combate à Violência), assinale a alternativa INCORRETA:",
+    "options": [
+      "A modernização do sistema penitenciário deve focar na redução da população carcerária e na ressocialização.",
+      "O uso da força por agentes de segurança deve seguir os princípios de legalidade, necessidade e proporcionalidade.",
+      "O PNDH-3 defende a redução da maioridade penal para 16 anos como forma de combate à violência urbana.",
+      "Deve-se estimular o controle social sobre as forças de segurança pública e guardas municipais."
+    ],
+    "correct": 2,
+    "explanation": "O PNDH-3 é alinhado à proteção integral da criança e do adolescente. A Diretriz 11 reforça a implementação de políticas públicas que protejam a juventude da violência, sem propor a redução da maioridade penal."
+  },
+  {
+    "question": "No que tange ao combate à tortura e à violência institucional, assinale a opção INCORRETA:",
+    "options": [
+      "A prevenção e o combate à tortura são compromissos centrais da segurança pública.",
+      "Deve-se assegurar que o exame de corpo de delito seja realizado de forma independente.",
+      "As denúncias de tortura podem ser ignoradas caso o detento tenha histórico de reincidência criminal.",
+      "O monitoramento de locais de detenção é uma ação estratégica para coibir tratamentos cruéis."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 12, Objetivo Estratégico I: 'Prevenção e combate à tortura e ao tratamento cruel, desumano ou degradante'. A vedação à tortura é absoluta e universal, independentemente da vida pregressa do indivíduo."
+  },
+  {
+    "question": "Sobre a Educação em Direitos Humanos (Eixo Orientador V), qual alternativa é INCORRETA:",
+    "options": [
+      "A educação em Direitos Humanos deve ser integrada ao currículo escolar de forma transversal.",
+      "O ensino de Direitos Humanos deve ser facultativo, ficando a cargo de cada instituição decidir se o tema é relevante para seus alunos.",
+      "É diretriz a promoção da cultura de Direitos Humanos na educação básica e superior.",
+      "A educação em Direitos Humanos deve envolver a formação de agentes públicos para o respeito às diversidades."
+    ],
+    "correct": 1,
+    "explanation": "Diretriz 18: 'Efetivação das diretrizes e princípios da educação em Direitos Humanos para fortalecer uma cultura de direitos'. Não é facultativo; é um compromisso do Estado para a formação cidadã."
+  },
+  {
+    "question": "Em relação ao Direito à Memória e à Verdade (Eixo Orientador VI), assinale a alternativa INCORRETA:",
+    "options": [
+      "Deve-se promover a preservação da memória histórica e a construção pública da verdade sobre períodos de repressão.",
+      "O acesso a documentos públicos produzidos pelo regime militar deve ser restrito eternamente para proteger a segurança nacional.",
+      "O programa incentiva a criação de espaços de memória sobre as violações de Direitos Humanos ocorridas no passado.",
+      "Deve-se apoiar iniciativas que busquem a identificação de desaparecidos políticos."
+    ],
+    "correct": 1,
+    "explanation": "Diretriz 23: 'Reconhecimento da memória e da verdade como direito cidadão e dever do Estado'. O Objetivo Estratégico I prevê justamente a democratização do acesso a documentos das ditaduras para a reparação histórica."
+  },
+  {
+    "question": "Sobre o combate ao trabalho escravo no âmbito do PNDH-3, assinale a alternativa INCORRETA:",
+    "options": [
+      "O programa visa à erradicação do trabalho escravo e degradante.",
+      "Propõe o apoio à aprovação de medidas que prevejam o confisco de terras onde for constatado trabalho escravo.",
+      "O PNDH-3 considera que a fiscalização do trabalho escravo deve ser flexibilizada para não prejudicar o agronegócio.",
+      "Deve-se promover a reinserção social e econômica das vítimas de trabalho escravo."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 4, Objetivo Estratégico VI: 'Combate ao trabalho escravo e erradicação do trabalho degradante'. O programa foca no fortalecimento da fiscalização e punição, nunca na flexibilização."
+  },
+  {
+    "question": "Quanto aos direitos das pessoas com deficiência, assinale a opção INCORRETA conforme o plano:",
+    "options": [
+      "É necessário garantir a acessibilidade arquitetônica, mas não há necessidade de focar em acessibilidade digital.",
+      "Deve-se assegurar a inclusão de pessoas com deficiência no mercado de trabalho e no sistema educacional.",
+      "O fomento de políticas públicas para autonomia e vida independente é diretriz do programa.",
+      "Deve-se garantir atendimento de saúde especializado e integral para pessoas com deficiência."
+    ],
+    "correct": 0,
+    "explanation": "Diretriz 7, Objetivo Estratégico VI: 'Garantia dos direitos das pessoas com deficiência'. O PNDH-3 abrange a acessibilidade em sentido amplo, incluindo a comunicação e o meio digital."
+  },
+  {
+    "question": "Sobre a Proteção a Vítimas e Testemunhas, assinale a alternativa INCORRETA:",
+    "options": [
+      "A proteção de pessoas ameaçadas é essencial para o combate à impunidade.",
+      "O Estado deve garantir a segurança física e psicológica de testemunhas de crimes graves.",
+      "Programas de proteção devem ser aplicados apenas a autoridades, excluindo-se cidadãos comuns.",
+      "É ação estratégica o fortalecimento de redes de amparo a vítimas de violência."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 14: 'Combate à impunidade e às violações de Direitos Humanos'. O objetivo estratégico foca na proteção de qualquer pessoa em situação de risco ou ameaça por colaborar com a justiça."
+  },
+  {
+    "question": "Em relação à Comunicação e Direitos Humanos (Eixo V), assinale a alternativa INCORRETA:",
+    "options": [
+      "O programa propõe a criação de mecanismos de monitoramento de conteúdos que violem Direitos Humanos na mídia.",
+      "Deve-se incentivar a diversidade de vozes e o pluralismo nos meios de comunicação social.",
+      "O PNDH-3 defende que a liberdade de expressão é absoluta, podendo ser usada para incitar o ódio racial sem qualquer regulação.",
+      "A promoção de uma cultura de Direitos Humanos nos meios de comunicação é objetivo do plano."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 22: 'Garantia do direito à comunicação democrática e ao acesso à informação'. Embora defenda a liberdade de expressão, o plano foca no combate ao discurso de ódio e à discriminação na mídia."
+  },
+  {
+    "question": "Sobre os direitos da criança e do adolescente no PNDH-3, assinale a opção INCORRETA:",
+    "options": [
+      "Deve-se priorizar o combate à exploração sexual e ao trabalho infantil.",
+      "O plano prevê a internação compulsória de crianças em situação de rua como principal política de acolhimento.",
+      "É diretriz a garantia de convivência familiar e comunitária.",
+      "Deve-se fortalecer o sistema de garantias de direitos da criança e do adolescente."
+    ],
+    "correct": 1,
+    "explanation": "Diretriz 7, Objetivo Estratégico II: 'Garantia dos direitos da criança e do adolescente'. O foco é na proteção integral e no acolhimento familiar/comunitário, e não em práticas higienistas ou de internação compulsória injustificada."
+  },
+  {
+    "question": "Sobre a democratização do acesso à justiça, assinale a alternativa INCORRETA:",
+    "options": [
+      "O PNDH-3 busca fomentar mecanismos de resolução pacífica de conflitos.",
+      "Deve-se priorizar o acesso das populações vulneráveis à assistência jurídica gratuita.",
+      "O programa sugere que a justiça seja lenta para garantir que todos os recursos sejam esgotados, independentemente do tempo.",
+      "É objetivo estratégico o fortalecimento da defensoria pública e da justiça itinerante."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 15: 'Garantia de acesso à Justiça e celeridade processual'. O programa busca justamente a eficiência e a rapidez na prestação jurisdicional, combatendo a morosidade."
+  },
+  {
+    "question": "No que concerne ao Eixo VI e às vítimas de violência estatal, assinale a alternativa INCORRETA:",
+    "options": [
+      "Deve-se indenizar e reparar civilmente as vítimas de abusos cometidos por agentes do Estado.",
+      "O Estado deve pedir desculpas formais em casos de violações graves cometidas por seus agentes no passado.",
+      "A reparação deve ser apenas financeira, sendo proibido qualquer tipo de reparação simbólica ou psicológica.",
+      "O programa incentiva a localização de restos mortais de desaparecidos políticos."
+    ],
+    "correct": 2,
+    "explanation": "Diretriz 24: 'Preservação da memória histórica e construção pública da verdade'. A reparação é concebida de forma integral: financeira, simbólica, psicológica e política."
+  }
+],
+
 
 "penasRestritivas":[
   {
