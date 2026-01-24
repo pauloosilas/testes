@@ -22446,7 +22446,7 @@ const questions = {
   }
 ],
 
-"10826":[
+"desarmamento":[
   {
     "question": "De acordo com o Art. 12, qual a condição necessária para que a posse de arma de fogo no local de trabalho seja tipificada como posse irregular de arma de fogo de uso permitido?",
     "options": [
