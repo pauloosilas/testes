@@ -22446,6 +22446,337 @@ const questions = {
   }
 ],
 
+"10826":[
+  {
+    "question": "De acordo com o Art. 6º da Lei 10.826/03, qual é a regra geral sobre o porte de arma de fogo em território nacional?",
+    "options": [
+      "É permitido a todo cidadão maior de 25 anos.",
+      "É proibido, salvo para os casos previstos em legislação própria e as exceções da lei.",
+      "É permitido apenas para residentes em áreas urbanas.",
+      "É livre para proprietários de terras rurais."
+    ],
+    "correct": 1,
+    "explanation": "Regra: O porte é proibido como regra geral, existindo apenas exceções específicas. Art. 6º É proibido o porte de arma de fogo em todo o território nacional, salvo para os casos previstos em legislação própria e para: I – os integrantes das Forças Armadas; II - os integrantes de órgãos referidos nos incisos I, II, III, IV e V do caput do art. 144 da Constituição Federal e os da Força Nacional de Segurança Pública (FNSP)..."
+  },
+  {
+    "question": "Quais agentes têm direito ao porte de arma, conforme o inciso V do Art. 6º?",
+    "options": [
+      "Agentes de trânsito municipais.",
+      "Vigilantes de empresas de segurança privada em folga.",
+      "Agentes operacionais da ABIN e do Departamento de Segurança do GSI.",
+      "Servidores administrativos do Ministério da Justiça."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Agentes da inteligência e segurança da presidência possuem a exceção do porte. Art. 6º, V – os agentes operacionais da Agência Brasileira de Inteligência e os agentes do Departamento de Segurança do Gabinete de Segurança Institucional da Presidência da República;"
+  },
+  {
+    "question": "Sobre o porte de arma de fogo para os integrantes das Forças Armadas e polícias (incisos I, II, III, V e VI), o que diz o § 1º do Art. 6º?",
+    "options": [
+      "Podem portar arma apenas quando em serviço.",
+      "Têm direito de portar arma particular ou da corporação, mesmo fora de serviço.",
+      "Somente podem portar armas fornecidas pela instituição.",
+      "O porte é restrito ao estado onde residem."
+    ],
+    "correct": 1,
+    "explanation": "Regra: O porte para estas categorias estende-se ao período de folga. Art. 6º, § 1º As pessoas previstas nos incisos I, II, III, V e VI do caput deste artigo terão direito de portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, nos termos do regulamento desta Lei, com validade em âmbito nacional para aquelas constantes dos incisos I, II, V e VI."
+  },
+  {
+    "question": "Para que os integrantes do quadro efetivo de agentes e guardas prisionais portem arma fora de serviço, qual requisito deve ser cumprido?",
+    "options": [
+      "Estar em serviço há mais de 10 anos.",
+      "Possuir autorização expressa do Ministério da Defesa.",
+      "Estar submetido a regime de dedicação exclusiva e mecanismos de fiscalização.",
+      "Apenas o registro da arma em seu nome."
+    ],
+    "correct": 2,
+    "explanation": "Regra: O porte fora de serviço para agentes prisionais exige regime de dedicação e controle. Art. 6º, § 1º-B. Os integrantes do quadro efetivo de agentes e guardas prisionais poderão portar arma de fogo de propriedade particular ou fornecida pela respectiva corporação ou instituição, mesmo fora de serviço, desde que estejam: I - submetidos a regime de dedicação exclusiva; II - sujeitos à formação funcional, nos termos do regulamento; e III - subordinados a mecanismos de fiscalização e de controle interno."
+  },
+  {
+    "question": "Qual a idade mínima e categoria de porte prevista no § 5º do Art. 6º para residentes em áreas rurais que dependem da arma para subsistência?",
+    "options": [
+      "18 anos, na categoria de defesa pessoal.",
+      "21 anos, na categoria de colecionador.",
+      "25 anos, na categoria de caçador para subsistência.",
+      "30 anos, na categoria de atirador desportivo."
+    ],
+    "correct": 2,
+    "explanation": "Regra: A lei permite o porte para subsistência rural a maiores de 25 anos. Art. 6º, § 5º Aos residentes em áreas rurais, maiores de 25 (vinte e cinco) anos que comprovem depender do emprego de arma de fogo para prover sua subsistência alimentar familiar será concedido pela Polícia Federal o porte de arma de fogo, na categoria caçador para subsistência..."
+  },
+  {
+    "question": "Caso o caçador para subsistência utilize sua arma para finalidade diversa, qual a consequência prevista no § 6º do Art. 6º?",
+    "options": [
+      "Responderá por porte ilegal ou disparo de arma de fogo.",
+      "Perderá apenas o direito de renovar o porte.",
+      "Terá a arma apreendida sem responder criminalmente.",
+      "Deverá pagar apenas uma multa administrativa."
+    ],
+    "correct": 0,
+    "explanation": "Regra: O desvio de finalidade acarreta sanções penais. Art. 6º, § 6º O caçador para subsistência que der outro uso à sua arma de fogo, independentemente de outras tipificações penais, responderá, conforme o caso, por porte ilegal ou por disparo de arma de fogo de uso permitido."
+  },
+  {
+    "question": "De quem é a propriedade e responsabilidade das armas utilizadas por empresas de segurança privada, segundo o Art. 7º?",
+    "options": [
+      "Do vigilante que a utiliza.",
+      "Do Sinarm.",
+      "Das respectivas empresas de segurança.",
+      "Do Ministério da Defesa."
+    ],
+    "correct": 2,
+    "explanation": "Regra: As armas pertencem à empresa, não ao funcionário. Art. 7º As armas de fogo utilizadas pelos profissionais de segurança privada... serão de propriedade, responsabilidade e guarda das respectivas empresas, somente podendo ser utilizadas quando em serviço..."
+  },
+  {
+    "question": "Qual o prazo para que o responsável por empresa de segurança comunique à Polícia Federal a perda, furto ou roubo de armas sob sua guarda?",
+    "options": [
+      "Imediatamente (até 1 hora).",
+      "Nas primeiras 24 horas depois de ocorrido o fato.",
+      "Em até 48 horas úteis.",
+      "No prazo de 5 dias úteis."
+    ],
+    "correct": 1,
+    "explanation": "Regra: O prazo para comunicação de extravio é de 24 horas. Art. 7º, § 1º O proprietário ou diretor responsável de empresa de segurança privada... responderá pelo crime previsto no parágrafo único do art. 13 desta Lei... se deixar de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio... nas primeiras 24 (vinte e quatro) horas depois de ocorrido o fato."
+  },
+  {
+    "question": "No caso do Poder Judiciário e Ministério Público, qual o limite máximo de servidores que podem portar arma para funções de segurança?",
+    "options": [
+      "100% dos servidores do órgão.",
+      "Até 25% do quadro de pessoal.",
+      "Limite máximo de 50% do número de servidores que exerçam funções de segurança.",
+      "Não há limite estabelecido."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Há um limite percentual para o porte no Judiciário/MP. Art. 7º-A, § 2º O presidente do tribunal ou o chefe do Ministério Público designará os servidores... que poderão portar arma de fogo, respeitado o limite máximo de 50% (cinquenta por cento) do número de servidores que exerçam funções de segurança."
+  },
+  {
+    "question": "A quem compete autorizar o porte de arma para responsáveis pela segurança de cidadãos estrangeiros em visita ao Brasil?",
+    "options": [
+      "Comando do Exército.",
+      "Ministério das Relações Exteriores.",
+      "Ministério da Justiça.",
+      "Polícia Federal diretamente, sem anuência do Ministério."
+    ],
+    "correct": 2,
+    "explanation": "Regra: A segurança de estrangeiros é competência do Ministério da Justiça. Art. 9º Compete ao Ministério da Justiça a autorização do porte de arma para os responsáveis pela segurança de cidadãos estrangeiros em visita ou sediados no Brasil..."
+  },
+  {
+    "question": "Quem é competente para conceder o porte de trânsito de arma de fogo para colecionadores, atiradores e caçadores (CACs)?",
+    "options": [
+      "Polícia Federal.",
+      "Comando do Exército.",
+      "Secretaria de Segurança Pública Estadual.",
+      "Sinarm."
+    ],
+    "correct": 1,
+    "explanation": "Regra: CACs são regulados pelo Exército. Art. 9º ...e, ao Comando do Exército, nos termos do regulamento desta Lei, o registro e a concessão de porte de trânsito de arma de fogo para colecionadores, atiradores e caçadores..."
+  },
+  {
+    "question": "A autorização para o porte de arma de fogo de uso permitido, em todo o território nacional, é de competência de qual órgão?",
+    "options": [
+      "Exército Brasileiro.",
+      "Polícia Federal, após autorização do Sinarm.",
+      "Polícia Civil de cada estado.",
+      "Conselho Nacional de Justiça."
+    ],
+    "correct": 1,
+    "explanation": "Regra: A PF emite o porte após o Sinarm autorizar. Art. 10. A autorização para o porte de arma de fogo de uso permitido, em todo o território nacional, é de competência da Polícia Federal e somente será concedida após autorização do Sinarm."
+  },
+  {
+    "question": "Segundo o Art. 10, § 2º, em que situação a autorização de porte de arma de fogo perde automaticamente sua eficácia?",
+    "options": [
+      "Se o portador mudar de endereço residencial.",
+      "Caso o portador seja detido em estado de embriaguez ou sob efeito de substâncias químicas.",
+      "Se o portador viajar para o exterior por mais de 30 dias.",
+      "Se a arma apresentar defeito mecânico."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Álcool e drogas anulam o porte automaticamente. Art. 10, § 2º A autorização de porte de arma de fogo, prevista neste artigo, perderá automaticamente sua eficácia caso o portador dela seja detido ou abordado em estado de embriaguez ou sob efeito de substâncias químicas ou alucinógenas."
+  },
+  {
+    "question": "Quais grupos são isentos do pagamento das taxas de registro e porte previstas no Art. 11?",
+    "options": [
+      "Apenas os integrantes das Forças Armadas.",
+      "As pessoas e instituições referidas nos incisos I a VII, X e o § 5º do art. 6º.",
+      "Empresas de segurança privada e transporte de valores.",
+      "Colecionadores e atiradores desportivos."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Agentes de segurança pública e caçadores de subsistência são isentos. Art. 11, § 2º São isentas do pagamento das taxas previstas neste artigo as pessoas e as instituições a que se referem os incisos I a VII e X e o § 5º do art. 6º desta Lei."
+  },
+  {
+    "question": "No que se refere à comprovação de capacidade técnica, qual o valor máximo que o instrutor de armamento e tiro pode cobrar, segundo o Art. 11-A?",
+    "options": [
+      "R$ 50,00, com munição incluída.",
+      "R$ 80,00, acrescido do custo da munição.",
+      "O valor é livre, conforme o mercado.",
+      "R$ 150,00, sem custo de munição."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Existe um teto legal para a cobrança da instrução técnica. Art. 11-A, § 2º Na comprovação da capacidade técnica, o valor cobrado pelo instrutor de armamento e tiro não poderá exceder R$ 80,00 (oitenta reais), acrescido do custo da munição."
+  },{
+    "question": "O Sistema Nacional de Armas (Sinarm) está instituído em qual órgão?",
+    "options": [
+      "No Ministério da Defesa, no âmbito do Exército Brasileiro.",
+      "No Ministério da Justiça, no âmbito da Polícia Federal.",
+      "Na Secretaria de Segurança Pública de cada Estado.",
+      "No Conselho Nacional de Justiça."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 1.º O Sistema Nacional de Armas – Sinarm, instituído no Ministério da Justiça, no âmbito da Polícia Federal, tem circunscrição em todo o território nacional."
+  },
+  {
+    "question": "Compete ao Sinarm, entre outras atribuições:",
+    "options": [
+      "Autorizar o porte de armas para as Forças Armadas.",
+      "Realizar o julgamento de crimes cometidos com armas de fogo.",
+      "Cadastrar as autorizações de porte de arma de fogo e as renovações expedidas pela Polícia Federal.",
+      "Legislar sobre o uso de armas de fogo no território nacional."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 2.º Ao Sinarm compete: (...) III – cadastrar as autorizações de porte de arma de fogo e as renovações expedidas pela Polícia Federal;"
+  },
+  {
+    "question": "Sobre o cadastro de armeiros, o que prevê a Lei 10.826?",
+    "options": [
+      "O Sinarm deve cadastrar os armeiros e conceder licença para a atividade.",
+      "Os armeiros são licenciados exclusivamente pelo Ministério do Trabalho.",
+      "Não há previsão de cadastro para armeiros no Sinarm.",
+      "A atividade de armeiro é proibida em território nacional."
+    ],
+    "correct": 0,
+    "explanation": "Regra: Art. 2.º Ao Sinarm compete: (...) VIII – cadastrar os armeiros em atividade no País, bem como conceder licença para exercer a atividade;"
+  },
+  {
+    "question": "As disposições do Art. 2.º da Lei 10.826 alcançam as armas das Forças Armadas?",
+    "options": [
+      "Sim, todas as armas devem ser cadastradas no Sinarm.",
+      "Sim, mas apenas as armas de uso permitido das Forças Armadas.",
+      "Não, pois estas constam de registos próprios.",
+      "Apenas se as armas forem utilizadas em operações urbanas."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 2.º Parágrafo único. As disposições deste artigo não alcançam as armas de fogo das Forças Armadas e Auxiliares, bem como as demais que constem dos seus registros próprios."
+  },
+  {
+    "question": "Onde devem ser registadas as armas de fogo de uso restrito?",
+    "options": [
+      "Na Polícia Civil.",
+      "No Comando do Exército.",
+      "Na Polícia Federal.",
+      "No Ministério da Justiça."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 3.º Parágrafo único. As armas de fogo de uso restrito serão registradas no Comando do Exército, na forma do regulamento desta Lei."
+  },
+  {
+    "question": "Para adquirir uma arma de fogo de uso permitido, o interessado deve comprovar idoneidade através de:",
+    "options": [
+      "Declaração verbal de bons antecedentes.",
+      "Certidões negativas de antecedentes criminais das Justiças Federal, Estadual, Militar e Eleitoral.",
+      "Apenas certidão da Justiça Estadual de onde reside.",
+      "Carta de recomendação de dois proprietários de armas."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 4.º I - comprovação de idoneidade, com a apresentação de certidões negativas de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar respondendo a inquérito policial ou a processo criminal, que poderão ser fornecidas por meios eletrônicos;"
+  },
+  {
+    "question": "Qual é a exigência técnica para a aquisição de arma de fogo de uso permitido?",
+    "options": [
+      "Aprovação em curso de Direito Penal.",
+      "Ter servido nas Forças Armadas por pelo menos 2 anos.",
+      "Comprovação de capacidade técnica e aptidão psicológica para o manuseio.",
+      "Não há exigência técnica, apenas o pagamento da taxa."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 4.º III – comprovação de capacidade técnica e de aptidão psicológica para o manuseio de arma de fogo, atestadas na forma disposta no regulamento desta Lei."
+  },
+  {
+    "question": "A autorização de compra de arma de fogo expedida pelo Sinarm é:",
+    "options": [
+      "Transferível a terceiros em caso de venda.",
+      "Válida para qualquer calibre disponível na loja.",
+      "Intransferível e vinculada à arma indicada.",
+      "Vitalícia."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 4.º § 1.º O Sinarm expedirá autorização de compra de arma de fogo após atendidos os requisitos anteriormente estabelecidos, em nome do requerente e para a arma indicada, sendo intransferível esta autorização."
+  },
+  {
+    "question": "A aquisição de munição é condicionada a quais termos?",
+    "options": [
+      "Pode ser de qualquer calibre, desde que o comprador tenha registo.",
+      "Somente no calibre correspondente à arma registrada e na quantidade regulamentada.",
+      "Apenas para armas de uso restrito.",
+      "Livre para qualquer cidadão maior de 25 anos."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 4.º § 2.º A aquisição de munição somente poderá ser feita no calibre correspondente à arma registrada e na quantidade estabelecida no regulamento desta Lei."
+  },
+  {
+    "question": "A comercialização de armas entre pessoas físicas exige:",
+    "options": [
+      "Apenas a entrega da nota fiscal original.",
+      "Comunicação posterior ao Exército.",
+      "Autorização prévia do Sinarm.",
+      "Não é permitida em nenhuma hipótese."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 4.º § 5.º A comercialização de armas de fogo, acessórios e munições entre pessoas físicas somente será efetivada mediante autorização do Sinarm."
+  },
+  {
+    "question": "Qual o prazo para a concessão ou recusa fundamentada da autorização de compra pelo Sinarm?",
+    "options": [
+      "15 dias corridos.",
+      "30 dias úteis.",
+      "60 dias úteis.",
+      "6 meses."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 4.º § 6.º A expedição da autorização a que se refere o § 1.º será concedida, ou recusada com a devida fundamentação, no prazo de 30 (trinta) dias úteis, a contar da data do requerimento do interessado."
+  },
+  {
+    "question": "O Certificado de Registro de Arma de Fogo autoriza o proprietário a:",
+    "options": [
+      "Portar a arma ostensivamente na rua.",
+      "Transportar a arma municiada em seu veículo de passeio.",
+      "Manter a arma exclusivamente no interior de sua residência ou local de trabalho (se for o titular/responsável).",
+      "Utilizar a arma em qualquer propriedade privada de amigos."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 5.º O certificado de Registro de Arma de Fogo, com validade em todo o território nacional, autoriza o seu proprietário a manter a arma de fogo exclusivamente no interior de sua residência ou domicílio, ou dependência desses, ou, ainda, no seu local de trabalho, desde que seja ele o titular ou o responsável legal pelo estabelecimento ou empresa."
+  },
+  {
+    "question": "Quem expede o Certificado de Registro de Arma de Fogo?",
+    "options": [
+      "O Ministério da Defesa.",
+      "A Polícia Federal, precedido de autorização do Sinarm.",
+      "O Governo do Estado.",
+      "A Guarda Municipal."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 5.º § 1.º O certificado de registro de arma de fogo será expedido pela Polícia Federal e será precedido de autorização do Sinarm."
+  },
+  {
+    "question": "Com que periodicidade devem ser comprovados os requisitos de idoneidade e aptidão para a renovação do certificado?",
+    "options": [
+      "Anualmente.",
+      "A cada 2 anos.",
+      "Em período não inferior a 3 anos.",
+      "Apenas uma vez, no ato da primeira compra."
+    ],
+    "correct": 2,
+    "explanation": "Regra: Art. 5.º § 2.º Os requisitos de que tratam os incisos I, II e III do art. 4.º deverão ser comprovados periodicamente, em período não inferior a 3 (três) anos, na conformidade do estabelecido no regulamento desta Lei, para a renovação do Certificado de Registro de Arma de Fogo."
+  },
+  {
+    "question": "Para residentes em área rural, o que é considerado residência ou domicílio para fins de posse de arma?",
+    "options": [
+      "Apenas a casa sede da fazenda.",
+      "Toda a extensão do respectivo imóvel rural.",
+      "Um raio de 100 metros ao redor da habitação.",
+      "Apenas o local onde as ferramentas são guardadas."
+    ],
+    "correct": 1,
+    "explanation": "Regra: Art. 5.º § 5.º Aos residentes em área rural, para os fins do disposto no caput deste artigo, considera-se residência ou domicílio toda a extensão do respectivo imóvel rural."
+  }
+],
 
 "penasRestritivas":[
   {
