@@ -22446,6 +22446,174 @@ const questions = {
   }
 ],
 
+"11404_final":[
+  {
+    "question": "De acordo com o Art. 158, a qual órgão o Conselho de Criminologia e Política Criminal é subordinado?",
+    "options": [
+      "À Secretaria de Estado da Justiça",
+      "Ao Governador do Estado",
+      "Ao Tribunal de Justiça",
+      "À Superintendência de Organização Penitenciária"
+    ],
+    "correct": 0,
+    "explanation": "Art. 158 – O Conselho de Criminologia e Política Criminal, com sede nesta Capital, é subordinado à Secretaria de Estado da Justiça."
+  },
+  {
+    "question": "Quantos membros integram o Conselho de Criminologia e Política Criminal, segundo o Art. 159?",
+    "options": [
+      "10 (dez) membros",
+      "11 (onze) membros",
+      "13 (treze) membros",
+      "15 (quinze) membros"
+    ],
+    "correct": 2,
+    "explanation": "Art. 159 – O Conselho de Criminologia e Política Criminal será integrado por 13 (treze) membros designados pelo Secretário de Estado da Justiça e escolhidos entre professores e profissionais das áreas de Direito Penal, Processual Penal e Penitenciário, de Criminologia e de Ciências Sociais, bem como entre representantes de organismos da área social."
+  },
+  {
+    "question": "Qual é a duração do mandato dos membros do Conselho de Criminologia e Política Criminal?",
+    "options": [
+      "2 (dois) anos",
+      "3 (três) anos",
+      "4 (quatro) anos",
+      "5 (cinco) anos"
+    ],
+    "correct": 2,
+    "explanation": "Art. 159, Parágrafo único – O mandato dos membros do Conselho terá duração de 4 (quatro) anos."
+  },
+  {
+    "question": "Onde se localiza o Juízo da Execução, conforme o Art. 161?",
+    "options": [
+      "Apenas na Capital do Estado",
+      "Em todas as comarcas do interior indistintamente",
+      "Na comarca da Capital e em comarca sede da região onde houver estabelecimento penitenciário",
+      "Apenas nos estabelecimentos penais de segurança máxima"
+    ],
+    "correct": 2,
+    "explanation": "Art. 161 – O Juízo da Execução, localizado na comarca da Capital e em comarca sede da região onde houver estabelecimento penitenciário, compreende o Juiz da Execução, o representante do Ministério Público, a Defensoria Pública e o Serviço Social Penitenciário."
+  },
+  {
+    "question": "O Conselho Penitenciário é definido pelo Art. 167 como:",
+    "options": [
+      "Órgão de execução e administração",
+      "Órgão consultivo e fiscalizador da execução penal",
+      "Órgão de julgamento de faltas disciplinares",
+      "Órgão de assistência social ao egresso"
+    ],
+    "correct": 1,
+    "explanation": "Art. 167 – O Conselho Penitenciário é órgão consultivo e fiscalizador da execução penal."
+  },
+  {
+    "question": "Quem é o responsável por nomear os membros do Conselho Penitenciário (Art. 168)?",
+    "options": [
+      "O Secretário de Estado da Justiça",
+      "O Juiz da Execução Penal",
+      "O Governador do Estado",
+      "O Presidente do Tribunal de Justiça"
+    ],
+    "correct": 2,
+    "explanation": "Art. 168 – O Conselho Penitenciário será integrado por membros nomeados pelo Governador do Estado e escolhidos entre profissionais, professores nas áreas de Direito Penal, Processual Penal e Penitenciário e das Ciências Sociais, bem como entre representantes da comunidade."
+  },
+  {
+    "question": "Qual o objetivo principal da Superintendência de Organização Penitenciária Estadual, segundo o Art. 170?",
+    "options": [
+      "Realizar o policiamento ostensivo nas ruas",
+      "Assegurar a aplicação da LEP, a custódia e manutenção do preso, garantindo o respeito à dignidade humana",
+      "Promover apenas a construção de novas penitenciárias",
+      "Substituir o Conselho Penitenciário em suas funções consultivas"
+    ],
+    "correct": 1,
+    "explanation": "Art. 170 – A Superintendência de Organização Penitenciária Estadual, órgão integrante da estrutura orgânica da Secretaria de Estado da Justiça, tem por objetivo assegurar a aplicação da Lei de Execução Penal, a custódia e a manutenção do sentenciado e do preso provisório, garantindo-lhes o respeito à dignidade inerente à pessoa."
+  },
+  {
+    "question": "Compete à Superintendência de Organização Penitenciária (SOP), de acordo com o Art. 171, VII:",
+    "options": [
+      "Conceder indulto natalino",
+      "Sentenciar os presos provisórios",
+      "Autorizar a internação e a desinternação nos estabelecimentos penitenciários",
+      "Nomear os juízes de execução"
+    ],
+    "correct": 2,
+    "explanation": "Art. 171, VII – À Superintendência de Organização Penitenciária incumbe: VII – autorizar a internação e a desinternação nos estabelecimentos penitenciários."
+  },
+  {
+    "question": "Uma das incumbências da SOP mencionada no Art. 171 é:",
+    "options": [
+      "Promover a pesquisa criminológica e a estatística criminal",
+      "Exercer a advocacia dativa aos presos",
+      "Presidir o Conselho da Comunidade",
+      "Fiscalizar as contas do Governador"
+    ],
+    "correct": 0,
+    "explanation": "Art. 171, IV – À Superintendência de Organização Penitenciária incumbe: IV – promover a pesquisa criminológica e a estatística criminal."
+  },
+  {
+    "question": "Como é instituído o Patronato em cada comarca (Art. 173)?",
+    "options": [
+      "Por portaria do Secretário de Justiça",
+      "Por decreto do Governador do Estado",
+      "Por decisão do Juiz da Comarca",
+      "Por lei complementar federal"
+    ],
+    "correct": 1,
+    "explanation": "Art. 173 – É instituído em cada comarca, por decreto do Governador do Estado, o Patronato, integrado pelo Juiz da Execução Penal, que o presidirá, pelo Promotor de Justiça da Execução, por representantes da administração penitenciária, da Ordem dos Advogados do Brasil – OAB -, de confissões religiosas, de clubes de serviço e de obras sociais."
+  },
+  {
+    "question": "Quem detém a presidência do Patronato, conforme disposto no Art. 173?",
+    "options": [
+      "O Promotor de Justiça da Execução",
+      "O Representante da OAB",
+      "O Juiz da Execução Penal",
+      "O Superintendente de Organização Penitenciária"
+    ],
+    "correct": 2,
+    "explanation": "Art. 173 – É instituído em cada comarca, por decreto do Governador do Estado, o Patronato, integrado pelo Juiz da Execução Penal, que o presidirá..."
+  },
+  {
+    "question": "De acordo com o Art. 175, qual é o número mínimo de componentes para a formação do Conselho da Comunidade?",
+    "options": [
+      "O artigo menciona categorias profissionais específicas como composição mínima, sem fixar um número total único de pessoas",
+      "Exatamente 5 pessoas",
+      "No mínimo 13 membros",
+      "Apenas o representante da OAB e da Associação Comercial"
+    ],
+    "correct": 0,
+    "explanation": "Art. 175 – Cada comarca disporá de um Conselho da Comunidade composto, no mínimo, por 1 (um) representante da associação comercial ou industrial, 1 (um) advogado indicado pela Ordem dos Advogados do Brasil – OAB -, 1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais e por representantes de obras sociais e de clubes de serviço."
+  },
+  {
+    "question": "Quem deve escolher o assistente social que integra o Conselho da Comunidade?",
+    "options": [
+      "O Governador do Estado",
+      "A Delegacia Seccional do Conselho Nacional de Assistentes Sociais",
+      "O Juiz da Execução",
+      "A Secretaria de Estado da Justiça"
+    ],
+    "correct": 1,
+    "explanation": "Art. 175 – [...] 1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais e por representantes de obras sociais e de clubes de serviço."
+  },
+  {
+    "question": "Segundo o Art. 171, a SOP deve elaborar projetos para qual finalidade?",
+    "options": [
+      "Reforma da Constituição Estadual",
+      "Criação de novos cargos na OAB",
+      "Construção de novos estabelecimentos previstos na lei penitenciária",
+      "Redução de penas privativas de liberdade"
+    ],
+    "correct": 2,
+    "explanation": "Art. 171, VI – À Superintendência de Organização Penitenciária incumbe: VI – elaborar projeto para a construção dos novos estabelecimentos previstos na lei penitenciária."
+  },
+  {
+    "question": "Quem designa os 13 membros do Conselho de Criminologia e Política Criminal (Art. 159)?",
+    "options": [
+      "O Governador do Estado",
+      "O Secretário de Estado da Justiça",
+      "O Presidente da Assembleia Legislativa",
+      "O Diretor da Superintendência Penitenciária"
+    ],
+    "correct": 1,
+    "explanation": "Art. 159 – O Conselho de Criminologia e Política Criminal será integrado por 13 (treze) membros designados pelo Secretário de Estado da Justiça..."
+  }
+],
+
 "desarmamento":[
   {
     "question": "De acordo com o Art. 12, qual a condição necessária para que a posse de arma de fogo no local de trabalho seja tipificada como posse irregular de arma de fogo de uso permitido?",
