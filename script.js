@@ -22448,6 +22448,192 @@ const questions = {
 
 "10826":[
   {
+    "question": "De acordo com o Art. 12, qual a condição necessária para que a posse de arma de fogo no local de trabalho seja tipificada como posse irregular de arma de fogo de uso permitido?",
+    "options": [
+      "O agente deve ser apenas funcionário do local.",
+      "O agente deve ser o titular ou o responsável legal do estabelecimento ou empresa.",
+      "A arma deve estar carregada e pronta para uso imediato.",
+      "O estabelecimento deve ser obrigatoriamente uma área rural."
+    ],
+    "correct": 1,
+    "explanation": "Art. 12. Possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa: Pena – detenção, de 1 (um) a 3 (três) anos, e multa."
+  },
+  {
+    "question": "Sobre o crime de omissão de cautela (Art. 13), qual a conduta punível?",
+    "options": [
+      "Vender arma de fogo para menores de 25 anos.",
+      "Portar arma de fogo em locais com grande aglomeração de pessoas.",
+      "Deixar de observar as cautelas necessárias para impedir que menor de 18 anos ou pessoa portadora de deficiência mental se apodere de arma de fogo.",
+      "Emprestar arma de fogo registrada para um vizinho em caso de emergência."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. Deixar de observar as cautelas necessárias para impedir que menor de 18 (dezoito) anos ou pessoa portadora de deficiência mental se apodere de arma de fogo que esteja sob sua posse ou que seja de sua propriedade: Pena – detenção, de 1 (um) a 2 (dois) anos, e multa."
+  },
+  {
+    "question": "Qual o prazo para que o proprietário de empresa de segurança comunique à Polícia Federal a perda, furto ou roubo de arma de fogo sob sua guarda, sob pena de incorrer em omissão de cautela?",
+    "options": [
+      "Imediatamente, em até 6 horas.",
+      "Nas primeiras 12 horas depois de ocorrido o fato.",
+      "Nas primeiras 24 horas depois de ocorrido o fato.",
+      "Em até 48 horas úteis."
+    ],
+    "correct": 2,
+    "explanation": "Art. 13. Parágrafo único. Nas mesmas penas incorrem o proprietário ou diretor responsável de empresa de segurança e transporte de valores que deixarem de registrar ocorrência policial e de comunicar à Polícia Federal perda, furto, roubo ou outras formas de extravio de arma de fogo, acessório ou munição que estejam sob sua guarda, nas primeiras 24 (vinte quatro) horas depois de ocorrido o fato."
+  },
+  {
+    "question": "A conduta de 'portar, deter, adquirir, fornecer ou transportar arma de fogo de uso permitido, sem autorização' configura qual crime?",
+    "options": [
+      "Posse irregular de arma de fogo de uso permitido.",
+      "Porte ilegal de arma de fogo de uso permitido.",
+      "Comércio ilegal de arma de fogo.",
+      "Tráfico internacional de arma de fogo."
+    ],
+    "correct": 1,
+    "explanation": "Art. 14. Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar: Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Segundo o Art. 15, em qual situação o disparo de arma de fogo NÃO será tipificado pelo Estatuto do Desarmamento?",
+    "options": [
+      "Se o disparo ocorrer em lugar habitado.",
+      "Se o disparo for feito em via pública.",
+      "Se a conduta tiver como finalidade a prática de outro crime.",
+      "Se a munição for de uso permitido."
+    ],
+    "correct": 2,
+    "explanation": "Art. 15. Disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime: Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa."
+  },
+  {
+    "question": "Qual a pena prevista para a posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)?",
+    "options": [
+      "Detenção, de 1 a 3 anos, e multa.",
+      "Reclusão, de 2 a 4 anos, e multa.",
+      "Reclusão, de 3 a 6 anos, e multa.",
+      "Reclusão, de 4 a 12 anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 16. Possuir, deter, portar, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar: Pena – reclusão, de 3 (três) a 6 (seis) anos, e multa."
+  },
+  {
+    "question": "Quem suprime ou altera marca ou numeração de arma de fogo incorre em qual penalidade, segundo o Art. 16, § 1º?",
+    "options": [
+      "A mesma pena do porte ilegal de arma de uso permitido.",
+      "A mesma pena da posse ou porte de arma de fogo de uso restrito.",
+      "Pena de detenção de 1 a 2 anos.",
+      "Pena aumentada em dois terços."
+    ],
+    "correct": 1,
+    "explanation": "Art. 16. § 1º Nas mesmas penas incorre quem: I – suprimir ou alterar marca, numeração ou qualquer sinal de identificação de arma de fogo ou artefato;"
+  },
+  {
+    "question": "Qual a pena se a conduta de posse ou porte ilegal envolver arma de fogo de uso proibido?",
+    "options": [
+      "Reclusão, de 3 a 6 anos, e multa.",
+      "Reclusão, de 6 a 12 anos, e multa.",
+      "Reclusão, de 4 a 12 anos, e multa.",
+      "Reclusão, de 8 a 16 anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 16. § 2º Se as condutas descritas no caput e no § 1º deste artigo envolverem arma de fogo de uso proibido, a pena é de reclusão, de 4 (quatro) a 12 (doze) anos."
+  },
+  {
+    "question": "Conforme o Art. 17, o que se equipara à atividade comercial ou industrial para fins de comércio ilegal de arma de fogo?",
+    "options": [
+      "Apenas lojas registradas em shoppings.",
+      "Qualquer forma de prestação de serviços, fabricação ou comércio irregular ou clandestino, inclusive o exercido em residência.",
+      "Somente a venda de armas para empresas de segurança.",
+      "A exportação direta de armamento pesado."
+    ],
+    "correct": 1,
+    "explanation": "Art. 17. § 1º Equipara-se à atividade comercial ou industrial, para efeito deste artigo, qualquer forma de prestação de serviços, fabricação ou comércio irregular ou clandestino, inclusive o exercido em residência."
+  },
+  {
+    "question": "Qual a pena prevista para o crime de tráfico internacional de arma de fogo (Art. 18)?",
+    "options": [
+      "Reclusão, de 4 a 8 anos, e multa.",
+      "Reclusão, de 6 a 12 anos, e multa.",
+      "Reclusão, de 8 a 16 anos, e multa.",
+      "Reclusão, de 10 a 20 anos, e multa."
+    ],
+    "correct": 2,
+    "explanation": "Art. 18. Importar, exportar, favorecer a entrada ou saída do território nacional, a qualquer título, de arma de fogo, acessório ou munição, sem autorização da autoridade competente: Pena - reclusão, de 8 (oito) a 16 (dezesseis) anos, e multa."
+  },
+  {
+    "question": "Nos crimes de comércio ilegal e tráfico internacional, em que situação a pena é aumentada da metade?",
+    "options": [
+      "Se o crime for praticado durante a noite.",
+      "Se a arma de fogo, acessório ou munição forem de uso proibido ou restrito.",
+      "Se o agente for funcionário público da administração direta.",
+      "Se envolver mais de dez armas de fogo."
+    ],
+    "correct": 1,
+    "explanation": "Art. 19. Nos crimes previstos nos arts. 17 e 18, a pena é aumentada da metade se a arma de fogo, acessório ou munição forem de uso proibido ou restrito."
+  },
+  {
+    "question": "De acordo com o Art. 20, a pena é aumentada da metade se o crime for praticado por:",
+    "options": [
+      "Integrante dos órgãos e empresas referidas nos arts. 6º, 7º e 8º desta Lei.",
+      "Agente maior de 60 anos.",
+      "Pessoa com bons antecedentes criminais.",
+      "Cidadão estrangeiro em território nacional."
+    ],
+    "correct": 0,
+    "explanation": "Art. 20. Nos crimes previstos nos arts. 14, 15, 16, 17 e 18, a pena é aumentada da metade se: I - forem praticados por integrante dos órgãos e empresas referidas nos arts. 6º, 7º e 8º desta Lei;"
+  },
+  {
+    "question": "Quais crimes do Estatuto do Desarmamento são expressamente citados no Art. 21 como insuscetíveis de liberdade provisória (embora sob ressalva de constitucionalidade)?",
+    "options": [
+      "Arts. 12, 13 e 14.",
+      "Arts. 14, 15 e 16.",
+      "Arts. 16, 17 e 18.",
+      "Apenas o Art. 18."
+    ],
+    "correct": 2,
+    "explanation": "Art. 21. Os crimes previstos nos arts. 16, 17 e 18 são insuscetíveis de liberdade provisória."
+  },
+  {
+    "question": "Segundo o Art. 23, § 1º, qual requisito é obrigatório para as munições comercializadas no Brasil?",
+    "options": [
+      "Devem ser coloridas de acordo com o calibre.",
+      "Devem estar em embalagens com sistema de código de barras gravado na caixa.",
+      "Devem conter o nome do comprador gravado no projétil.",
+      "Devem ser vendidas apenas em lotes de 100 unidades."
+    ],
+    "correct": 1,
+    "explanation": "Art. 23. § 1o Todas as munições comercializadas no País deverão estar acondicionadas em embalagens com sistema de código de barras, gravado na caixa, visando possibilitar a identificação do fabricante e do adquirente, entre outras informações definidas pelo regulamento desta Lei."
+  },
+  {
+    "question": "A quem compete autorizar e fiscalizar a produção, exportação e o comércio de armas de fogo no Brasil, conforme o Art. 24?",
+    "options": [
+      "Polícia Federal.",
+      "Ministério da Justiça.",
+      "Comando do Exército.",
+      "Polícia Civil de cada Estado."
+    ],
+    "correct": 2,
+    "explanation": "Art. 24. Excetuadas as atribuições a que se refere o art. 2º desta Lei, compete ao Comando do Exército autorizar e fiscalizar a produção, exportação, importação, desembaraço alfandegário e o comércio de armas de fogo e demais produtos controlados, inclusive o registro e o porte de trânsito de arma de fogo de colecionadores, atiradores e caçadores."
+  },
+  {
+    "question": "Qual o prazo para o juiz encaminhar as armas apreendidas ao Comando do Exército após a elaboração do laudo pericial?",
+    "options": [
+      "24 horas.",
+      "48 horas.",
+      "72 horas.",
+      "5 dias."
+    ],
+    "correct": 1,
+    "explanation": "Art. 25. As armas de fogo apreendidas, após a elaboração do laudo pericial e sua juntada aos autos, quando não mais interessarem à persecução penal serão encaminhadas pelo juiz competente ao Comando do Exército, no prazo de até 48 (quarenta e oito) horas, para destruição ou doação aos órgãos de segurança pública ou às Forças Armadas, na forma do regulamento desta Lei."
+  },
+  {
+    "question": "De acordo com o Art. 25, § 1º-A, quais armas apreendidas têm prioridade de destinação para os órgãos de segurança pública da unidade da federação responsável pela apreensão?",
+    "options": [
+      "Armas com numeração raspada.",
+      "Armas apreendidas em decorrência do tráfico de drogas ou utilizadas em atividades ilícitas de drogas.",
+      "Armas de uso permitido pertencentes a cidadãos comuns.",
+      "Armas fabricadas há mais de 20 anos."
+    ],
+    "correct": 1,
+    "explanation": "Art. 25. § 1º-A. As armas de fogo e munições apreendidas em decorrência do tráfico de drogas de abuso, ou de qualquer forma utilizadas em atividades ilícitas de produção ou comercialização de drogas abusivas, ou, ainda, que tenham sido adquiridas com recursos provenientes do tráfico de drogas de abuso, perdidas em favor da União e encaminhadas para o Comando do Exército, devem ser, após perícia ou vistoria que atestem seu bom estado, destinadas com prioridade para os órgãos de segurança pública e do sistema penitenciário da unidade da federação responsável pela apreensão."
+  },{
     "question": "De acordo com o Art. 6º da Lei 10.826/03, qual é a regra geral sobre o porte de arma de fogo em território nacional?",
     "options": [
       "É permitido a todo cidadão maior de 25 anos.",
